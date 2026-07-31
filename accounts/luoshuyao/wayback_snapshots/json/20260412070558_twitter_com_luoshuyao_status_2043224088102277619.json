@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043195440779366450",
+    "created_at": "2026-04-12T07:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043224088102277619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1122766825387745280",
+          "start": 0,
+          "username": "Cartknight1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043224088102277619",
+    "in_reply_to_user_id": "1122766825387745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043197128357585102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cartknight1 粤韵风华"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043195440779366450",
+        "created_at": "2026-04-12T07:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043224088102277619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1122766825387745280",
+              "start": 0,
+              "username": "Cartknight1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043224088102277619",
+        "in_reply_to_user_id": "1122766825387745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043197128357585102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cartknight1 粤韵风华"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122766825387745280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2043195440779366450",
+        "created_at": "2026-04-12T05:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043197128357585102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043197128357585102",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也不懂，复制AI的：\n\n这是一篇用粤语俚语和口语编成的”三字经”，模仿古代《三字经》的三字一句格式，但内容全是广东人日常生活中的俗语、吐槽和形容词，非常接地气。我逐句帮你解读：\n第一行：\n•人之初 — 借用经典开头”人之初”\n•口多多 — 话多、嘴碎\n•手指指 — 爱指指点点\n•食鸡柿（食鸡屎） — 骂人蠢/倒霉\n•识少少 — 只懂一点点\n•扮代表 — 装作很懂、代表别人发言\n第二行：\n•牙斩斩 — 嘴巴利索、爱顶嘴\n•死得惨 — 惨得很\n•得把口 — 只会说不会做\n•唔知丑 — 不知羞耻\n•听唔明 — 听不懂\n•扮纯请（扮纯情） — 装纯\n第三行：\n•吹下水 — 吹牛\n•任你嘴 — 随你怎么说\n•茄咧啡 — 跑龙套的、小角色\n•扮嘢姐（扮嘢） — 装模作样\n•样衰衰 — 长得丑/样子猥琐\n•被狗追 — 字面意思，也形容狼狈\n第四行：\n•样怪怪 — 样子奇怪\n•死的快 — 找死\n•夜麻麻 — 天很黑、深夜\n•痴胶花 — 纠缠不清\n•眼光光 — 睁着眼（睡不着）\n•等天光 — 等天亮\n第五行：\n•天光光 — 天亮了\n•俾人装 — 被人骗/被人整\n•有如果 — 如果有如果（假设）\n•冇颠婆 — 没有疯婆子\n•唔知丑 — 不知丑\n•生痘痘 — 长青春痘\n第六行：\n•颠颠地 — 疯疯癫癫\n•唔识死 — 不知死活\n•死木嘴 — 嘴笨、不会说话\n•流口水 — 流口水（馋）\n•口水多 — 话多/口水多\n•冇尿屙（冇尿揸） — 没本事\n第七行：\n•趁你病 — 趁你生病\n•攞你命 — 要你命（趁人之危）\n•细虾大 — 小的欺负大的\n•抓去卖 — 抓去卖掉\n•起大屋 — 盖大房子\n•靠表叔 — 靠亲戚关系\n第八行：\n•唔识字 — 不识字\n•扮博士 — 装学问大\n•姿姿整 — 爱臭美、爱打扮\n•有环境 — 有钱（家境好）\n•无啦啦 — 无缘无故\n•整笃疮（整箇疤） — 无端生事\n第九行：\n•揦揦脚 — 手忙脚乱\n•有人约 — 有人约\n•懒猫缠（懒嬲缠） — 懒得理你\n•扮可怜 — 装可怜\n•学猜枚 — 学划拳\n•扣表妹 — 约表妹\n第十行：\n•小小粒 — 个子小小的\n•俾人虾 — 被人欺负\n•小女子 — 小女生\n•冇口齿 — 说话不清楚/不讲道理\n•憨居居 — 傻乎乎\n•食煎堆 — 吃煎堆（广式点心）\n第十一行：\n•握握手 — 握握手\n•好朋友 — 好朋友\n•周身郁 — 全身动来动去、坐不住\n•扮忙碌 — 装忙\n•笑骑骑 — 笑嘻嘻\n•放毒蛇 — 偷懒溜号\n第十二行：\n•声大大 — 嗓门大\n•冇货卖 — 没真本事（外强中干）\n•眼大大 — 眼睛瞪大大的\n•易学坏 — 容易学坏\n•眼湿湿 — 眼眶湿润、快哭了\n•扮忧郁 — 装忧郁\n最后：\n•嘴澎澎 — 噘着嘴\n•打得少 — 挨打少了（欠揍）\n总结： 这篇”粤语三字经”其实是一串广东人日常吐槽合集，用三字一句的节奏把各种人的毛病、习惯、小动作串在一起，读起来朗朗上口，充满市井烟火气和幽默感。核心精神就是——广东人骂人都骂得很有韵律感。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043195440779366450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我也不懂，复制AI的：\n\n这是一篇用粤语俚语和口语编成的”三字经”，模仿古代《三字经》的三字一句格式，但内容全是广东人日常生活中的俗语、吐槽和形容词，非常接地气。我逐句帮你解读：\n第一行：\n•人之初 — 借用经典开头”人之初”\n•口多多 — 话多、嘴碎\n•手指指 — 爱指指点点\n•食鸡柿（食鸡屎） —"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 276,
+          "like_count": 9042,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-29T07:37:25.000Z",
+        "description": "身在火星，心系地球。晚风吹过荒原，带着忧郁的蓝调，收集日落、星尘和宇宙边缘的情绪碎片。",
+        "id": "1122766825387745280",
+        "name": "晚风有信｜Eventide",
+        "pinned_tweet_id": "2042590083111662049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041737317027868673/5zqA8iaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 893,
+          "like_count": 4760,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 2487
+        },
+        "username": "Cartknight1",
+        "verified": true
+      }
+    ]
+  }
+}

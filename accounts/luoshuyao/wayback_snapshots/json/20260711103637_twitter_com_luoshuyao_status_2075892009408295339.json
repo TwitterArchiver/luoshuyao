@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2075887842660859922",
+    "created_at": "2026-07-11T10:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075892009408295339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075892009408295339",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075887842660859922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "燃尽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2075887747378888704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8I6GAawAAJefH.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2075887842660859922",
+        "created_at": "2026-07-11T10:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075892009408295339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075892009408295339",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075887842660859922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "燃尽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075887747378888704"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075887842660859922",
+        "created_at": "2026-07-11T10:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075887842660859922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WMcNRiQPM",
+              "end": 73,
+              "expanded_url": "https://x.com/luoshuyao/status/2075887842660859922/photo/1",
+              "media_key": "3_2075887747378888704",
+              "start": 50,
+              "url": "https://t.co/2WMcNRiQPM"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2075736404458647842",
+              "start": 74,
+              "url": "https://t.co/77QXDWPEdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075887842660859922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075736404458647842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说6点下班，没一个人相信我，都说8点才能下班。毕竟平时周六都是下8点到11点。还说我有点做梦了。 https://t.co/2WMcNRiQPM https://t.co/77QXDWPEdo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 277,
+          "like_count": 19503,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 4501
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

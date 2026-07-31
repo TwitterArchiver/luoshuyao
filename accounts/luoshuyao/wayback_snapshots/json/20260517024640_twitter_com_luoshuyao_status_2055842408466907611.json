@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055479952901025847",
+    "created_at": "2026-05-17T02:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055842408466907611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823405068034744320",
+          "start": 0,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055842408466907611",
+    "in_reply_to_user_id": "1823405068034744320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055479952901025847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hown530150 我考过总分0分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 149,
+        "media_key": "3_2055479811691466752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaH_5LbUAA-4aJ.jpg",
+        "width": 592
+      },
+      {
+        "height": 207,
+        "media_key": "3_2055479899704717312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaIFBDa8AAkgr8.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055479952901025847",
+        "created_at": "2026-05-17T02:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055842408466907611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823405068034744320",
+              "start": 0,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055842408466907611",
+        "in_reply_to_user_id": "1823405068034744320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055479952901025847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hown530150 我考过总分0分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055479811691466752",
+            "3_2055479899704717312"
+          ]
+        },
+        "author_id": "1823405068034744320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2055479952901025847",
+        "created_at": "2026-05-16T02:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055479952901025847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8fl49TIfH",
+              "end": 37,
+              "expanded_url": "https://x.com/hown530150/status/2055479952901025847/photo/1",
+              "media_key": "3_2055479811691466752",
+              "start": 14,
+              "url": "https://t.co/I8fl49TIfH"
+            },
+            {
+              "display_url": "pic.x.com/I8fl49TIfH",
+              "end": 37,
+              "expanded_url": "https://x.com/hown530150/status/2055479952901025847/photo/1",
+              "media_key": "3_2055479899704717312",
+              "start": 14,
+              "url": "https://t.co/I8fl49TIfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055479952901025847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 553,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想知道一下。化学。46。 https://t.co/I8fl49TIfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 290,
+          "like_count": 15511,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "我也不太了解她",
+        "id": "1823405068034744320",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1002,
+          "like_count": 12586,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 9674
+        },
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

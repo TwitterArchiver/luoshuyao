@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2049149233954247167",
+    "created_at": "2026-04-28T15:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049149233954247167"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049149233954247167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实在2023年3月的那件事过去之后我还是没有放下助人情结。\n我在2024-2025年9月帮助了一个人，那是一个抑郁症患者同时还有视力障碍。真的是一段很长很长的路，我现在已经没有精力做这样的事情了。为此我付出了所有的时间和精力，以及上万块钱，具体多少我没有算过。即使最后我什么都没有得到。那个人最后还说一定要还我钱并以此为人生目标，我是并不在意的，他执意要还，考虑到他的自尊心我也就同意了，不过到现在没有一点消息，我也一直没有主动联系他。\n还有去年被陌生人骗了两千多块钱，还是被骗两次。我都不好意思跟任何人说，真的太蠢了。随便卖卖惨求求情就这样心甘情愿的把钱掏出来。说不心疼是假的，那都是我辛苦工作得来的……但是更多的是难过自己的善心就这样被人利用了。真的好蠢。\n从此以后我都不想攒钱了，我也有想要的东西，但是每次攒到钱没多久就没了，不是被借走就是没有花在自己身上。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实在2023年3月的那件事过去之后我还是没有放下助人情结。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2049149233954247167",
+        "created_at": "2026-04-28T15:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049149233954247167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049149233954247167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实在2023年3月的那件事过去之后我还是没有放下助人情结。\n我在2024-2025年9月帮助了一个人，那是一个抑郁症患者同时还有视力障碍。真的是一段很长很长的路，我现在已经没有精力做这样的事情了。为此我付出了所有的时间和精力，以及上万块钱，具体多少我没有算过。即使最后我什么都没有得到。那个人最后还说一定要还我钱并以此为人生目标，我是并不在意的，他执意要还，考虑到他的自尊心我也就同意了，不过到现在没有一点消息，我也一直没有主动联系他。\n还有去年被陌生人骗了两千多块钱，还是被骗两次。我都不好意思跟任何人说，真的太蠢了。随便卖卖惨求求情就这样心甘情愿的把钱掏出来。说不心疼是假的，那都是我辛苦工作得来的……但是更多的是难过自己的善心就这样被人利用了。真的好蠢。\n从此以后我都不想攒钱了，我也有想要的东西，但是每次攒到钱没多久就没了，不是被借走就是没有花在自己身上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实在2023年3月的那件事过去之后我还是没有放下助人情结。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 283,
+          "like_count": 12008,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 2684
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

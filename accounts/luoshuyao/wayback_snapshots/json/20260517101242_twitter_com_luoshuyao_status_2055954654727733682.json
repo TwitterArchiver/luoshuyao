@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055950144819052744",
+    "created_at": "2026-05-17T10:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055954654727733682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055954654727733682",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055950144819052744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo 高考加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 547,
+        "media_key": "3_2055950142831038464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgzwxNbkAAa9-h.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055950144819052744",
+        "created_at": "2026-05-17T10:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055954654727733682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055954654727733682",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055950144819052744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo 高考加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055950142831038464"
+          ]
+        },
+        "author_id": "1688101533198475264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055950144819052744",
+        "created_at": "2026-05-17T09:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055950144819052744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDRb68UASY",
+              "end": 32,
+              "expanded_url": "https://x.com/Chise_wo/status/2055950144819052744/photo/1",
+              "media_key": "3_2055950142831038464",
+              "start": 9,
+              "url": "https://t.co/LDRb68UASY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055950144819052744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近淡推，望周知 https://t.co/LDRb68UASY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 290,
+          "like_count": 15655,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 啊呜喵~~~❤️ | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fxiqE"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "Address",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1426,
+          "like_count": 30404,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 7456
+        },
+        "url": "https://t.co/yj1O6fxiqE",
+        "username": "Chise_wo",
+        "verified": false
+      }
+    ]
+  }
+}

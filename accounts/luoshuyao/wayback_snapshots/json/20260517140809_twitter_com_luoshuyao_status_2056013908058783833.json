@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055905417180364880",
+    "created_at": "2026-05-17T14:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056013908058783833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "_ciweiqwq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056013908058783833",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055905417180364880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ciweiqwq_ 生日快乐🎂🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055905412797321216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgLFI2WUAAUzC7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055905417180364880",
+        "created_at": "2026-05-17T14:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056013908058783833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "_ciweiqwq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056013908058783833",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055905417180364880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ciweiqwq_ 生日快乐🎂🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055905412797321216"
+          ]
+        },
+        "author_id": "1531432040909918209",
+        "conversation_id": "2055905417180364880",
+        "created_at": "2026-05-17T06:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055905417180364880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWBQgWoCzl",
+              "end": 40,
+              "expanded_url": "https://x.com/_ciweiqwq_/status/2055905417180364880/photo/1",
+              "media_key": "3_2055905412797321216",
+              "start": 17,
+              "url": "https://t.co/xWBQgWoCzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055905417180364880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1648,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生日了好耶咱第一次在推上戳气球呢 https://t.co/xWBQgWoCzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 292,
+          "like_count": 15789,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 3406
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09/男/双 这个是发泄情绪的号：@suzume_FANqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "suzume_FANqwq"
+              }
+            ]
+          }
+        },
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047713615419932673/rglwu7N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 515,
+          "like_count": 23797,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1309
+        },
+        "username": "_ciweiqwq_",
+        "verified": true
+      }
+    ]
+  }
+}

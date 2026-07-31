@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2044594413180260797",
+    "created_at": "2026-04-16T05:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044654144766775306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979068278673981440",
+          "start": 0,
+          "username": "orange219695619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044654144766775306",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044594413180260797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange219695619 不光是中推圈，甚至可以说是生物圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2044594413180260797",
+        "created_at": "2026-04-16T05:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044654144766775306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044654144766775306",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044594413180260797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 不光是中推圈，甚至可以说是生物圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2044594413180260797",
+        "created_at": "2026-04-16T01:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044594413180260797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Misaki11137/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Misaki11137/status/2044071410835042690",
+              "start": 16,
+              "url": "https://t.co/e1VNTRw5J7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044594413180260797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044071410835042690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不光是药圈，甚至可以说是中推圈 https://t.co/e1VNTRw5J7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 278,
+          "like_count": 9621,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 76,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1077
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

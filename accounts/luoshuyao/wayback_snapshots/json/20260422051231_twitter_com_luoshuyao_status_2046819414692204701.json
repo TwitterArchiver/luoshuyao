@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2046742990753001614",
+    "created_at": "2026-04-22T05:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046819414692204701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046819414692204701",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046742990753001614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 很美好的心愿啊，一定会实现的！🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2046742990753001614",
+        "created_at": "2026-04-22T05:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046819414692204701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046819414692204701",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046742990753001614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 很美好的心愿啊，一定会实现的！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011405521245634560",
+        "conversation_id": "2046742990753001614",
+        "created_at": "2026-04-22T00:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046742990753001614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046742990753001614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想养猫，猫猫好可爱！！！猫🤤🤤🤤，我想好好活着！然后活的很好，然后还有能力能带猫猫治病，还有闲下来的时间养猫猫，\n陪猫猫，把猫猫养的好好滴，每天给他吃三文鱼🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 280,
+          "like_count": 10784,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜我的朋友都叫我 “十三” “哈基雪” “柑橘” | 16*cm 4*kg ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "清流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 127,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1140
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

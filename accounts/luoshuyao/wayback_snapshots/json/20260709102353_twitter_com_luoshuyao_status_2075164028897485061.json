@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2075163549262111209",
+    "created_at": "2026-07-09T10:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075164028897485061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1306129238827778048",
+          "start": 0,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075164028897485061",
+    "in_reply_to_user_id": "1306129238827778048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075163549262111209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinonCC 我大学也不少😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2075163503099609088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx2Nh0bgAALSYK.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2075163549262111209",
+        "created_at": "2026-07-09T10:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075164028897485061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1306129238827778048",
+              "start": 0,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075164028897485061",
+        "in_reply_to_user_id": "1306129238827778048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075163549262111209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinonCC 我大学也不少😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075163503099609088"
+          ]
+        },
+        "author_id": "1306129238827778048",
+        "conversation_id": "2075163549262111209",
+        "created_at": "2026-07-09T10:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075163549262111209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9ahoevREg",
+              "end": 30,
+              "expanded_url": "https://x.com/YukinonCC/status/2075163549262111209/photo/1",
+              "media_key": "3_2075163503099609088",
+              "start": 7,
+              "url": "https://t.co/m9ahoevREg"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2075162262990692468",
+              "start": 31,
+              "url": "https://t.co/2kmVoVoYKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075163549262111209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075162262990692468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的大学生活 https://t.co/m9ahoevREg https://t.co/2kmVoVoYKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 274,
+          "like_count": 19339,
+          "listed_count": 2,
+          "media_count": 444,
+          "tweet_count": 4446
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜Ask me anonymously : https://t.co/jmSdkECPE6｜Personal site : https://t.co/YBAOgiCM9e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 65,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "yukinon.cc",
+                "end": 128,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 105,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukinon.cc",
+                "end": 23,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 0,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2070333005898637336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 687,
+          "like_count": 15705,
+          "listed_count": 0,
+          "media_count": 634,
+          "tweet_count": 4245
+        },
+        "url": "https://t.co/YBAOgiCM9e",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

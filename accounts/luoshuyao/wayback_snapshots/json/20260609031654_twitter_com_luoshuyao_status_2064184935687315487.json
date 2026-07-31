@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2064163259528474687",
+    "created_at": "2026-06-09T03:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064184935687315487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929142623769378816",
+          "start": 0,
+          "username": "JayGreen5638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064184935687315487",
+    "in_reply_to_user_id": "1929142623769378816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064165003834601725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayGreen5638 我这里有的，相比之下我简直像个小孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2064163259528474687",
+        "created_at": "2026-06-09T03:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064184935687315487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929142623769378816",
+              "start": 0,
+              "username": "JayGreen5638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064184935687315487",
+        "in_reply_to_user_id": "1929142623769378816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064165003834601725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayGreen5638 我这里有的，相比之下我简直像个小孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929142623769378816",
+        "conversation_id": "2064163259528474687",
+        "created_at": "2026-06-09T01:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064165003834601725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064165003834601725",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064163259528474687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 没几个人上班可以保持脾气好吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 288,
+          "like_count": 17549,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 3773
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T11:47:08.000Z",
+        "description": "男的/ 伪君子，26年过得健康点了",
+        "id": "1929142623769378816",
+        "name": "阿库娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997684219359985665/6L3YnsJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 62,
+          "like_count": 2162,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2903
+        },
+        "username": "JayGreen5638",
+        "verified": false
+      }
+    ]
+  }
+}

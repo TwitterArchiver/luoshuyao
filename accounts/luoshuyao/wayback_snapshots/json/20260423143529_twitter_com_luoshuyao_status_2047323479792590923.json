@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2047263781890482557",
+    "created_at": "2026-04-23T14:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047323479792590923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047323479792590923",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047322656203063788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric 她说打算下个月换一个新设备再注册。她现在一注册账号就会被封，应该是会被检测出新账号和被封的号是同一个。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2047263781890482557",
+        "created_at": "2026-04-23T14:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047323479792590923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047323479792590923",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047322656203063788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric 她说打算下个月换一个新设备再注册。她现在一注册账号就会被封，应该是会被检测出新账号和被封的号是同一个。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2047263781890482557",
+        "created_at": "2026-04-23T14:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047322656203063788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047322656203063788",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047278728691282192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 当她有新帐户时请告诉我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 279,
+          "like_count": 10966,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "艺术家 . 非典型. 不稳定  。宅男。我既不是天使也不是恶魔。我的脚没有踩在地上。我很轻。经常有人告诉我，我是纯洁的。我温柔又善良。我希望你能以善意接纳真实的我。adhd, asd, ocd, ptsd, aroace。感官过度敏感，我无法忍受暴力。我痛恨战争和政治. 我厌恶性与爱情。我与你分享我的情绪状态。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@joyspirit",
+                "end": 23,
+                "expanded_url": "https://suno.com/@joyspirit",
+                "start": 0,
+                "url": "https://t.co/OARyaBVIBT"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2046979926708924699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022969419874385920/1b3_2jzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 142,
+          "like_count": 13081,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3567
+        },
+        "url": "https://t.co/OARyaBVIBT",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

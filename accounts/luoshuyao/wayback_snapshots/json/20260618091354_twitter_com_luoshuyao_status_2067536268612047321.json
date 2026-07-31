@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2067516512265748748",
+    "created_at": "2026-06-18T09:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067536268612047321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823405068034744320",
+          "start": 0,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067536268612047321",
+    "in_reply_to_user_id": "1823405068034744320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067516512265748748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hown530150 找到同类了在里面团建呢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2067516480871428096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFLSQGbcAAIUnE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2067516512265748748",
+        "created_at": "2026-06-18T09:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067536268612047321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823405068034744320",
+              "start": 0,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067536268612047321",
+        "in_reply_to_user_id": "1823405068034744320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067516512265748748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hown530150 找到同类了在里面团建呢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067516480871428096"
+          ]
+        },
+        "author_id": "1823405068034744320",
+        "conversation_id": "2067516512265748748",
+        "created_at": "2026-06-18T07:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067516512265748748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dc0XFCgJjA",
+              "end": 60,
+              "expanded_url": "https://x.com/hown530150/status/2067516512265748748/photo/1",
+              "media_key": "3_2067516480871428096",
+              "start": 37,
+              "url": "https://t.co/dc0XFCgJjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067516512265748748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我问一下为什么这样对我。刚刚为什么又刷新出几个人机给我评论。一百多评论。 https://t.co/dc0XFCgJjA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 287,
+          "like_count": 18300,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3998
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "我也不太了解她",
+        "id": "1823405068034744320",
+        "location": "188cm",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 991,
+          "like_count": 13862,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 10648
+        },
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043641227896410394",
+    "created_at": "2026-04-13T14:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043700912330543472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1072837502732566529",
+          "start": 0,
+          "username": "LingTingHH40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043700912330543472",
+    "in_reply_to_user_id": "1072837502732566529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043653755686846666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingTingHH40 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043641227896410394",
+        "created_at": "2026-04-13T14:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043700912330543472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1072837502732566529",
+              "start": 0,
+              "username": "LingTingHH40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043700912330543472",
+        "in_reply_to_user_id": "1072837502732566529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043653755686846666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingTingHH40 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072837502732566529",
+        "conversation_id": "2043641227896410394",
+        "created_at": "2026-04-13T11:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043653755686846666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043653755686846666",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043641227896410394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 讨厌全宇宙😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 276,
+          "like_count": 9300,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2018
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-12T12:56:07.000Z",
+        "description": "二次元 | DYOR | 偶尔发疯 | 人生百态 | 走过路过别忘fo一下喵～ | 匿名信箱：https://t.co/jYD9gxRg1A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingtinghh40",
+                "end": 70,
+                "expanded_url": "https://ngl.link/lingtinghh40",
+                "start": 47,
+                "url": "https://t.co/jYD9gxRg1A"
+              }
+            ]
+          }
+        },
+        "id": "1072837502732566529",
+        "name": "りん",
+        "pinned_tweet_id": "2043693516153573743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037741304873201664/niyrY4gT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6361,
+          "following_count": 3595,
+          "like_count": 778,
+          "listed_count": 5,
+          "media_count": 297,
+          "tweet_count": 1696
+        },
+        "username": "LingTingHH40",
+        "verified": true
+      }
+    ]
+  }
+}

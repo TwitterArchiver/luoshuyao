@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2068328591490715813",
+    "created_at": "2026-06-20T14:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068336226109927459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068336226109927459",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068328591490715813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 她转身就走了，像是下定了什么决心。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16493,
+        "height": 888,
+        "media_key": "13_2068328510653947904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068328510653947904/img/95-itOQIPbOBBkgX.jpg",
+        "public_metrics": {
+          "view_count": 181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068328510653947904/vid/avc1/778x360/qJMYaw8zl78CSyC8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068328510653947904/pl/_AataxxsGI4XI2gx.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068328510653947904/vid/avc1/582x270/aOIQweqNh355YbAU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068328510653947904/vid/avc1/1920x888/9ehqbamYhuU2YWH_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068328510653947904/vid/avc1/1556x720/r4C7jXHPk2_SV2pk.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2068328591490715813",
+        "created_at": "2026-06-20T14:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068336226109927459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336226109927459",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068328591490715813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 她转身就走了，像是下定了什么决心。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068328510653947904"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2068328591490715813",
+        "created_at": "2026-06-20T13:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068328591490715813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFAOTLI4RB",
+              "end": 60,
+              "expanded_url": "https://x.com/liujiayi1111/status/2068328591490715813/video/1",
+              "media_key": "13_2068328510653947904",
+              "start": 37,
+              "url": "https://t.co/YFAOTLI4RB"
+            },
+            {
+              "display_url": "x.com/liujiayi1111/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/liujiayi1111/status/2068325681814032696",
+              "start": 61,
+              "url": "https://t.co/hWrzgDBPkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068328591490715813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068325681814032696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给你们看一下，我男朋友给我发的视频，她的老婆离家出走了哈哈哈，我要笑疯了 https://t.co/YFAOTLI4RB https://t.co/hWrzgDBPkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 286,
+          "like_count": 18476,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 4057
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYIHJ7"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9032,
+          "following_count": 96,
+          "like_count": 9864,
+          "listed_count": 23,
+          "media_count": 237,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/MsaRlYIHJ7",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

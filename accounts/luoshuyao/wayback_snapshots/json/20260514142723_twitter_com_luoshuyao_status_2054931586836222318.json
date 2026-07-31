@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2054915774603829597",
+    "created_at": "2026-05-14T14:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054931586836222318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824676724388347904",
+          "start": 0,
+          "username": "JiaoOu84375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054931586836222318",
+    "in_reply_to_user_id": "1824676724388347904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054931343918928355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaoOu84375 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2054915774603829597",
+        "created_at": "2026-05-14T14:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054931586836222318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824676724388347904",
+              "start": 0,
+              "username": "JiaoOu84375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054931586836222318",
+        "in_reply_to_user_id": "1824676724388347904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054931343918928355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaoOu84375 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824676724388347904",
+        "conversation_id": "2054915774603829597",
+        "created_at": "2026-05-14T14:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054931343918928355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1639578861599088640",
+              "start": 0,
+              "username": "yanguolius48207"
+            },
+            {
+              "end": 27,
+              "id": "1476546742577504265",
+              "start": 17,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054931343918928355",
+        "in_reply_to_user_id": "1639578861599088640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054925354016645472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanguolius48207 @luoshuyao 坏了我被开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 289,
+          "like_count": 14942,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 3312
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:16:52.000Z",
+        "description": "这里什么也没有哦",
+        "id": "1824676724388347904",
+        "location": "中国 ",
+        "name": "蓝莓拿铁三勺糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042937433583718400/INgItlnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 626
+        },
+        "username": "JiaoOu84375",
+        "verified": false
+      }
+    ]
+  }
+}

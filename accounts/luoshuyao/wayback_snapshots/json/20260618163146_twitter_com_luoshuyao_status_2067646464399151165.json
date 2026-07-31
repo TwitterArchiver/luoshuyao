@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2067630398205739469",
+    "created_at": "2026-06-18T16:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067646464399151165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1186324831492423681",
+          "start": 0,
+          "username": "kelaier7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067646464399151165",
+    "in_reply_to_user_id": "1186324831492423681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067644383437140010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kelaier7 谢谢你，不过因为工作原因还是不太方便戴手套，不太好干活。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067644375640018944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG_mtPbkAA1lIe.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2067630398205739469",
+        "created_at": "2026-06-18T16:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067646464399151165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1186324831492423681",
+              "start": 0,
+              "username": "kelaier7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067646464399151165",
+        "in_reply_to_user_id": "1186324831492423681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067644383437140010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kelaier7 谢谢你，不过因为工作原因还是不太方便戴手套，不太好干活。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067644375640018944"
+          ]
+        },
+        "author_id": "1186324831492423681",
+        "conversation_id": "2067630398205739469",
+        "created_at": "2026-06-18T16:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067644383437140010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/674WV7F8EH",
+              "end": 76,
+              "expanded_url": "https://x.com/kelaier7/status/2067644383437140010/photo/1",
+              "media_key": "3_2067644375640018944",
+              "start": 53,
+              "url": "https://t.co/674WV7F8EH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067644383437140010",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067630398205739469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 长时间带的话带买蓝色的\n偶尔带的话买cpe的不沾手好穿脱\n以上两款手感触感都很不错 https://t.co/674WV7F8EH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 287,
+          "like_count": 18352,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 4017
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-21T16:54:40.000Z",
+        "description": "我好像什么都不缺，又好像什么也没有",
+        "id": "1186324831492423681",
+        "location": "浙江",
+        "name": "kelaier",
+        "pinned_tweet_id": "2034742037640356123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060856110907797504/HaQV9Enn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 304,
+          "like_count": 6471,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "kelaier7",
+        "verified": false
+      }
+    ]
+  }
+}

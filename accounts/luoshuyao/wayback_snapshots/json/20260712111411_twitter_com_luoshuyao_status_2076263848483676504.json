@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2076262631552569820",
+    "created_at": "2026-07-12T11:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076263848483676504"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076263848483676504",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "就拿原神来举例，五年前的时候我就知道这个游戏路人缘特别差了。再早一点的时间我只是单纯在玩游戏，完全不知道有任何关于这个游戏的节奏。还是和一个朋友讨论起游戏的时候才知道她讨厌米哈游，她说她刷到的帖子全是米哈游各种各样的抄袭，那个时候我才知道网上一直有人在带这种节奏。不过她说她只是讨厌这些游戏，跟我本人无关。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076262631552569820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就拿原神来举例，五年前的时候我就知道这个游戏路人缘特别差了。再早一点的时间我只是单纯在玩游戏，完全不知道有任何关于这个游戏的节奏。还是和一个朋友讨论起游戏的时候才知道她讨厌米哈游，她说她刷到的帖子全是米哈游各种各样的抄袭，那个时候我才知道网上一直有人在带这种节奏。不过她说她只是讨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2076262631552569820",
+        "created_at": "2026-07-12T11:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076263848483676504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076263848483676504",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就拿原神来举例，五年前的时候我就知道这个游戏路人缘特别差了。再早一点的时间我只是单纯在玩游戏，完全不知道有任何关于这个游戏的节奏。还是和一个朋友讨论起游戏的时候才知道她讨厌米哈游，她说她刷到的帖子全是米哈游各种各样的抄袭，那个时候我才知道网上一直有人在带这种节奏。不过她说她只是讨厌这些游戏，跟我本人无关。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076262631552569820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就拿原神来举例，五年前的时候我就知道这个游戏路人缘特别差了。再早一点的时间我只是单纯在玩游戏，完全不知道有任何关于这个游戏的节奏。还是和一个朋友讨论起游戏的时候才知道她讨厌米哈游，她说她刷到的帖子全是米哈游各种各样的抄袭，那个时候我才知道网上一直有人在带这种节奏。不过她说她只是讨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2076262631552569820",
+        "created_at": "2026-07-12T11:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076262631552569820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076262631552569820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对那些搞游戏歧视的人真的很难理解。虽然我在现实和网络里从来都没有遇到过因为我玩某个游戏而讨厌我的，但是却在网上其他人那里看过不少只因玩XX游戏而对别人产生偏见的情况。还看到过很多以偏概全的发言，比如“原来是XX玩家啊，这下破案了”“玩XX玩的”“XX玩家都是这样的”……神人之所以是神人，是因为他本身就是神人，不是因为他玩了某个游戏而变成了神人，也不是只有神人才会选择这个游戏。这种把个人行为和游戏本身绑定的言论，完全是没有任何思考的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对那些搞游戏歧视的人真的很难理解。虽然我在现实和网络里从来都没有遇到过因为我玩某个游戏而讨厌我的，但是却在网上其他人那里看过不少只因玩XX游戏而对别人产生偏见的情况。还看到过很多以偏概全的发言，比如“原来是XX玩家啊，这下破案了”“玩XX玩的”“XX玩家都是这样的”……神人之所以是神人，是因为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 280,
+          "like_count": 19550,
+          "listed_count": 2,
+          "media_count": 464,
+          "tweet_count": 4524
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

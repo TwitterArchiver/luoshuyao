@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053480424295497757",
+    "created_at": "2026-05-10T14:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053483004232962145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907646836111978498",
+          "start": 0,
+          "username": "z_cloud61300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053483004232962145",
+    "in_reply_to_user_id": "1907646836111978498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053482636174376976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z_cloud61300 刚下班🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053480424295497757",
+        "created_at": "2026-05-10T14:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053483004232962145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907646836111978498",
+              "start": 0,
+              "username": "z_cloud61300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053483004232962145",
+        "in_reply_to_user_id": "1907646836111978498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053482636174376976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z_cloud61300 刚下班🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907646836111978498",
+        "conversation_id": "2053480424295497757",
+        "created_at": "2026-05-10T14:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053482636174376976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053482636174376976",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053480424295497757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 睡！快睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 287,
+          "like_count": 13654,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 3086
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T04:10:32.000Z",
+        "description": "我希望你不要死！我希望大家都不要死！我最喜欢《Jose与虎与鱼们》啦！（是日版真人电影哦ദ്ദി)✧）我们可以一起去看这部电影吗？可以吧！要好好地等我哦！（哎呀，这部电影好悲伤，不如我们无所事事地聊上一整天呢！）",
+        "id": "1907646836111978498",
+        "name": "cloud z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998334221237325824/g8PZjcvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 129,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1297
+        },
+        "username": "z_cloud61300",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2040823044009295882",
+    "created_at": "2026-04-05T16:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040826275183607918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829436939826774016",
+          "start": 0,
+          "username": "dachuan_CN5622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040826275183607918",
+    "in_reply_to_user_id": "1829436939826774016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040824149149704206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachuan_CN5622 习惯了，不辛苦😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2040823044009295882",
+        "created_at": "2026-04-05T16:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040826275183607918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829436939826774016",
+              "start": 0,
+              "username": "dachuan_CN5622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040826275183607918",
+        "in_reply_to_user_id": "1829436939826774016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040824149149704206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachuan_CN5622 习惯了，不辛苦😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829436939826774016",
+        "conversation_id": "2040823044009295882",
+        "created_at": "2026-04-05T16:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040824149149704206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040824149149704206",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040823044009295882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 抱抱，辛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 278,
+          "like_count": 8056,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T08:32:32.000Z",
+        "description": "中/日/英综合大号: @dachuan_DC \n喜欢数码📱/怀旧📟，喜欢玩气球🎈～\n我不一定每天上推，请留意；只发日常、玩气球、数码、怀旧等内容；喜欢涩涩但是不发涩涩，不键政，对我友好的人都会对你友好，如有无言follow请见谅。\n在我这打广告的先过191.9以上🚪，不然拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "dachuan_DC"
+              }
+            ]
+          }
+        },
+        "id": "1829436939826774016",
+        "location": "🚪11.4/51.4/191.9/810 互粉/友好者免费",
+        "name": "Dachuan (aka. 大川)🎈📱📟",
+        "pinned_tweet_id": "2034242904101966165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829437032466386944/tDzx14ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 265,
+          "like_count": 2448,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 1129
+        },
+        "username": "dachuan_CN5622",
+        "verified": false
+      }
+    ]
+  }
+}

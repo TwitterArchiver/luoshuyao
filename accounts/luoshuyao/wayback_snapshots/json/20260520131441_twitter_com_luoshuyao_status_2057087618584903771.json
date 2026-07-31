@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2056955204499836936",
+    "created_at": "2026-05-20T13:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057087618584903771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055438029230309376",
+          "start": 0,
+          "username": "KoalaEngine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057087618584903771",
+    "in_reply_to_user_id": "2055438029230309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056955204499836936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoalaEngine 这是你开了蓝V之后msk给你的奖励"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2056955204499836936",
+        "created_at": "2026-05-20T13:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057087618584903771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055438029230309376",
+              "start": 0,
+              "username": "KoalaEngine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057087618584903771",
+        "in_reply_to_user_id": "2055438029230309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056955204499836936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoalaEngine 这是你开了蓝V之后msk给你的奖励"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055438029230309376",
+        "conversation_id": "2056955204499836936",
+        "created_at": "2026-05-20T04:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056955204499836936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056955204499836936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "timeline上那些搞互关的怎么那么烦啊\n\n刷到这些内容感觉好浪费时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 290,
+          "like_count": 16631,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T00:02:53.000Z",
+        "description": "Shanghai｜Tech & Bio｜05.26｜sister @ElysiumFengxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dash.metc.uk",
+                "start": 0,
+                "url": "https://t.co/5p4uMPYkFD"
+              }
+            ]
+          }
+        },
+        "id": "2055438029230309376",
+        "location": "127.0.0.1",
+        "name": "Muromi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055443806183637104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055438942917533696/2yqlBVww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 32,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/5p4uMPYkFD",
+        "username": "KoalaEngine",
+        "verified": true
+      }
+    ]
+  }
+}

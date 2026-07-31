@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048633068148449526",
+    "created_at": "2026-04-27T10:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048712637362704545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1486975640628723718",
+          "start": 0,
+          "username": "keai58752488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048712637362704545",
+    "in_reply_to_user_id": "1486975640628723718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048635787714183459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keai58752488 真好，我都是玩单机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048633068148449526",
+        "created_at": "2026-04-27T10:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048712637362704545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1486975640628723718",
+              "start": 0,
+              "username": "keai58752488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048712637362704545",
+        "in_reply_to_user_id": "1486975640628723718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048635787714183459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keai58752488 真好，我都是玩单机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486975640628723718",
+        "conversation_id": "2048633068148449526",
+        "created_at": "2026-04-27T05:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048635787714183459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048635787714183459",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048633068148449526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 好像只有2077我没有了，家庭库的bro们太有钱了还是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 282,
+          "like_count": 11622,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T08:13:24.000Z",
+        "description": "某不知名大学学生，化工流体机械专业在读，天蝎座♏ENTP，可以称呼我小红（我最喜欢的称呼！😘）常驻北京，有机会的话我会承担所有饭菜的烹饪🍲！喜欢的发点游戏🎮日常，欢迎和我一起玩🥺🥺🥺！竞技类游戏也玩一点不过打的很烂……😥，动漫只喜欢看轻百日常，希望和很多人成为朋友！欢迎互fo🥳！看到我都会回的喵！😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keai87621",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keai87621",
+                "start": 0,
+                "url": "https://t.co/Ci4TMeuezM"
+              }
+            ]
+          }
+        },
+        "id": "1486975640628723718",
+        "location": "我的小棺材",
+        "name": "店员",
+        "pinned_tweet_id": "2034236766991859879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039660133039620096/uQy2fFRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 507,
+          "like_count": 8080,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/Ci4TMeuezM",
+        "username": "keai58752488",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2037155041040359780",
+    "created_at": "2026-03-26T13:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037161006645076209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992703228291563520",
+          "start": 0,
+          "username": "Jerryxuj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037161006645076209",
+    "in_reply_to_user_id": "1992703228291563520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037160614137643426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerryxuj0 那肯定，这种消息我都懒得搭理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2037155041040359780",
+        "created_at": "2026-03-26T13:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037161006645076209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992703228291563520",
+              "start": 0,
+              "username": "Jerryxuj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037161006645076209",
+        "in_reply_to_user_id": "1992703228291563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037160614137643426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerryxuj0 那肯定，这种消息我都懒得搭理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992703228291563520",
+        "conversation_id": "2037155041040359780",
+        "created_at": "2026-03-26T13:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037160614137643426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037160614137643426",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037155041040359780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 诈骗犯发的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 274,
+          "like_count": 6034,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1207
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-23T21:15:19.000Z",
+        "description": "",
+        "id": "1992703228291563520",
+        "name": "Jerry",
+        "pinned_tweet_id": "2035451367410516330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992703875703345153/1rx0kJbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 382,
+          "like_count": 942,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1986
+        },
+        "username": "Jerryxuj0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2051674869415465409",
+    "created_at": "2026-05-05T15:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051678662702096466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2032887113784635393",
+          "start": 0,
+          "username": "doroii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051678662702096466",
+    "in_reply_to_user_id": "2032887113784635393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051678107560780091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doroii_ 我大学上网课的时候也是这样🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2051674869415465409",
+        "created_at": "2026-05-05T15:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051678662702096466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2032887113784635393",
+              "start": 0,
+              "username": "doroii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051678662702096466",
+        "in_reply_to_user_id": "2032887113784635393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051678107560780091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doroii_ 我大学上网课的时候也是这样🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032887113784635393",
+        "conversation_id": "2051674869415465409",
+        "created_at": "2026-05-05T14:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051678107560780091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051678107560780091",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051676207062864340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我20年那会在大学，上网课完全在静音睡觉😪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 285,
+          "like_count": 13091,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2929
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T18:31:20.000Z",
+        "description": "男女混血 | 全栈工程师 | Go · C++ · Python · Java | React · Vue · Node.js | CV & SLAM",
+        "id": "2032887113784635393",
+        "name": "小鼠",
+        "pinned_tweet_id": "2035011492832321795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049907430440767488/1Gz4kxKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 266,
+          "like_count": 3488,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2938
+        },
+        "username": "doroii_",
+        "verified": true
+      }
+    ]
+  }
+}

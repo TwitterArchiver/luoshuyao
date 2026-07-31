@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2026742124633362620",
+    "created_at": "2026-02-25T19:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T20:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026743277106639326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026743277106639326",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026742124633362620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 我这边不能直接帮你买药哦～\n你可以告诉我：\n \n- 哪里不舒服\n- 想要什么类型的药\n \n我可以帮你说明症状、推荐对应药品类别，你再去附近药店/线上买药平台购买就很方便啦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2026742124633362620",
+        "created_at": "2026-02-25T19:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026743277106639326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026743277106639326",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026742124633362620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 我这边不能直接帮你买药哦～\n你可以告诉我：\n \n- 哪里不舒服\n- 想要什么类型的药\n \n我可以帮你说明症状、推荐对应药品类别，你再去附近药店/线上买药平台购买就很方便啦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2026742124633362620",
+        "created_at": "2026-02-25T19:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026742124633362620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026742124633362620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃。豆包给我买盒药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n手游基本什么都玩过，王者吃鸡原神鸣潮崩铁三角洲明日方舟BanG Dream……（此处省略一万字）\n端游比较手残，星露谷那种种田休闲玩的比较多，欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476662676856061956/nt9mtDyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 77,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 68
+        },
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "全天在线的天才末影人🔪- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生/✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "dbdbsjbsja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2024329117580349689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 493,
+          "like_count": 17487,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 5858
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

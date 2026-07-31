@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048399656426622987",
+    "created_at": "2026-04-26T13:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048401484732326181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048401484732326181",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048399656426622987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 努力不一定成功，但是放弃一定很舒服😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 483,
+        "media_key": "3_2048399652480036865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1goYwbMAEk8v1.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048399656426622987",
+        "created_at": "2026-04-26T13:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048401484732326181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048401484732326181",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048399656426622987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 努力不一定成功，但是放弃一定很舒服😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048399652480036865"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2048399656426622987",
+        "created_at": "2026-04-26T13:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048399656426622987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "X平台"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "推特创作"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "账号增长"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "影响力"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uVJJoNBkx",
+              "end": 159,
+              "expanded_url": "https://x.com/maoshen/status/2048399656426622987/photo/1",
+              "media_key": "3_2048399652480036865",
+              "start": 136,
+              "url": "https://t.co/5uVJJoNBkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048399656426622987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位，最近发现很多朋友取消蓝P了\n\n猫神理解你们，大概率是对低保失望了\n\n可是，猫神有话要说，大可不必如此\n\n互联网从来不是短线炒作，它是按周期结算的\n\n作为一个新账号，你最重要的不是赚钱\n\n而是做大你的账号，增加你的影响力\n\n#X平台 #推特创作 #账号增长 #影响力 https://t.co/5uVJJoNBkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 280,
+          "like_count": 11489,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语区独立观察者｜猫神官方账号｜YouTube《猫神漫谈》博主\n坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心❤️那束光\n吃瓜是表象、热点看真相｜愿在网络世界里，与有温度、有力量的您同行🔥",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "2040610424287011115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212543,
+          "following_count": 9076,
+          "like_count": 4346,
+          "listed_count": 515,
+          "media_count": 4468,
+          "tweet_count": 13921
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

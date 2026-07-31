@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2056240067530858686",
+    "created_at": "2026-05-18T09:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056301278968582538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568430640428875776",
+          "start": 0,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056301278968582538",
+    "in_reply_to_user_id": "1568430640428875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056240067530858686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesStrayPuppy 难得见到评论区全是人机的，我也来试试？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2056240067530858686",
+        "created_at": "2026-05-18T09:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056301278968582538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568430640428875776",
+              "start": 0,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056301278968582538",
+        "in_reply_to_user_id": "1568430640428875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056240067530858686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesStrayPuppy 难得见到评论区全是人机的，我也来试试？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568430640428875776",
+        "conversation_id": "2056240067530858686",
+        "created_at": "2026-05-18T05:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056240067530858686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056240067530858686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找妈妈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 290,
+          "like_count": 15982,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 3450
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|记录(辱骂)📝高三生活中。。|取关随意一切随意！不用礼貌回关！！！💃🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "没有门不加V不陪聊😔",
+        "name": "小夜野耶椰也",
+        "pinned_tweet_id": "2007046154253746348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 484,
+          "like_count": 25020,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 7344
+        },
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

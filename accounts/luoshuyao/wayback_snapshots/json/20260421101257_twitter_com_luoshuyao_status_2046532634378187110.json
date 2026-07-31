@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2046527768620675101",
+    "created_at": "2026-04-21T10:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046532634378187110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992703228291563520",
+          "start": 0,
+          "username": "Jerryxuj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046532634378187110",
+    "in_reply_to_user_id": "1992703228291563520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046530990621732929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerryxuj0 我相信有而且我见过。我不会因为现在很多人爱情观扭曲，很多负面事件就否定真爱的存在。纯爱永远都有，只是你没看见。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2046527768620675101",
+        "created_at": "2026-04-21T10:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046532634378187110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992703228291563520",
+              "start": 0,
+              "username": "Jerryxuj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046532634378187110",
+        "in_reply_to_user_id": "1992703228291563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046530990621732929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerryxuj0 我相信有而且我见过。我不会因为现在很多人爱情观扭曲，很多负面事件就否定真爱的存在。纯爱永远都有，只是你没看见。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992703228291563520",
+        "conversation_id": "2046527768620675101",
+        "created_at": "2026-04-21T10:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046530990621732929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046530990621732929",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046527768620675101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 纯爱好像绝世了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 280,
+          "like_count": 10589,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-23T21:15:19.000Z",
+        "description": "",
+        "id": "1992703228291563520",
+        "name": "Jerry",
+        "pinned_tweet_id": "2035451367410516330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992703875703345153/1rx0kJbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 392,
+          "like_count": 1099,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 2255
+        },
+        "username": "Jerryxuj0",
+        "verified": false
+      }
+    ]
+  }
+}

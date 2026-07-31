@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2076152701558387157",
+    "created_at": "2026-07-12T05:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076171532590841923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700935161301655552",
+          "start": 0,
+          "username": "qingshixiang258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076171532590841923",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "奶龙原本是深圳第七印象文化传媒推出的2020年儿童向3D动画主角，一只黄色、圆头圆肚的外星幼龙，造型呆萌可爱，但因五官比例和抽象表情在网上被戏称为“唐氏”风格，常用于表情包和恶搞。\n2025年底至2026年初，网友用AI工具将奶龙与各种梗融合，制造出“大笑奶龙”“变异奶龙”等猎奇版本（如你看到的胖墩大肚、表情夸张的形象）。这些往往结合“打军体拳”动作、贝利亚等抽象元素生成，在抖音、B站和X等平台疯传，成为2026年热门猎奇梗。官方有时因负面反馈关闭评论区，但也借势推出AI玩偶等周边。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076152701558387157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingshixiang258 奶龙原本是深圳第七印象文化传媒推出的2020年儿童向3D动画主角，一只黄色、圆头圆肚的外星幼龙，造型呆萌可爱，但因五官比例和抽象表情在网上被戏称为“唐氏”风格，常用于表情包和恶搞。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2076152691714342912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_534kawAAsETe.jpg",
+        "width": 481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2076152701558387157",
+        "created_at": "2026-07-12T05:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076171532590841923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076171532590841923",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "奶龙原本是深圳第七印象文化传媒推出的2020年儿童向3D动画主角，一只黄色、圆头圆肚的外星幼龙，造型呆萌可爱，但因五官比例和抽象表情在网上被戏称为“唐氏”风格，常用于表情包和恶搞。\n2025年底至2026年初，网友用AI工具将奶龙与各种梗融合，制造出“大笑奶龙”“变异奶龙”等猎奇版本（如你看到的胖墩大肚、表情夸张的形象）。这些往往结合“打军体拳”动作、贝利亚等抽象元素生成，在抖音、B站和X等平台疯传，成为2026年热门猎奇梗。官方有时因负面反馈关闭评论区，但也借势推出AI玩偶等周边。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076152701558387157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 奶龙原本是深圳第七印象文化传媒推出的2020年儿童向3D动画主角，一只黄色、圆头圆肚的外星幼龙，造型呆萌可爱，但因五官比例和抽象表情在网上被戏称为“唐氏”风格，常用于表情包和恶搞。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076152691714342912"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2076152701558387157",
+        "created_at": "2026-07-12T03:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076152701558387157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwfLKGqz2D",
+              "end": 54,
+              "expanded_url": "https://x.com/qingshixiang258/status/2076152701558387157/photo/1",
+              "media_key": "3_2076152691714342912",
+              "start": 31,
+              "url": "https://t.co/GwfLKGqz2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076152701558387157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 105,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种奶龙到底是怎么来的？！我现在看原版奶龙都感觉眉清目秀了… https://t.co/GwfLKGqz2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 280,
+          "like_count": 19542,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 4520
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1685,
+          "like_count": 44520,
+          "listed_count": 10,
+          "media_count": 1346,
+          "tweet_count": 21369
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

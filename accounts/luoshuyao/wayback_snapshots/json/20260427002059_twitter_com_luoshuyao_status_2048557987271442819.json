@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048388802314744086",
+    "created_at": "2026-04-27T00:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048557987271442819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1306129238827778048",
+          "start": 0,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048557987271442819",
+    "in_reply_to_user_id": "1306129238827778048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048552002595250373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinonCC 塞尔达这么贵的吗？消费不起😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048388802314744086",
+        "created_at": "2026-04-27T00:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048557987271442819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1306129238827778048",
+              "start": 0,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048557987271442819",
+        "in_reply_to_user_id": "1306129238827778048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048552002595250373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinonCC 塞尔达这么贵的吗？消费不起😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306129238827778048",
+        "conversation_id": "2048388802314744086",
+        "created_at": "2026-04-26T23:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048552002595250373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048552002595250373",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048547766826320285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao ns上的：塞尔达传说：旷野之息和塞尔达传说：王国之泪 太好玩了，每一部我都玩了大几百个小时\nrpg的话喜欢p5，极致的艺术风格和音乐，内容和角色都很丰富\n还有一些“小”游戏的话：主播女孩重度依赖，这个天天看x应该都了解\nbaba is you 很好玩的文字解谜游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 282,
+          "like_count": 11559,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2592
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜欢迎找我来问匿名问题https://t.co/jmSdkECPE6｜个人网站装修中https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 54,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 108,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 85,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2044849985766948894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 662,
+          "like_count": 14582,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

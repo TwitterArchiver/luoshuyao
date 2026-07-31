@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045366777862054184",
+    "created_at": "2026-04-18T05:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045366777862054184"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045366777862054184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现平台要给你限流真的就是往死里限。\n昨天我给别人的帖子转帖加评论，完全没有加浏览量，也没有几个人看到我的转帖和评论，帖主限流我发的评论也跟着限流。之前我所有的转帖都能加几百浏览量的，评论也会有几个人点赞，现在发出来只有帖主点赞了。这限流也太明显了吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045366777862054184",
+        "created_at": "2026-04-18T05:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045366777862054184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045366777862054184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现平台要给你限流真的就是往死里限。\n昨天我给别人的帖子转帖加评论，完全没有加浏览量，也没有几个人看到我的转帖和评论，帖主限流我发的评论也跟着限流。之前我所有的转帖都能加几百浏览量的，评论也会有几个人点赞，现在发出来只有帖主点赞了。这限流也太明显了吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 273,
+          "like_count": 9972,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

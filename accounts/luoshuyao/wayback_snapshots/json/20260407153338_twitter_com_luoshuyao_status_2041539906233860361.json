@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2041539906233860361",
+    "created_at": "2026-04-07T15:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041539906233860361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041539906233860361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041502695232802982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 在X上透露自己的隐私其实不太好但是犹豫了很久还是想告诉大家这个好消息。曾经经历家暴并生存下来、忧郁导致休学在家因为不能读书更加遭到暴力、恋爱关系里遇到有毒的恋人被PUA过，一度丧失活着的目的自杀但又失败。我知道这样的经历在社群里其实很平凡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2041500661427384320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTeCQUasAACIKY.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2041539906233860361",
+        "created_at": "2026-04-07T15:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041539906233860361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041539906233860361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041502695232802982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 在X上透露自己的隐私其实不太好但是犹豫了很久还是想告诉大家这个好消息。曾经经历家暴并生存下来、忧郁导致休学在家因为不能读书更加遭到暴力、恋爱关系里遇到有毒的恋人被PUA过，一度丧失活着的目的自杀但又失败。我知道这样的经历在社群里其实很平凡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041500661427384320"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2041502695232802982",
+        "created_at": "2026-04-07T13:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041502695232802982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUDl2y2B1W",
+              "end": 165,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2041502695232802982/photo/1",
+              "media_key": "3_2041500661427384320",
+              "start": 142,
+              "url": "https://t.co/qUDl2y2B1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041502695232802982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3318,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在X上透露自己的隐私其实不太好但是犹豫了很久还是想告诉大家这个好消息。曾经经历家暴并生存下来、忧郁导致休学在家因为不能读书更加遭到暴力、恋爱关系里遇到有毒的恋人被PUA过，一度丧失活着的目的自杀但又失败。我知道这样的经历在社群里其实很平凡，大部分跨儿兄弟姊妹都面临着巨大的生存阻力， https://t.co/qUDl2y2B1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 278,
+          "like_count": 8366,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity：Non-Male",
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2041138776739914016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802580457495883776/gq66478Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 44,
+          "like_count": 1767,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 905
+        },
+        "username": "Diamond_Kokoro",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity：Non-Male",
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2041138776739914016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802580457495883776/gq66478Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 44,
+          "like_count": 1767,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 905
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

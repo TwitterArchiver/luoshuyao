@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2073065667578974225",
+    "created_at": "2026-07-04T09:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073336561601855914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863319222765428736",
+          "start": 0,
+          "username": "Re_ZaoTon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073336561601855914",
+    "in_reply_to_user_id": "1863319222765428736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073324878086979852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re_ZaoTon 就是就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2073065667578974225",
+        "created_at": "2026-07-04T09:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073336561601855914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073336561601855914",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073324878086979852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon 就是就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2073065667578974225",
+        "created_at": "2026-07-04T08:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073324878086979852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073324878086979852",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073065667578974225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 长指甲除了好看没有任何好处，很容易受到伤害然后痛死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 271,
+          "like_count": 18905,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 4320
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥/小证含糖🤕/脾气超好🥰/精神不稳定🙃/自恨跨畜🤮/不可能自杀😇/五好纯良☺️/正在享受生活😋/早已释怀一切😌/爱好是观察互联网🧐/和我说话的人都觉得我还不错，如果你觉得无聊，不妨来找我探讨人类进化史？！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "http://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "location": "梦想的天国",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2073038385770565697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 227,
+          "like_count": 6948,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/6l43xOCIK5",
+        "username": "Re_ZaoTon",
+        "verified": false
+      }
+    ]
+  }
+}

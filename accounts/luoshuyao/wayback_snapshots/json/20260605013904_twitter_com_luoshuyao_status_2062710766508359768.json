@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2062681839677161722",
+    "created_at": "2026-06-05T01:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062710766508359768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1816265454211719169",
+          "start": 0,
+          "username": "c6ZGVx553M24590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062710766508359768",
+    "in_reply_to_user_id": "1816265454211719169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062697800555737156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c6ZGVx553M24590 辛苦了꜀(˘꒳˘ ꜀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2062681839677161722",
+        "created_at": "2026-06-05T01:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062710766508359768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1816265454211719169",
+              "start": 0,
+              "username": "c6ZGVx553M24590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062710766508359768",
+        "in_reply_to_user_id": "1816265454211719169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062697800555737156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c6ZGVx553M24590 辛苦了꜀(˘꒳˘ ꜀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816265454211719169",
+        "conversation_id": "2062681839677161722",
+        "created_at": "2026-06-05T00:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062697800555737156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062697800555737156",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062681839677161722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 上早八😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 287,
+          "like_count": 16979,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 3687
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T00:13:38.000Z",
+        "description": "我喜欢你 请和我交朋友 拜托了🥺🥺",
+        "id": "1816265454211719169",
+        "name": "亖久",
+        "pinned_tweet_id": "1948064684076368074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029720348569260036/ER3SM6jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 140,
+          "like_count": 25868,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 771
+        },
+        "username": "c6ZGVx553M24590",
+        "verified": false
+      }
+    ]
+  }
+}

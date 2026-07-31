@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2046577188041044117",
+    "created_at": "2026-04-21T14:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046589809586749864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1565881978062118913",
+          "start": 0,
+          "username": "Espania_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046589809586749864",
+    "in_reply_to_user_id": "1565881978062118913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046589565276971296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Espania_CN 还真是，那些好几年没联系过的我都不敢联系了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2046577188041044117",
+        "created_at": "2026-04-21T14:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046589809586749864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1565881978062118913",
+              "start": 0,
+              "username": "Espania_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046589809586749864",
+        "in_reply_to_user_id": "1565881978062118913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046589565276971296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Espania_CN 还真是，那些好几年没联系过的我都不敢联系了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565881978062118913",
+        "conversation_id": "2046577188041044117",
+        "created_at": "2026-04-21T13:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046589565276971296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046589565276971296",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046577188041044117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 和关系好的偶尔寒暄唠叨一会可以，否则长时间未联系就断了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 281,
+          "like_count": 10680,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T01:59:20.000Z",
+        "description": "中国大陸のクズ男子大学生です🇨🇳\n🔰雑多垢：アニメ/マンガ/ゲーム/ライベ/政治歴史と人文地理/欧州と亚州の言語と文化が大好きですよ(英語、日本語、韓国語、ベトナム語勉強中)フォロバOK\n⚠️禁止谈政治\n【日本が好きです🇯🇵/한국을 좋아해요🇰🇷 /Thích Việt Nam🇻🇳】",
+        "id": "1565881978062118913",
+        "location": "People's Republic of China",
+        "name": "Espania",
+        "pinned_tweet_id": "1946929246875840944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007398324769595393/jS71Fby2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 5927,
+          "like_count": 82013,
+          "listed_count": 11,
+          "media_count": 48,
+          "tweet_count": 27790
+        },
+        "username": "Espania_CN",
+        "verified": false
+      }
+    ]
+  }
+}

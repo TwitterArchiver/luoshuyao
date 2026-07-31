@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2051273794782887989",
+    "created_at": "2026-05-04T12:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051282613642633291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051282613642633291",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051275821890109618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magpieneko 学会了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2051273794782887989",
+        "created_at": "2026-05-04T12:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051282613642633291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051282613642633291",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051275821890109618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magpieneko 学会了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2051273794782887989",
+        "created_at": "2026-05-04T12:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051275821890109618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "description": "《星露谷物语》中是可以改变外貌的，如果玩家想要改变外貌重新捏脸该怎么办呢？一起来看看“大熊猫”分享的《星露谷物语》重新捏脸及开启帽子店方法吧，改变外貌之后还可以为自己的角色带上各式各样的帽子，快来了解一下吧。",
+              "display_url": "wap.gamersky.com/gl/Content-928…",
+              "end": 47,
+              "expanded_url": "https://wap.gamersky.com/gl/Content-928144.html",
+              "start": 24,
+              "status": 200,
+              "title": "《星露谷物语》法师塔重新捏脸及开启帽子店方法图文分析_法师塔功能及作用 :: 游民星空 GamerSky.com",
+              "unwound_url": "https://wap.gamersky.com/gl/Content-928144.html",
+              "url": "https://t.co/rXmtAlFDA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051275821890109618",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051273794782887989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 可以的…参考一下这个链接：https://t.co/rXmtAlFDA7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 285,
+          "like_count": 12971,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 2893
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "INFP4w5｜重抑重焦服药中｜是个不可爱的孩子｜学着成为人类｜社恐家里蹲xyn🏳️‍⚧️｜自杀惯犯｜一切都会好起来的……吧\nWhat do u want to be when u grow up?\nKind.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jingque11289",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jingque11289",
+                "start": 0,
+                "url": "https://t.co/NP7POh6xMK"
+              }
+            ]
+          }
+        },
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2050591393496838447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 36,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/NP7POh6xMK",
+        "username": "Magpieneko",
+        "verified": false
+      }
+    ]
+  }
+}

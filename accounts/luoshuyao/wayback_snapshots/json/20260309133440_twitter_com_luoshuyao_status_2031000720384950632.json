@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2030940900877381799",
+    "created_at": "2026-03-09T13:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031000720384950632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726259717717282816",
+          "start": 0,
+          "username": "5Iq2686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031000720384950632",
+    "in_reply_to_user_id": "1726259717717282816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030993894956306858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5Iq2686 包罗万象，应有尽有( ￣▽￣)σ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2030940900877381799",
+        "created_at": "2026-03-09T13:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031000720384950632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726259717717282816",
+              "start": 0,
+              "username": "5Iq2686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031000720384950632",
+        "in_reply_to_user_id": "1726259717717282816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030993894956306858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5Iq2686 包罗万象，应有尽有( ￣▽￣)σ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726259717717282816",
+        "conversation_id": "2030940900877381799",
+        "created_at": "2026-03-09T13:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030993894956306858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030993894956306858",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030940900877381799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 那你这里能看什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 163,
+          "like_count": 2048,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 479
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-19T15:22:57.000Z",
+        "description": "区块链2009年开始，老玩家，游戏创业12年（研发+发行）。日常：炒美股、搞链、造游戏。香港常驻",
+        "id": "1726259717717282816",
+        "name": "那么菜",
+        "pinned_tweet_id": "2014513292883136961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014302407883386880/eZ0jYwRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 436,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "username": "5Iq2686",
+        "verified": true
+      }
+    ]
+  }
+}

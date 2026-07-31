@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2071087688921580011",
+    "created_at": "2026-06-28T04:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071087688921580011"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071087688921580011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上午因为下订单的神人操作导致进度慢了一个小时，所以我现在要十分钟之内吃完饭马上回去工作，下午工作的操作流程我已经在脑海里过了一遍了，看看能不能开三倍效率一个人同时做三个任务。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2071087688921580011",
+        "created_at": "2026-06-28T04:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071087688921580011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071087688921580011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上午因为下订单的神人操作导致进度慢了一个小时，所以我现在要十分钟之内吃完饭马上回去工作，下午工作的操作流程我已经在脑海里过了一遍了，看看能不能开三倍效率一个人同时做三个任务。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 273,
+          "like_count": 19038,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 4249
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

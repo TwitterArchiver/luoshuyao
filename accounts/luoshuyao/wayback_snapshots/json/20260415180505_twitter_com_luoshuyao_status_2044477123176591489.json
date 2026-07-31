@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2044467297537163442",
+    "created_at": "2026-04-15T18:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T19:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044477123176591489"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044477123176591489",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "wzx，11年了，我还记得你的名字，你的模样。不过你现在变化应该也很大了吧，要是再遇见你的话，我估计都要认不出你了。\n当年我转学来到这里读书，虽然你和我不在同一个小学，不过你和我都住在亲戚的职工公寓楼里，跟邻居也什么区别，周围也没有其他同龄人，我们就顺理其章的玩到了一起。记得每次周末放假我们都会一起在那个篮球场旁边聊天看书，你是那两年陪伴我时间最长的朋友。如果没有你的话，那段时光我一定会过得很无趣吧，所以我很感谢你，愿意和我玩。\n可惜我搞砸了一切。那天堂姐的平板电脑弄丢了，你经常来这里玩，所以我家里人觉得你有嫌疑，然后我不知道为什么，我没有怀疑你的，我从小就很嘴笨，不会表达，老是语言上的表达和心里想的有偏差。我问是不是你偷的，我现在都不理解我当时为什么要这么说，因为我真的从来都没有怀疑过你，但是为什么脱口而出是这句话呢？好吧，这句话就是这样说出来了，对你造成的伤害也是真实的，讲再多也没用，都是我的错。后来我再也没见过你了，到现在已经有11年了。\n我到现在还是不会说话，也还是会说错话，在那之后我变得越来越不爱说话了，甚至连文字表达能力也越来越差了。\n如果再遇到你，我会好好跟你道歉吗？还会有这个机会吗？你还会记得我吗？你会原谅我吗？可能我也不敢说话，我是胆小鬼。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044467297537163442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wzx，11年了，我还记得你的名字，你的模样。不过你现在变化应该也很大了吧，要是再遇见你的话，我估计都要认不出你了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2044467297537163442",
+        "created_at": "2026-04-15T18:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044477123176591489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044477123176591489",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "wzx，11年了，我还记得你的名字，你的模样。不过你现在变化应该也很大了吧，要是再遇见你的话，我估计都要认不出你了。\n当年我转学来到这里读书，虽然你和我不在同一个小学，不过你和我都住在亲戚的职工公寓楼里，跟邻居也什么区别，周围也没有其他同龄人，我们就顺理其章的玩到了一起。记得每次周末放假我们都会一起在那个篮球场旁边聊天看书，你是那两年陪伴我时间最长的朋友。如果没有你的话，那段时光我一定会过得很无趣吧，所以我很感谢你，愿意和我玩。\n可惜我搞砸了一切。那天堂姐的平板电脑弄丢了，你经常来这里玩，所以我家里人觉得你有嫌疑，然后我不知道为什么，我没有怀疑你的，我从小就很嘴笨，不会表达，老是语言上的表达和心里想的有偏差。我问是不是你偷的，我现在都不理解我当时为什么要这么说，因为我真的从来都没有怀疑过你，但是为什么脱口而出是这句话呢？好吧，这句话就是这样说出来了，对你造成的伤害也是真实的，讲再多也没用，都是我的错。后来我再也没见过你了，到现在已经有11年了。\n我到现在还是不会说话，也还是会说错话，在那之后我变得越来越不爱说话了，甚至连文字表达能力也越来越差了。\n如果再遇到你，我会好好跟你道歉吗？还会有这个机会吗？你还会记得我吗？你会原谅我吗？可能我也不敢说话，我是胆小鬼。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044467297537163442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wzx，11年了，我还记得你的名字，你的模样。不过你现在变化应该也很大了吧，要是再遇见你的话，我估计都要认不出你了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2044467297537163442",
+        "created_at": "2026-04-15T17:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044467297537163442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044467297537163442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这条帖子用来记录一些朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 277,
+          "like_count": 9506,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

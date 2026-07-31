@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048731014051352986",
+    "created_at": "2026-04-27T12:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048738041397973055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886242908875231232",
+          "start": 0,
+          "username": "acisuitie404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048738041397973055",
+    "in_reply_to_user_id": "1886242908875231232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048737488274182339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acisuitie404 我吃的特别少，可能好几个月都不会吃一次，偶尔冲动消费一下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048731014051352986",
+        "created_at": "2026-04-27T12:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048738041397973055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886242908875231232",
+              "start": 0,
+              "username": "acisuitie404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048738041397973055",
+        "in_reply_to_user_id": "1886242908875231232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048737488274182339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acisuitie404 我吃的特别少，可能好几个月都不会吃一次，偶尔冲动消费一下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886242908875231232",
+        "conversation_id": "2048731014051352986",
+        "created_at": "2026-04-27T12:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048737488274182339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048737488274182339",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048731014051352986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我也想吃麦当劳 麦当劳外送太贵了 都是顺丰跑腿会贵个12-13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 282,
+          "like_count": 11753,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T02:38:57.000Z",
+        "description": "infp",
+        "id": "1886242908875231232",
+        "name": "莎缇拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047428980819853312/92XeYrGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 54,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 296
+        },
+        "username": "acisuitie404",
+        "verified": false
+      }
+    ]
+  }
+}

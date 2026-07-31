@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2075579687208997086",
+    "created_at": "2026-07-10T14:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075582097750937850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075582097750937850",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075579687208997086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并非是因为手头紧，我平时不怎么花钱，去年买了新手机和电脑都是全款买的。只是小时候什么都不要，现在买东西已经习惯犹豫了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2075579557718175745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3wnGDasAEjRwA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2075579687208997086",
+        "created_at": "2026-07-10T14:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075582097750937850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075582097750937850",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075579687208997086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并非是因为手头紧，我平时不怎么花钱，去年买了新手机和电脑都是全款买的。只是小时候什么都不要，现在买东西已经习惯犹豫了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075579557718175745"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2075579687208997086",
+        "created_at": "2026-07-10T13:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075579687208997086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCTN6ARykq",
+              "end": 45,
+              "expanded_url": "https://x.com/luoshuyao/status/2075579687208997086/photo/1",
+              "media_key": "3_2075579557718175745",
+              "start": 22,
+              "url": "https://t.co/YCTN6ARykq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075579687208997086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "道理我都懂，但是遇到想买的东西还总会犹豫。 https://t.co/YCTN6ARykq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 277,
+          "like_count": 19448,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4485
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

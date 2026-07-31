@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2067922915656700038",
+    "created_at": "2026-06-19T14:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067976337181302802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067976337181302802",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067922915656700038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2067922906630561793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK87WCboAENMOc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2067922911814717440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK87pWbkAAEJkR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2067922909834973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK87h-bEAACrc5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2067922909570682880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK87g_aUAAZE7B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2067922915656700038",
+        "created_at": "2026-06-19T14:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067976337181302802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067976337181302802",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067922915656700038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067922906630561793",
+            "3_2067922911814717440",
+            "3_2067922909834973184",
+            "3_2067922909570682880"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067922915656700038",
+        "created_at": "2026-06-19T10:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067922915656700038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXG4waHwqW",
+              "end": 38,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2067922915656700038/photo/1",
+              "media_key": "3_2067922906630561793",
+              "start": 15,
+              "url": "https://t.co/QXG4waHwqW"
+            },
+            {
+              "display_url": "pic.x.com/QXG4waHwqW",
+              "end": 38,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2067922915656700038/photo/1",
+              "media_key": "3_2067922911814717440",
+              "start": 15,
+              "url": "https://t.co/QXG4waHwqW"
+            },
+            {
+              "display_url": "pic.x.com/QXG4waHwqW",
+              "end": 38,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2067922915656700038/photo/1",
+              "media_key": "3_2067922909834973184",
+              "start": 15,
+              "url": "https://t.co/QXG4waHwqW"
+            },
+            {
+              "display_url": "pic.x.com/QXG4waHwqW",
+              "end": 38,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2067922915656700038/photo/1",
+              "media_key": "3_2067922909570682880",
+              "start": 15,
+              "url": "https://t.co/QXG4waHwqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067922915656700038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 464,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门吃饭啦！吃完看电影嘻嘻~ https://t.co/QXG4waHwqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 286,
+          "like_count": 18378,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 88,
+          "like_count": 6972,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2189
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

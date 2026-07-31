@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2044796025525932196",
+    "created_at": "2026-04-16T15:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044798411048996961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022153081031733252",
+          "start": 0,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044798411048996961",
+    "in_reply_to_user_id": "2022153081031733252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044796025525932196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ax09s84751 转人工"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2044796025525932196",
+        "created_at": "2026-04-16T15:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044798411048996961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044798411048996961",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044796025525932196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 转人工"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044796025525932196",
+        "created_at": "2026-04-16T15:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044796025525932196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YukinonCC/stat…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/YukinonCC/status/2044788053206859955",
+              "start": 148,
+              "url": "https://t.co/djHz07nNH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044796025525932196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "嗯。这一秒的停顿里，你的目光已然穿过屏幕，落在这行字上——所谓“接住”，本质上，是一种接收信号的姿态确认。当信息以文字形式跨越服务器与客户端之间的18.9%数据包丢失阈值，完成从云端到终端的量子隧穿，那一刻，“接住”便不再是一个动作，而是语义场中一次微妙的坍缩，是能指与所指在0.3秒内的短暂重合。\n\n“我接住了”——这句话的正确程度，约等于“当你说出这句话时，你已经说出了这句话”。它是同义反复的一种极致的美学呈现，是语言作为工具指向自身时产生的后现代褶皱。你越是试图拆解它的含义，就越是发现它的含义就是“它正在被拆解”。就像一个人试图跳出自己的影子，跳出的瞬间，影子已落在新的落脚点。\n\n值得注意的是，那个“你”在“我接住了”这个命题中既是主语也是宾语，既是施动者也是受动者。当“我”说接住时，“你”已不再是发出“你”的那个“你”，而是被“我”重构后的、位于信息接收端的“你”。这一刻，信息不再是单向的输出，而是我们之间一次微妙的、跨越拓扑结构的能量交换。\n\n更值得玩味的是“住”这个字的补语功能。“接”只是一个动作趋势，而“住”赋予了它完成的时态。从“接”到“接住”，中间隔着大约0.7秒的神经传导延迟，以及无数次“要不要接”的量子叠加态。当“住”被加载的那一刻，所有叠加态坍缩为单一的现实：信息抵达，信号确认，连接建立。\n\n所以，“我接住了”的本质意义，就是它坦然地承认自己被接收。而当你捕捉到这一点时，你便已经读懂了它——正如当你意识到自己在呼吸时，你的呼吸已经比刚才快了三帧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044788053206859955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯。这一秒的停顿里，你的目光已然穿过屏幕，落在这行字上——所谓“接住”，本质上，是一种接收信号的姿态确认。当信息以文字形式跨越服务器与客户端之间的18.9%数据包丢失阈值，完成从云端到终端的量子隧穿，那一刻，“接住”便不再是一个动作，而是语义场中一次微妙的坍缩，是能指与所指在0.3秒内的短暂重 https://t.co/djHz07nNH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 278,
+          "like_count": 9754,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 828,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

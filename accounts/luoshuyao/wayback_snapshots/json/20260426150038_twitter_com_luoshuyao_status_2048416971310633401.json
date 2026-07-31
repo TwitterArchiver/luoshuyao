@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048407657904517295",
+    "created_at": "2026-04-26T15:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048416971310633401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000880188650143744",
+          "start": 0,
+          "username": "huanjunling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048416971310633401",
+    "in_reply_to_user_id": "2000880188650143744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048407657904517295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanjunling 你居然敢挂我，我上头有人你信不信😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2048407651084820480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1n594aYAA6Owf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048407657904517295",
+        "created_at": "2026-04-26T15:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048416971310633401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000880188650143744",
+              "start": 0,
+              "username": "huanjunling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048416971310633401",
+        "in_reply_to_user_id": "2000880188650143744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048407657904517295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanjunling 你居然敢挂我，我上头有人你信不信😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048407651084820480"
+          ]
+        },
+        "author_id": "2000880188650143744",
+        "conversation_id": "2048407657904517295",
+        "created_at": "2026-04-26T14:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048407657904517295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWHM2dgaOS",
+              "end": 59,
+              "expanded_url": "https://x.com/huanjunling/status/2048407657904517295/photo/1",
+              "media_key": "3_2048407651084820480",
+              "start": 36,
+              "url": "https://t.co/GWHM2dgaOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048407657904517295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么三万变六块，这是汇率不一样好吧，嗯对，我其实充了三万越南盾是的没错 https://t.co/GWHM2dgaOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 280,
+          "like_count": 11514,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T10:46:44.000Z",
+        "description": "是天上星辰落人间\n星の天より人に落ちぬ。\nA star from sky to earth descends",
+        "id": "2000880188650143744",
+        "location": "九界",
+        "name": "星之星幻",
+        "pinned_tweet_id": "2003477318455689450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001240161833906176/2uCigY22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 734
+        },
+        "username": "huanjunling",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053335483443499083",
+    "created_at": "2026-05-10T04:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053336512092344797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000953055077130258",
+          "start": 0,
+          "username": "JaffeSigne33462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053336512092344797",
+    "in_reply_to_user_id": "2000953055077130258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053335483443499083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JaffeSigne33462 坏人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053335483443499083",
+        "created_at": "2026-05-10T04:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053336512092344797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000953055077130258",
+              "start": 0,
+              "username": "JaffeSigne33462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053336512092344797",
+        "in_reply_to_user_id": "2000953055077130258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053335483443499083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JaffeSigne33462 坏人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000953055077130258",
+        "conversation_id": "2053335483443499083",
+        "created_at": "2026-05-10T04:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053335483443499083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053335483443499083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伤心了💔，刚把手搭在我朋友书包上，他下意识摸索自己的口袋问我拿什么东西了。我不就是经常偷偷把他水杯藏起来等他发现吗！！！（理直气壮）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 287,
+          "like_count": 13452,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3035
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T15:36:15.000Z",
+        "description": "",
+        "id": "2000953055077130258",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044822752201428992/98pzbTZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 132,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "username": "JaffeSigne33462",
+        "verified": false
+      }
+    ]
+  }
+}

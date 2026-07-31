@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069004344390033408",
+        "3_2069004344385769472"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069004650221838828",
+    "created_at": "2026-06-22T10:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069004650221838828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fOFAzRrufj",
+          "end": 49,
+          "expanded_url": "https://x.com/luoshuyao/status/2069004650221838828/photo/1",
+          "media_key": "3_2069004344390033408",
+          "start": 26,
+          "url": "https://t.co/fOFAzRrufj"
+        },
+        {
+          "display_url": "pic.x.com/fOFAzRrufj",
+          "end": 49,
+          "expanded_url": "https://x.com/luoshuyao/status/2069004650221838828/photo/1",
+          "media_key": "3_2069004344385769472",
+          "start": 26,
+          "url": "https://t.co/fOFAzRrufj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069004650221838828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1、对我就是坏😋\n2、只要不影响别人，随便你什么控 https://t.co/fOFAzRrufj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2069004344390033408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaUfToboAAxaNX.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2069004344385769472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaUfTnakAAanLP.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069004344390033408",
+            "3_2069004344385769472"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069004650221838828",
+        "created_at": "2026-06-22T10:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069004650221838828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOFAzRrufj",
+              "end": 49,
+              "expanded_url": "https://x.com/luoshuyao/status/2069004650221838828/photo/1",
+              "media_key": "3_2069004344390033408",
+              "start": 26,
+              "url": "https://t.co/fOFAzRrufj"
+            },
+            {
+              "display_url": "pic.x.com/fOFAzRrufj",
+              "end": 49,
+              "expanded_url": "https://x.com/luoshuyao/status/2069004650221838828/photo/1",
+              "media_key": "3_2069004344385769472",
+              "start": 26,
+              "url": "https://t.co/fOFAzRrufj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069004650221838828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1、对我就是坏😋\n2、只要不影响别人，随便你什么控 https://t.co/fOFAzRrufj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 286,
+          "like_count": 18686,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 4117
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

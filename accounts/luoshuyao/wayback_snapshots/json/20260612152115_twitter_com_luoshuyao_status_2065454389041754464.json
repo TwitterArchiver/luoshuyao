@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2065453390474396144",
+    "created_at": "2026-06-12T15:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065454389041754464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065454389041754464",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065453390474396144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来来回回都是那么些人，这个奖就是个关系奖，关系好的随便拿，我们组基本连评选的资格都没有。\n不过我不需要这个奖来证明自己，我在哪里都是很优秀的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2065453390474396144",
+        "created_at": "2026-06-12T15:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065454389041754464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065454389041754464",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065453390474396144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来来回回都是那么些人，这个奖就是个关系奖，关系好的随便拿，我们组基本连评选的资格都没有。\n不过我不需要这个奖来证明自己，我在哪里都是很优秀的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2065453390474396144",
+        "created_at": "2026-06-12T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065453390474396144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065453390474396144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个月都会评选一次优秀员工，我觉得这个奖毫无含金量，但是我们组几乎没有机会评奖，因为上面的领导对我们组长印象很不好所以我们全组都会被针对。\n但我还是被评过两次优秀员工，两年了我们组其他人只有一个有三十年烘焙经验的大叔被评过奖，而且只有一次，评奖还是因为他改良了一个产品的配方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 287,
+          "like_count": 17859,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 3870
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

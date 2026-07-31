@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055834827535040803",
+    "created_at": "2026-05-17T02:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055835673358377236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952044125454475264",
+          "start": 0,
+          "username": "Neflibata0626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055835673358377236",
+    "in_reply_to_user_id": "1952044125454475264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055834827535040803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neflibata0626 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055834827535040803",
+        "created_at": "2026-05-17T02:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055835673358377236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952044125454475264",
+              "start": 0,
+              "username": "Neflibata0626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055835673358377236",
+        "in_reply_to_user_id": "1952044125454475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055834827535040803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neflibata0626 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952044125454475264",
+        "conversation_id": "2055834827535040803",
+        "created_at": "2026-05-17T02:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055834827535040803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055834827535040803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人支持我今天在喝一次小黄油美式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 290,
+          "like_count": 15417,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "一个人鹅已｜07 istj ｜大一 商科在学中…｜关于奇怪的我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8B%9C%E8%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8B%9C%E8%A7%81%E5%8E%A8%E5%B8%88%E9%95%BF%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/qioAo4tmJ1"
+              }
+            ]
+          }
+        },
+        "id": "1952044125454475264",
+        "location": "距离你钱包的-1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2032375733717528673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055834728838905857/zegjKXmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 118,
+          "like_count": 9927,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 5061
+        },
+        "url": "https://t.co/qioAo4tmJ1",
+        "username": "Neflibata0626",
+        "verified": false
+      }
+    ]
+  }
+}

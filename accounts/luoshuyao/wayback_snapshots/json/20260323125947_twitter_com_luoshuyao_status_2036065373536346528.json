@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2036065373536346528",
+    "created_at": "2026-03-23T12:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036065373536346528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2036061460095504396",
+          "start": 124,
+          "url": "https://t.co/JbbW52gFtB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036065373536346528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036061460095504396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "休学的时间里我也只是情绪稳定了一点。还是会想死，只是不会去行动了。我从来都没有看过医生也没有吃过药。\n放下学习之后我也没有什么能做的事情，我没有任何兴趣爱好，也没有什么想要的东西。有也只是曾经了。\n每天一动不动的，不哭不笑，也不说话，像一具尸体。 https://t.co/JbbW52gFtB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2036065373536346528",
+        "created_at": "2026-03-23T12:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036065373536346528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2036061460095504396",
+              "start": 124,
+              "url": "https://t.co/JbbW52gFtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036065373536346528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036061460095504396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "休学的时间里我也只是情绪稳定了一点。还是会想死，只是不会去行动了。我从来都没有看过医生也没有吃过药。\n放下学习之后我也没有什么能做的事情，我没有任何兴趣爱好，也没有什么想要的东西。有也只是曾经了。\n每天一动不动的，不哭不笑，也不说话，像一具尸体。 https://t.co/JbbW52gFtB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2036061460095504396",
+        "created_at": "2026-03-23T12:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036061460095504396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2036057386130235796",
+              "start": 141,
+              "url": "https://t.co/5Bq5iH6Abf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036061460095504396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不过我妈并没有打算放过我，不到一周她就打算送我回去接着上学。那时她还骗我，她说我最近有点咳嗽，带我去医院看看，结果越走越不对，我一看给我带到精神科了，我又生气又恐惧。我生气是因为她骗我，她不是第一次骗我了，从小她就爱嘴上说说，做口头承诺，我信了无数次却次次让我心里落空。恐惧是因为我不敢看医生，我不敢面对自己的内心，我很害怕，我开不了口，我不敢和陌生人说话，我不敢相信任何人。所以我又跑掉了。最后一周的休学变成了半个学期。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036057386130235796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过我妈并没有打算放过我，不到一周她就打算送我回去接着上学。那时她还骗我，她说我最近有点咳嗽，带我去医院看看，结果越走越不对，我一看给我带到精神科了，我又生气又恐惧。我生气是因为她骗我，她不是第一次骗我了，从小她就爱嘴上说说，做口头承诺，我信了无数次却次次让我心里落空。恐惧是因为 https://t.co/5Bq5iH6Abf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 268,
+          "like_count": 5509,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1050
+        },
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

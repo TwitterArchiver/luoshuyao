@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2044667187122880995",
+    "created_at": "2026-04-16T16:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044822002100502677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1120455914220412934",
+          "start": 0,
+          "username": "EloriaVanctice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044822002100502677",
+    "in_reply_to_user_id": "1120455914220412934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我从来都没有过你最后那句话的想法，我自己也一直都在鼓励别人如果有什么负面情绪可以好好说出来，面对这些我也从来都是安慰。\n我很疑惑你是怎么觉得我把这两个内容放在一起了，我在帖子里面没有一句有提到不让人表达负面情绪的，我只是在对那段话进行批判而已。下面的内容都是AI写的，也仅仅是针对那段话的评价。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044820420260741587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EloriaVanctice 我从来都没有过你最后那句话的想法，我自己也一直都在鼓励别人如果有什么负面情绪可以好好说出来，面对这些我也从来都是安慰。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2044667187122880995",
+        "created_at": "2026-04-16T16:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044822002100502677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1120455914220412934",
+              "start": 0,
+              "username": "EloriaVanctice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044822002100502677",
+        "in_reply_to_user_id": "1120455914220412934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我从来都没有过你最后那句话的想法，我自己也一直都在鼓励别人如果有什么负面情绪可以好好说出来，面对这些我也从来都是安慰。\n我很疑惑你是怎么觉得我把这两个内容放在一起了，我在帖子里面没有一句有提到不让人表达负面情绪的，我只是在对那段话进行批判而已。下面的内容都是AI写的，也仅仅是针对那段话的评价。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044820420260741587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EloriaVanctice 我从来都没有过你最后那句话的想法，我自己也一直都在鼓励别人如果有什么负面情绪可以好好说出来，面对这些我也从来都是安慰。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120455914220412934",
+        "conversation_id": "2044667187122880995",
+        "created_at": "2026-04-16T16:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044820420260741587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044820420260741587",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044794067264106623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 总的来说，我理解你「不希望大家因为这种言论选择死亡」的心情，但是另一方面，造成死亡的并不是那些表达自己负面情绪态度的人——是受害者所处的身心环境。\n\n我觉得这两者还是要分开的。紧急避险限制他人权益可以理解，长期不让人表达阴暗负面的情绪态度还是有点过了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 278,
+          "like_count": 9777,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-22T22:34:41.000Z",
+        "description": "生如夏花的HSP，soulmate searching~\n所谓「人性」，人心各异，探察考验方可知\n\nいつか私を知ることができたなら\n必ずその场所に私はいるから\nそこに希望の欠片すらなかったとしても\n私が在ってはならないものであっても\n——My Dearest\n\n如果我爱你，一定是因为你的心比容颜更美~真善美，真是基石",
+        "id": "1120455914220412934",
+        "location": "Earth",
+        "name": "自意識",
+        "pinned_tweet_id": "2029507894774014421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015693541779865600/92K9d93k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 359,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 980
+        },
+        "username": "EloriaVanctice",
+        "verified": false
+      }
+    ]
+  }
+}

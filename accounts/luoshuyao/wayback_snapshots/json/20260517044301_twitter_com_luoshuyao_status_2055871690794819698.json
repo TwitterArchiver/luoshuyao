@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055869475019166187",
+    "created_at": "2026-05-17T04:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055871690794819698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055871690794819698",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055869475019166187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa555 我是内圈吗(ˆつ⩊⊂ˆ)੭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2055869469059059714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfqY7_WEAIcYRo.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055869475019166187",
+        "created_at": "2026-05-17T04:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055871690794819698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055871690794819698",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055869475019166187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa555 我是内圈吗(ˆつ⩊⊂ˆ)੭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055869469059059714"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2055869475019166187",
+        "created_at": "2026-05-17T04:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055869475019166187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/sziIjFnL1O"
+            },
+            {
+              "display_url": "pic.x.com/3Zl6nCecqs",
+              "end": 64,
+              "expanded_url": "https://x.com/Retepa555/status/2055869475019166187/photo/1",
+              "media_key": "3_2055869469059059714",
+              "start": 41,
+              "url": "https://t.co/3Zl6nCecqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055869475019166187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/sziIjFnL1O https://t.co/3Zl6nCecqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 290,
+          "like_count": 15519,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3385
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 798,
+          "like_count": 21859,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1752
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

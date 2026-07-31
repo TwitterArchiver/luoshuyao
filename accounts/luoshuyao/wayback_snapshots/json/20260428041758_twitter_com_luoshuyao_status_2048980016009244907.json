@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048547222443446353",
+    "created_at": "2026-04-28T04:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048980016009244907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1541705602124001283",
+          "start": 0,
+          "username": "caicairui1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048980016009244907",
+    "in_reply_to_user_id": "1541705602124001283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048964274366853400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicairui1 ！？强强？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 183,
+        "media_key": "3_2048964272156499968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9iJk9a4AA6ZnI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048547222443446353",
+        "created_at": "2026-04-28T04:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048980016009244907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1541705602124001283",
+              "start": 0,
+              "username": "caicairui1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048980016009244907",
+        "in_reply_to_user_id": "1541705602124001283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048964274366853400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicairui1 ！？强强？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048964272156499968"
+          ]
+        },
+        "author_id": "1541705602124001283",
+        "conversation_id": "2048547222443446353",
+        "created_at": "2026-04-28T03:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048964274366853400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVdCjY6IZx",
+              "end": 89,
+              "expanded_url": "https://x.com/caicairui1/status/2048964274366853400/photo/1",
+              "media_key": "3_2048964272156499968",
+              "start": 66,
+              "url": "https://t.co/WVdCjY6IZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048964274366853400",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048547222443446353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 陪一个第一次五公里。\n这几天没跑，今天测了一下一公里，四分零三，比一个月前跑五百米就开始大喘气已经好太多了。 https://t.co/WVdCjY6IZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 282,
+          "like_count": 11835,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 2645
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-28T08:51:00.000Z",
+        "description": "缄默",
+        "id": "1541705602124001283",
+        "name": "yunjin-ciallo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044434838128914432/ck2f9qaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 186
+        },
+        "username": "caicairui1",
+        "verified": false
+      }
+    ]
+  }
+}

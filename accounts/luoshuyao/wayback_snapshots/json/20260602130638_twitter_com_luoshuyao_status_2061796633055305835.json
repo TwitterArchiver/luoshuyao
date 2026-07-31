@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2061664753676615704",
+    "created_at": "2026-06-02T13:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061796633055305835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946188524472213504",
+          "start": 0,
+          "username": "ooobsess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061796633055305835",
+    "in_reply_to_user_id": "1946188524472213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061666014979334250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooobsess 我觉得很真诚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2061664753676615704",
+        "created_at": "2026-06-02T13:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061796633055305835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061796633055305835",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061666014979334250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess 我觉得很真诚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946188524472213504",
+        "conversation_id": "2061664753676615704",
+        "created_at": "2026-06-02T04:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061666014979334250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061666014979334250",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061664753676615704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奇怪‘自己看了一遍自己写的’本来写的时候心情很真诚’怎么怎么看起来这么假……\n不好好学语文就是这样的下场😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 288,
+          "like_count": 16887,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 3663
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "🎀 食品科学专业变身车企牛马 | \n💻 沉迷Vibe Coding梦想暴富的小白 | \n🪙 BTC持币梦想（未开户版） | \n🇺🇸 看好美股的（没钱买）选手 | \n✨ 满脑子想搞钱但还在摸索的小迷糊呀",
+        "id": "1946188524472213504",
+        "location": "Hong Kong",
+        "name": "来",
+        "pinned_tweet_id": "2056205710891868488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 1166,
+          "like_count": 4169,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 1422
+        },
+        "username": "ooobsess",
+        "verified": true
+      }
+    ]
+  }
+}

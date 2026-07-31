@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2051117435890344227",
+    "created_at": "2026-05-04T01:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051117435890344227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876613242887282688",
+          "start": 3,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051117435890344227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051112967287021718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liujiayi1111: 如果你之前用过infinitetweet这种脏东西的话，它会控制你的账号关注一些陌生账号。下面第一个图是它会用到的权限，第二个图是取消授权的方法。\n\n1.点聊天，点右上角全部-设置，然后点左上角返回\n2.点安全性和账号访问权限\n3.点应用会话…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2051112733639086080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcEKfrWkAATHxc.png",
+        "width": 669
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2051112789297475586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcENvBWMAImdsS.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2051117435890344227",
+        "created_at": "2026-05-04T01:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051117435890344227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876613242887282688",
+              "start": 3,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051117435890344227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051112967287021718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liujiayi1111: 如果你之前用过infinitetweet这种脏东西的话，它会控制你的账号关注一些陌生账号。下面第一个图是它会用到的权限，第二个图是取消授权的方法。\n\n1.点聊天，点右上角全部-设置，然后点左上角返回\n2.点安全性和账号访问权限\n3.点应用会话…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051112733639086080",
+            "3_2051112789297475586"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2051112967287021718",
+        "created_at": "2026-05-04T01:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051112967287021718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B16SY6Pjrc",
+              "end": 171,
+              "expanded_url": "https://x.com/liujiayi1111/status/2051112967287021718/photo/1",
+              "media_key": "3_2051112733639086080",
+              "start": 148,
+              "url": "https://t.co/B16SY6Pjrc"
+            },
+            {
+              "display_url": "pic.x.com/B16SY6Pjrc",
+              "end": 171,
+              "expanded_url": "https://x.com/liujiayi1111/status/2051112967287021718/photo/1",
+              "media_key": "3_2051112789297475586",
+              "start": 148,
+              "url": "https://t.co/B16SY6Pjrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051112967287021718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果你之前用过infinitetweet这种脏东西的话，它会控制你的账号关注一些陌生账号。下面第一个图是它会用到的权限，第二个图是取消授权的方法。\n\n1.点聊天，点右上角全部-设置，然后点左上角返回\n2.点安全性和账号访问权限\n3.点应用会话\n4.点已连接的应用\n5.把不认识的应用撤销应用权限 https://t.co/B16SY6Pjrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 284,
+          "like_count": 12863,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 2867
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。擅长TS/JS/React/Node.js/Python",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYJfyF"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2040299131344749005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878217807000657921/ZweBzy0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7676,
+          "following_count": 47,
+          "like_count": 4564,
+          "listed_count": 16,
+          "media_count": 58,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/MsaRlYJfyF",
+        "username": "liujiayi1111",
+        "verified": false
+      }
+    ]
+  }
+}

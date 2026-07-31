@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2062681839677161722",
+    "created_at": "2026-06-05T23:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063040586433933806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887403868667191296",
+          "start": 0,
+          "username": "CaiWangzaici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063040586433933806",
+    "in_reply_to_user_id": "1887403868667191296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062894310199312514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaiWangzaici 早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2062681839677161722",
+        "created_at": "2026-06-05T23:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063040586433933806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887403868667191296",
+              "start": 0,
+              "username": "CaiWangzaici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063040586433933806",
+        "in_reply_to_user_id": "1887403868667191296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062894310199312514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaiWangzaici 早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887403868667191296",
+        "conversation_id": "2062681839677161722",
+        "created_at": "2026-06-05T13:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062894310199312514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062894310199312514",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062681839677161722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 要睡觉了，晚安小洛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 289,
+          "like_count": 17179,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T07:32:15.000Z",
+        "description": "",
+        "id": "1887403868667191296",
+        "name": "GerogeYang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038928777422770176/UUav2gbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 53,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 60
+        },
+        "username": "CaiWangzaici",
+        "verified": false
+      }
+    ]
+  }
+}

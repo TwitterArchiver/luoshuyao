@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2042388725137883639",
+    "created_at": "2026-04-10T04:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042461858775675107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999099178342051840",
+          "start": 0,
+          "username": "kokokawayi_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042461858775675107",
+    "in_reply_to_user_id": "1999099178342051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042388725137883639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokokawayi_awa 生日快乐！愿你今后的日子一切顺遂，爱你所爱，幸福安康"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2316,
+        "media_key": "3_2042388689167532032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgFsRcbQAASw5l.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2042388725137883639",
+        "created_at": "2026-04-10T04:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042461858775675107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999099178342051840",
+              "start": 0,
+              "username": "kokokawayi_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042461858775675107",
+        "in_reply_to_user_id": "1999099178342051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042388725137883639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokokawayi_awa 生日快乐！愿你今后的日子一切顺遂，爱你所爱，幸福安康"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042388689167532032"
+          ]
+        },
+        "author_id": "1999099178342051840",
+        "conversation_id": "2042388725137883639",
+        "created_at": "2026-04-09T23:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042388725137883639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRJGv919li",
+              "end": 31,
+              "expanded_url": "https://x.com/kokokawayi_awa/status/2042388725137883639/photo/1",
+              "media_key": "3_2042388689167532032",
+              "start": 8,
+              "url": "https://t.co/sRJGv919li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042388725137883639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1988,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看气球（ https://t.co/sRJGv919li"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 280,
+          "like_count": 8662,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T12:49:45.000Z",
+        "description": "是喜欢买手办和涩涩的杂鱼男娘，M/Sub（偶尔S）\nUndergrad at UTSG, Registered as Liberal\n魅魔姐姐（是主人！）@daisuki07483937 | 闺蜜@sutanghentian | 兔兔妈妈@miya051223 | 杂鱼🌰 @Lingmeiya\n私信看到了都会互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "daisuki07483937"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "miya051223"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "http://kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/DGRP1lRnXD"
+              }
+            ]
+          }
+        },
+        "id": "1999099178342051840",
+        "location": "🛫 Tokyo",
+        "name": "Kokodayo（复活赛进行中~）",
+        "pinned_tweet_id": "2007097060974268924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999104053524176897/uAijM8oN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 295,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/DGRP1lRnXD",
+        "username": "kokokawayi_awa",
+        "verified": true
+      }
+    ]
+  }
+}

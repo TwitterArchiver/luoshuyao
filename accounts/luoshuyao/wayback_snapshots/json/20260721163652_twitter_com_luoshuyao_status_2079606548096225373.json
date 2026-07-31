@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2079606548096225373",
+    "created_at": "2026-07-21T16:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079606548096225373"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079606548096225373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常会感到心脏不适，很压抑的感觉，有身体上的原因，更多还是心理上的。如果被问起来的话我会说“没事”，实际上这很不好受，只不过我早已习惯了这种痛苦。一般情况下我的情绪还算稳定，但如果被刺激到了还是会控制不住自己的情绪，甚至想要轻生。心理上的疾病，从来没接受过任何治疗，确实无法痊愈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2079606548096225373",
+        "created_at": "2026-07-21T16:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079606548096225373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079606548096225373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常会感到心脏不适，很压抑的感觉，有身体上的原因，更多还是心理上的。如果被问起来的话我会说“没事”，实际上这很不好受，只不过我早已习惯了这种痛苦。一般情况下我的情绪还算稳定，但如果被刺激到了还是会控制不住自己的情绪，甚至想要轻生。心理上的疾病，从来没接受过任何治疗，确实无法痊愈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 281,
+          "like_count": 19813,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 4643
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

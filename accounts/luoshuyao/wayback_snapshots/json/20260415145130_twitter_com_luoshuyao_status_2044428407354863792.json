@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043707166675394888",
+    "created_at": "2026-04-15T14:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044428407354863792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033131214782275584",
+          "start": 0,
+          "username": "SigegeOffial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044428407354863792",
+    "in_reply_to_user_id": "2033131214782275584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044427153564213651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SigegeOffial 谢谢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2044427151190241281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9DqYPbsAExdQl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043707166675394888",
+        "created_at": "2026-04-15T14:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044428407354863792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033131214782275584",
+              "start": 0,
+              "username": "SigegeOffial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044428407354863792",
+        "in_reply_to_user_id": "2033131214782275584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044427153564213651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SigegeOffial 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044427151190241281"
+          ]
+        },
+        "author_id": "2033131214782275584",
+        "conversation_id": "2043707166675394888",
+        "created_at": "2026-04-15T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044427153564213651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2t2kIBkWWH",
+              "end": 56,
+              "expanded_url": "https://x.com/SigegeOffial/status/2044427153564213651/photo/1",
+              "media_key": "3_2044427151190241281",
+              "start": 33,
+              "url": "https://t.co/2t2kIBkWWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044427153564213651",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044425140273053910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 抱抱姐姐哦～过去的都过去了，不难过不难过啦 https://t.co/2t2kIBkWWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 276,
+          "like_count": 9392,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T10:41:29.000Z",
+        "description": "叫西格格就好❤️/最高绝巴120把3.2kd信息位三号位专精起装备就乱杀/APEX前两赛季钻石一赛季大师密客百胜手打双锤骷髅海（已经退坑）/农药省7弈星超级英雄勺/粥批、洛克批、坐忘道、资深任豚、资深书虫、卑微的打工人/吃商极高而且根本吃不胖.jpg/欢迎各位互关扩列❤️",
+        "id": "2033131214782275584",
+        "name": "西格格Offical",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043712992173604864/zbzxVe8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 160
+        },
+        "username": "SigegeOffial",
+        "verified": false
+      }
+    ]
+  }
+}

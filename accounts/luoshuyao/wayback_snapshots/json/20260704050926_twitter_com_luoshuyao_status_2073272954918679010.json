@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2073270831732654468",
+    "created_at": "2026-07-04T05:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073272954918679010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703676499247915008",
+          "start": 0,
+          "username": "feixuedieying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073272954918679010",
+    "in_reply_to_user_id": "1703676499247915008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073271971056677178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feixuedieying 有的，有的，我在推特上看到了，一个男的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2073270831732654468",
+        "created_at": "2026-07-04T05:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073272954918679010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703676499247915008",
+              "start": 0,
+              "username": "feixuedieying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073272954918679010",
+        "in_reply_to_user_id": "1703676499247915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073271971056677178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feixuedieying 有的，有的，我在推特上看到了，一个男的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703676499247915008",
+        "conversation_id": "2073270831732654468",
+        "created_at": "2026-07-04T05:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073271971056677178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073271971056677178",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073270831732654468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 真的有这种的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 271,
+          "like_count": 18904,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 4317
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-18T07:45:21.000Z",
+        "description": "一鲸落而万物生，也许真正的一切都该回归到原点。\nI'm currently looking for a job in AI security. If anyone is interested, please contact me.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/spindriftpapil…",
+                "end": 23,
+                "expanded_url": "https://github.com/spindriftpapilio",
+                "start": 0,
+                "url": "https://t.co/PBNCdAEb9v"
+              }
+            ]
+          }
+        },
+        "id": "1703676499247915008",
+        "location": "127.0.0.1",
+        "name": "Spindrift Papilio",
+        "pinned_tweet_id": "2073243832595165431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067449852464943104/uxtaf7bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 239,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1300
+        },
+        "url": "https://t.co/PBNCdAEb9v",
+        "username": "feixuedieying",
+        "verified": true
+      }
+    ]
+  }
+}

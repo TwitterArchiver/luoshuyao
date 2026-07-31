@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      }
+    ],
+    "conversation_id": "2077551548889239894",
+    "created_at": "2026-07-16T10:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077705149099971040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077705149099971040",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "纯路人，真的觉得没必要这么黑蔡徐坤，蔡徐坤是优质偶像，非常宠粉，三观也超正，在跑男这种真人秀综艺里面，真的非常能够体现出蔡徐坤优秀的人格特点和为人处事方式，玩游戏时，也不屑于使用非常手段获得游戏胜利，而是通过自己已知的条件、聪明有逻辑的大胆分析，很让人佩服！人也很有礼貌，工作也认真，看到他，我就可以燃起学习的热情，重拾起生活的希望，这不就是偶像的意义吗。小黑子们一直黑他不就是因为羡慕他过得比自己舒服吗，拜托，他的美好生活是自己辛苦工作，无数个日夜练习唱跳才出来的，小黑子们继续黑吧，你们明天起床还是会面对一样的挣扎的生活，但作为ikun的我还是会继续粉他，不仅因为他给我带来的正能量，帮我走出阴霾，一天下一个蛋还能给我补充营养​。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077551548889239894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 纯路人，真的觉得没必要这么黑蔡徐坤，蔡徐坤是优质偶像，非常宠粉，三观也超正，在跑男这种真人秀综艺里面，真的非常能够体现出蔡徐坤优秀的人格特点和为人处事方式，玩游戏时，也不屑于使用非常手段获得游戏胜利，而是通过自己已知的条件、聪明有逻辑的大胆分析，很让人佩服！人也很有礼貌，工作也认"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2077551513854164992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNTyGDHaQAArizq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2077551548889239894",
+        "created_at": "2026-07-16T10:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077705149099971040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077705149099971040",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "纯路人，真的觉得没必要这么黑蔡徐坤，蔡徐坤是优质偶像，非常宠粉，三观也超正，在跑男这种真人秀综艺里面，真的非常能够体现出蔡徐坤优秀的人格特点和为人处事方式，玩游戏时，也不屑于使用非常手段获得游戏胜利，而是通过自己已知的条件、聪明有逻辑的大胆分析，很让人佩服！人也很有礼貌，工作也认真，看到他，我就可以燃起学习的热情，重拾起生活的希望，这不就是偶像的意义吗。小黑子们一直黑他不就是因为羡慕他过得比自己舒服吗，拜托，他的美好生活是自己辛苦工作，无数个日夜练习唱跳才出来的，小黑子们继续黑吧，你们明天起床还是会面对一样的挣扎的生活，但作为ikun的我还是会继续粉他，不仅因为他给我带来的正能量，帮我走出阴霾，一天下一个蛋还能给我补充营养​。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077551548889239894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 纯路人，真的觉得没必要这么黑蔡徐坤，蔡徐坤是优质偶像，非常宠粉，三观也超正，在跑男这种真人秀综艺里面，真的非常能够体现出蔡徐坤优秀的人格特点和为人处事方式，玩游戏时，也不屑于使用非常手段获得游戏胜利，而是通过自己已知的条件、聪明有逻辑的大胆分析，很让人佩服！人也很有礼貌，工作也认"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077551513854164992"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077551548889239894",
+        "created_at": "2026-07-16T00:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077551548889239894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8eInJAMdt",
+              "end": 32,
+              "expanded_url": "https://x.com/Rococo90933671/status/2077551548889239894/photo/1",
+              "media_key": "3_2077551513854164992",
+              "start": 9,
+              "url": "https://t.co/P8eInJAMdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077551548889239894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1189,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来挺喜欢霜月的 https://t.co/P8eInJAMdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 281,
+          "like_count": 19629,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 4585
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13306,
+          "following_count": 3198,
+          "like_count": 43612,
+          "listed_count": 40,
+          "media_count": 4689,
+          "tweet_count": 23931
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

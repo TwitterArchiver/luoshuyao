@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2073726081161662808",
+    "created_at": "2026-07-05T16:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073802441691439258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771883266796388352",
+          "start": 0,
+          "username": "shuyan0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073802441691439258",
+    "in_reply_to_user_id": "1771883266796388352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073802163365765126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuyan0926 确实是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2073726081161662808",
+        "created_at": "2026-07-05T16:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073802441691439258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771883266796388352",
+              "start": 0,
+              "username": "shuyan0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073802441691439258",
+        "in_reply_to_user_id": "1771883266796388352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073802163365765126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuyan0926 确实是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771883266796388352",
+        "conversation_id": "2073726081161662808",
+        "created_at": "2026-07-05T16:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073802163365765126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073802163365765126",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073726081161662808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 發表觀點沒錯，但後面還優越上了就真的很家豪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 271,
+          "like_count": 19019,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 4356
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T12:54:42.000Z",
+        "description": "木羽|書硯|臺灣|INTP|雙性戀|什麼都可以聊|碎唸|@muyuxu1017 小帳，@muyuxu10 裡帳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "muyuxu1017"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "muyuxu10"
+              }
+            ]
+          }
+        },
+        "id": "1771883266796388352",
+        "name": "書硯",
+        "pinned_tweet_id": "2039955952271843624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020485350989385730/HAETY6UG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 493,
+          "like_count": 41922,
+          "listed_count": 1,
+          "media_count": 956,
+          "tweet_count": 9246
+        },
+        "url": "",
+        "username": "shuyan0926",
+        "verified": false
+      }
+    ]
+  }
+}

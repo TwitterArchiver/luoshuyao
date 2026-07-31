@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2040802565051580592",
+    "created_at": "2026-04-05T16:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040828992190877705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        },
+        {
+          "end": 22,
+          "id": "1775833048493240320",
+          "start": 13,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040828992190877705",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040811986125246579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 @kuukiwfn 这心理不就是一直以为是坏人，干一件好事就直接立地成佛，一直以为是好人，干一件坏事就遗臭万年吗？这种心理挺幼稚的，待人接物还是要有自己的判断吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2040802565051580592",
+        "created_at": "2026-04-05T16:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040828992190877705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            },
+            {
+              "end": 22,
+              "id": "1775833048493240320",
+              "start": 13,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040828992190877705",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040811986125246579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 @kuukiwfn 这心理不就是一直以为是坏人，干一件好事就直接立地成佛，一直以为是好人，干一件坏事就遗臭万年吗？这种心理挺幼稚的，待人接物还是要有自己的判断吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2040802565051580592",
+        "created_at": "2026-04-05T15:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040811986125246579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040811986125246579",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040811360188289410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 他这手段一眼就能看出来，实验？和人关系闹掰了，我就说我只是对你感到好奇，想从你身上获取各种数据，完美脱身，这傻逼和之前我差不多，玩弄情感绯闻操控心理是一流的，不管做了什么坏事，只要想出一个借口，就能完美的脱身，还给你一个好人的人设，这种东西简单的要命，还有人信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 278,
+          "like_count": 8073,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040683061646602240/uSc9Up5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 758,
+          "like_count": 1001,
+          "listed_count": 2,
+          "media_count": 841,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040573332723277824/nydvEc7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 718,
+          "like_count": 32523,
+          "listed_count": 0,
+          "media_count": 695,
+          "tweet_count": 2623
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

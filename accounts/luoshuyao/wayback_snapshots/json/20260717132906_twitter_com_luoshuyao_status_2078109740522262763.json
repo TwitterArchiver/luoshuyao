@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2077724439974986224",
+    "created_at": "2026-07-17T13:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078109740522262763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1977030829445681152",
+          "start": 0,
+          "username": "Shoffy55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078109740522262763",
+    "in_reply_to_user_id": "1977030829445681152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077984512194351475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shoffy55 你很棒呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2077724439974986224",
+        "created_at": "2026-07-17T13:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078109740522262763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1977030829445681152",
+              "start": 0,
+              "username": "Shoffy55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078109740522262763",
+        "in_reply_to_user_id": "1977030829445681152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077984512194351475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shoffy55 你很棒呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977030829445681152",
+        "conversation_id": "2077724439974986224",
+        "created_at": "2026-07-17T05:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077984512194351475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077984512194351475",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077724439974986224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我妈也差我几千块没给我，隔三差五找我要个三百五百的..我和她说那些几百几百的就算了不用还我了，把大的记得还我，换我以前真的感觉很痛苦，我给她们钱给她们买衣服买鞋子送礼物都落不下什么好。但我现在看开了很多….确实她们也算是把我好好的养大了，尤其现在搬出来住也不会再天天吵架了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 281,
+          "like_count": 19685,
+          "listed_count": 2,
+          "media_count": 477,
+          "tweet_count": 4598
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T15:17:49.000Z",
+        "description": "我累累的",
+        "id": "1977030829445681152",
+        "name": "忙着喂鸡",
+        "pinned_tweet_id": "2072709649128902928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077274307106099200/lUHORgpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 10,
+          "like_count": 448,
+          "listed_count": 11,
+          "media_count": 406,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "Shoffy55",
+        "verified": false
+      }
+    ]
+  }
+}

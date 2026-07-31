@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070134111138877440"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2070134126875992403",
+    "created_at": "2026-06-25T13:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070134126875992403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2pSeFYgVit",
+          "end": 155,
+          "expanded_url": "https://x.com/luoshuyao/status/2070134126875992403/photo/1",
+          "media_key": "3_2070134111138877440",
+          "start": 132,
+          "url": "https://t.co/2pSeFYgVit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070134126875992403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这段话好恶心。之前就刷到过，现在有人复制粘贴一下又火了。\n谈过几次恋爱就知道了： \n把“纯爱”直接打成幼稚、拧巴、情绪化，把“相处舒服”一概归为“骚货”，这就是以偏概全。\n舒服不等于浅薄，纯爱也不等于幼稚。真正幼稚的，是把复杂的人性简化成这种非黑即白的标签游戏。\n我见过不少纯爱又相处得舒服的人，自己遇不到好的人就去贬低纯爱，那就去过你所谓相处得舒服的生活吧。信这种话的人这辈子遇不到真爱。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这段话好恶心。之前就刷到过，现在有人复制粘贴一下又火了。\n谈过几次恋爱就知道了： \n把“纯爱”直接打成幼稚、拧巴、情绪化，把“相处舒服”一概归为“骚货”，这就是以偏概全。\n舒服不等于浅薄，纯爱也不等于幼稚。真正幼稚的，是把复杂的人性简化成这种非黑即白的标签游戏。 https://t.co/2pSeFYgVit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 547,
+        "media_key": "3_2070134111138877440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqYAYvaEAAStsX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070134111138877440"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2070134126875992403",
+        "created_at": "2026-06-25T13:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070134126875992403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pSeFYgVit",
+              "end": 155,
+              "expanded_url": "https://x.com/luoshuyao/status/2070134126875992403/photo/1",
+              "media_key": "3_2070134111138877440",
+              "start": 132,
+              "url": "https://t.co/2pSeFYgVit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070134126875992403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这段话好恶心。之前就刷到过，现在有人复制粘贴一下又火了。\n谈过几次恋爱就知道了： \n把“纯爱”直接打成幼稚、拧巴、情绪化，把“相处舒服”一概归为“骚货”，这就是以偏概全。\n舒服不等于浅薄，纯爱也不等于幼稚。真正幼稚的，是把复杂的人性简化成这种非黑即白的标签游戏。\n我见过不少纯爱又相处得舒服的人，自己遇不到好的人就去贬低纯爱，那就去过你所谓相处得舒服的生活吧。信这种话的人这辈子遇不到真爱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这段话好恶心。之前就刷到过，现在有人复制粘贴一下又火了。\n谈过几次恋爱就知道了： \n把“纯爱”直接打成幼稚、拧巴、情绪化，把“相处舒服”一概归为“骚货”，这就是以偏概全。\n舒服不等于浅薄，纯爱也不等于幼稚。真正幼稚的，是把复杂的人性简化成这种非黑即白的标签游戏。 https://t.co/2pSeFYgVit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 273,
+          "like_count": 18947,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2025943291762737349",
+    "created_at": "2026-02-23T15:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025951236294651952"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025951236294651952",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025943291762737349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时我妈还是坚持把我生下来说再苦再累也要把我养大，所以我一直都很感激她能留我一命。但是她又不要我了，我感觉活着也没什么意义了。\n第二天一大早五点多钟，我没有像往常一样去学校，一想到去学校就恶心想吐，压抑得想死，但是我又不知道去哪里，就一直麻木地走着，往学校相反的方向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2025943291762737349",
+        "created_at": "2026-02-23T15:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025951236294651952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025951236294651952",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025943291762737349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时我妈还是坚持把我生下来说再苦再累也要把我养大，所以我一直都很感激她能留我一命。但是她又不要我了，我感觉活着也没什么意义了。\n第二天一大早五点多钟，我没有像往常一样去学校，一想到去学校就恶心想吐，压抑得想死，但是我又不知道去哪里，就一直麻木地走着，往学校相反的方向"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2025943291762737349",
+        "created_at": "2026-02-23T14:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025943291762737349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025943291762737349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也曾想过一了百了，但最后还是选择继续活着。那时我的抑郁一部分来自学业和家里人的压力，一部分来自内心的孤独自闭，一部分来自自己的胡思乱想，最后陷入了虚无主义。特别是高三的时候，心理压力越来越大，记忆力也在不断衰退，整夜整夜地失眠，然后成绩也跟着退步，紧接着就是焦虑，就这样恶性循环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n游戏方面手游基本什么都玩过，王者吃鸡原神鸣潮崩铁三角洲明日方舟……（此处省略一万字）端游比较手残，星露谷那种种田休闲玩的比较多，欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476662676856061956/nt9mtDyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 48,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

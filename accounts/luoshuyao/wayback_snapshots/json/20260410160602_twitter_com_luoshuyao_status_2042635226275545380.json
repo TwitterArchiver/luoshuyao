@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2042631191896244361",
+    "created_at": "2026-04-10T16:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042635226275545380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829436939826774016",
+          "start": 0,
+          "username": "dachuan_CN5622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042635226275545380",
+    "in_reply_to_user_id": "1829436939826774016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042631191896244361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dachuan_CN5622 一定是互动得太少了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2042631187727089664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjiPi-bgAAUK6F.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2042631191896244361",
+        "created_at": "2026-04-10T16:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042635226275545380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829436939826774016",
+              "start": 0,
+              "username": "dachuan_CN5622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042635226275545380",
+        "in_reply_to_user_id": "1829436939826774016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042631191896244361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dachuan_CN5622 一定是互动得太少了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042631187727089664"
+          ]
+        },
+        "author_id": "1829436939826774016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042631191896244361",
+        "created_at": "2026-04-10T15:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042631191896244361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/julMlA2IJe",
+              "end": 46,
+              "expanded_url": "https://x.com/dachuan_CN5622/status/2042631191896244361/photo/1",
+              "media_key": "3_2042631187727089664",
+              "start": 23,
+              "url": "https://t.co/julMlA2IJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042631191896244361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘛，我就不说我人缘到底算不算太差了\n就酱（） https://t.co/julMlA2IJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 281,
+          "like_count": 8771,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T08:32:32.000Z",
+        "description": "中/日/英综合大号: @dachuan_DC \n喜欢数码📱/怀旧📟，喜欢玩气球🎈～\n我不一定每天上推，请留意；只发日常、玩气球、数码、怀旧等内容；喜欢涩涩但是不发涩涩，不键政，对我友好的人都会对你友好，如有无言follow请见谅。\n在我这打广告的先过191.9以上🚪，不然拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "dachuan_DC"
+              }
+            ]
+          }
+        },
+        "id": "1829436939826774016",
+        "location": "🚪11.4/51.4/191.9/810 互粉/友好者免费",
+        "name": "Dachuan (aka. 大川)🎈📱📟",
+        "pinned_tweet_id": "2034242904101966165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829437032466386944/tDzx14ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 260,
+          "like_count": 2536,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 1173
+        },
+        "username": "dachuan_CN5622",
+        "verified": false
+      }
+    ]
+  }
+}

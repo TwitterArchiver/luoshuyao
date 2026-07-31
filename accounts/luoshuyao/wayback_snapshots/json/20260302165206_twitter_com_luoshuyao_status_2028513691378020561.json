@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2028491190786822597",
+    "created_at": "2026-03-02T16:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028513691378020561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881345106512592897",
+          "start": 0,
+          "username": "gugugugu107905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028513691378020561",
+    "in_reply_to_user_id": "1881345106512592897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028512945358164428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugugu107905 谢谢夸奖呀，我的字从小到大一直都是这样的，自成一派(◦˙▽˙◦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2028491190786822597",
+        "created_at": "2026-03-02T16:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028513691378020561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881345106512592897",
+              "start": 0,
+              "username": "gugugugu107905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028513691378020561",
+        "in_reply_to_user_id": "1881345106512592897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028512945358164428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugugu107905 谢谢夸奖呀，我的字从小到大一直都是这样的，自成一派(◦˙▽˙◦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881345106512592897",
+        "conversation_id": "2028491190786822597",
+        "created_at": "2026-03-02T16:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028512945358164428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028512945358164428",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028491190786822597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 太娟秀了，是女孩子吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 87,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 180
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T14:16:55.000Z",
+        "description": "stuckInFuckinHell-人类观察所(Human Observation Organization HOO)前主任/极度厌蠢厌巨婴厌NPD/来自地狱的躁狂兼职典狱长/梦想是创立自己的宗教/不参与价值交换/不擅长发表暴论/喜好猎奇",
+        "id": "1881345106512592897",
+        "location": "Human Observation Org",
+        "name": "Magni-Tanukyee🦝",
+        "pinned_tweet_id": "2028201481267294702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014709878275657728/mRlHFfpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 585,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1122
+        },
+        "username": "gugugugu107905",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067636669285842944"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2067639418291442079",
+    "created_at": "2026-06-18T16:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067639418291442079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/05DMUoxwVf",
+          "end": 57,
+          "expanded_url": "https://x.com/luoshuyao/status/2067639418291442079/photo/1",
+          "media_key": "3_2067636669285842944",
+          "start": 34,
+          "url": "https://t.co/05DMUoxwVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067639418291442079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "漫画我看的很少。记得小时候喜欢看《知音漫客》，里面有很多经典国漫。\n这几年国漫只看过一人之下，日漫的话五年前看过鬼灭之刃，四年前看过电锯人，炎拳，蓦然回首，再见绘梨，只有藤本树的漫画是我主动去找着看的，因为被朋友推荐了炎拳，看完之后我就想看看这个精神病还有没有别的作品。同样在四年前看了咒术回战。还有在三年前看过进击的巨人，如果你没有看过的话，强烈推荐你可以去看一下。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "漫画我看的很少。记得小时候喜欢看《知音漫客》，里面有很多经典国漫。 https://t.co/05DMUoxwVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2067636669285842944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG4mI1awAA9iS7.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067636669285842944"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2067639418291442079",
+        "created_at": "2026-06-18T16:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067639418291442079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05DMUoxwVf",
+              "end": 57,
+              "expanded_url": "https://x.com/luoshuyao/status/2067639418291442079/photo/1",
+              "media_key": "3_2067636669285842944",
+              "start": 34,
+              "url": "https://t.co/05DMUoxwVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067639418291442079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "漫画我看的很少。记得小时候喜欢看《知音漫客》，里面有很多经典国漫。\n这几年国漫只看过一人之下，日漫的话五年前看过鬼灭之刃，四年前看过电锯人，炎拳，蓦然回首，再见绘梨，只有藤本树的漫画是我主动去找着看的，因为被朋友推荐了炎拳，看完之后我就想看看这个精神病还有没有别的作品。同样在四年前看了咒术回战。还有在三年前看过进击的巨人，如果你没有看过的话，强烈推荐你可以去看一下。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漫画我看的很少。记得小时候喜欢看《知音漫客》，里面有很多经典国漫。 https://t.co/05DMUoxwVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 287,
+          "like_count": 18338,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 4015
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

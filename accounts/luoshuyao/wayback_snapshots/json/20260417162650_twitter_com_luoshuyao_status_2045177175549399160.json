@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045004004711911712",
+    "created_at": "2026-04-17T16:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045177175549399160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513514021605220356",
+          "start": 0,
+          "username": "babalabuOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045177175549399160",
+    "in_reply_to_user_id": "1513514021605220356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045176915733168425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babalabuOK 我可以聪明，也可以不聪明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045004004711911712",
+        "created_at": "2026-04-17T16:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045177175549399160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513514021605220356",
+              "start": 0,
+              "username": "babalabuOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045177175549399160",
+        "in_reply_to_user_id": "1513514021605220356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045176915733168425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babalabuOK 我可以聪明，也可以不聪明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513514021605220356",
+        "conversation_id": "2045004004711911712",
+        "created_at": "2026-04-17T16:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045176915733168425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045176915733168425",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045174068543164831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 哦🙀🙀你就很聪明哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 273,
+          "like_count": 9926,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-11T13:47:30.000Z",
+        "description": "男的",
+        "id": "1513514021605220356",
+        "name": "babala",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513821521940455425/88gwCMK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 88,
+          "like_count": 11624,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 999
+        },
+        "username": "babalabuOK",
+        "verified": false
+      }
+    ]
+  }
+}

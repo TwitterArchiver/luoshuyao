@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2066136815942410491",
+    "created_at": "2026-06-14T12:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066137796721668413"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066137796721668413",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066136815942410491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孤独对我来说早就无所谓了，我一个人的时候甚至感受不到它的存在。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2066136815942410491",
+        "created_at": "2026-06-14T12:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137796721668413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066137796721668413",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066136815942410491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孤独对我来说早就无所谓了，我一个人的时候甚至感受不到它的存在。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2066136815942410491",
+        "created_at": "2026-06-14T12:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066136815942410491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ooobsess/statu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/ooobsess/status/2065791484205433067",
+              "start": 138,
+              "url": "https://t.co/h5csxsIBXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066136815942410491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065791484205433067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经连着两年没有回家过年了，一个人在外面。除夕那天工作到下午6点，晚上回去一个人坐在床上，手机里放着春晚，然后在电脑上玩单机游戏。其实有朋友提前联系了我说一起玩游戏一起跨年，最后我还是选择一个人。春晚的氛围很热闹，但我并没有感到厌烦，也没有感到孤单，因为这些热闹与我无关。 https://t.co/h5csxsIBXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 288,
+          "like_count": 17904,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 3901
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

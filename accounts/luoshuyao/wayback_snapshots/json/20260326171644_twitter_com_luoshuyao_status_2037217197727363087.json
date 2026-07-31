@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2037178612542234779",
+    "created_at": "2026-03-26T17:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037217197727363087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029403000293474307",
+          "start": 0,
+          "username": "AcaneYu10309"
+        }
+      ],
+      "urls": [
+        {
+          "description": "社交正面人格测试集合了日常工作学习、社交生活中展现出的美好品质，探寻你独一无二的性格特质。",
+          "display_url": "arealme.com/positive-perso…",
+          "end": 37,
+          "expanded_url": "https://www.arealme.com/positive-personality-test/cn/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2037181942672523264/hsr2uiyz?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2037181942672523264/hsr2uiyz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "社交正面人格测试",
+          "unwound_url": "https://www.arealme.com/positive-personality-test/cn/",
+          "url": "https://t.co/dBz2nXkdmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037217197727363087",
+    "in_reply_to_user_id": "2029403000293474307",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037202356346249345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcaneYu10309 https://t.co/dBz2nXkdmy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2037178612542234779",
+        "created_at": "2026-03-26T17:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037217197727363087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029403000293474307",
+              "start": 0,
+              "username": "AcaneYu10309"
+            }
+          ],
+          "urls": [
+            {
+              "description": "社交正面人格测试集合了日常工作学习、社交生活中展现出的美好品质，探寻你独一无二的性格特质。",
+              "display_url": "arealme.com/positive-perso…",
+              "end": 37,
+              "expanded_url": "https://www.arealme.com/positive-personality-test/cn/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037181942672523264/hsr2uiyz?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037181942672523264/hsr2uiyz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "社交正面人格测试",
+              "unwound_url": "https://www.arealme.com/positive-personality-test/cn/",
+              "url": "https://t.co/dBz2nXkdmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037217197727363087",
+        "in_reply_to_user_id": "2029403000293474307",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037202356346249345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcaneYu10309 https://t.co/dBz2nXkdmy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029403000293474307",
+        "conversation_id": "2037178612542234779",
+        "created_at": "2026-03-26T16:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037202356346249345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037202356346249345",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037178612542234779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 有链接吗我也想试试🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 277,
+          "like_count": 6172,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1240
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T03:47:01.000Z",
+        "description": "19 请不要在意我的性别\n如果我的发言造成了困扰请告知\n我有过抑郁症 目前正在尽自己所能爱生活 会发画会发日常\n会回fo 感谢捧场\n中/En 可以无障碍沟通 簡単な日本語なら分かる",
+        "id": "2029403000293474307",
+        "name": "拾叁叁",
+        "pinned_tweet_id": "2029404364725752111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690113592946688/D_BUFdYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 190,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 209
+        },
+        "username": "AcaneYu10309",
+        "verified": false
+      }
+    ]
+  }
+}

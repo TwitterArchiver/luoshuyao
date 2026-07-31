@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069707764633329924",
+    "created_at": "2026-06-24T11:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069743906712068416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "KissaHsgsta1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069743906712068416",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069707764633329924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KissaHsgsta1106 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069707764633329924",
+        "created_at": "2026-06-24T11:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069743906712068416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "KissaHsgsta1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069743906712068416",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069707764633329924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KissaHsgsta1106 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774264719773409280",
+        "conversation_id": "2069707764633329924",
+        "created_at": "2026-06-24T09:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069707764633329924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069707764633329924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 893,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊 今天原来是我18岁生日啊，现在才想起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 272,
+          "like_count": 18895,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 4188
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "location": "乌茨约基，拉普兰",
+        "name": "赫尔辛基的猫 🇫🇮🇪🇪",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064179889285029888/cvKkEaQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 770,
+          "like_count": 43865,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1901
+        },
+        "url": "",
+        "username": "KissaHsgsta1106",
+        "verified": false
+      }
+    ]
+  }
+}

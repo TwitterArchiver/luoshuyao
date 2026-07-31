@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2046060139736961102",
+    "created_at": "2026-04-20T12:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046198224655196216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046198224655196216",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我不明白，我一个普通的老百姓，为什么要让我看这些，我真的很崩溃，我真的好想哭，我真的很无力，我奶送我的玉镯炸了，我爷给我的符纸自燃了，我拜过的神仙陨落了，给我护道的狐仙被配，家里玉佩全碎了，菩萨也断臂求生了，黄金法器全发黑了，我额头越来越黑了，我好崩溃 菩萨断臂求生了，金银器全发黑冒烟了，糯米被掰成爆米花了，关公相也睁眼了，桃木剑被当成牙签了，铜钱剑化成灰了，黑白列也变成黑白无常了，保护我的狐仙被配了，认识的风水先生也出车祸了，我拜过的神仙陨落了，家里的猫被断尾求生了，请的道士被秒了，就连老天师也躲进红伞里去了，旁边有只鬼拿着一把糯米糖我手机上了死了36个道士，88个和尚，77个神父，25个驱魔师，17个萨满，52个巫女，44个神官，13个祭司，95个阴阳师，69个法师，21个降头，64个居士，73个女巫。糯米被当成好好吃了 黑狗血被当可乐喝了 符纸被当成厕纸用了 桃木剑被当牙签用了 给我护法的狐仙让人配了 八卦镜被拿去当镜子用了 铃铛被拿去挂狗身上了 人偶被拿去当手办了头顶的轮圈转冒烟了，但还是走马灯了。我不想走马灯再看第二遍了 我已经没有办法了幸好我还请了道士【钱】不豪道士全死了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046060139736961102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 我不明白，我一个普通的老百姓，为什么要让我看这些，我真的很崩溃，我真的好想哭，我真的很无力，我奶送我的玉镯炸了，我爷给我的符纸自燃了，我拜过的神仙陨落了，给我护道的狐仙被配，家里玉佩全碎了，菩萨也断臂求生了，黄金法器全发黑了，我额头越来越黑了，我好崩溃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13815,
+        "height": 1280,
+        "media_key": "7_2046059907619897344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046059907619897344/pu/img/LPBX8PRKD9cSgtgX.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046059907619897344/pu/vid/avc1/320x694/p2HMCce2Hc_FblGe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046059907619897344/pu/vid/avc1/480x1040/AcLudoDNNoI8aZLI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046059907619897344/pu/vid/avc1/590x1280/H7OiIRmXZPBaEGgX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046059907619897344/pu/pl/CQxXnCEY-1iVmOxZ.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2046060139736961102",
+        "created_at": "2026-04-20T12:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046198224655196216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046198224655196216",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不明白，我一个普通的老百姓，为什么要让我看这些，我真的很崩溃，我真的好想哭，我真的很无力，我奶送我的玉镯炸了，我爷给我的符纸自燃了，我拜过的神仙陨落了，给我护道的狐仙被配，家里玉佩全碎了，菩萨也断臂求生了，黄金法器全发黑了，我额头越来越黑了，我好崩溃 菩萨断臂求生了，金银器全发黑冒烟了，糯米被掰成爆米花了，关公相也睁眼了，桃木剑被当成牙签了，铜钱剑化成灰了，黑白列也变成黑白无常了，保护我的狐仙被配了，认识的风水先生也出车祸了，我拜过的神仙陨落了，家里的猫被断尾求生了，请的道士被秒了，就连老天师也躲进红伞里去了，旁边有只鬼拿着一把糯米糖我手机上了死了36个道士，88个和尚，77个神父，25个驱魔师，17个萨满，52个巫女，44个神官，13个祭司，95个阴阳师，69个法师，21个降头，64个居士，73个女巫。糯米被当成好好吃了 黑狗血被当可乐喝了 符纸被当成厕纸用了 桃木剑被当牙签用了 给我护法的狐仙让人配了 八卦镜被拿去当镜子用了 铃铛被拿去挂狗身上了 人偶被拿去当手办了头顶的轮圈转冒烟了，但还是走马灯了。我不想走马灯再看第二遍了 我已经没有办法了幸好我还请了道士【钱】不豪道士全死了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046060139736961102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 我不明白，我一个普通的老百姓，为什么要让我看这些，我真的很崩溃，我真的好想哭，我真的很无力，我奶送我的玉镯炸了，我爷给我的符纸自燃了，我拜过的神仙陨落了，给我护道的狐仙被配，家里玉佩全碎了，菩萨也断臂求生了，黄金法器全发黑了，我额头越来越黑了，我好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046059907619897344"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2046060139736961102",
+        "created_at": "2026-04-20T02:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046060139736961102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JIByfqT91",
+              "end": 36,
+              "expanded_url": "https://x.com/neko0202002/status/2046060139736961102/video/1",
+              "media_key": "7_2046059907619897344",
+              "start": 13,
+              "url": "https://t.co/7JIByfqT91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046060139736961102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我翻墙不是来看这个的…… https://t.co/7JIByfqT91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 281,
+          "like_count": 10484,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 869,
+          "like_count": 1282,
+          "listed_count": 2,
+          "media_count": 1112,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

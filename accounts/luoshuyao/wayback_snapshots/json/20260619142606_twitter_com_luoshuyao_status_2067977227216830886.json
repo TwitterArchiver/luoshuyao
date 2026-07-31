@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2067959936429285740",
+    "created_at": "2026-06-19T14:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067977227216830886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061242157453983744",
+          "start": 0,
+          "username": "YingZaisamadesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067977227216830886",
+    "in_reply_to_user_id": "2061242157453983744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067959936429285740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisamadesu 粉面菜蛋神中神🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067959926228713472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLemKybAAAEmkq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2067959936429285740",
+        "created_at": "2026-06-19T14:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067977227216830886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061242157453983744",
+              "start": 0,
+              "username": "YingZaisamadesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067977227216830886",
+        "in_reply_to_user_id": "2061242157453983744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067959936429285740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisamadesu 粉面菜蛋神中神🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067959926228713472"
+          ]
+        },
+        "author_id": "2061242157453983744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067959936429285740",
+        "created_at": "2026-06-19T13:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067959936429285740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTCKlDIv2q",
+              "end": 71,
+              "expanded_url": "https://x.com/YingZaisamadesu/status/2067959936429285740/photo/1",
+              "media_key": "3_2067959926228713472",
+              "start": 48,
+              "url": "https://t.co/TTCKlDIv2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067959936429285740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好吃...我的生活是被一次次好吃的食物，一部部好看的动漫，一次次发疯的做傻事所拯救的.... https://t.co/TTCKlDIv2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 286,
+          "like_count": 18385,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 4036
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T00:25:59.000Z",
+        "description": "06/目前就读于异世界大学➧ 猫头鹰教教主👑   ⚠️阴暗死宅（重度二次元）我只是一只猫头鹰，也只是一只猫头鹰. 「中二病严重患者」⚠️❌ 坚定的纯爱主义者.⚠️照片高P线下查无此人⚠️双重人格⚠️ 遇到自己兴趣方面会变得疯癫⚠️我从来不是什么正常人，这里只有我的阴暗和疯癫面，我也只是一个缺爱阴暗老鼠🐭",
+        "id": "2061242157453983744",
+        "location": "彼岸",
+        "name": "✞ Nocturne Eagle ✞",
+        "pinned_tweet_id": "2061397668979696104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061242991994699776/R6ZXROtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 39,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "YingZaisamadesu",
+        "verified": false
+      }
+    ]
+  }
+}

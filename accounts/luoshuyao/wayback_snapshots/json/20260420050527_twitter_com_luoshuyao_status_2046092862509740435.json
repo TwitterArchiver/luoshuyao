@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2046092142452576320",
+    "created_at": "2026-04-20T05:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046092862509740435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785197366200705024",
+          "start": 0,
+          "username": "masike1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046092862509740435",
+    "in_reply_to_user_id": "1785197366200705024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046092625082716528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masike1d 这么敢说吗？我不敢说，肯定会被骂死的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2046092142452576320",
+        "created_at": "2026-04-20T05:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046092862509740435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785197366200705024",
+              "start": 0,
+              "username": "masike1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046092862509740435",
+        "in_reply_to_user_id": "1785197366200705024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046092625082716528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masike1d 这么敢说吗？我不敢说，肯定会被骂死的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785197366200705024",
+        "conversation_id": "2046092142452576320",
+        "created_at": "2026-04-20T05:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046092625082716528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046092625082716528",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046092142452576320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我是直接跟我爸妈说:\n我好像不是你们俩亲生的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 281,
+          "like_count": 10441,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-30T06:40:09.000Z",
+        "description": "Welcome to my Twitter!",
+        "id": "1785197366200705024",
+        "location": "距离你 1米",
+        "name": "小爱同学",
+        "pinned_tweet_id": "2043221897929007364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036235807409975296/1tL-yqUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 375,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1774
+        },
+        "username": "masike1d",
+        "verified": true
+      }
+    ]
+  }
+}

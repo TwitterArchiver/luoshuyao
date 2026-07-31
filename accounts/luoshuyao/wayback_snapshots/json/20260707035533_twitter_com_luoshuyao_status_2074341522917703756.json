@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2074325578979983869",
+    "created_at": "2026-07-07T03:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074341522917703756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074341522917703756",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074325578979983869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 内耗是因为你太有良心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2074325578979983869",
+        "created_at": "2026-07-07T03:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074341522917703756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074341522917703756",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074325578979983869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 内耗是因为你太有良心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2074325578979983869",
+        "created_at": "2026-07-07T02:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074325578979983869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074325578979983869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "内耗的源头其实可以追溯到很早的——没错，这里又要开始陈词滥调原生家庭了，不喜勿喷🥹\n\n最早的那股压力，大概是从感恩教育开始的。从小到大，耳边总是被塞进那些话：好吃好喝供着你，你就是这么回报我们的？我们不管多难，怎么想办法，也从来没亏待过你。我们这么拼死拼活的，还不都是为了你。听着听着，就会慢慢形成一个念头——我生下来就欠着全家人的，我是这个家庭的负担，如果不能成功，就会让所有人都失望。这像一块石头，从懂事那天就压在心上，再也没有挪开过。\n\n到了第二阶段，压力来自另一种教育，责备式的。回想小时候，假如因为贪玩在路上摔倒，膝盖磕破了，还没来得及喊疼，家人先急了，为了让你长记性，当场就是一顿打骂。次数多了，心里就会自动生成一个公式：不管什么原因，犯错就是给家人添麻烦，会受到惩罚，家人会变脸。于是，走路要小心，说话要小心，做任何事都要小心。那个“不能犯错”的警报，从此再没关过。\n\n这两股压力在成长的路上慢慢叠在一起，越压越厚。外人看来，你会变得越来越懂事，不惹事，不争抢，安安静静的。只有自己知道，内心里每天都在挣扎——稍微松懈一下，负罪感就涌上来，总觉得自己一事无成，不配玩，不配休息。想想看，是不是随着年龄增长，你已经很难在玩里找到那种纯粹的快乐了？总觉得身后有人在看，有个声音在说，你还有正事没做。\n\n这种状态下，人是不敢犯错的。不只是不敢，是连“试”这个念头都会让人紧张。久而久之，执行力变得越来越弱。你可能会相信自己只要努力就能做成某件事，可问题是，你根本不敢真的去努力。因为努力就意味着投入时间和精力，就意味着可能失败，而失败是绝对不允许的。你害怕那种投入一切却什么都没得到的结局。于是慢慢学会了一种自我安慰的方式——我只是还没开始努力，我要是真拼起来，一定行。这句话听起来像信心，其实是在保护自己，保护自己不去面对那个可能失败的结果。\n\n然后就形成了一个很可怕的闭环。心里想做，但始终犹豫不决；因为没有行动，得不到正反馈；没有正反馈，就开始自我攻击，觉得自己没用；攻击完了，更没有力气去行动；继续没有正反馈；最后干脆彻底躺平。这个过程不是某一天突然发生的，是日复一日、年复一年，慢慢把自己绕进去的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内耗的源头其实可以追溯到很早的——没错，这里又要开始陈词滥调原生家庭了，不喜勿喷🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 272,
+          "like_count": 19145,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 4384
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13119,
+          "following_count": 3176,
+          "like_count": 42879,
+          "listed_count": 41,
+          "media_count": 4601,
+          "tweet_count": 23612
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2061109489147990476",
+    "created_at": "2026-05-31T15:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061112045815431228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929142623769378816",
+          "start": 0,
+          "username": "JayGreen5638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061112045815431228",
+    "in_reply_to_user_id": "1929142623769378816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061110901303050366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayGreen5638 工作氛围不好确实会很难受，如果是我的话也受不了。不过我的运气很好，我所在的团队每个人脾气都很好，几乎都不会生气，谁工作出了问题也不会去责怪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2061109489147990476",
+        "created_at": "2026-05-31T15:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061112045815431228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929142623769378816",
+              "start": 0,
+              "username": "JayGreen5638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061112045815431228",
+        "in_reply_to_user_id": "1929142623769378816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061110901303050366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayGreen5638 工作氛围不好确实会很难受，如果是我的话也受不了。不过我的运气很好，我所在的团队每个人脾气都很好，几乎都不会生气，谁工作出了问题也不会去责怪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929142623769378816",
+        "conversation_id": "2061109489147990476",
+        "created_at": "2026-05-31T15:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061110901303050366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061110901303050366",
+        "in_reply_to_user_id": "1929142623769378816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061110741713977707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 干了一年不到，跑路了，天天被骂的受不了，抗压能力太差了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 288,
+          "like_count": 16742,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T11:47:08.000Z",
+        "description": "男的/ 伪君子，26年过得健康点了",
+        "id": "1929142623769378816",
+        "name": "阿库娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997684219359985665/6L3YnsJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 64,
+          "like_count": 2092,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2844
+        },
+        "username": "JayGreen5638",
+        "verified": false
+      }
+    ]
+  }
+}

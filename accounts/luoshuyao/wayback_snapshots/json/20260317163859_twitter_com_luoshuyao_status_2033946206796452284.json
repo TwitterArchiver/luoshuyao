@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2033944721220112823",
+    "created_at": "2026-03-17T16:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033946206796452284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952044125454475264",
+          "start": 0,
+          "username": "Neflibata0626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033946206796452284",
+    "in_reply_to_user_id": "1952044125454475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033944721220112823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neflibata0626 那很雷霆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2033944721220112823",
+        "created_at": "2026-03-17T16:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033946206796452284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952044125454475264",
+              "start": 0,
+              "username": "Neflibata0626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033946206796452284",
+        "in_reply_to_user_id": "1952044125454475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033944721220112823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neflibata0626 那很雷霆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952044125454475264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2033944721220112823",
+        "created_at": "2026-03-17T16:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033944721220112823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033944721220112823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寻找雷霆男友\n1.必须足够傻 \n2.必须精通各种烂梗\n3.必须没有对象\n4.必须是5g网\n5.不能嫌弃我的雷霆音\n6.必须淫商高于智商\n7.必须粘人\n8.必须是阴间作息\n9.必须贱但不能比我贱\n10.必须喜欢和小动物玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 249,
+          "like_count": 4571,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 822
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "不约不约不约不约不约",
+        "id": "1952044125454475264",
+        "location": "距离你心的1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2032375733717528673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033468632790073344/gm6YxlB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 109,
+          "like_count": 5697,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2928
+        },
+        "username": "Neflibata0626",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068686011350278144"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2068691760591909130",
+    "created_at": "2026-06-21T13:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068691760591909130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/msOeG3BVXi",
+          "end": 164,
+          "expanded_url": "https://x.com/luoshuyao/status/2068691760591909130/photo/1",
+          "media_key": "3_2068686011350278144",
+          "start": 141,
+          "url": "https://t.co/msOeG3BVXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068691760591909130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我想写点什么，不然感觉大脑会生锈。这是发生在两个半月之前的事情，那时的我工作内容还算轻松，所以还有精力去做这些事情。当时他关注了我找我私聊，想给我发个红包。这是第一次在这里有人想给我钱，我能理解他为什么这么做。我看到他也会给其他缺钱的过得不好的人转钱，他是一个好心人，但是我不能收。首先我确实觉得我受之有愧，我不是什么专业人士，我觉得我做的还不够好，很多时候我甚至不知道该怎么说；第二我做这些只是因为我想去做，并且真的有帮助到别人，我并没有想要什么，收了的话会违背我的本心，会让我良心不安。第三我也没有花钱去做这些事情，如果说我做的事情很大，很需要钱去帮助大家我可能会收，但是我做的只是微不足道的小事而已。第四我并没有为他做什么，如果收了他的钱会让我感觉是欠他的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想写点什么，不然感觉大脑会生锈。这是发生在两个半月之前的事情，那时的我工作内容还算轻松，所以还有精力去做这些事情。当时他关注了我找我私聊，想给我发个红包。这是第一次在这里有人想给我钱，我能理解他为什么这么做。我看到他也会给其他缺钱的过得不好的人转钱，他是一个好心人，但是我不能收 https://t.co/msOeG3BVXi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_2068686011350278144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVy94paYAA-yXf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068686011350278144"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2068691760591909130",
+        "created_at": "2026-06-21T13:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068691760591909130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msOeG3BVXi",
+              "end": 164,
+              "expanded_url": "https://x.com/luoshuyao/status/2068691760591909130/photo/1",
+              "media_key": "3_2068686011350278144",
+              "start": 141,
+              "url": "https://t.co/msOeG3BVXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691760591909130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想写点什么，不然感觉大脑会生锈。这是发生在两个半月之前的事情，那时的我工作内容还算轻松，所以还有精力去做这些事情。当时他关注了我找我私聊，想给我发个红包。这是第一次在这里有人想给我钱，我能理解他为什么这么做。我看到他也会给其他缺钱的过得不好的人转钱，他是一个好心人，但是我不能收。首先我确实觉得我受之有愧，我不是什么专业人士，我觉得我做的还不够好，很多时候我甚至不知道该怎么说；第二我做这些只是因为我想去做，并且真的有帮助到别人，我并没有想要什么，收了的话会违背我的本心，会让我良心不安。第三我也没有花钱去做这些事情，如果说我做的事情很大，很需要钱去帮助大家我可能会收，但是我做的只是微不足道的小事而已。第四我并没有为他做什么，如果收了他的钱会让我感觉是欠他的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想写点什么，不然感觉大脑会生锈。这是发生在两个半月之前的事情，那时的我工作内容还算轻松，所以还有精力去做这些事情。当时他关注了我找我私聊，想给我发个红包。这是第一次在这里有人想给我钱，我能理解他为什么这么做。我看到他也会给其他缺钱的过得不好的人转钱，他是一个好心人，但是我不能收 https://t.co/msOeG3BVXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 286,
+          "like_count": 18621,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 4099
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2076336844623769697",
+    "created_at": "2026-07-12T16:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076341140983529584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568430640428875776",
+          "start": 0,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076341140983529584",
+    "in_reply_to_user_id": "1568430640428875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076336844623769697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesStrayPuppy 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076336839867383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNChWt5aQAA5z4u.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2076336844623769697",
+        "created_at": "2026-07-12T16:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076341140983529584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568430640428875776",
+              "start": 0,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076341140983529584",
+        "in_reply_to_user_id": "1568430640428875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076336844623769697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesStrayPuppy 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076336839867383808"
+          ]
+        },
+        "author_id": "1568430640428875776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076336844623769697",
+        "created_at": "2026-07-12T16:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076336844623769697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKOEwkomVR",
+              "end": 30,
+              "expanded_url": "https://x.com/YesStrayPuppy/status/2076336844623769697/photo/1",
+              "media_key": "3_2076336839867383808",
+              "start": 7,
+              "url": "https://t.co/EKOEwkomVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076336844623769697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我，成年了😎 https://t.co/EKOEwkomVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 280,
+          "like_count": 19589,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 4551
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|取关随意一切随意！不用礼貌回关！！！💃🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "💤",
+        "name": "小夜野耶椰也",
+        "pinned_tweet_id": "2068928383447347343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 519,
+          "like_count": 28720,
+          "listed_count": 2,
+          "media_count": 717,
+          "tweet_count": 8395
+        },
+        "url": "",
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

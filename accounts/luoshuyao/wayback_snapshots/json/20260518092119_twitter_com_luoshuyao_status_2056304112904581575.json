@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2056301739712901306",
+    "created_at": "2026-05-18T09:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056304112904581575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1591049718188081153",
+          "start": 0,
+          "username": "Fullcounter1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056304112904581575",
+    "in_reply_to_user_id": "1591049718188081153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056303254435479857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fullcounter1111 妈妈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2056301739712901306",
+        "created_at": "2026-05-18T09:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056304112904581575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591049718188081153",
+              "start": 0,
+              "username": "Fullcounter1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056304112904581575",
+        "in_reply_to_user_id": "1591049718188081153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056303254435479857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fullcounter1111 妈妈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591049718188081153",
+        "conversation_id": "2056301739712901306",
+        "created_at": "2026-05-18T09:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056303254435479857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056303254435479857",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056301739712901306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 找……呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 290,
+          "like_count": 16008,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T12:47:02.000Z",
+        "description": "男 喜欢 动漫/游戏/音乐/足球/羽毛球/狗/女孩子/单马尾/白色贝雷帽",
+        "id": "1591049718188081153",
+        "name": "四月是你的谎言",
+        "pinned_tweet_id": "2039203957114101770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041364492022669312/jzU11dIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 18,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3607
+        },
+        "username": "Fullcounter1111",
+        "verified": false
+      }
+    ]
+  }
+}

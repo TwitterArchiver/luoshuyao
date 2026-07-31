@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045808808266723547",
+    "created_at": "2026-04-19T13:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045852210677125540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045852210677125540",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045851708820238690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim1 原来是真人的吗？还挺有原则的。我还以为全是人机刷的私信。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2045851697034264578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRTR3DbgAIVdSz.jpg",
+        "width": 1242
+      },
+      {
+        "height": 613,
+        "media_key": "3_2045851697059414016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRTR3JbQAABL7m.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045808808266723547",
+        "created_at": "2026-04-19T13:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045852210677125540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045852210677125540",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045851708820238690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim1 原来是真人的吗？还挺有原则的。我还以为全是人机刷的私信。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045851697034264578",
+            "3_2045851697059414016"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "conversation_id": "2045808808266723547",
+        "created_at": "2026-04-19T13:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045851708820238690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrYbAW4rYQ",
+              "end": 55,
+              "expanded_url": "https://x.com/huantim1/status/2045851708820238690/photo/1",
+              "media_key": "3_2045851697034264578",
+              "start": 32,
+              "url": "https://t.co/XrYbAW4rYQ"
+            },
+            {
+              "display_url": "pic.x.com/XrYbAW4rYQ",
+              "end": 55,
+              "expanded_url": "https://x.com/huantim1/status/2045851708820238690/photo/1",
+              "media_key": "3_2045851697059414016",
+              "start": 32,
+              "url": "https://t.co/XrYbAW4rYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045851708820238690",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045808808266723547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 测试了一下，没想到这玩意儿还是有人性的？ https://t.co/XrYbAW4rYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 279,
+          "like_count": 10303,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n是mtx 无性恋\n成分正常的来互fo喵\n上海某高一牲\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huantim",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huantim",
+                "start": 0,
+                "url": "https://t.co/4Um5sVuC41"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 646,
+          "like_count": 43883,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 4284
+        },
+        "url": "https://t.co/4Um5sVuC41",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053748960192516287",
+    "created_at": "2026-05-11T08:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053756757344985546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014553095255293955",
+          "start": 0,
+          "username": "yixinbing2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053756757344985546",
+    "in_reply_to_user_id": "2014553095255293955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053748960192516287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yixinbing2026 倘若那天\n把该说的话好好说\n该体谅的不执着\n如果那天我，不受情绪挑拨\n你会怎么做\n那么多如果，可能如果我\n可惜没如果\n只剩下结果\n可惜没如果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053748960192516287",
+        "created_at": "2026-05-11T08:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053756757344985546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053756757344985546",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053748960192516287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 倘若那天\n把该说的话好好说\n该体谅的不执着\n如果那天我，不受情绪挑拨\n你会怎么做\n那么多如果，可能如果我\n可惜没如果\n只剩下结果\n可惜没如果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2053748960192516287",
+        "created_at": "2026-05-11T08:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053748960192516287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053748960192516287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道我的 只要你开口 我们就能回到以前 可你为什么什么都不说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 288,
+          "like_count": 13901,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 289,
+          "like_count": 3063,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

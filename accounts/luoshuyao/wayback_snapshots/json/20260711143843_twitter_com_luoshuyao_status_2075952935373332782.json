@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075952311382560768",
+        "3_2075952311374172160"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2075952935373332782",
+    "created_at": "2026-07-11T14:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075952935373332782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8eWAcVp3nO",
+          "end": 80,
+          "expanded_url": "https://x.com/luoshuyao/status/2075952935373332782/photo/1",
+          "media_key": "3_2075952311382560768",
+          "start": 57,
+          "url": "https://t.co/8eWAcVp3nO"
+        },
+        {
+          "display_url": "pic.x.com/8eWAcVp3nO",
+          "end": 80,
+          "expanded_url": "https://x.com/luoshuyao/status/2075952935373332782/photo/1",
+          "media_key": "3_2075952311374172160",
+          "start": 57,
+          "url": "https://t.co/8eWAcVp3nO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075952935373332782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1、一时没想起来，你想问的是哪种方面的呢？\n2、谢谢你的喜欢，之前休假回家的时候拍的，放家里拍不了了(ー△ー；) https://t.co/8eWAcVp3nO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2075952311382560768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9DoNqb0AAVK-P.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2075952311374172160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9DoNob0AAzBWx.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075952311382560768",
+            "3_2075952311374172160"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2075952935373332782",
+        "created_at": "2026-07-11T14:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075952935373332782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eWAcVp3nO",
+              "end": 80,
+              "expanded_url": "https://x.com/luoshuyao/status/2075952935373332782/photo/1",
+              "media_key": "3_2075952311382560768",
+              "start": 57,
+              "url": "https://t.co/8eWAcVp3nO"
+            },
+            {
+              "display_url": "pic.x.com/8eWAcVp3nO",
+              "end": 80,
+              "expanded_url": "https://x.com/luoshuyao/status/2075952935373332782/photo/1",
+              "media_key": "3_2075952311374172160",
+              "start": 57,
+              "url": "https://t.co/8eWAcVp3nO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075952935373332782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1、一时没想起来，你想问的是哪种方面的呢？\n2、谢谢你的喜欢，之前休假回家的时候拍的，放家里拍不了了(ー△ー；) https://t.co/8eWAcVp3nO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 277,
+          "like_count": 19521,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 4514
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

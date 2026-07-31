@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2033398242231341171",
+    "created_at": "2026-03-16T04:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033401178005127599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1178645593121361921",
+          "start": 0,
+          "username": "lolo88112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033401178005127599",
+    "in_reply_to_user_id": "1178645593121361921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033398755375075456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lolo88112 是的，就是很有挑战性才想去做，我觉得很有意思 (*≧▽≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2033398242231341171",
+        "created_at": "2026-03-16T04:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033401178005127599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1178645593121361921",
+              "start": 0,
+              "username": "lolo88112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033401178005127599",
+        "in_reply_to_user_id": "1178645593121361921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033398755375075456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lolo88112 是的，就是很有挑战性才想去做，我觉得很有意思 (*≧▽≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1178645593121361921",
+        "conversation_id": "2033398242231341171",
+        "created_at": "2026-03-16T04:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033398755375075456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033398755375075456",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033398242231341171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我觉得有点困难，但是可以尝试挑战一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 245,
+          "like_count": 4228,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 782
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-30T12:19:54.000Z",
+        "description": "财务自由并非运气，而是策略。\n｜🔥空投｜💦生活",
+        "id": "1178645593121361921",
+        "name": "CC✨",
+        "pinned_tweet_id": "2028676426527097039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027326555975012352/LOShpXec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1125,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1447
+        },
+        "username": "lolo88112",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2027307056332750891",
+    "created_at": "2026-02-27T11:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027338515634430093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027338515634430093",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027307056332750891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 每个人都有自己的相处方式，不理解是对的，你没有错。\n你的相处方式没有问题，不要怀疑自己。如果对方没把你看得多重要，确实没必要去倾诉，对于不懂你的人，倾诉反而可能会伤害到自己。\n那些不合拍的人就不要过多的接触啦，真正的友谊是舒服的而不是让你委屈的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2027307056332750891",
+        "created_at": "2026-02-27T11:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027338515634430093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027338515634430093",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027307056332750891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 每个人都有自己的相处方式，不理解是对的，你没有错。\n你的相处方式没有问题，不要怀疑自己。如果对方没把你看得多重要，确实没必要去倾诉，对于不懂你的人，倾诉反而可能会伤害到自己。\n那些不合拍的人就不要过多的接触啦，真正的友谊是舒服的而不是让你委屈的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "2027307056332750891",
+        "created_at": "2026-02-27T08:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027307056332750891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027307056332750891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实不太理解为什么女性朋友觉得我不交心就是我的问题，可是我对于朋友确实是这样不知道该怎么相处，因为我觉得对方不把我当做好闺蜜，我也就没有倾诉我身上发生的每一件事的必要。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 86,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 95
+        },
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004159569296257024/zWPqcwet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5475,
+          "following_count": 340,
+          "like_count": 3515,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 12505
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

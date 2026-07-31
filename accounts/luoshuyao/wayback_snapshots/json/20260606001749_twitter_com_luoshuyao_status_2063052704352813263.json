@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2062896900098109791",
+    "created_at": "2026-06-06T00:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063052704352813263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723715289723092992",
+          "start": 0,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063052704352813263",
+    "in_reply_to_user_id": "1723715289723092992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062896900098109791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmingFurina 高考加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2062896876597506048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDhx5HbcAACK7x.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2062896900098109791",
+        "created_at": "2026-06-06T00:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063052704352813263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723715289723092992",
+              "start": 0,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063052704352813263",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062896900098109791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmingFurina 高考加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062896876597506048"
+          ]
+        },
+        "author_id": "1723715289723092992",
+        "conversation_id": "2062896900098109791",
+        "created_at": "2026-06-05T13:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062896900098109791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nh3WhkQ3G1",
+              "end": 39,
+              "expanded_url": "https://x.com/CharmingFurina/status/2062896900098109791/photo/1",
+              "media_key": "3_2062896876597506048",
+              "start": 16,
+              "url": "https://t.co/Nh3WhkQ3G1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062896900098109791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 418,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "後天高考了🥹🥹\n可以為我加油嗎 https://t.co/Nh3WhkQ3G1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 289,
+          "like_count": 17205,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 3707
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/重慶07男高/高三/理科生/日常清水推/🇹🇼右翼中華民國派❂(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/會發自拍🥰/小帳@Furina_Thailand/妹妹@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Furina_Thailand"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF1U2q"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "location": "Palais Mermonia, Fontaine",
+        "name": "💙迷人的芙芙💙",
+        "pinned_tweet_id": "1929101204237287777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894650598858753/c_kIQugG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 3744,
+          "like_count": 86480,
+          "listed_count": 11,
+          "media_count": 1325,
+          "tweet_count": 18510
+        },
+        "url": "https://t.co/Y8AOwF1U2q",
+        "username": "CharmingFurina",
+        "verified": true
+      }
+    ]
+  }
+}

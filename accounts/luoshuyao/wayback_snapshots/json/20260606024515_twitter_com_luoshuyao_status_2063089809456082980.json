@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2063058839034003687",
+    "created_at": "2026-06-06T02:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063089809456082980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "898344170128986112",
+          "start": 0,
+          "username": "Leewei60269181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063089809456082980",
+    "in_reply_to_user_id": "898344170128986112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063082576647221579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leewei60269181 其实我对外也不开朗😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2063058839034003687",
+        "created_at": "2026-06-06T02:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063089809456082980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "898344170128986112",
+              "start": 0,
+              "username": "Leewei60269181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063089809456082980",
+        "in_reply_to_user_id": "898344170128986112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063082576647221579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leewei60269181 其实我对外也不开朗😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898344170128986112",
+        "conversation_id": "2063058839034003687",
+        "created_at": "2026-06-06T02:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063082576647221579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063082576647221579",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063058839034003687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我认识一个人，她对外表现的开朗，有时候也会有点小脾气。实际上她内心柔弱，也会多愁善感。外表坚强就是她的防护盾。书瑶应该是情感丰富的，能感受到被关心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 289,
+          "like_count": 17216,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 3712
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-18T00:41:55.000Z",
+        "description": "全干工程师\n把 AI 工具做得更简单，也更好看\n功能之外，也在意体验和风格",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leewei0923.com",
+                "end": 23,
+                "expanded_url": "https://leewei0923.com",
+                "start": 0,
+                "url": "https://t.co/NtRZ6xFkbA"
+              }
+            ]
+          }
+        },
+        "id": "898344170128986112",
+        "location": "杭州",
+        "name": "林深见鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051179017823567872/lp_v4eVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 379,
+          "like_count": 3061,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 2911
+        },
+        "url": "https://t.co/NtRZ6xFkbA",
+        "username": "Leewei60269181",
+        "verified": false
+      }
+    ]
+  }
+}

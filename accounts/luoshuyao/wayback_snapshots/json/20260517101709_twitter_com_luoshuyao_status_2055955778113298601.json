@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055764946244555259",
+    "created_at": "2026-05-17T10:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055955778113298601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053360211948109826",
+          "start": 0,
+          "username": "axzameyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055955778113298601",
+    "in_reply_to_user_id": "2053360211948109826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "普通人：绷不住\n高手：偷偷笑\n嘉豪:差点绷住\n神：勉强绷住\n我：轻快绷住，松弛绷住，舒缓绷住，安逸绷住，自在绷住，悠闲绷住，悠然绷住，闲适绷住，惬意绷住，舒畅绷住，畅快绷住，舒坦绷住，放松绷住，从容绷住，淡定绷住，坦然绷住，轻巧绷住，轻盈绷住，轻闲绷住，清闲绷住，闲散绷住，怡然绷住，欢畅绷住，松快绷住，宽心绷住，省心绷住，省力绷住，省事绷住，悠然绷住，神怡绷住，心静绷住，淡然绷住，恬淡绷住，安稳绷住，安然绷住，轻松绷住"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055764946244555259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzameyzed 普通人：绷不住\n高手：偷偷笑\n嘉豪:差点绷住\n神：勉强绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2055764908160278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIeLSsSbYAATZLp.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055764946244555259",
+        "created_at": "2026-05-17T10:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055955778113298601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055955778113298601",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "普通人：绷不住\n高手：偷偷笑\n嘉豪:差点绷住\n神：勉强绷住\n我：轻快绷住，松弛绷住，舒缓绷住，安逸绷住，自在绷住，悠闲绷住，悠然绷住，闲适绷住，惬意绷住，舒畅绷住，畅快绷住，舒坦绷住，放松绷住，从容绷住，淡定绷住，坦然绷住，轻巧绷住，轻盈绷住，轻闲绷住，清闲绷住，闲散绷住，怡然绷住，欢畅绷住，松快绷住，宽心绷住，省心绷住，省力绷住，省事绷住，悠然绷住，神怡绷住，心静绷住，淡然绷住，恬淡绷住，安稳绷住，安然绷住，轻松绷住"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055764946244555259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 普通人：绷不住\n高手：偷偷笑\n嘉豪:差点绷住\n神：勉强绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055764908160278528"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055764946244555259",
+        "created_at": "2026-05-16T21:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:38:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055764916813132174",
+          "2055764946244555259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmLvxwY5MR",
+              "end": 27,
+              "expanded_url": "https://x.com/axzameyzed/status/2055764946244555259/photo/1",
+              "media_key": "3_2055764908160278528",
+              "start": 4,
+              "url": "https://t.co/TmLvxwY5MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055764946244555259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8717,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "谁说的 https://t.co/TmLvxwY5MR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 290,
+          "like_count": 15658,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3392
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 123,
+          "like_count": 631,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 341
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

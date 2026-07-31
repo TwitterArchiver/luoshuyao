@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2080514952151040181",
+    "created_at": "2026-07-24T04:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080514952151040181"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080514952151040181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这个工作身体累都是次要的，主要是心累。造成心累很大一部分原因就是领导对我们组的针对和区别对待。他们对我们组印象很差的很大一部分原因又来自于另外一个组的恶意投诉。\n我们做好的蛋糕胚有一部分是交给这个组做装饰的，好巧不巧这个组里正好有一个卑鄙小人。只要我们做的产品出了一点点问题，他马上拍照发到公司大群里，一点小事都能被他说得很严重。其他组很多时候都只是私下跟我们说一下，我发现问题也都只是和别人私下讲的，让别人多注意一下就行了。都是打工的，何苦这样为难。就只有他喜欢干这种损人利己的事情，群里就他一个人发的最多，跟班里喜欢跟老师打小报告的贱人一样。我们这里有一个绩效的计分，举报别人的问题可以给自己加分，被举报的那个组就会被扣分，得益于他的举报和领导的针对，我们根本拿不到绩效奖金。只拿到一次，还是刚好卡在并列第五名，最低的奖金，再往后就没奖金了。当时结算当天我们又被找了理由扣分，差点又拿不到，很难不怀疑是故意的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个工作身体累都是次要的，主要是心累。造成心累很大一部分原因就是领导对我们组的针对和区别对待。他们对我们组印象很差的很大一部分原因又来自于另外一个组的恶意投诉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2080514952151040181",
+        "created_at": "2026-07-24T04:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080514952151040181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080514952151040181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个工作身体累都是次要的，主要是心累。造成心累很大一部分原因就是领导对我们组的针对和区别对待。他们对我们组印象很差的很大一部分原因又来自于另外一个组的恶意投诉。\n我们做好的蛋糕胚有一部分是交给这个组做装饰的，好巧不巧这个组里正好有一个卑鄙小人。只要我们做的产品出了一点点问题，他马上拍照发到公司大群里，一点小事都能被他说得很严重。其他组很多时候都只是私下跟我们说一下，我发现问题也都只是和别人私下讲的，让别人多注意一下就行了。都是打工的，何苦这样为难。就只有他喜欢干这种损人利己的事情，群里就他一个人发的最多，跟班里喜欢跟老师打小报告的贱人一样。我们这里有一个绩效的计分，举报别人的问题可以给自己加分，被举报的那个组就会被扣分，得益于他的举报和领导的针对，我们根本拿不到绩效奖金。只拿到一次，还是刚好卡在并列第五名，最低的奖金，再往后就没奖金了。当时结算当天我们又被找了理由扣分，差点又拿不到，很难不怀疑是故意的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个工作身体累都是次要的，主要是心累。造成心累很大一部分原因就是领导对我们组的针对和区别对待。他们对我们组印象很差的很大一部分原因又来自于另外一个组的恶意投诉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 282,
+          "like_count": 19915,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4688
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

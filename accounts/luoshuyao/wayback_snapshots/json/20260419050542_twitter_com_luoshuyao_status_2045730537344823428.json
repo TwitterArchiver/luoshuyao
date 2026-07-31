@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045730537344823428",
+    "created_at": "2026-04-19T05:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045730537344823428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045730537344823428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045619418781417585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: Grounding入门：情绪快失控时，如何把自己拉回来\nby 雪雁\n\nPart1：Grounding是什么？\n  本文的目的是介绍一种应急工具——grounding（稳定化技术、接地法、安顿技术），是一组旨在将个体从痛苦的情绪、惊恐发作…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045730537344823428",
+        "created_at": "2026-04-19T05:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045730537344823428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045730537344823428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045619418781417585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: Grounding入门：情绪快失控时，如何把自己拉回来\nby 雪雁\n\nPart1：Grounding是什么？\n  本文的目的是介绍一种应急工具——grounding（稳定化技术、接地法、安顿技术），是一组旨在将个体从痛苦的情绪、惊恐发作…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "2045619418781417585",
+        "created_at": "2026-04-18T21:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T22:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045619418781417585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045619418781417585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Grounding入门：情绪快失控时，如何把自己拉回来\nby 雪雁\n\nPart1：Grounding是什么？\n  本文的目的是介绍一种应急工具——grounding（稳定化技术、接地法、安顿技术），是一组旨在将个体从痛苦的情绪、惊恐发作、创伤闪回或解离状态中拉回到“此时此刻”的调节技术。\n  当情绪快要失控、强烈痛苦涌上心头的时候，grounding能够把注意力从混乱的情绪和侵入性的记忆中带回到“此时此地”。虽然grounding不能代替完整的心理治疗，但Grounding是一个有效的“心理急救包”，在人情绪崩溃时，grounding有时能把“90分”的崩溃，降到“60分”的痛苦，让人重新有一点呼吸的空间和选择的能力。\n\nPart2：什么时候Grounding？\n  Grounding最适合用在“情绪风暴”的初期，也就是：情绪和身体反应突然变得很强，开始失去掌控感的时候。\n  例如：突然心跳加快、呼吸急促、脑子里反复转着同一个念头，停不下来；创伤相关的情境里，出现了明显的闪回、解离，感觉自己“不在现场”，这些就是需要应用到Grounding的征兆症状了。\n  症状刚刚出现的时候，开始用Grounding技术的效果是最好的，不要等到惊恐发作或者解离状态无法控制时再开始。\n\nPart3：5-4-3-2-1 Grounding\n  核心思路：当一个人被强烈情绪、闪回等状态卷进去的时候，注意力往往会越来越离开现实，陷进自己的想法、记忆和身体警报中。此时，我们需要借助五感，把注意力拉回眼前存在的真实世界。\n5：先说出5个你现在能看到的东西\n4：再说出4个你现在能触碰到的东西\n3：接着说出3个你现在能听到的声音\n2：然后说出2个你现在能闻到的气味\n1：最后说出1个你现在能尝到的味道\n说不全也没关系，去感受，去借助感官来描述，有几个就说几个。比如：\n5：手机，被子，枕头，窗帘，灯；\n4：手机，被子，鲨鲨，脸；\n3：车声，空调声（听不出三个也没关系！有几个都行）；\n2：香味（吃剩的麻辣烫）；\n1：咸味（舔一下嘴唇）；\n  那么这就是刚刚写文章的时候，我对我身边做的感受。不一定非要凑够5-4-3-2-1，但是要去尽可能通过你的感官来感受真实的世界。\n5-4-3-2-1 Grounding的神经科学依据是：\n1）激活前额叶皮层，调节杏仁核：焦虑时，大脑内杏仁核处于过度活跃状态，而结构化的感官识别任务能够调动前额叶皮层，从而降低杏仁核活跃度，中断情绪风暴。\n2）唤起副交感神经系统：多感官参与能够诱导副交感神经系统的活动，帮助身体从“战斗与逃跑”的模式中切换出来。\n3）交互抑制：感官输入产生的神经信号会和焦虑的神经信号竞争，从而挤占焦虑在大脑中的加工空间。\n  总而言之，5-4-3-2-1是Grounding技术中比较常用且有效的方法，作者曾经在拨打中科院危机干预的时候，接线老师引导我做了5-4-3-2-1，对我的急性焦虑发作有很大的缓解作用。\n\nPart4：呼吸grounding\n  核心思路：在焦虑、被触发的时候，人常常会呼吸变快、变浅、胸口紧，此时，缓解的方法就是：慢慢的、轻轻地、长一点的呼吸。\n  最简单的方法就是：\n慢慢吸气4秒，慢慢呼气6秒。重复5次。\n用鼻子吸气，心中慢慢数...1,2,3,4\n用嘴巴呼气（鼻子也行），心中慢慢数...1,2,3,4,5,6\n如果很紧张的时候，没办法做到记秒数，这样做就好：\n轻轻吸一口，慢慢的、长长的呼出去。\n要注意的点：\n1）不要拼命、太用力的吸很满，轻轻的就好。吸很满会导致——喘不上气、很晕、肌肉绷紧，这反而不利于放松和缓解焦虑\n2）呼气的时候要记得：慢慢的、轻轻地\n3）如果头晕，就呼吸短一点，不要计数了，怎么舒服怎么来。\n  这个技巧的核心在于轻柔和缓慢的呼吸，通过呼吸节奏的调整来缓解焦虑的症状，因此，实际使用的过程中，呼吸的秒数不重要，重要的是轻轻的、慢慢的感觉，把自身急促而浅的呼吸调节过来。\n\nPart5：身体grounding\n 核心思路：用身体的真实感觉，把自己带回现在，让身体重新感觉到和现实环境的连接。\n1.双脚踩地：很简单好用的一种，把双脚踩在地上，感受：\n  脚底有没有压到地板？\n  地是硬的还是软的？\n  左脚重一点，还是右脚重一点？\n  轻轻往下压一下，是什么感觉？\n2.摸一个真实的东西：\n  举个例子吧，假如摸一下宜家鲨鱼：\n  软软的；暖暖和和的；捏起来手感很舒服，嘴那里牙齿划过皮肤的感觉...\n3.抱住自己：\n  把双手交叉放在手臂上，轻轻抱住自己。\n  手掌是热的还是凉的，还是温的？\n  衣服摸起来什么感觉，是棉的还是化纤的？\n  身体随着呼吸...在起起伏伏\n4.用冷水洗脸或者手：\n  感受凉凉的水从脸颊上流下，从手的缝隙中流过...通过温度的刺激把意识拉回现实，尤其是在焦虑的和愤怒的时候，这是一个简单而快捷的办法。\n  身体grounding利用了神经科学中的“本体感觉”和皮肤触觉来向大脑发送“我是安全的，我在这里”的信号。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 747,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Grounding入门：情绪快失控时，如何把自己拉回来\nby 雪雁\n\nPart1：Grounding是什么？\n  本文的目的是介绍一种应急工具——grounding（稳定化技术、接地法、安顿技术），是一组旨在将个体从痛苦的情绪、惊恐发作、创伤闪回或解离状态中拉回到“此时此刻”的调节技术。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 277,
+          "like_count": 10196,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044799701971832832/750oUfl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3876,
+          "following_count": 1640,
+          "like_count": 29461,
+          "listed_count": 9,
+          "media_count": 88,
+          "tweet_count": 6952
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": true
+      }
+    ]
+  }
+}

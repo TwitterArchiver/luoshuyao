@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055836255343300753",
+    "created_at": "2026-05-17T04:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055870583381074127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946188524472213504",
+          "start": 0,
+          "username": "ooobsess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055870583381074127",
+    "in_reply_to_user_id": "1946188524472213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055866372127695281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooobsess 没有的，我输入法也没打过这些字(。ŏ_ŏ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055836255343300753",
+        "created_at": "2026-05-17T04:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055870583381074127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055870583381074127",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055866372127695281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess 没有的，我输入法也没打过这些字(。ŏ_ŏ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946188524472213504",
+        "conversation_id": "2055836255343300753",
+        "created_at": "2026-05-17T04:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055866372127695281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055866372127695281",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055836255343300753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 是不是输入法记录了呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 290,
+          "like_count": 15514,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3380
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "🎀 新晋车企牛马 | 💻 沉迷Vibe Coding梦想暴富的小白 | 🪙 BTC持币梦想（未开户版） | 🇺🇸 看好美股的（没钱买）选手 | ✨ 满脑子想搞钱但还在摸索的小迷糊呀",
+        "id": "1946188524472213504",
+        "location": "Hong Kong",
+        "name": "来",
+        "pinned_tweet_id": "2048582798588395818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 1110,
+          "like_count": 3356,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1227
+        },
+        "username": "ooobsess",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065652040999788545",
+        "3_2065652040991399936"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065654156434776147",
+    "created_at": "2026-06-13T04:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065654156434776147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdXHmW0gK6",
+          "end": 150,
+          "expanded_url": "https://x.com/luoshuyao/status/2065654156434776147/photo/1",
+          "media_key": "3_2065652040999788545",
+          "start": 127,
+          "url": "https://t.co/mdXHmW0gK6"
+        },
+        {
+          "display_url": "pic.x.com/mdXHmW0gK6",
+          "end": 150,
+          "expanded_url": "https://x.com/luoshuyao/status/2065654156434776147/photo/1",
+          "media_key": "3_2065652040991399936",
+          "start": 127,
+          "url": "https://t.co/mdXHmW0gK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065654156434776147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没吃早餐的话其实也可以吃别的，没有灌奶油的奶油泡芙还有新鲜热乎的千层蛋糕皮，香香软软的🤤\n煎蛋皮的阿姨跟我说没吃早餐的话天天都可以来吃，但是很多时候为了最高效率经常忙得没空去蹭吃的。今天去的时候还被说了一顿，让我天天来老是不来，不吃早餐迟早把身体饿坏🤤 https://t.co/mdXHmW0gK6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2065652040999788545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqrlkVaYAE3GCi.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2065652040991399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqrlkTaYAAwhO0.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065652040999788545",
+            "3_2065652040991399936"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065654156434776147",
+        "created_at": "2026-06-13T04:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065654156434776147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdXHmW0gK6",
+              "end": 150,
+              "expanded_url": "https://x.com/luoshuyao/status/2065654156434776147/photo/1",
+              "media_key": "3_2065652040999788545",
+              "start": 127,
+              "url": "https://t.co/mdXHmW0gK6"
+            },
+            {
+              "display_url": "pic.x.com/mdXHmW0gK6",
+              "end": 150,
+              "expanded_url": "https://x.com/luoshuyao/status/2065654156434776147/photo/1",
+              "media_key": "3_2065652040991399936",
+              "start": 127,
+              "url": "https://t.co/mdXHmW0gK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065654156434776147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没吃早餐的话其实也可以吃别的，没有灌奶油的奶油泡芙还有新鲜热乎的千层蛋糕皮，香香软软的🤤\n煎蛋皮的阿姨跟我说没吃早餐的话天天都可以来吃，但是很多时候为了最高效率经常忙得没空去蹭吃的。今天去的时候还被说了一顿，让我天天来老是不来，不吃早餐迟早把身体饿坏🤤 https://t.co/mdXHmW0gK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 287,
+          "like_count": 17871,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 3881
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

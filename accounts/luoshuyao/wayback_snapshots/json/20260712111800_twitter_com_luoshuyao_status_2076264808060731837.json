@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2076262631552569820",
+    "created_at": "2026-07-12T11:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076264808060731837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076264808060731837",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076262631552569820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你说玩这个游戏的大部分都是魔怔人，在这个游戏2021年最火的时候，我带过30多个现实朋友，大家都是正常人，联机带陌生人也有好几百个人了，也只遇到过几个奇奇怪怪的人，哪来那么多神人。那些只不过是极少数的妖魔鬼怪而已，1%的神人在网上发出来90%的声音，大部分人都只是在默默玩游戏而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2076262631552569820",
+        "created_at": "2026-07-12T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076264808060731837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076264808060731837",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076262631552569820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你说玩这个游戏的大部分都是魔怔人，在这个游戏2021年最火的时候，我带过30多个现实朋友，大家都是正常人，联机带陌生人也有好几百个人了，也只遇到过几个奇奇怪怪的人，哪来那么多神人。那些只不过是极少数的妖魔鬼怪而已，1%的神人在网上发出来90%的声音，大部分人都只是在默默玩游戏而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2076262631552569820",
+        "created_at": "2026-07-12T11:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076262631552569820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076262631552569820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对那些搞游戏歧视的人真的很难理解。虽然我在现实和网络里从来都没有遇到过因为我玩某个游戏而讨厌我的，但是却在网上其他人那里看过不少只因玩XX游戏而对别人产生偏见的情况。还看到过很多以偏概全的发言，比如“原来是XX玩家啊，这下破案了”“玩XX玩的”“XX玩家都是这样的”……神人之所以是神人，是因为他本身就是神人，不是因为他玩了某个游戏而变成了神人，也不是只有神人才会选择这个游戏。这种把个人行为和游戏本身绑定的言论，完全是没有任何思考的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对那些搞游戏歧视的人真的很难理解。虽然我在现实和网络里从来都没有遇到过因为我玩某个游戏而讨厌我的，但是却在网上其他人那里看过不少只因玩XX游戏而对别人产生偏见的情况。还看到过很多以偏概全的发言，比如“原来是XX玩家啊，这下破案了”“玩XX玩的”“XX玩家都是这样的”……神人之所以是神人，是因为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 280,
+          "like_count": 19550,
+          "listed_count": 2,
+          "media_count": 464,
+          "tweet_count": 4525
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

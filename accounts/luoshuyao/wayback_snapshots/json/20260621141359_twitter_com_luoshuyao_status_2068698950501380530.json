@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2068698710234767390",
+    "created_at": "2026-06-21T14:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068698950501380530"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068698950501380530",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068698710234767390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来想到很多，但是一写就乱所以写一半就停了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2068698710234767390",
+        "created_at": "2026-06-21T14:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068698950501380530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068698950501380530",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068698710234767390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来想到很多，但是一写就乱所以写一半就停了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2068698710234767390",
+        "created_at": "2026-06-21T14:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068698710234767390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2068691760591909130",
+              "start": 141,
+              "url": "https://t.co/vfvrTa1aQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068698710234767390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我有时会看到一些想要钱，想要很多很多钱的帖子，钱确实是好东西，可以买到很多东西，可以解决很多问题，但是我好像对金钱对物质没有什么追求。并不是想说我品德高尚，视金钱如粪土。我也不是什么有钱人，从小家里就很穷，没体验过什么好生活。仔细想想，小时候也曾想过能在地上捡到很多钱这种不劳而获的事情，现在真的有人要给我钱我反而不想要了。也曾想过长大以后有钱了可以给自己买很多好吃的，买很多衣服，可以到处走走看看。直到工作以后反而对这些没有什么感觉了，我好像对什么都是淡淡的，无论是物质上的还是感情上的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068691760591909130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有时会看到一些想要钱，想要很多很多钱的帖子，钱确实是好东西，可以买到很多东西，可以解决很多问题，但是我好像对金钱对物质没有什么追求。并不是想说我品德高尚，视金钱如粪土。我也不是什么有钱人，从小家里就很穷，没体验过什么好生活。仔细想想，小时候也曾想过能在地上捡到很多钱这种不劳而获 https://t.co/vfvrTa1aQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 286,
+          "like_count": 18623,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 4101
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

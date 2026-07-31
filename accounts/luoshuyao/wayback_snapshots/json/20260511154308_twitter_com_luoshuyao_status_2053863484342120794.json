@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053850049889583482",
+    "created_at": "2026-05-11T15:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053863484342120794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053863484342120794",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053850049889583482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 如听仙乐耳暂明"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112195,
+        "height": 720,
+        "media_key": "13_2053849608745299968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053849608745299968/img/pKtXxJgxFdABEBZE.jpg",
+        "public_metrics": {
+          "view_count": 64
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053849608745299968/vid/avc1/480x270/Q2m6RBUAtSamBHI7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053849608745299968/vid/avc1/640x360/yLObE8fd52AYzRm3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053849608745299968/vid/avc1/1280x720/HmOh_ORpdP73manT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053849608745299968/pl/KLwtItaLDAtNl6Jg.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053850049889583482",
+        "created_at": "2026-05-11T15:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053863484342120794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053863484342120794",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053850049889583482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 如听仙乐耳暂明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053849608745299968"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2053850049889583482",
+        "created_at": "2026-05-11T14:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053850049889583482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4Rrshav9L",
+              "end": 31,
+              "expanded_url": "https://x.com/liujiayi1111/status/2053850049889583482/video/1",
+              "media_key": "13_2053849608745299968",
+              "start": 8,
+              "url": "https://t.co/E4Rrshav9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053850049889583482",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Changes https://t.co/E4Rrshav9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 289,
+          "like_count": 14114,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 3178
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。擅长TS/JS/React/Node.js/Python",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYJfyF"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2052605160103334247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878217807000657921/ZweBzy0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7863,
+          "following_count": 56,
+          "like_count": 4925,
+          "listed_count": 16,
+          "media_count": 82,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/MsaRlYJfyF",
+        "username": "liujiayi1111",
+        "verified": false
+      }
+    ]
+  }
+}

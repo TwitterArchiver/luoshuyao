@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2063151664324870479",
+    "created_at": "2026-06-06T07:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063156062262632676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946188524472213504",
+          "start": 0,
+          "username": "ooobsess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063156062262632676",
+    "in_reply_to_user_id": "1946188524472213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063151664324870479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooobsess 真的很感谢你，写了这么多真诚的话，真的很用心，让我很感动。也希望你能吃好睡好，天天开心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2063151664324870479",
+        "created_at": "2026-06-06T07:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063156062262632676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063156062262632676",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063151664324870479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess 真的很感谢你，写了这么多真诚的话，真的很用心，让我很感动。也希望你能吃好睡好，天天开心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946188524472213504",
+        "conversation_id": "2063151664324870479",
+        "created_at": "2026-06-06T06:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063151664324870479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 102,
+              "id": "1761423076850589696",
+              "start": 90,
+              "username": "nakamori222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063151664324870479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 102,
+                "id": "1761423076850589696",
+                "start": 90,
+                "username": "nakamori222"
+              },
+              {
+                "end": 341,
+                "id": "44196397",
+                "start": 332,
+                "username": "elonmusk"
+              },
+              {
+                "end": 577,
+                "id": "1564465945480814592",
+                "start": 566,
+                "username": "person8883"
+              },
+              {
+                "end": 669,
+                "id": "1476546742577504265",
+                "start": 659,
+                "username": "luoshuyao"
+              },
+              {
+                "end": 799,
+                "id": "1522869309399261185",
+                "start": 790,
+                "username": "oldgun86"
+              },
+              {
+                "end": 906,
+                "id": "168404402",
+                "start": 894,
+                "username": "ai_suxiaole"
+              },
+              {
+                "end": 995,
+                "id": "1586008008965824514",
+                "start": 982,
+                "username": "nervpilot001"
+              },
+              {
+                "end": 1064,
+                "id": "1753224546537054208",
+                "start": 1051,
+                "username": "PengQiao1203"
+              },
+              {
+                "end": 1124,
+                "id": "1527743101242064896",
+                "start": 1116,
+                "username": "LeeMmai"
+              },
+              {
+                "end": 1224,
+                "id": "1322365696983003136",
+                "start": 1211,
+                "username": "bryanwangxin"
+              },
+              {
+                "end": 1283,
+                "id": "136189271",
+                "start": 1275,
+                "username": "syeerzy"
+              }
+            ]
+          },
+          "text": "其实在很久很以前‘就很想分享一下来到推特之后‘收获的这些有趣的推友们啦’你们真得好优秀’好努力‘好有钱’还好好看’\n以下分享排名不分先后‘如果谁想排前面’请举手告诉我哦’\n\n先说 @nakamori222 吧‘在我心里‘\n这位中森姐姐是一位上海小有名气的漂亮姐姐’她可爱‘漂亮’有钱不用上班‘你跟她说话的时候‘想说什么就可以说什么’而她跟你说的话‘你仿佛可以听到声音’她总是写一些我看不太懂又好像很好看的文字‘也许这就是阳春白雪和下里巴人的区别吧’她情商很高‘而且随性’哦对了‘我记得她说可以不限制男性别’那么我其实也不会想那么多啦‘因为她真的就像一位超级漂亮的心理学专业的学姐’有什么话好像都可以一起说’谢谢你‘中森……\n\n下一位就是这位单向朋友啦‘也就是埃隆 @elonmusk 他总是随便给其他人点赞‘不给我点赞’可能真的只是他还没有不好意思吧‘别看他平时拿着个手机拍拍拍呀’还不停地晚上发推特呀‘其实他的压力挺大的’今年第一季度SPACE X亏损19亿美元‘XAI亏损25亿美元‘我的天……但是不妨碍他马上成为人类历史上第一位万亿富翁啦’我不是很羡慕他的钱‘我只是想’如果他真的有一天‘实现了火星梦想’他是否还会记得‘地球上曾经有一位叫做来的中国女孩’用每次都会点赞他的推文这样的行动‘支持他的火星梦想嘛……\n\n还有还有’ @person8883 루체是我认识的第一位韩国朋友‘她好好看‘好看得比韩剧中的女主角还要好看’她好温柔’温柔得比韩剧中的女主角还要温柔‘她是我在地球上’最喜欢的韩剧女主角……\n\n 洛 @luoshuyao 我曾经很认真的读她的过去‘读她的现在’我觉得她是一位外表柔弱而又内心坚强的女孩‘ 她经常上晚班我不知道如何帮助她’我只能在心里期望她能够睡的好‘吃的好’开心快乐多赚钱‘如果我能够看到她真人的笑容就好啦’这样我也会很开心的笑起来……\n\n还有 @oldgun86 这位大哥几乎每次都给我点赞‘也不说什么话就是点赞’点的我都不好意思了‘我就给他点赞’虽然没什么可以点赞的内容‘下次拜托大哥点赞的时候’随便说两句‘这样我好知道你不是在假装高冷……\n\n还有 @ai_suxiaole 总是教我如何用AI做产品‘如何挣钱’很感谢’说实话’我一开始还以为这是要卖我课程‘后来发现是我多虑了’对不起‘我错了‘下次我不这样了……\n\n王者小白 @nervpilot001 说自己是个premium+不会有bot骚扰他‘‘结果还是一推黄bot骚扰他‘我觉得他挺有钱的……\n\n还有   @PengQiao1203这位中年大叔‘嗯’就是大叔的感觉‘不过我也觉得他挺有钱的’可能是因为他英语说得很好吧……\n\n还有大佬麦 @LeeMmai 总是吃好吃的而且下午还吃’我馋得不行‘而且他还故意制造一些吃饭的氛围’什么自己把灯关了说’哎呀怎么停电了呀‘可能真的是他编程编的太多了‘本人有了特殊氛围的癖好……\n\n还有 @bryanwangxin 是个有着被动收入的人‘他自己说有7%的基金收入‘我没觉得很少’要是转给我‘我觉得挺多的……\n\n还有 @syeerzy 感觉他是一位很神秘的人‘总是说一些我听不太懂的话’主页也神神秘秘‘给我的感觉’应该是某个大体量的上市的量化公司的大老板旁边的程序员吧……\n\n……\n……\n其实还有好多没有提到的朋友‘你们真的真的真的都好好’只是纸短情长‘我怎么能够写的完……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实在很久很以前‘就很想分享一下来到推特之后‘收获的这些有趣的推友们啦’你们真得好优秀’好努力‘好有钱’还好好看’\n以下分享排名不分先后‘如果谁想排前面’请举手告诉我哦’\n\n先说 @nakamori222 吧‘在我心里‘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 288,
+          "like_count": 17252,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "🎀 食品科学专业变身车企牛马 | \n💻 沉迷Vibe Coding梦想暴富的小白 | \n🪙 BTC持币梦想（未开户版） | \n🇺🇸 看好美股的（没钱买）选手 | \n✨ 满脑子想搞钱但还在摸索的小迷糊呀",
+        "id": "1946188524472213504",
+        "location": "Hong Kong",
+        "name": "来",
+        "pinned_tweet_id": "2056205710891868488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 1247,
+          "like_count": 4860,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 1667
+        },
+        "username": "ooobsess",
+        "verified": true
+      }
+    ]
+  }
+}

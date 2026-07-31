@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2066145283566604779",
+    "created_at": "2026-06-15T00:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066321668247810146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "877174145322074114",
+          "start": 0,
+          "username": "funabashi_ahai"
+        },
+        {
+          "end": 25,
+          "id": "1946188524472213504",
+          "start": 16,
+          "username": "ooobsess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066321668247810146",
+    "in_reply_to_user_id": "877174145322074114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066308532404891801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@funabashi_ahai @ooobsess 没关系，你说得对。我发这个帖子只是想说明一下孤独对我来说没什么。☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2066145283566604779",
+        "created_at": "2026-06-15T00:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066321668247810146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "877174145322074114",
+              "start": 0,
+              "username": "funabashi_ahai"
+            },
+            {
+              "end": 25,
+              "id": "1946188524472213504",
+              "start": 16,
+              "username": "ooobsess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066321668247810146",
+        "in_reply_to_user_id": "877174145322074114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066308532404891801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@funabashi_ahai @ooobsess 没关系，你说得对。我发这个帖子只是想说明一下孤独对我来说没什么。☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877174145322074114",
+        "conversation_id": "2066145283566604779",
+        "created_at": "2026-06-14T23:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066308532404891801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            },
+            {
+              "end": 20,
+              "id": "1476546742577504265",
+              "start": 10,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066308532404891801",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066308314590232863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess @luoshuyao 但听上去很冷淡哟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 287,
+          "like_count": 17923,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 3909
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-20T14:39:48.000Z",
+        "description": "女，出生长大在上海，目前住日本千叶，专业码字。有微信公共号《瑞华坊》。已出版长篇小说《东京曼陀罗》。 纸质书购买网址https://t.co/7NHjZLMAfb 電子版有读墨Readmoo和kindle 另外Youtube 【阿海書場 】只讀自己的作品",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/7n7qKOy",
+                "end": 81,
+                "expanded_url": "https://amzn.asia/d/7n7qKOy",
+                "start": 58,
+                "url": "https://t.co/7NHjZLMAfb"
+              }
+            ]
+          }
+        },
+        "id": "877174145322074114",
+        "location": "千葉 船橋市",
+        "name": "阿海",
+        "pinned_tweet_id": "1653586842577453059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844167998850072581/Eqnx1prW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14719,
+          "following_count": 2842,
+          "like_count": 31380,
+          "listed_count": 59,
+          "media_count": 1016,
+          "tweet_count": 41383
+        },
+        "username": "funabashi_ahai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "我的废话很多很多‘都是因为喜欢你的钱呀",
+        "id": "1946188524472213504",
+        "location": "Hong Kong",
+        "name": "来",
+        "pinned_tweet_id": "2056205710891868488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 998,
+          "like_count": 6991,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 2456
+        },
+        "username": "ooobsess",
+        "verified": true
+      }
+    ]
+  }
+}

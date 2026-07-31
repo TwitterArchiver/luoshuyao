@@ -1,0 +1,742 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Geology",
+          "id": "847897009281355776",
+          "name": "Geology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      }
+    ],
+    "conversation_id": "2049113239972372781",
+    "created_at": "2026-04-28T13:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049113239972372781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007344059074109440",
+          "start": 5,
+          "username": "liyanxi530"
+        },
+        {
+          "end": 28,
+          "id": "1306129238827778048",
+          "start": 18,
+          "username": "YukinonCC"
+        },
+        {
+          "end": 41,
+          "id": "2022153081031733252",
+          "start": 30,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 152,
+          "id": "1802428843552333824",
+          "start": 137,
+          "username": "ning3768265146"
+        },
+        {
+          "end": 167,
+          "id": "1486975640628723718",
+          "start": 154,
+          "username": "keai58752488"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2048633068148449526",
+          "start": 168,
+          "url": "https://t.co/ph3G2BIjFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049113239972372781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "2007344059074109440",
+            "start": 5,
+            "username": "liyanxi530"
+          },
+          {
+            "end": 28,
+            "id": "1306129238827778048",
+            "start": 18,
+            "username": "YukinonCC"
+          },
+          {
+            "end": 41,
+            "id": "2022153081031733252",
+            "start": 30,
+            "username": "ax09s84751"
+          },
+          {
+            "end": 152,
+            "id": "1802428843552333824",
+            "start": 137,
+            "username": "ning3768265146"
+          },
+          {
+            "end": 167,
+            "id": "1486975640628723718",
+            "start": 154,
+            "username": "keai58752488"
+          }
+        ]
+      },
+      "text": "已开奖：\n@liyanxi530 \n@YukinonCC \n@ax09s84751 \n如果没有感兴趣的游戏或者都有可以换成其他同价位的游戏，请一定要选自己喜欢的，能玩得下去的，不然我的钱就浪费了……\n因为参与人数比较多，我新增了两个小奖，可以选一个不贵的游戏，获奖者如下：\n@ning3768265146 \n@keai58752488 \n未中奖的推友们，取关请随意。\n下次什么开抽奖活动，只有天知道。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048633068148449526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已开奖：\n@liyanxi530 \n@YukinonCC \n@ax09s84751 \n如果没有感兴趣的游戏或者都有可以换成其他同价位的游戏，请一定要选自己喜欢的，能玩得下去的，不然我的钱就浪费了……\n因为参与人数比较多，我新增了两个小奖，可以选一个不贵的游戏，获奖者如下：\n@ning3768265146 \n@keai58752488 https://t.co/ph3G2BIjFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2048632688811311104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG40k4vaAAA5WTz.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG40k4vaAAA5WTz.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2049113239972372781",
+        "created_at": "2026-04-28T13:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049113239972372781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007344059074109440",
+              "start": 5,
+              "username": "liyanxi530"
+            },
+            {
+              "end": 28,
+              "id": "1306129238827778048",
+              "start": 18,
+              "username": "YukinonCC"
+            },
+            {
+              "end": 41,
+              "id": "2022153081031733252",
+              "start": 30,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 152,
+              "id": "1802428843552333824",
+              "start": 137,
+              "username": "ning3768265146"
+            },
+            {
+              "end": 167,
+              "id": "1486975640628723718",
+              "start": 154,
+              "username": "keai58752488"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2048633068148449526",
+              "start": 168,
+              "url": "https://t.co/ph3G2BIjFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049113239972372781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 16,
+                "id": "2007344059074109440",
+                "start": 5,
+                "username": "liyanxi530"
+              },
+              {
+                "end": 28,
+                "id": "1306129238827778048",
+                "start": 18,
+                "username": "YukinonCC"
+              },
+              {
+                "end": 41,
+                "id": "2022153081031733252",
+                "start": 30,
+                "username": "ax09s84751"
+              },
+              {
+                "end": 152,
+                "id": "1802428843552333824",
+                "start": 137,
+                "username": "ning3768265146"
+              },
+              {
+                "end": 167,
+                "id": "1486975640628723718",
+                "start": 154,
+                "username": "keai58752488"
+              }
+            ]
+          },
+          "text": "已开奖：\n@liyanxi530 \n@YukinonCC \n@ax09s84751 \n如果没有感兴趣的游戏或者都有可以换成其他同价位的游戏，请一定要选自己喜欢的，能玩得下去的，不然我的钱就浪费了……\n因为参与人数比较多，我新增了两个小奖，可以选一个不贵的游戏，获奖者如下：\n@ning3768265146 \n@keai58752488 \n未中奖的推友们，取关请随意。\n下次什么开抽奖活动，只有天知道。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048633068148449526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已开奖：\n@liyanxi530 \n@YukinonCC \n@ax09s84751 \n如果没有感兴趣的游戏或者都有可以换成其他同价位的游戏，请一定要选自己喜欢的，能玩得下去的，不然我的钱就浪费了……\n因为参与人数比较多，我新增了两个小奖，可以选一个不贵的游戏，获奖者如下：\n@ning3768265146 \n@keai58752488 https://t.co/ph3G2BIjFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048632688811311104"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2048633068148449526",
+        "created_at": "2026-04-27T05:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048633068148449526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emZodsEvjP",
+              "end": 137,
+              "expanded_url": "https://x.com/luoshuyao/status/2048633068148449526/photo/1",
+              "media_key": "16_2048632688811311104",
+              "start": 114,
+              "url": "https://t.co/emZodsEvjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048633068148449526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2513,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 88,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "抽三个人，可以从以下游戏中进行选择一个，不贵的可以选两个：\n双影奇境/33号远征队/动物井/赛博朋克2077/吸血鬼爬行者/星露谷物语/女神异闻录5皇家版/火山的女儿/主播女孩重度依赖/潜水员戴夫\n关注+评论即可\n明晚9点开奖 https://t.co/emZodsEvjP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 283,
+          "like_count": 11976,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T06:51:44.000Z",
+        "description": "什么也尝试,什么也不会,不要和我聊太深，马上露馅",
+        "id": "2007344059074109440",
+        "name": "new",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038412698107719680/nPJvOprO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 3024,
+          "like_count": 4819,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 6990
+        },
+        "username": "liyanxi530",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜欢迎找我来问匿名问题https://t.co/jmSdkECPE6｜个人网站装修中https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 54,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 108,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 85,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2044849985766948894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 655,
+          "like_count": 14654,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 3339
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 1387,
+          "like_count": 909,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-16T19:51:48.000Z",
+        "description": "本人男 entp 高度网瘾",
+        "id": "1802428843552333824",
+        "location": "Americana, Brasil",
+        "name": "柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049090704211910657/sdT9mRVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 105,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "ning3768265146",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T08:13:24.000Z",
+        "description": "某不知名大学学生，化工流体机械专业在读，天蝎座♏ENTP，可以称呼我小红（我最喜欢的称呼！😘）常驻北京，有机会的话我会承担所有饭菜的烹饪🍲！喜欢的发点游戏🎮日常，欢迎和我一起玩🥺🥺🥺！竞技类游戏也玩一点不过打的很烂……😥，动漫只喜欢看轻百日常，希望和很多人成为朋友！欢迎互fo🥳！看到我都会回的喵！😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keai87621",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keai87621",
+                "start": 0,
+                "url": "https://t.co/Ci4TMeuezM"
+              }
+            ]
+          }
+        },
+        "id": "1486975640628723718",
+        "location": "我的小棺材",
+        "name": "店员",
+        "pinned_tweet_id": "2034236766991859879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039660133039620096/uQy2fFRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 509,
+          "like_count": 8072,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/Ci4TMeuezM",
+        "username": "keai58752488",
+        "verified": false
+      }
+    ]
+  }
+}

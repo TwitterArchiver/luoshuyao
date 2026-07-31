@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2026939984364843030",
+    "created_at": "2026-02-26T10:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026961512003498403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "zhouxuanjiu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026961512003498403",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026939984364843030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouxuanjiu2 怎么搞的呀我也想搞一个诶，试了三个银行卡都是拒绝交易。有时候想发长文会被字数限制，有点烦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_2026939976404054020",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEjK1qaMAQhWcF.jpg",
+        "width": 1206
+      },
+      {
+        "height": 458,
+        "media_key": "3_2026939976345378816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEjK1ca4AA2KSG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2026939984364843030",
+        "created_at": "2026-02-26T10:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026961512003498403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "zhouxuanjiu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026961512003498403",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026939984364843030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouxuanjiu2 怎么搞的呀我也想搞一个诶，试了三个银行卡都是拒绝交易。有时候想发长文会被字数限制，有点烦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026939976404054020",
+            "3_2026939976345378816"
+          ]
+        },
+        "author_id": "1860742128688857088",
+        "conversation_id": "2026939984364843030",
+        "created_at": "2026-02-26T08:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026939984364843030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgzDSF7wp7",
+              "end": 31,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2026939984364843030/photo/1",
+              "media_key": "3_2026939976404054020",
+              "start": 8,
+              "url": "https://t.co/fgzDSF7wp7"
+            },
+            {
+              "display_url": "pic.x.com/fgzDSF7wp7",
+              "end": 31,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2026939984364843030/photo/1",
+              "media_key": "3_2026939976345378816",
+              "start": 8,
+              "url": "https://t.co/fgzDSF7wp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026939984364843030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也有蓝勾勾了 https://t.co/fgzDSF7wp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n手游基本什么都玩过，王者吃鸡原神鸣潮崩铁三角洲明日方舟BanG Dream……（此处省略一万字）\n端游比较手残，星露谷那种种田休闲玩的比较多，欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476662676856061956/nt9mtDyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 78,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 76
+        },
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "*我与我，周旋久*｜mtx？｜Jpop爱好，广义二次元、绘画苦手｜INFP/ISFP｜性格恶劣、情绪不稳定｜可以和我交朋友，｜小杂鱼@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GUMOUXUAN",
+                "end": 23,
+                "expanded_url": "https://www.github.com/GUMOUXUAN",
+                "start": 0,
+                "url": "https://t.co/QgNGK9gUjI"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "粥璇玖喵～🍥",
+        "pinned_tweet_id": "2026941509153767657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457468016099328/iv334UJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 294,
+          "like_count": 1547,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/QgNGK9gUjI",
+        "username": "zhouxuanjiu2",
+        "verified": true
+      }
+    ]
+  }
+}

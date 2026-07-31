@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043480695683903661",
+    "created_at": "2026-04-13T04:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043549682518147218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033131214782275584",
+          "start": 0,
+          "username": "SigegeOffial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043549682518147218",
+    "in_reply_to_user_id": "2033131214782275584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043483086722367784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SigegeOffial 这也雷霆吗？我感觉挺正常的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_2043483084394467328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvpCdXaEAAqhp2.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043480695683903661",
+        "created_at": "2026-04-13T04:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043549682518147218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033131214782275584",
+              "start": 0,
+              "username": "SigegeOffial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043549682518147218",
+        "in_reply_to_user_id": "2033131214782275584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043483086722367784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SigegeOffial 这也雷霆吗？我感觉挺正常的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043483084394467328"
+          ]
+        },
+        "author_id": "2033131214782275584",
+        "conversation_id": "2043480695683903661",
+        "created_at": "2026-04-13T00:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043483086722367784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsQIIds5UW",
+              "end": 93,
+              "expanded_url": "https://x.com/SigegeOffial/status/2043483086722367784/photo/1",
+              "media_key": "3_2043483084394467328",
+              "start": 70,
+              "url": "https://t.co/KsQIIds5UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043483086722367784",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043480695683903661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao ？？？？瑶瑶姐要是喝多了就在推特里说一声，你这些字组合起来居然能成为一句话的么？我怎么看不懂呢？这是什么雷霆语言啊？ https://t.co/KsQIIds5UW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 276,
+          "like_count": 9222,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T10:41:29.000Z",
+        "description": "叫西格格就好❤️/人生很漫长 不要去做无聊的内耗折磨自己 开开心心最重要",
+        "id": "2033131214782275584",
+        "name": "西格格Offical",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034373759201861632/QusvK_XM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 42,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 125
+        },
+        "username": "SigegeOffial",
+        "verified": false
+      }
+    ]
+  }
+}

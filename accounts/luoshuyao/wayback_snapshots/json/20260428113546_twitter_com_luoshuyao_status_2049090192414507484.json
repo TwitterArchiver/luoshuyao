@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049090069768949760",
+        "3_2049090069760503808"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049090192414507484",
+    "created_at": "2026-04-28T11:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049090192414507484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 52,
+          "id": "2039266301214924800",
+          "start": 39,
+          "username": "liuzhi147369"
+        },
+        {
+          "end": 64,
+          "id": "2038800463361970176",
+          "start": 53,
+          "username": "liuzhi1000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYKzwvEJeK",
+          "end": 129,
+          "expanded_url": "https://x.com/luoshuyao/status/2049090192414507484/photo/1",
+          "media_key": "3_2049090069768949760",
+          "start": 106,
+          "url": "https://t.co/MYKzwvEJeK"
+        },
+        {
+          "display_url": "pic.x.com/MYKzwvEJeK",
+          "end": 129,
+          "expanded_url": "https://x.com/luoshuyao/status/2049090192414507484/photo/1",
+          "media_key": "3_2049090069760503808",
+          "start": 106,
+          "url": "https://t.co/MYKzwvEJeK"
+        },
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2045154675390087170",
+          "start": 130,
+          "url": "https://t.co/uMjVeHQax7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049090192414507484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045154675390087170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "温馨提示，这条野狗又换了两个号在推上乱咬人，有很多推友反映无缘无故被它骂了。\n@liuzhi147369 @liuzhi1000\n如果不想脏了自己眼睛的朋友可以提前屏蔽一下，它现在一看到人就乱叫，已经彻底疯了。 https://t.co/MYKzwvEJeK https://t.co/uMjVeHQax7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2049090069768949760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_Uj9lb0AA_2Nh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1692,
+        "media_key": "3_2049090069760503808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_Uj9ja8AA3mIr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1776,
+        "media_key": "3_2045153060687876096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHX332akAAoQ8z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2045153060671139841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHX33ybMAEfENf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2024,
+        "media_key": "3_2045153060687945728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHX332boAAeCjZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1754,
+        "media_key": "3_2045153060700467200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHX335asAA-WPg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049090069768949760",
+            "3_2049090069760503808"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049090192414507484",
+        "created_at": "2026-04-28T11:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049090192414507484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "2039266301214924800",
+              "start": 39,
+              "username": "liuzhi147369"
+            },
+            {
+              "end": 64,
+              "id": "2038800463361970176",
+              "start": 53,
+              "username": "liuzhi1000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYKzwvEJeK",
+              "end": 129,
+              "expanded_url": "https://x.com/luoshuyao/status/2049090192414507484/photo/1",
+              "media_key": "3_2049090069768949760",
+              "start": 106,
+              "url": "https://t.co/MYKzwvEJeK"
+            },
+            {
+              "display_url": "pic.x.com/MYKzwvEJeK",
+              "end": 129,
+              "expanded_url": "https://x.com/luoshuyao/status/2049090192414507484/photo/1",
+              "media_key": "3_2049090069760503808",
+              "start": 106,
+              "url": "https://t.co/MYKzwvEJeK"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2045154675390087170",
+              "start": 130,
+              "url": "https://t.co/uMjVeHQax7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049090192414507484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045154675390087170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "温馨提示，这条野狗又换了两个号在推上乱咬人，有很多推友反映无缘无故被它骂了。\n@liuzhi147369 @liuzhi1000\n如果不想脏了自己眼睛的朋友可以提前屏蔽一下，它现在一看到人就乱叫，已经彻底疯了。 https://t.co/MYKzwvEJeK https://t.co/uMjVeHQax7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045153060687876096",
+            "3_2045153060671139841",
+            "3_2045153060687945728",
+            "3_2045153060700467200"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045154675390087170",
+        "created_at": "2026-04-17T14:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045154675390087170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2039297030791573504",
+              "start": 30,
+              "username": "liuzhi1001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/41AVp3CHeO",
+              "end": 159,
+              "expanded_url": "https://x.com/luoshuyao/status/2045154675390087170/photo/1",
+              "media_key": "3_2045153060687876096",
+              "start": 136,
+              "url": "https://t.co/41AVp3CHeO"
+            },
+            {
+              "display_url": "pic.x.com/41AVp3CHeO",
+              "end": 159,
+              "expanded_url": "https://x.com/luoshuyao/status/2045154675390087170/photo/1",
+              "media_key": "3_2045153060671139841",
+              "start": 136,
+              "url": "https://t.co/41AVp3CHeO"
+            },
+            {
+              "display_url": "pic.x.com/41AVp3CHeO",
+              "end": 159,
+              "expanded_url": "https://x.com/luoshuyao/status/2045154675390087170/photo/1",
+              "media_key": "3_2045153060687945728",
+              "start": 136,
+              "url": "https://t.co/41AVp3CHeO"
+            },
+            {
+              "display_url": "pic.x.com/41AVp3CHeO",
+              "end": 159,
+              "expanded_url": "https://x.com/luoshuyao/status/2045154675390087170/photo/1",
+              "media_key": "3_2045153060700467200",
+              "start": 136,
+              "url": "https://t.co/41AVp3CHeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045154675390087170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1629,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "如果你觉得自己是一个很烂的人，可以看一下我分享的这个稀有物种@liuzhi1001\n这还是我第一次被私信骂，看了一下发现是顺着图一的帖子过来的。本来以为它只是意见不合去骂别人，没想到一看它发的帖子，全是回复，别人发什么它都只是重复这几句话，来回发。不得不感叹生物多样性。 https://t.co/41AVp3CHeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 283,
+          "like_count": 11948,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T08:59:18.000Z",
+        "description": "烂婊子骂你就受着，S全家的贱畜又来偷窥了，偷看我主页的人都是S全家的🐶杂种，骂我的、举报我的所有人都是狗畜牲死妈又死爹",
+        "id": "2039266301214924800",
+        "name": "liuzhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048964675774341120/CRRBFG15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 103
+        },
+        "username": "liuzhi147369",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T02:08:12.000Z",
+        "description": "孤儿你看个屁？④全家的贱野狗又来偷窥了，偷看我主页的所有人都是S全家的，骂我、举报我的所有人都是死妈又死爹的🐶畜生",
+        "id": "2038800463361970176",
+        "name": "liuzhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048381792533753857/s7ay1JVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 292
+        },
+        "username": "liuzhi1000",
+        "verified": false
+      }
+    ]
+  }
+}

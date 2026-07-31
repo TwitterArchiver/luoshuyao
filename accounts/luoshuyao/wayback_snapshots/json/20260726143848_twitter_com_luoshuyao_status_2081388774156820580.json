@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081386557131644928",
+        "3_2081386557106540544",
+        "3_2081388668506480642",
+        "3_2081386557106524160"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2081388774156820580",
+    "created_at": "2026-07-26T14:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081388774156820580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tc7iY7zR4i",
+          "end": 111,
+          "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+          "media_key": "3_2081386557131644928",
+          "start": 88,
+          "url": "https://t.co/tc7iY7zR4i"
+        },
+        {
+          "display_url": "pic.x.com/tc7iY7zR4i",
+          "end": 111,
+          "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+          "media_key": "3_2081386557106540544",
+          "start": 88,
+          "url": "https://t.co/tc7iY7zR4i"
+        },
+        {
+          "display_url": "pic.x.com/tc7iY7zR4i",
+          "end": 111,
+          "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+          "media_key": "3_2081388668506480642",
+          "start": 88,
+          "url": "https://t.co/tc7iY7zR4i"
+        },
+        {
+          "display_url": "pic.x.com/tc7iY7zR4i",
+          "end": 111,
+          "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+          "media_key": "3_2081386557106524160",
+          "start": 88,
+          "url": "https://t.co/tc7iY7zR4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081388774156820580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又哭了。本来还好奇自己没买什么快递，是谁会突然给我买东西，一看地址是我之前给你的那个，只有你会填这个地址。也不跟我说一声，买这种东西，用完了怎么办？你再给我买好不好？对不起。 https://t.co/tc7iY7zR4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2081386557131644928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKSC8oa4AAp5C_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1609,
+        "media_key": "3_2081386557106540544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKSC8ib0AApSwM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2081388668506480642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKT92HaIAINmkl.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2081386557106524160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKSC8ibkAAwbOZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081386557131644928",
+            "3_2081386557106540544",
+            "3_2081388668506480642",
+            "3_2081386557106524160"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2081388774156820580",
+        "created_at": "2026-07-26T14:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081388774156820580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tc7iY7zR4i",
+              "end": 111,
+              "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+              "media_key": "3_2081386557131644928",
+              "start": 88,
+              "url": "https://t.co/tc7iY7zR4i"
+            },
+            {
+              "display_url": "pic.x.com/tc7iY7zR4i",
+              "end": 111,
+              "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+              "media_key": "3_2081386557106540544",
+              "start": 88,
+              "url": "https://t.co/tc7iY7zR4i"
+            },
+            {
+              "display_url": "pic.x.com/tc7iY7zR4i",
+              "end": 111,
+              "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+              "media_key": "3_2081388668506480642",
+              "start": 88,
+              "url": "https://t.co/tc7iY7zR4i"
+            },
+            {
+              "display_url": "pic.x.com/tc7iY7zR4i",
+              "end": 111,
+              "expanded_url": "https://x.com/luoshuyao/status/2081388774156820580/photo/1",
+              "media_key": "3_2081386557106524160",
+              "start": 88,
+              "url": "https://t.co/tc7iY7zR4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081388774156820580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又哭了。本来还好奇自己没买什么快递，是谁会突然给我买东西，一看地址是我之前给你的那个，只有你会填这个地址。也不跟我说一声，买这种东西，用完了怎么办？你再给我买好不好？对不起。 https://t.co/tc7iY7zR4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 282,
+          "like_count": 19787,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 4734
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

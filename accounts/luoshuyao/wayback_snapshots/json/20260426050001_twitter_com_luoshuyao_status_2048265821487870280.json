@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048260703950348694",
+    "created_at": "2026-04-26T05:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048265821487870280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033094355972726788",
+          "start": 0,
+          "username": "dongmugen0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048265821487870280",
+    "in_reply_to_user_id": "2033094355972726788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048260703950348694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongmugen0508 好久没有你的消息了，你现在过得还好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048260703950348694",
+        "created_at": "2026-04-26T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048265821487870280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033094355972726788",
+              "start": 0,
+              "username": "dongmugen0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048265821487870280",
+        "in_reply_to_user_id": "2033094355972726788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048260703950348694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongmugen0508 好久没有你的消息了，你现在过得还好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033094355972726788",
+        "conversation_id": "2048260703950348694",
+        "created_at": "2026-04-26T04:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048260703950348694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048260703950348694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次一上推就是在抱怨。这是我倾诉情绪的唯一方式了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 279,
+          "like_count": 11329,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2514
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T08:14:16.000Z",
+        "description": "前世@dongmugen08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "dongmugen08"
+              }
+            ]
+          }
+        },
+        "id": "2033094355972726788",
+        "name": "东木艮（推油巡回中）",
+        "pinned_tweet_id": "2033095957039194381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033095147467190276/aYDkP8w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 71,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 14
+        },
+        "username": "dongmugen0508",
+        "verified": false
+      }
+    ]
+  }
+}

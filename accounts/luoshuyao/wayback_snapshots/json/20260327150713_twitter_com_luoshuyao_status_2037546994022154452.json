@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2037461041718923569",
+    "created_at": "2026-03-27T15:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037546994022154452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803342728367087616",
+          "start": 0,
+          "username": "Superdogie2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037546994022154452",
+    "in_reply_to_user_id": "1803342728367087616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037541666366914732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Superdogie2020 不会不会，都知道是开玩笑的，而且为什么又莫名其妙涨粉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2037461041718923569",
+        "created_at": "2026-03-27T15:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037546994022154452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803342728367087616",
+              "start": 0,
+              "username": "Superdogie2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037546994022154452",
+        "in_reply_to_user_id": "1803342728367087616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037541666366914732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Superdogie2020 不会不会，都知道是开玩笑的，而且为什么又莫名其妙涨粉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803342728367087616",
+        "conversation_id": "2037461041718923569",
+        "created_at": "2026-03-27T14:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037541666366914732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037541666366914732",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037461041718923569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 这样会掉粉吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 285,
+          "like_count": 6407,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1323
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-19T08:29:38.000Z",
+        "description": "Let’s talk about technology on future and military or whatever cool!\n带来我一家之言的科技行业资讯和观察！",
+        "id": "1803342728367087616",
+        "name": "地平线科技评论Over Horizon Tech Comment",
+        "pinned_tweet_id": "2036301881400496216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993561104904302592/2E-hN-N2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1036,
+          "like_count": 1404,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2083
+        },
+        "username": "Superdogie2020",
+        "verified": true
+      }
+    ]
+  }
+}

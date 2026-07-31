@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2079149001413374392",
+    "created_at": "2026-07-20T10:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079157982651449742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029403000293474307",
+          "start": 0,
+          "username": "AcaneYu10309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079157982651449742",
+    "in_reply_to_user_id": "2029403000293474307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079154822872490330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcaneYu10309 没事，好几年了习惯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2079149001413374392",
+        "created_at": "2026-07-20T10:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079157982651449742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029403000293474307",
+              "start": 0,
+              "username": "AcaneYu10309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079157982651449742",
+        "in_reply_to_user_id": "2029403000293474307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079154822872490330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcaneYu10309 没事，好几年了习惯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029403000293474307",
+        "conversation_id": "2079149001413374392",
+        "created_at": "2026-07-20T10:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079154822872490330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079154822872490330",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079149001413374392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 老大怎么了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 281,
+          "like_count": 19820,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 4639
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T03:47:01.000Z",
+        "description": "19 请不要在意我的性别 我不了解任何圈子\n如果我的发言造成了困扰请告知\n我有过抑郁症 目前正在尽自己所能爱生活 会发画会发日常\n会回fo 感谢捧场\n〖中/En/日〗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/13381610",
+                "end": 23,
+                "expanded_url": "https://ngl.link/13381610",
+                "start": 0,
+                "url": "https://t.co/EJnjRPjhOf"
+              }
+            ]
+          }
+        },
+        "id": "2029403000293474307",
+        "location": "地球不存在的思想中",
+        "name": "拾叁叁",
+        "pinned_tweet_id": "2052070176292827158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078451034377375744/dPpDSUd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 230,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/EJnjRPjhOf",
+        "username": "AcaneYu10309",
+        "verified": false
+      }
+    ]
+  }
+}

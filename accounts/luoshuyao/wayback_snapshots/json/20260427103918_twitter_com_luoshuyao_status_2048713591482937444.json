@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048633068148449526",
+    "created_at": "2026-04-27T10:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048713591482937444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580978277325238272",
+          "start": 0,
+          "username": "kba57358746"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048713591482937444",
+    "in_reply_to_user_id": "1580978277325238272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048667932717105592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kba57358746 猎奇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 272,
+        "media_key": "3_2048667929697476608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5UoLRaYAAjOQV.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048633068148449526",
+        "created_at": "2026-04-27T10:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048713591482937444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580978277325238272",
+              "start": 0,
+              "username": "kba57358746"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048713591482937444",
+        "in_reply_to_user_id": "1580978277325238272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048667932717105592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kba57358746 猎奇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048667929697476608"
+          ]
+        },
+        "author_id": "1580978277325238272",
+        "conversation_id": "2048633068148449526",
+        "created_at": "2026-04-27T07:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048667932717105592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3FTHjWaRu",
+              "end": 37,
+              "expanded_url": "https://x.com/kba57358746/status/2048667932717105592/photo/1",
+              "media_key": "3_2048667929697476608",
+              "start": 14,
+              "url": "https://t.co/C3FTHjWaRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048667932717105592",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048633068148449526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 评论 https://t.co/C3FTHjWaRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 282,
+          "like_count": 11664,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T17:56:18.000Z",
+        "description": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊西八为什么为什么为什么！",
+        "id": "1580978277325238272",
+        "location": "我在时间尽头等你",
+        "name": "辞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783139443156680704/WLfslNjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 986,
+          "like_count": 5884,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 2906
+        },
+        "username": "kba57358746",
+        "verified": false
+      }
+    ]
+  }
+}

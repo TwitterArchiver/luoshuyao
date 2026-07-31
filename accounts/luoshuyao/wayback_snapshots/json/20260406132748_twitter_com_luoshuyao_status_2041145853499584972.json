@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2041092023256854678",
+    "created_at": "2026-04-06T13:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041145853499584972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886242908875231232",
+          "start": 0,
+          "username": "acisuitie404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041145853499584972",
+    "in_reply_to_user_id": "1886242908875231232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041103392580444170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acisuitie404 那你和我情况其实差不多，我也没有爸爸，从小也比较敏感，只是那个时候还没有察觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2041092023256854678",
+        "created_at": "2026-04-06T13:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041145853499584972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886242908875231232",
+              "start": 0,
+              "username": "acisuitie404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041145853499584972",
+        "in_reply_to_user_id": "1886242908875231232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041103392580444170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acisuitie404 那你和我情况其实差不多，我也没有爸爸，从小也比较敏感，只是那个时候还没有察觉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886242908875231232",
+        "conversation_id": "2041092023256854678",
+        "created_at": "2026-04-06T10:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041103392580444170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041103392580444170",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041092023256854678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 你好幸福 我也是被爷爷奶奶带大的 我从小缺失父亲的角色 但我从来没有觉得自己与正常人没有什么区别 但是疫情之后两人相继离世 我原生的弊端性格开始显露出来 特别变扭。虽然我没有什么经济上的压力 。但是变得越来越敏感共情心能理解世界上各类的人的想法为什么会这样 越来越迷失自我，希望多陪陪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 278,
+          "like_count": 8202,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T02:38:57.000Z",
+        "description": "infp 男",
+        "id": "1886242908875231232",
+        "name": "莎缇拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036355402192003073/t2Er1Q56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 48,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 255
+        },
+        "username": "acisuitie404",
+        "verified": false
+      }
+    ]
+  }
+}

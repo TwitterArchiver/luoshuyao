@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045728529925685463",
+    "created_at": "2026-04-19T13:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045863870150148529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1565881978062118913",
+          "start": 0,
+          "username": "Espania_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045863870150148529",
+    "in_reply_to_user_id": "1565881978062118913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045862167308841145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Espania_CN 我要看真的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045728529925685463",
+        "created_at": "2026-04-19T13:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045863870150148529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1565881978062118913",
+              "start": 0,
+              "username": "Espania_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045863870150148529",
+        "in_reply_to_user_id": "1565881978062118913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045862167308841145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Espania_CN 我要看真的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565881978062118913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2045728529925685463",
+        "created_at": "2026-04-19T13:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045862167308841145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20451…",
+              "end": 45,
+              "expanded_url": "https://x.com/i/status/2045139851511755075",
+              "start": 22,
+              "url": "https://t.co/m6LFhxydEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045862167308841145",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045139851511755075",
+            "type": "quoted"
+          },
+          {
+            "id": "2045728529925685463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 看《邻家天使同学》👀\nhttps://t.co/m6LFhxydEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 280,
+          "like_count": 10317,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T01:59:20.000Z",
+        "description": "中国大陸のクズ男子大学生です🇨🇳\n🔰雑多垢：アニメ/マンガ/ゲーム/ライベ/政治歴史と人文地理/欧州と亚州の言語と文化が大好きですよ(英語、日本語、韓国語、ベトナム語勉強中)フォロバOK\n⚠️禁止谈政治\n【日本が好きです🇯🇵/한국을 좋아해요🇰🇷 /Thích Việt Nam🇻🇳】",
+        "id": "1565881978062118913",
+        "location": "People's Republic of China",
+        "name": "Espania",
+        "pinned_tweet_id": "1946929246875840944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007398324769595393/jS71Fby2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 5922,
+          "like_count": 80962,
+          "listed_count": 11,
+          "media_count": 47,
+          "tweet_count": 27544
+        },
+        "username": "Espania_CN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048995735396294677",
+    "created_at": "2026-04-28T10:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049078616647237635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929464299115679745",
+          "start": 0,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049078616647237635",
+    "in_reply_to_user_id": "1929464299115679745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048995735396294677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devastated1726 最后一段是《我用什么把你留住》里的歌词，很好听的一首歌。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048995406311522304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9-d0ubAAAPbqx.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048995735396294677",
+        "created_at": "2026-04-28T10:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049078616647237635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049078616647237635",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048995735396294677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 最后一段是《我用什么把你留住》里的歌词，很好听的一首歌。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048995406311522304"
+          ]
+        },
+        "author_id": "1929464299115679745",
+        "conversation_id": "2048995735396294677",
+        "created_at": "2026-04-28T05:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048995735396294677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vqAVPsVUi8",
+              "end": 63,
+              "expanded_url": "https://x.com/Devastated1726/status/2048995735396294677/photo/1",
+              "media_key": "3_2048995406311522304",
+              "start": 40,
+              "url": "https://t.co/vqAVPsVUi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048995735396294677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的第一次爆哭，我没见过这么好的人😭我也是有小作文的人！😭😭😭😭😭😭😭😭😭😭 https://t.co/vqAVPsVUi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 282,
+          "like_count": 11888,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 2655
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸 \n私信胯下二两肉的爱骚扰的你明天就死绝户\n想互fo直接关注我呀 女生直接互fo",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2047815640342241486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042008358832762882/7uQCgUTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 140,
+          "like_count": 846,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1475
+        },
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

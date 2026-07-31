@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043550262649036801"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043540121706729589",
+    "created_at": "2026-04-13T04:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043550274036654480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7w2ccYagz",
+          "end": 44,
+          "expanded_url": "https://x.com/luoshuyao/status/2043550274036654480/photo/1",
+          "media_key": "3_2043550262649036801",
+          "start": 21,
+          "url": "https://t.co/t7w2ccYagz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043550274036654480",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043540121706729589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 ！？强强？！ https://t.co/t7w2ccYagz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2043550262649036801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwmIv3aIAEvOa5.jpg",
+        "width": 296
+      },
+      {
+        "duration_ms": 39950,
+        "height": 720,
+        "media_key": "13_2043539782538559488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043539782538559488/img/GJZ3NNayvBJqonEo.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043539782538559488/vid/avc1/480x270/V1YqiLkz5aRlJc18.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043539782538559488/vid/avc1/640x360/_8Bg6PtabthqkS6G.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043539782538559488/vid/avc1/1280x720/0aAVQoDKRZMNYUxP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043539782538559488/pl/arYF3hxslfsLa1Sh.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043550262649036801"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043540121706729589",
+        "created_at": "2026-04-13T04:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043550274036654480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7w2ccYagz",
+              "end": 44,
+              "expanded_url": "https://x.com/luoshuyao/status/2043550274036654480/photo/1",
+              "media_key": "3_2043550262649036801",
+              "start": 21,
+              "url": "https://t.co/t7w2ccYagz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043550274036654480",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043540121706729589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 ！？强强？！ https://t.co/t7w2ccYagz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043539782538559488"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2043540121706729589",
+        "created_at": "2026-04-13T04:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043540121706729589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyvcAzVLPQ",
+              "end": 43,
+              "expanded_url": "https://x.com/liujiayi1111/status/2043540121706729589/video/1",
+              "media_key": "13_2043539782538559488",
+              "start": 20,
+              "url": "https://t.co/iyvcAzVLPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043540121706729589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活死人2022没有Cypher 小精灵 https://t.co/iyvcAzVLPQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 276,
+          "like_count": 9223,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。擅长TS/JS/React/Node.js/Python",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2040299131344749005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878217807000657921/ZweBzy0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7600,
+          "following_count": 31,
+          "like_count": 4385,
+          "listed_count": 16,
+          "media_count": 41,
+          "tweet_count": 234
+        },
+        "username": "liujiayi1111",
+        "verified": false
+      }
+    ]
+  }
+}

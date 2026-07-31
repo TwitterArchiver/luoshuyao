@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2042538281632698854",
+    "created_at": "2026-04-10T15:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042626444120166666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963088360110530560",
+          "start": 0,
+          "username": "charlotte1020W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042626444120166666",
+    "in_reply_to_user_id": "1963088360110530560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042596030789689675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charlotte1020W 没事的，这对我来说已经算不上什么大事了😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2042538281632698854",
+        "created_at": "2026-04-10T15:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042626444120166666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963088360110530560",
+              "start": 0,
+              "username": "charlotte1020W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042626444120166666",
+        "in_reply_to_user_id": "1963088360110530560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042596030789689675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charlotte1020W 没事的，这对我来说已经算不上什么大事了😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963088360110530560",
+        "conversation_id": "2042538281632698854",
+        "created_at": "2026-04-10T13:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042596030789689675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042596030789689675",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042538281632698854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 281,
+          "like_count": 8763,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-03T03:55:23.000Z",
+        "description": "殁亡正是结果，崩毁便是必然\n混乱亦是秩序，死寂即是终局\n\n鲜卑-汉-契丹-百越",
+        "id": "1963088360110530560",
+        "location": "奣曟天穹聯盟國",
+        "name": "剣〆雪希 Ken Yuki",
+        "pinned_tweet_id": "2042612089513013252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042332789140340736/HWqZNsC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 118,
+          "like_count": 75,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 5731
+        },
+        "username": "charlotte1020W",
+        "verified": false
+      }
+    ]
+  }
+}

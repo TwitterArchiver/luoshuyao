@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053815640486731823",
+    "created_at": "2026-05-11T12:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053815640486731823"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053815640486731823",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {},
+      "text": "🤤🤤🤤\n流口水一般多数是中风的前兆。中风主要分中脏腑和中经络，中经络是比较轻微的中风，患者常常会有肢体以及面部和发麻，以及轻微的活动功能障碍。症状严重的患者会有半侧肢体瘫痪、流口水和说话吞咽困难等症状。中脏腑多数是比较严重的中风，患者常常会有嗜睡、昏迷、意识丧失等严重的症状。因此说在流口水的时候多数是中风的前兆，患者需要及时到医院进行检查治疗，以免病情发展达到中脏腑的地步。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053815640486731823",
+        "created_at": "2026-05-11T12:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053815640486731823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053815640486731823",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {},
+          "text": "🤤🤤🤤\n流口水一般多数是中风的前兆。中风主要分中脏腑和中经络，中经络是比较轻微的中风，患者常常会有肢体以及面部和发麻，以及轻微的活动功能障碍。症状严重的患者会有半侧肢体瘫痪、流口水和说话吞咽困难等症状。中脏腑多数是比较严重的中风，患者常常会有嗜睡、昏迷、意识丧失等严重的症状。因此说在流口水的时候多数是中风的前兆，患者需要及时到医院进行检查治疗，以免病情发展达到中脏腑的地步。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤤🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 288,
+          "like_count": 14036,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

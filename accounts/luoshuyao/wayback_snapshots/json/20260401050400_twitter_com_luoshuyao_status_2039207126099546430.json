@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1538410956681752577",
+          "name": "Sisters Who Make Waves"
+        }
+      }
+    ],
+    "conversation_id": "2039145732851044648",
+    "created_at": "2026-04-01T05:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039207126099546430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725534917201645568",
+          "start": 0,
+          "username": "chuan_ao77311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039207126099546430",
+    "in_reply_to_user_id": "1725534917201645568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039145732851044648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_ao77311 生日快乐🎂🎉愿你前程似锦，愿你沧海桑田之后依旧乘风破浪，尘埃落定之后依旧炙热欢畅。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2038984388239904768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvtf4ObUAAT2nm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538410956681752577",
+              "name": "Sisters Who Make Waves"
+            }
+          }
+        ],
+        "conversation_id": "2039145732851044648",
+        "created_at": "2026-04-01T05:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039207126099546430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725534917201645568",
+              "start": 0,
+              "username": "chuan_ao77311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039207126099546430",
+        "in_reply_to_user_id": "1725534917201645568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039145732851044648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_ao77311 生日快乐🎂🎉愿你前程似锦，愿你沧海桑田之后依旧乘风破浪，尘埃落定之后依旧炙热欢畅。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038984388239904768"
+          ]
+        },
+        "author_id": "1725534917201645568",
+        "conversation_id": "2039145732851044648",
+        "created_at": "2026-04-01T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039145732851044648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOGX3gLi1y",
+              "end": 39,
+              "expanded_url": "https://x.com/chuan_ao77311/status/2039145732851044648/photo/1",
+              "media_key": "3_2038984388239904768",
+              "start": 16,
+              "url": "https://t.co/LOGX3gLi1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039145732851044648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2527,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“紧急通知，今天是我的生日！” https://t.co/LOGX3gLi1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 297,
+          "like_count": 7162,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1535
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T15:23:01.000Z",
+        "description": "我是小叶，日常碎碎念/高中生/欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyiqiuxie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyiqiuxie",
+                "start": 0,
+                "url": "https://t.co/TXjHDYvsZz"
+              }
+            ]
+          }
+        },
+        "id": "1725534917201645568",
+        "location": "距离你💓5.2km",
+        "name": "第一秋叶",
+        "pinned_tweet_id": "2013249310918402516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031397053499322369/wVwkpFAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 306,
+          "like_count": 9792,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/TXjHDYvsZz",
+        "username": "chuan_ao77311",
+        "verified": false
+      }
+    ]
+  }
+}

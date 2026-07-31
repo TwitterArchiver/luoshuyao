@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2037570222132244857",
+    "created_at": "2026-03-28T03:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037739588777841075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886510677855993856",
+          "start": 0,
+          "username": "JWick92065"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037739588777841075",
+    "in_reply_to_user_id": "1886510677855993856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037676121735713208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JWick92065 哭泣是宣泄情绪的一种方式，不是女孩子的特权。哭泣不是不勇敢，一味的逃避，放弃自己才不勇敢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2037570222132244857",
+        "created_at": "2026-03-28T03:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037739588777841075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886510677855993856",
+              "start": 0,
+              "username": "JWick92065"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037739588777841075",
+        "in_reply_to_user_id": "1886510677855993856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037676121735713208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JWick92065 哭泣是宣泄情绪的一种方式，不是女孩子的特权。哭泣不是不勇敢，一味的逃避，放弃自己才不勇敢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886510677855993856",
+        "conversation_id": "2037570222132244857",
+        "created_at": "2026-03-27T23:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037676121735713208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037676121735713208",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037570222132244857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 男孩子呢？长大了是不是就得勇敢，不能哭泣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 285,
+          "like_count": 6472,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1351
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T20:23:24.000Z",
+        "description": "交个朋友｜知行合一｜第一性原理\n日常疯癫｜间歇性要脸\n贪财好色｜宁愿在女人身上吃亏，也不能放弃搞钱｜\n币圈15年｜打的就是持久战",
+        "id": "1886510677855993856",
+        "location": "Hokkaido",
+        "name": "Jason Wick",
+        "pinned_tweet_id": "2037658984535167260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019578086355066881/uI60mKGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 1225,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1083
+        },
+        "username": "JWick92065",
+        "verified": true
+      }
+    ]
+  }
+}

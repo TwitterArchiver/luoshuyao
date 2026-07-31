@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2066868654365724875",
+    "created_at": "2026-06-16T13:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066872565952598293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        },
+        {
+          "end": 28,
+          "id": "136708294",
+          "start": 13,
+          "username": "ningmeng______"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066872565952598293",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066871722603843821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr @ningmeng______ 那我是活不过40了吗😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2066868654365724875",
+        "created_at": "2026-06-16T13:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066872565952598293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 28,
+              "id": "136708294",
+              "start": 13,
+              "username": "ningmeng______"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066872565952598293",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066871722603843821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @ningmeng______ 那我是活不过40了吗😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2066868654365724875",
+        "created_at": "2026-06-16T13:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066871722603843821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "136708294",
+              "start": 0,
+              "username": "ningmeng______"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066871722603843821",
+        "in_reply_to_user_id": "136708294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066868654365724875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmeng______ 食品安全加上衣服家具环境之类的，活过五十就烧高香了，不过这是好事啊，享福去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 288,
+          "like_count": 18141,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 3955
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，百分之八十皮特人间体，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 430,
+          "like_count": 130036,
+          "listed_count": 3,
+          "media_count": 808,
+          "tweet_count": 19715
+        },
+        "username": "123456wwerr",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-24T17:45:44.000Z",
+        "description": "「我宣布——判处死刑！」",
+        "id": "136708294",
+        "name": "芙宁娜",
+        "pinned_tweet_id": "2054695482312773744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066518293046026240/tvaBmhHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 425,
+          "like_count": 4751,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2021
+        },
+        "username": "ningmeng______",
+        "verified": false
+      }
+    ]
+  }
+}

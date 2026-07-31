@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2079806582993641947",
+    "created_at": "2026-07-22T05:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079806582993641947"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079806582993641947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们组有个孩子干完这个月就要离职了，他才18岁，能在我们组坚持三个月已经很厉害了。半年多的时间招了十几个人来我们组，基本都是干了半天就跑了。还要怪我们留不住人。\n领导还把我们一个组长调到别的组帮忙了。昨天他们干8个小时就下班了，我们干了12个小时才下班。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2079806582993641947",
+        "created_at": "2026-07-22T05:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079806582993641947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079806582993641947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们组有个孩子干完这个月就要离职了，他才18岁，能在我们组坚持三个月已经很厉害了。半年多的时间招了十几个人来我们组，基本都是干了半天就跑了。还要怪我们留不住人。\n领导还把我们一个组长调到别的组帮忙了。昨天他们干8个小时就下班了，我们干了12个小时才下班。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 281,
+          "like_count": 19813,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 4650
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

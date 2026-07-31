@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2080677561684943316",
+    "created_at": "2026-07-24T15:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080677561684943316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080677561684943316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些领导只要不影响生产的事情完全不在意，影响到生产立马给你解决了。\n去年夏天他们给保洁组装了空调，就在我们组旁边的一个房间。空调遥控器没用多久就用不了了，可能是进水了。早就和领导反映过了，这种小事一直没有解决。结果就是我每天都用手机帮保洁阿姨开了一年的空调，没办法，她们也不会用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2080677561684943316",
+        "created_at": "2026-07-24T15:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080677561684943316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080677561684943316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些领导只要不影响生产的事情完全不在意，影响到生产立马给你解决了。\n去年夏天他们给保洁组装了空调，就在我们组旁边的一个房间。空调遥控器没用多久就用不了了，可能是进水了。早就和领导反映过了，这种小事一直没有解决。结果就是我每天都用手机帮保洁阿姨开了一年的空调，没办法，她们也不会用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 283,
+          "like_count": 19963,
+          "listed_count": 2,
+          "media_count": 491,
+          "tweet_count": 4710
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2042626154537123918",
+    "created_at": "2026-04-10T16:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042639442989797825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "922188393160806402",
+          "start": 0,
+          "username": "jaimesolis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042639442989797825",
+    "in_reply_to_user_id": "922188393160806402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042636548265419143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaimesolis 我觉得她完全不会回头的，我很清楚她，因为她什么都和我说。她在现实也是有好朋友的，她不会孤独的，她前对象能做的事情她朋友也能做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2042626154537123918",
+        "created_at": "2026-04-10T16:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042639442989797825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "922188393160806402",
+              "start": 0,
+              "username": "jaimesolis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042639442989797825",
+        "in_reply_to_user_id": "922188393160806402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042636548265419143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaimesolis 我觉得她完全不会回头的，我很清楚她，因为她什么都和我说。她在现实也是有好朋友的，她不会孤独的，她前对象能做的事情她朋友也能做。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "922188393160806402",
+        "conversation_id": "2042626154537123918",
+        "created_at": "2026-04-10T16:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042636548265419143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042636548265419143",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042626154537123918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 及时止损这点对，但我看到一个被忽视的问题：大多数人分手后3个月又回头了。 真正的考验不是决定分手，是能否坚持住。情感成本太高，孤独感会把决定推翻。数据上看，70%的人在前90天内会重新联系。所以关键不在认清不值得，在于有没有替代方案填"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 281,
+          "like_count": 8792,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-22T19:50:21.000Z",
+        "description": "Shipping products. Watching empires. ⚙️ Builder · Geopolitics · AI/Agents⚡ $SOL $KAS",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "SOL"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "KAS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaimebuilds.com",
+                "end": 23,
+                "expanded_url": "https://jaimebuilds.com/",
+                "start": 0,
+                "url": "https://t.co/eT9OPRsHi9"
+              }
+            ]
+          }
+        },
+        "id": "922188393160806402",
+        "location": "Connecticut, US.",
+        "name": "jaime",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016705443394179073/qy6mbrsL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 757,
+          "like_count": 5424,
+          "listed_count": 10,
+          "media_count": 48,
+          "tweet_count": 23129
+        },
+        "url": "https://t.co/eT9OPRsHi9",
+        "username": "jaimesolis",
+        "verified": true
+      }
+    ]
+  }
+}

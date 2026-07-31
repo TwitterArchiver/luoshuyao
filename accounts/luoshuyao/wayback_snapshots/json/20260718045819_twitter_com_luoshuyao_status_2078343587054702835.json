@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2078326550483947589",
+    "created_at": "2026-07-18T04:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078343587054702835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078343587054702835",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078326550483947589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 很多人只看到世界的一面，就认为这个世界就是这样的，这件事就是这样的，这个人就是这样的，缺乏正常的判断，只相信自己看到的东西，或者只能看到自己相信的东西。这里确实也有很多非黑即白的言论。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2078326550483947589",
+        "created_at": "2026-07-18T04:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078343587054702835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078343587054702835",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078326550483947589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 很多人只看到世界的一面，就认为这个世界就是这样的，这件事就是这样的，这个人就是这样的，缺乏正常的判断，只相信自己看到的东西，或者只能看到自己相信的东西。这里确实也有很多非黑即白的言论。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2078326550483947589",
+        "created_at": "2026-07-18T03:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078326550483947589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078326550483947589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "转自Threads：\n\n这几年我最大的变化之一，大概就是越来越不相信中国应该走西方那套民主宪政道路了。\n\n2022年乌鲁木齐大火、上海封控的时候，我和很多人一样愤怒，当时我觉得迈乎真的蠢得不可思议，甚至觉得是不是换一套制度很多问题就解决了，应该把这些人都拉去排队枪毙。\n\n过去四年经历高考、大学、实习和工作之后，我反而越来越怀疑这种想法。不是因为我变得更有政治水平了，恰恰相反，是因为我发现自己对政治懂得越少，就越不敢轻易下结论。但与此同时，我见过的人越来越多，刷过的评论区越来越多，我越来越意识到一个问题：很多人真的缺乏最基本的常识和理性，却对国家、经济、国际关系、社会制度有着近乎无限的表达欲和自信。\n\n不管是粉红还是反贼，那些油管大v很多感觉政治知识储备还不如六十年代红卫兵……每天打开抖音、小红书，评论区里充斥着情绪、偏见和非黑即白的判断，看得人头皮发麻，感觉真的把选票丢给这些人完全是在摧毁这片土地。\n\n更让我绝望的是，这种现象绝对不只存在于互联网。我实习期间和一位一线城市三甲医院的科室主任吃饭的时候听他说，现在女孩子就是书读太多，被西方思想影响，所以社会越来越堕落。\n\n当时我整个人都呆住了，因为那一刻我突然意识到，学历高、职位高和思想开明根本不是一回事。\n\n中国有14亿人，人口多意味着人才多，但也意味着无知的人、偏执的人、情绪化的人同样多。很多人把制度想象成万能药，好像换个制度一切问题都会自动解决，可这些年我越来越觉得，制度本质上只是一个放大器，它会放大一个社会最优秀的部分，也会放大一个社会最糟糕的部分。\n\n有时候想到如果有一天国家的方向更多地取决于那些我每天都能在现实和评论区遇到的神人，我产生的绝对不会是期待……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1116,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转自Threads：\n\n这几年我最大的变化之一，大概就是越来越不相信中国应该走西方那套民主宪政道路了。\n\n2022年乌鲁木齐大火、上海封控的时候，我和很多人一样愤怒，当时我觉得迈乎真的蠢得不可思议，甚至觉得是不是换一套制度很多问题就解决了，应该把这些人都拉去排队枪毙。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 281,
+          "like_count": 19751,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 4613
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13317,
+          "following_count": 3195,
+          "like_count": 43792,
+          "listed_count": 40,
+          "media_count": 4711,
+          "tweet_count": 24010
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

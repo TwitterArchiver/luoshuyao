@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2074524695626739967",
+    "created_at": "2026-07-07T16:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074536505134166314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311608169269923841",
+          "start": 0,
+          "username": "g60Yts1kvzO4g8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074536505134166314",
+    "in_reply_to_user_id": "1311608169269923841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074524695626739967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g60Yts1kvzO4g8q 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2074524686852247553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoxNh2bUAECqJL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2074524695626739967",
+        "created_at": "2026-07-07T16:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074536505134166314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311608169269923841",
+              "start": 0,
+              "username": "g60Yts1kvzO4g8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074536505134166314",
+        "in_reply_to_user_id": "1311608169269923841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074524695626739967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g60Yts1kvzO4g8q 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074524686852247553"
+          ]
+        },
+        "author_id": "1311608169269923841",
+        "conversation_id": "2074524695626739967",
+        "created_at": "2026-07-07T16:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074524695626739967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWbsycwoQ3",
+              "end": 75,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2074524695626739967/photo/1",
+              "media_key": "3_2074524686852247553",
+              "start": 52,
+              "url": "https://t.co/cWbsycwoQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074524695626739967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天生日～ \n希望大家都能开开心心✧٩(ˊωˋ*)و✧ \n因为在复习没空吃蛋糕 就给自己画了一张（（（ https://t.co/cWbsycwoQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 271,
+          "like_count": 19216,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-01T10:05:45.000Z",
+        "description": "人文地理 中国近现代史  港乐 手绘爱好者",
+        "id": "1311608169269923841",
+        "location": "Taiwan",
+        "name": "素桐桐桐",
+        "pinned_tweet_id": "2046500844645048431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050591608375300096/rN9OcqFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 575,
+          "like_count": 301,
+          "listed_count": 7,
+          "media_count": 70,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "g60Yts1kvzO4g8q",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053414927906595267",
+    "created_at": "2026-05-10T10:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053414927906595267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2053413649251963222",
+          "start": 27,
+          "url": "https://t.co/lGV0uYZ9zp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053414927906595267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053413649251963222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉都是年轻人在玩QQ了，原来我已经不是年轻人了吗？ https://t.co/lGV0uYZ9zp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2053411556067876864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8u7kkboAATK9G.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2053412572548980736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8v2vQaYAAe9YH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053414927906595267",
+        "created_at": "2026-05-10T10:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053414927906595267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2053413649251963222",
+              "start": 27,
+              "url": "https://t.co/lGV0uYZ9zp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053414927906595267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053413649251963222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉都是年轻人在玩QQ了，原来我已经不是年轻人了吗？ https://t.co/lGV0uYZ9zp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053411556067876864",
+            "3_2053412572548980736"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053413649251963222",
+        "created_at": "2026-05-10T09:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053413649251963222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXTBSu1VmO",
+              "end": 100,
+              "expanded_url": "https://x.com/luoshuyao/status/2053413649251963222/photo/1",
+              "media_key": "3_2053411556067876864",
+              "start": 77,
+              "url": "https://t.co/NXTBSu1VmO"
+            },
+            {
+              "display_url": "pic.x.com/NXTBSu1VmO",
+              "end": 100,
+              "expanded_url": "https://x.com/luoshuyao/status/2053413649251963222/photo/1",
+              "media_key": "3_2053412572548980736",
+              "start": 77,
+              "url": "https://t.co/NXTBSu1VmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053413649251963222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有很大一部分原因是没几个朋友用QQ了才来这里玩的。放在好几年前可能跟200+的人聊过天，现在QQ上五个聊天的人都没有了。给我的感觉就像是一个空巢老人。 https://t.co/NXTBSu1VmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 287,
+          "like_count": 13570,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

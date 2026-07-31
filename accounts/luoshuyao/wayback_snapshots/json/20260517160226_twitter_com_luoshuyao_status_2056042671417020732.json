@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055950144819052744",
+    "created_at": "2026-05-17T16:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056042671417020732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908894436169502720",
+          "start": 0,
+          "username": "Magkyusejinki"
+        },
+        {
+          "end": 24,
+          "id": "1688101533198475264",
+          "start": 15,
+          "username": "Chise_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056042671417020732",
+    "in_reply_to_user_id": "1908894436169502720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056041870627869144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magkyusejinki @Chise_wo 我这是触发关键词了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2055950144819052744",
+        "created_at": "2026-05-17T16:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056042671417020732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908894436169502720",
+              "start": 0,
+              "username": "Magkyusejinki"
+            },
+            {
+              "end": 24,
+              "id": "1688101533198475264",
+              "start": 15,
+              "username": "Chise_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056042671417020732",
+        "in_reply_to_user_id": "1908894436169502720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056041870627869144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magkyusejinki @Chise_wo 我这是触发关键词了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908894436169502720",
+        "conversation_id": "2055950144819052744",
+        "created_at": "2026-05-17T15:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056041870627869144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            },
+            {
+              "end": 20,
+              "id": "1688101533198475264",
+              "start": 11,
+              "username": "Chise_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056041870627869144",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055954654727733682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao @Chise_wo “高考假能拿回来”的意思是他可以在高考生高考时其他学生所放的假里把手表拿回来，意味着他不是高考生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 292,
+          "like_count": 15815,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 3426
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生日期:2009.04.16｜翻车：2026.05.09｜无证含糖｜喜欢听音乐，喜欢养植物，喜欢Undertale及其AUs｜od｜",
+        "id": "1908894436169502720",
+        "location": "索科特拉岛",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046159250850820096/gVwW4ujS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 110,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "Magkyusejinki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 啊呜喵~~~❤️ | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fxiqE"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "Address",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 1427,
+          "like_count": 30402,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 7456
+        },
+        "url": "https://t.co/yj1O6fxiqE",
+        "username": "Chise_wo",
+        "verified": false
+      }
+    ]
+  }
+}

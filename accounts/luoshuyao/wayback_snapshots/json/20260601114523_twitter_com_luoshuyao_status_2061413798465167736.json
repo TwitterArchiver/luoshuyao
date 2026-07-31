@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2061413798465167736",
+    "created_at": "2026-06-01T11:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061413798465167736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YingZaisamades…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/YingZaisamadesu/status/2061254584883167590",
+          "start": 6,
+          "url": "https://t.co/M1zlmMP5Pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061413798465167736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061254584883167590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鹰仔大魔王 https://t.co/M1zlmMP5Pz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2061413798465167736",
+        "created_at": "2026-06-01T11:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061413798465167736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YingZaisamades…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/YingZaisamadesu/status/2061254584883167590",
+              "start": 6,
+              "url": "https://t.co/M1zlmMP5Pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061413798465167736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061254584883167590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鹰仔大魔王 https://t.co/M1zlmMP5Pz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061242157453983744",
+        "conversation_id": "2061254584883167590",
+        "created_at": "2026-06-01T01:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061254584883167590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061254584883167590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌推特...我的账号，我的朋友，我喜欢的大家都不见了....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 288,
+          "like_count": 16811,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 3623
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T00:25:59.000Z",
+        "description": "06/目前就读于异世界大学➧ 猫头鹰教教主👑   ⚠️阴暗死宅（重度二次元）我只是一只猫头鹰，也只是一只猫头鹰. 「中二病严重患者」⚠️❌ 坚定的纯爱主义者.⚠️照片高P线下查无此人⚠️双重人格⚠️ 遇到自己兴趣方面会变得疯癫⚠️我从来不是什么正常人，这里只有我的阴暗和疯癫面",
+        "id": "2061242157453983744",
+        "location": "彼岸",
+        "name": "✞ Nocturne Eagle ✞(𓁹 𓁹)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061242991994699776/R6ZXROtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "YingZaisamadesu",
+        "verified": false
+      }
+    ]
+  }
+}

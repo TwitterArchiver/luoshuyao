@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053121003140837403",
+    "created_at": "2026-05-09T14:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053121003140837403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2053094247637885182",
+          "start": 74,
+          "url": "https://t.co/dcbk6KI7HE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053121003140837403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053094247637885182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没关系，我说我心脏不好就不敢吓我了。高中我就是靠这个躲过了早上的晨跑。班主任十分信任我，我一说这个连医院证明都不需要直接让我早上在教室里待着就行。 https://t.co/dcbk6KI7HE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053121003140837403",
+        "created_at": "2026-05-09T14:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053121003140837403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2053094247637885182",
+              "start": 74,
+              "url": "https://t.co/dcbk6KI7HE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053121003140837403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053094247637885182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没关系，我说我心脏不好就不敢吓我了。高中我就是靠这个躲过了早上的晨跑。班主任十分信任我，我一说这个连医院证明都不需要直接让我早上在教室里待着就行。 https://t.co/dcbk6KI7HE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053094247637885182",
+        "created_at": "2026-05-09T12:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053094247637885182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053094247637885182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一些恶趣味的人老是喜欢吓唬我呢？是因为我个子小看起来好欺负吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 287,
+          "like_count": 13337,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 3001
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

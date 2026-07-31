@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068669686863335424"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2068672148051509520",
+    "created_at": "2026-06-21T12:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068672148051509520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X89bim1Ct9",
+          "end": 212,
+          "expanded_url": "https://x.com/luoshuyao/status/2068672148051509520/photo/1",
+          "media_key": "3_2068669686863335424",
+          "start": 189,
+          "url": "https://t.co/X89bim1Ct9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068672148051509520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你是神人吗？\n南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你是神人吗？\n南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 https://t.co/X89bim1Ct9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2068669686863335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVkHrMbkAAkYdE.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068669686863335424"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2068672148051509520",
+        "created_at": "2026-06-21T12:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068672148051509520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X89bim1Ct9",
+              "end": 212,
+              "expanded_url": "https://x.com/luoshuyao/status/2068672148051509520/photo/1",
+              "media_key": "3_2068669686863335424",
+              "start": 189,
+              "url": "https://t.co/X89bim1Ct9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068672148051509520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是神人吗？\n南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是神人吗？\n南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 南无阿妈特拉斯🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻🙏🏻百战佩恩🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🌹🌹🌹🙏🏻🙏🏻南无阿妈特拉斯🙏🏻🙏🏻🙏🏻百五打击巴🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹🌹🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🌹🌹 https://t.co/X89bim1Ct9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 286,
+          "like_count": 18584,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 4091
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

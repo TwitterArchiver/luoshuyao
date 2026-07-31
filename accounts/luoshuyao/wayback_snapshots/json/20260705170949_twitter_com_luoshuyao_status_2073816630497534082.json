@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073815752445206528"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2073731554761920764",
+    "created_at": "2026-07-05T17:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073816630497534082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQswEXnoOC",
+          "end": 69,
+          "expanded_url": "https://x.com/luoshuyao/status/2073816630497534082/photo/1",
+          "media_key": "3_2073815752445206528",
+          "start": 46,
+          "url": "https://t.co/tQswEXnoOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073816630497534082",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073731554761920764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ 右上角设置里面可以关掉这些人机留言，不关的话好像会时不时出现人机提问。 https://t.co/tQswEXnoOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_2073815752445206528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMescHYbIAAeEN8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 767,
+        "media_key": "3_2073731549154144256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdf21racAAcYkT.jpg",
+        "width": 1179
+      },
+      {
+        "height": 740,
+        "media_key": "3_2073731549179346944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdf21xbAAAUNcX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 751,
+        "media_key": "3_2073731549124800512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdf21kasAAwPQf.jpg",
+        "width": 1179
+      },
+      {
+        "height": 748,
+        "media_key": "3_2073731549128957952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdf21laIAAhSKG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073815752445206528"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2073731554761920764",
+        "created_at": "2026-07-05T17:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073816630497534082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQswEXnoOC",
+              "end": 69,
+              "expanded_url": "https://x.com/luoshuyao/status/2073816630497534082/photo/1",
+              "media_key": "3_2073815752445206528",
+              "start": 46,
+              "url": "https://t.co/tQswEXnoOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073816630497534082",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073731554761920764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ 右上角设置里面可以关掉这些人机留言，不关的话好像会时不时出现人机提问。 https://t.co/tQswEXnoOC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073731549154144256",
+            "3_2073731549179346944",
+            "3_2073731549124800512",
+            "3_2073731549128957952"
+          ]
+        },
+        "author_id": "1550188270495027200",
+        "conversation_id": "2073731554761920764",
+        "created_at": "2026-07-05T11:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073731554761920764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFjkQNw0sd",
+              "end": 65,
+              "expanded_url": "https://x.com/Hushlog_/status/2073731554761920764/photo/1",
+              "media_key": "3_2073731549154144256",
+              "start": 42,
+              "url": "https://t.co/rFjkQNw0sd"
+            },
+            {
+              "display_url": "pic.x.com/rFjkQNw0sd",
+              "end": 65,
+              "expanded_url": "https://x.com/Hushlog_/status/2073731554761920764/photo/1",
+              "media_key": "3_2073731549179346944",
+              "start": 42,
+              "url": "https://t.co/rFjkQNw0sd"
+            },
+            {
+              "display_url": "pic.x.com/rFjkQNw0sd",
+              "end": 65,
+              "expanded_url": "https://x.com/Hushlog_/status/2073731554761920764/photo/1",
+              "media_key": "3_2073731549124800512",
+              "start": 42,
+              "url": "https://t.co/rFjkQNw0sd"
+            },
+            {
+              "display_url": "pic.x.com/rFjkQNw0sd",
+              "end": 65,
+              "expanded_url": "https://x.com/Hushlog_/status/2073731554761920764/photo/1",
+              "media_key": "3_2073731549128957952",
+              "start": 42,
+              "url": "https://t.co/rFjkQNw0sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073731554761920764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.如果不是人机的话 谢谢……\n2.你是谁呀……\n3.开心！\n4.到底出去啥啊…… https://t.co/rFjkQNw0sd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 271,
+          "like_count": 19032,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 4360
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "我是黄瓜也可以叫我阿树 | 🚪53r | 我有精神病负能很多自行避雷 | 不自残自伤了 | 拿来搞二次元的小号 @hushlog35 | 谁骂我我拿黄瓜捅谁屁眼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "不幸人间强制收容所",
+        "name": "黄瓜",
+        "pinned_tweet_id": "2063517541029585084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063170117870223360/c8Orb9EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 136,
+          "like_count": 22347,
+          "listed_count": 4,
+          "media_count": 755,
+          "tweet_count": 7157
+        },
+        "url": "",
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

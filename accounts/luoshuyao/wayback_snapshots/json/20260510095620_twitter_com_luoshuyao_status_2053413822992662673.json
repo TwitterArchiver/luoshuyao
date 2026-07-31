@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053335253121704268",
+    "created_at": "2026-05-10T09:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053413822992662673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750894458659606528",
+          "start": 0,
+          "username": "fuko048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053413822992662673",
+    "in_reply_to_user_id": "1750894458659606528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053413636320932110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuko048 我小学老师也喜欢打人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053335253121704268",
+        "created_at": "2026-05-10T09:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053413822992662673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750894458659606528",
+              "start": 0,
+              "username": "fuko048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053413822992662673",
+        "in_reply_to_user_id": "1750894458659606528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053413636320932110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuko048 我小学老师也喜欢打人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750894458659606528",
+        "conversation_id": "2053335253121704268",
+        "created_at": "2026-05-10T09:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053413636320932110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053413636320932110",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053335253121704268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 😭🤚✋我懂这个，小学被老师打多了。甚至到高中，一抬手我也会身子一扭躲过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 287,
+          "like_count": 13561,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 3061
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T14:53:22.000Z",
+        "description": "pr80love/oder/英语本当上手/愿往生极乐\n\n明日方舟里的普瑞赛斯已经没有了😭",
+        "id": "1750894458659606528",
+        "location": "North Holland, The Netherlands",
+        "name": "fuko048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750894807176904704/MsU3qvjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 356,
+          "like_count": 2713,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 913
+        },
+        "username": "fuko048",
+        "verified": true
+      }
+    ]
+  }
+}

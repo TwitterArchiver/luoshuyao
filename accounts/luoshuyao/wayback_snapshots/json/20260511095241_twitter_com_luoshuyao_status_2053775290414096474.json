@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053774948011815251",
+    "created_at": "2026-05-11T09:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053775290414096474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000880188650143744",
+          "start": 0,
+          "username": "huanjunling"
+        },
+        {
+          "end": 24,
+          "id": "2033228136180219904",
+          "start": 13,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053775290414096474",
+    "in_reply_to_user_id": "2000880188650143744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053774948011815251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanjunling @Chu_Echooo 今天的学习任务完成了吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2053774944144678912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB5bipXYAA5ZRP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053774948011815251",
+        "created_at": "2026-05-11T09:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053775290414096474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000880188650143744",
+              "start": 0,
+              "username": "huanjunling"
+            },
+            {
+              "end": 24,
+              "id": "2033228136180219904",
+              "start": 13,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053775290414096474",
+        "in_reply_to_user_id": "2000880188650143744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053774948011815251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanjunling @Chu_Echooo 今天的学习任务完成了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053774944144678912"
+          ]
+        },
+        "author_id": "2000880188650143744",
+        "conversation_id": "2053774948011815251",
+        "created_at": "2026-05-11T09:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053774948011815251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            },
+            {
+              "end": 22,
+              "id": "1476546742577504265",
+              "start": 12,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jTD3CMZpK",
+              "end": 80,
+              "expanded_url": "https://x.com/huanjunling/status/2053774948011815251/photo/1",
+              "media_key": "3_2053774944144678912",
+              "start": 57,
+              "url": "https://t.co/9jTD3CMZpK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053774948011815251",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo @luoshuyao 你们两个别霸凌我这个腼腆内心且社恐，自卑且自闭的阳光开朗大男孩了😭 https://t.co/9jTD3CMZpK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 288,
+          "like_count": 13956,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 3158
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T10:46:44.000Z",
+        "description": "是天上星辰落人间\n星の天より人に落ちぬ。\nA star from sky to earth descends",
+        "id": "2000880188650143744",
+        "location": "九界",
+        "name": "星之星幻",
+        "pinned_tweet_id": "2003477318455689450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001240161833906176/2uCigY22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 66,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 890
+        },
+        "username": "huanjunling",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 79,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 985
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

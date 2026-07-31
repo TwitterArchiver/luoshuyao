@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045004004711911712",
+    "created_at": "2026-04-17T10:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045080117857407204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1582553246060539904",
+          "start": 0,
+          "username": "Keep_kind_plz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045080117857407204",
+    "in_reply_to_user_id": "1582553246060539904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045009837407470010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keep_kind_plz 好！很有精神！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045004004711911712",
+        "created_at": "2026-04-17T10:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045080117857407204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1582553246060539904",
+              "start": 0,
+              "username": "Keep_kind_plz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045080117857407204",
+        "in_reply_to_user_id": "1582553246060539904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045009837407470010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keep_kind_plz 好！很有精神！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582553246060539904",
+        "conversation_id": "2045004004711911712",
+        "created_at": "2026-04-17T05:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045009837407470010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045009837407470010",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045004004711911712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我只知道一件事，我是笨蛋！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 278,
+          "like_count": 9813,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-19T02:04:54.000Z",
+        "description": "请不要和我讨论政治。\nPlease don't discuss politics with me.\n同住地球村……",
+        "id": "1582553246060539904",
+        "name": "我不死！",
+        "pinned_tweet_id": "2042465624618922007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022337541081538560/JVr778pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1426,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3811
+        },
+        "username": "Keep_kind_plz",
+        "verified": false
+      }
+    ]
+  }
+}

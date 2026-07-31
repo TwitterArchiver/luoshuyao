@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026630594151723027"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026632451901239499",
+    "created_at": "2026-02-25T12:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026632451901239499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KOOOhsAEyJ",
+          "end": 141,
+          "expanded_url": "https://x.com/luoshuyao/status/2026632451901239499/photo/1",
+          "media_key": "3_2026630594151723027",
+          "start": 118,
+          "url": "https://t.co/KOOOhsAEyJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026632451901239499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一定要切记两个人的真诚才是必杀技，一个人的真诚只能是杀必。\n\n三年了我还是相信真心是可以换来真心的，而且我真的有一些认识八年十年的好朋友，都是很真诚的人。只是以前太傻了对所有人都很用心，这样是很累的。真心只要对那些值得的人付出就好了。 https://t.co/KOOOhsAEyJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2293,
+        "media_key": "3_2026630594151723027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAJya9aMBMVi06.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026630594151723027"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026632451901239499",
+        "created_at": "2026-02-25T12:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026632451901239499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOOOhsAEyJ",
+              "end": 141,
+              "expanded_url": "https://x.com/luoshuyao/status/2026632451901239499/photo/1",
+              "media_key": "3_2026630594151723027",
+              "start": 118,
+              "url": "https://t.co/KOOOhsAEyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026632451901239499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一定要切记两个人的真诚才是必杀技，一个人的真诚只能是杀必。\n\n三年了我还是相信真心是可以换来真心的，而且我真的有一些认识八年十年的好朋友，都是很真诚的人。只是以前太傻了对所有人都很用心，这样是很累的。真心只要对那些值得的人付出就好了。 https://t.co/KOOOhsAEyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n手游基本什么都玩过，王者吃鸡原神鸣潮崩铁三角洲明日方舟BanG Dream……（此处省略一万字）\n端游比较手残，星露谷那种种田休闲玩的比较多，欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476662676856061956/nt9mtDyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 73,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

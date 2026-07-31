@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073388967060516864"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2073378783785259389",
+    "created_at": "2026-07-04T12:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073388977894334906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXzLaAVb6n",
+          "end": 56,
+          "expanded_url": "https://x.com/luoshuyao/status/2073388977894334906/photo/1",
+          "media_key": "3_2073388967060516864",
+          "start": 33,
+          "url": "https://t.co/OXzLaAVb6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073388977894334906",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073378783785259389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 看错了，原来是凑企鹅。咕咕嘎嘎！ https://t.co/OXzLaAVb6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_2073388967060516864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYoR77bMAAGkKI.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073388967060516864"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2073378783785259389",
+        "created_at": "2026-07-04T12:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073388977894334906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXzLaAVb6n",
+              "end": 56,
+              "expanded_url": "https://x.com/luoshuyao/status/2073388977894334906/photo/1",
+              "media_key": "3_2073388967060516864",
+              "start": 33,
+              "url": "https://t.co/OXzLaAVb6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073388977894334906",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073378783785259389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 看错了，原来是凑企鹅。咕咕嘎嘎！ https://t.co/OXzLaAVb6n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2073378783785259389",
+        "created_at": "2026-07-04T12:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073378783785259389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073378783785259389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然感觉，网上咕咕嘎嘎当个凑企鹅，啥也不用干，发句咕咕嘎嘎就有一大堆凑企鹅跟着一起咕咕嘎嘎开怀大笑。\n当陪你一起咕咕嘎嘎的凑企鹅离开你去跟生活对线，缺的这块咕咕嘎嘎再也没人来填充，恍然间就失去了那种啥也不干，说一句咕咕嘎嘎，就能开心的感觉。\n咕咕嘎嘎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 272,
+          "like_count": 18934,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13073,
+          "following_count": 3167,
+          "like_count": 42647,
+          "listed_count": 41,
+          "media_count": 4571,
+          "tweet_count": 23510
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

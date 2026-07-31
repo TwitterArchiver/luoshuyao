@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2045084615535435776"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2044788053206859955",
+    "created_at": "2026-04-17T10:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045084682853994640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        },
+        {
+          "end": 23,
+          "id": "1306129238827778048",
+          "start": 13,
+          "username": "YukinonCC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ybXJ3fXaR6",
+          "end": 169,
+          "expanded_url": "https://x.com/luoshuyao/status/2045084682853994640/photo/1",
+          "media_key": "16_2045084615535435776",
+          "start": 146,
+          "url": "https://t.co/ybXJ3fXaR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045084682853994640",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045008683286024600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord @YukinonCC 爱呀，不是一个简单的事情。我没有办法违背自己的本心说出“我爱你”这句话，因为凭我现在的状态和能力已经做不到去爱一个人了。不过至少我能做到的是，如果有什么烦恼的话可以找我倾诉，有什么困难的话我也可以尽己所能去帮助。希望你能遇到一个真正爱你的人。 https://t.co/ybXJ3fXaR6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2045084615535435776",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGGZn1ybIAAxXlQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGGZn1ybIAAxXlQ.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2045084615535435776"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2044788053206859955",
+        "created_at": "2026-04-17T10:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045084682853994640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            },
+            {
+              "end": 23,
+              "id": "1306129238827778048",
+              "start": 13,
+              "username": "YukinonCC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybXJ3fXaR6",
+              "end": 169,
+              "expanded_url": "https://x.com/luoshuyao/status/2045084682853994640/photo/1",
+              "media_key": "16_2045084615535435776",
+              "start": 146,
+              "url": "https://t.co/ybXJ3fXaR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045084682853994640",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045008683286024600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord @YukinonCC 爱呀，不是一个简单的事情。我没有办法违背自己的本心说出“我爱你”这句话，因为凭我现在的状态和能力已经做不到去爱一个人了。不过至少我能做到的是，如果有什么烦恼的话可以找我倾诉，有什么困难的话我也可以尽己所能去帮助。希望你能遇到一个真正爱你的人。 https://t.co/ybXJ3fXaR6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011405521245634560",
+        "conversation_id": "2044788053206859955",
+        "created_at": "2026-04-17T05:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045008683286024600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            },
+            {
+              "end": 21,
+              "id": "1306129238827778048",
+              "start": 11,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045008683286024600",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044999453451681800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao @YukinonCC 我没有妈妈…，我好想要爱……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 278,
+          "like_count": 9821,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜我的朋友都叫我 “十三” “哈基雪” “柑橘” | 16*cm 4*kg ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "清流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 127,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1045
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜欢迎找我来问匿名问题https://t.co/jmSdkECPE6｜个人网站装修中https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 54,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 108,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 85,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2044849985766948894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 635,
+          "like_count": 14165,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 3074
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

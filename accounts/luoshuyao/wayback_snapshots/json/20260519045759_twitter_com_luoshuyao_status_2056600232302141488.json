@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056600158843084800",
+        "3_2056600158851457024"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2056593707902849095",
+    "created_at": "2026-05-19T04:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056600232302141488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DU3tI3t5xr",
+          "end": 172,
+          "expanded_url": "https://x.com/luoshuyao/status/2056600232302141488/photo/1",
+          "media_key": "3_2056600158843084800",
+          "start": 149,
+          "url": "https://t.co/DU3tI3t5xr"
+        },
+        {
+          "display_url": "pic.x.com/DU3tI3t5xr",
+          "end": 172,
+          "expanded_url": "https://x.com/luoshuyao/status/2056600232302141488/photo/1",
+          "media_key": "3_2056600158851457024",
+          "start": 149,
+          "url": "https://t.co/DU3tI3t5xr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056600232302141488",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "b23.tv/wRoxGxE",
+            "end": 193,
+            "expanded_url": "https://b23.tv/wRoxGxE",
+            "start": 170,
+            "url": "https://t.co/foXzSFNsfk"
+          }
+        ]
+      },
+      "text": "我在想这什么时候成为虐猫梗了？那段火爆全网的经典视频没有任何虐猫内容，“耄耋”的主人也只是一个喜欢养宠物的女孩子。我刚刚去看了一下，这个女生还因为这个事情被开盒被造谣被网暴，她养的猫还被虐猫人投毒致死。互联网真是太魔幻了，不，应该说互联网太包容了，什么人都能上网。\n【圆头耄耋事件的背后：被投毒、被开盒、被网暴、被举报、被调查-哔哩哔哩】 https://t.co/foXzSFNsfk"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056593707902849095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 我在想这什么时候成为虐猫梗了？那段火爆全网的经典视频没有任何虐猫内容，“耄耋”的主人也只是一个喜欢养宠物的女孩子。我刚刚去看了一下，这个女生还因为这个事情被开盒被造谣被网暴，她养的猫还被虐猫人投毒致死。互联网真是太魔幻了，不，应该说互联网太包容了，什么人都能上网。 https://t.co/DU3tI3t5xr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2056600158843084800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqC8rjaoAADXIW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2056600158851457024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqC8rlaYAAOZDD.jpg",
+        "width": 1256
+      },
+      {
+        "height": 676,
+        "media_key": "3_2056592600942133248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIp8EwLaQAA7Vw1.png",
+        "width": 763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056600158843084800",
+            "3_2056600158851457024"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2056593707902849095",
+        "created_at": "2026-05-19T04:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056600232302141488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DU3tI3t5xr",
+              "end": 172,
+              "expanded_url": "https://x.com/luoshuyao/status/2056600232302141488/photo/1",
+              "media_key": "3_2056600158843084800",
+              "start": 149,
+              "url": "https://t.co/DU3tI3t5xr"
+            },
+            {
+              "display_url": "pic.x.com/DU3tI3t5xr",
+              "end": 172,
+              "expanded_url": "https://x.com/luoshuyao/status/2056600232302141488/photo/1",
+              "media_key": "3_2056600158851457024",
+              "start": 149,
+              "url": "https://t.co/DU3tI3t5xr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056600232302141488",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/wRoxGxE",
+                "end": 193,
+                "expanded_url": "https://b23.tv/wRoxGxE",
+                "start": 170,
+                "url": "https://t.co/foXzSFNsfk"
+              }
+            ]
+          },
+          "text": "我在想这什么时候成为虐猫梗了？那段火爆全网的经典视频没有任何虐猫内容，“耄耋”的主人也只是一个喜欢养宠物的女孩子。我刚刚去看了一下，这个女生还因为这个事情被开盒被造谣被网暴，她养的猫还被虐猫人投毒致死。互联网真是太魔幻了，不，应该说互联网太包容了，什么人都能上网。\n【圆头耄耋事件的背后：被投毒、被开盒、被网暴、被举报、被调查-哔哩哔哩】 https://t.co/foXzSFNsfk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056593707902849095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 我在想这什么时候成为虐猫梗了？那段火爆全网的经典视频没有任何虐猫内容，“耄耋”的主人也只是一个喜欢养宠物的女孩子。我刚刚去看了一下，这个女生还因为这个事情被开盒被造谣被网暴，她养的猫还被虐猫人投毒致死。互联网真是太魔幻了，不，应该说互联网太包容了，什么人都能上网。 https://t.co/DU3tI3t5xr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056592600942133248"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2056593707902849095",
+        "created_at": "2026-05-19T04:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056593707902849095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l90OglGKs0",
+              "end": 163,
+              "expanded_url": "https://x.com/Rococo90933671/status/2056593707902849095/photo/1",
+              "media_key": "3_2056592600942133248",
+              "start": 140,
+              "url": "https://t.co/l90OglGKs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056593707902849095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "据传，近日育碧发了一条微博宣传游戏《刺客信条：黑旗 记忆重置》，因使用耄耋当配图，被某些群体炎上，指责是滥用“虐猫梗”。\n\n本来只是玩抽象梗来宣传，结果评论区出现了一些“人”说育碧是玩虐猫梗，说只要用了耄耋的图，那就是就是用虐猫梗来宣传；还有人留言，表示官方玩烂梗就不买游戏了。\n\n目前，评论区大部分声音是支持育碧官方的，部分人甚至留言称，育碧千万别滑跪，这波顶住就买豪华版。\n\n目前，这条微博评论数已突破1700"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据传，近日育碧发了一条微博宣传游戏《刺客信条：黑旗 记忆重置》，因使用耄耋当配图，被某些群体炎上，指责是滥用“虐猫梗”。\n\n本来只是玩抽象梗来宣传，结果评论区出现了一些“人”说育碧是玩虐猫梗，说只要用了耄耋的图，那就是就是用虐猫梗来宣传；还有人留言，表示官方玩烂梗就不买游戏了。 https://t.co/l90OglGKs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 290,
+          "like_count": 16224,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 3496
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11579,
+          "following_count": 3050,
+          "like_count": 38419,
+          "listed_count": 38,
+          "media_count": 4009,
+          "tweet_count": 21607
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2042245492793577491",
+    "created_at": "2026-04-09T14:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042248813273141495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2011761912187666432",
+          "start": 0,
+          "username": "RodneyWygl87443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042248813273141495",
+    "in_reply_to_user_id": "2011761912187666432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042245492793577491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RodneyWygl87443 寿辰吉日喜乐生，岁序更新好梦圆。祝卿欢乐伴安康，岁月悠悠似水长流。(づ｡◕‿◕｡)づ🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2042244426802855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeCfGQbAAAguGc.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2042244550723592192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeCmT5bYAAkXat.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2042244596697366528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeCo_KbgAA9TsO.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1529,
+        "media_key": "3_2042245475857031168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeDcKSbYAAjCH7.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2042245492793577491",
+        "created_at": "2026-04-09T14:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042248813273141495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2011761912187666432",
+              "start": 0,
+              "username": "RodneyWygl87443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042248813273141495",
+        "in_reply_to_user_id": "2011761912187666432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042245492793577491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RodneyWygl87443 寿辰吉日喜乐生，岁序更新好梦圆。祝卿欢乐伴安康，岁月悠悠似水长流。(づ｡◕‿◕｡)づ🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042244426802855936",
+            "3_2042244550723592192",
+            "3_2042244596697366528",
+            "3_2042245475857031168"
+          ]
+        },
+        "author_id": "2011761912187666432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042245492793577491",
+        "created_at": "2026-04-09T14:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042245492793577491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNXnMx36uA",
+              "end": 66,
+              "expanded_url": "https://x.com/RodneyWygl87443/status/2042245492793577491/photo/1",
+              "media_key": "3_2042244426802855936",
+              "start": 43,
+              "url": "https://t.co/uNXnMx36uA"
+            },
+            {
+              "display_url": "pic.x.com/uNXnMx36uA",
+              "end": 66,
+              "expanded_url": "https://x.com/RodneyWygl87443/status/2042245492793577491/photo/1",
+              "media_key": "3_2042244550723592192",
+              "start": 43,
+              "url": "https://t.co/uNXnMx36uA"
+            },
+            {
+              "display_url": "pic.x.com/uNXnMx36uA",
+              "end": 66,
+              "expanded_url": "https://x.com/RodneyWygl87443/status/2042245492793577491/photo/1",
+              "media_key": "3_2042244596697366528",
+              "start": 43,
+              "url": "https://t.co/uNXnMx36uA"
+            },
+            {
+              "display_url": "pic.x.com/uNXnMx36uA",
+              "end": 66,
+              "expanded_url": "https://x.com/RodneyWygl87443/status/2042245492793577491/photo/1",
+              "media_key": "3_2042245475857031168",
+              "start": 43,
+              "url": "https://t.co/uNXnMx36uA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042245492793577491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19周岁了，蛋糕多买一个吃不掉了，专门做的的蜡烛没用上最后才发现，但给娃拍了好多照🥰 https://t.co/uNXnMx36uA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 279,
+          "like_count": 8648,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T11:26:32.000Z",
+        "description": "",
+        "id": "2011761912187666432",
+        "name": "Ttyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011761928847212544/zFRIPc0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 92,
+          "like_count": 4933,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1338
+        },
+        "username": "RodneyWygl87443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069819252077666306",
+    "created_at": "2026-06-24T17:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069838593087140237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069838593087140237",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069819252077666306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2069819138110033920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl5iixakAAMYhT.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069819252077666306",
+        "created_at": "2026-06-24T17:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069838593087140237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069838593087140237",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069819252077666306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069819138110033920"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "2069819252077666306",
+        "created_at": "2026-06-24T16:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069819252077666306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqpvsHxEEm",
+              "end": 44,
+              "expanded_url": "https://x.com/bai57248/status/2069819252077666306/photo/1",
+              "media_key": "3_2069819138110033920",
+              "start": 21,
+              "url": "https://t.co/AqpvsHxEEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069819252077666306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是谁这么幸福零点收到了生日贺图！是白水！ https://t.co/AqpvsHxEEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 272,
+          "like_count": 18904,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 4197
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记//！！包含无意义喊话！！//",
+        "id": "1677530479782768641",
+        "name": "小水儿",
+        "pinned_tweet_id": "2025813693687308701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033832964237496323/B-NIeNXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5522,
+          "following_count": 786,
+          "like_count": 48580,
+          "listed_count": 10,
+          "media_count": 1974,
+          "tweet_count": 12356
+        },
+        "url": "",
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

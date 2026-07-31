@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069798489840578560",
+        "3_2069798489568268288",
+        "3_2069798488708120576",
+        "3_2069798488699781121"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069802170212602343",
+    "created_at": "2026-06-24T15:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069802170212602343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nNXJw2KhZj",
+          "end": 99,
+          "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+          "media_key": "3_2069798489840578560",
+          "start": 76,
+          "url": "https://t.co/nNXJw2KhZj"
+        },
+        {
+          "display_url": "pic.x.com/nNXJw2KhZj",
+          "end": 99,
+          "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+          "media_key": "3_2069798489568268288",
+          "start": 76,
+          "url": "https://t.co/nNXJw2KhZj"
+        },
+        {
+          "display_url": "pic.x.com/nNXJw2KhZj",
+          "end": 99,
+          "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+          "media_key": "3_2069798488708120576",
+          "start": 76,
+          "url": "https://t.co/nNXJw2KhZj"
+        },
+        {
+          "display_url": "pic.x.com/nNXJw2KhZj",
+          "end": 99,
+          "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+          "media_key": "3_2069798488699781121",
+          "start": 76,
+          "url": "https://t.co/nNXJw2KhZj"
+        },
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2069798129382392089",
+          "start": 100,
+          "url": "https://t.co/o6biucaM9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069802170212602343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得写诗是没有什么门槛的，大家都可以写。写诗只是我表达情绪的一种方式，可能写得不好，但是能把自己的情绪表达出来对我来说就足够了，毕竟我也不是专业的。\n图1是我想换一个风格写出来的，实际上写给谁我都不知道，所以写的很公式，而且也感受不到什么感情。图2是我捕捉到了自己一丝微妙的情绪写出来的，仅仅是想写出那种感觉，并没有任何背景故事，感觉起来像是青春伤痛文学。我发现自己表达难过的时候就很容易写成情诗，实际上我并没有为情所伤，只是把自己的情绪寄托在上面而已。我觉得要写的话还是真实的好。\n图3图4是我写的改编，那个时候还没成年，写的不多，写诗的风格也不成熟，刚开始写的时候，如果不知道怎么写，可以试试。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069798129382392089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得写诗是没有什么门槛的，大家都可以写。写诗只是我表达情绪的一种方式，可能写得不好，但是能把自己的情绪表达出来对我来说就足够了，毕竟我也不是专业的。 https://t.co/nNXJw2KhZj https://t.co/o6biucaM9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2069798489840578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlmwp-WcAA5N3Y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1308,
+        "media_key": "3_2069798489568268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlmwo9bUAAaH_k.jpg",
+        "width": 1080
+      },
+      {
+        "height": 811,
+        "media_key": "3_2069798488708120576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlmwlwWgAAf6IT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1240,
+        "media_key": "3_2069798488699781121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlmwluXQAE23NJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 610,
+        "media_key": "3_2069796666295844864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLllGgvaAAAHfQP.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069798489840578560",
+            "3_2069798489568268288",
+            "3_2069798488708120576",
+            "3_2069798488699781121"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069802170212602343",
+        "created_at": "2026-06-24T15:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069802170212602343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNXJw2KhZj",
+              "end": 99,
+              "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+              "media_key": "3_2069798489840578560",
+              "start": 76,
+              "url": "https://t.co/nNXJw2KhZj"
+            },
+            {
+              "display_url": "pic.x.com/nNXJw2KhZj",
+              "end": 99,
+              "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+              "media_key": "3_2069798489568268288",
+              "start": 76,
+              "url": "https://t.co/nNXJw2KhZj"
+            },
+            {
+              "display_url": "pic.x.com/nNXJw2KhZj",
+              "end": 99,
+              "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+              "media_key": "3_2069798488708120576",
+              "start": 76,
+              "url": "https://t.co/nNXJw2KhZj"
+            },
+            {
+              "display_url": "pic.x.com/nNXJw2KhZj",
+              "end": 99,
+              "expanded_url": "https://x.com/luoshuyao/status/2069802170212602343/photo/1",
+              "media_key": "3_2069798488699781121",
+              "start": 76,
+              "url": "https://t.co/nNXJw2KhZj"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2069798129382392089",
+              "start": 100,
+              "url": "https://t.co/o6biucaM9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069802170212602343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得写诗是没有什么门槛的，大家都可以写。写诗只是我表达情绪的一种方式，可能写得不好，但是能把自己的情绪表达出来对我来说就足够了，毕竟我也不是专业的。\n图1是我想换一个风格写出来的，实际上写给谁我都不知道，所以写的很公式，而且也感受不到什么感情。图2是我捕捉到了自己一丝微妙的情绪写出来的，仅仅是想写出那种感觉，并没有任何背景故事，感觉起来像是青春伤痛文学。我发现自己表达难过的时候就很容易写成情诗，实际上我并没有为情所伤，只是把自己的情绪寄托在上面而已。我觉得要写的话还是真实的好。\n图3图4是我写的改编，那个时候还没成年，写的不多，写诗的风格也不成熟，刚开始写的时候，如果不知道怎么写，可以试试。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069798129382392089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得写诗是没有什么门槛的，大家都可以写。写诗只是我表达情绪的一种方式，可能写得不好，但是能把自己的情绪表达出来对我来说就足够了，毕竟我也不是专业的。 https://t.co/nNXJw2KhZj https://t.co/o6biucaM9z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069796666295844864"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069798129382392089",
+        "created_at": "2026-06-24T15:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069798129382392089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRJQ45Pu0U",
+              "end": 112,
+              "expanded_url": "https://x.com/luoshuyao/status/2069798129382392089/photo/1",
+              "media_key": "3_2069796666295844864",
+              "start": 89,
+              "url": "https://t.co/pRJQ45Pu0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069798129382392089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我教不了你，因为我从来没学过，我也不太会写，感觉自己写的很一般。不过我可以稍微提供一点建议。\n可以用笔记录生活，多观察身边的所见所闻，把你的想法你的情绪写下来，多看看别人的诗。 https://t.co/pRJQ45Pu0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 272,
+          "like_count": 18899,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 4194
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

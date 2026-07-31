@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045851184951628050",
+    "created_at": "2026-04-19T13:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045864612449640682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1306129238827778048",
+          "start": 0,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045864612449640682",
+    "in_reply_to_user_id": "1306129238827778048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045851184951628050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinonCC 好萌୧(´▽`★)୭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2045851178299478016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRSzqna0AAPiz9.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045851184951628050",
+        "created_at": "2026-04-19T13:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045864612449640682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1306129238827778048",
+              "start": 0,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045864612449640682",
+        "in_reply_to_user_id": "1306129238827778048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045851184951628050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinonCC 好萌୧(´▽`★)୭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045851178299478016"
+          ]
+        },
+        "author_id": "1306129238827778048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045851184951628050",
+        "created_at": "2026-04-19T13:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045851184951628050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqzPnLN7xi",
+              "end": 34,
+              "expanded_url": "https://x.com/YukinonCC/status/2045851184951628050/photo/1",
+              "media_key": "3_2045851178299478016",
+              "start": 11,
+              "url": "https://t.co/AqzPnLN7xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045851184951628050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好，我是晓山瑞希 https://t.co/AqzPnLN7xi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 280,
+          "like_count": 10322,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜欢迎找我来问匿名问题https://t.co/jmSdkECPE6｜个人网站装修中https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 54,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 108,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 85,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2044849985766948894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 642,
+          "like_count": 14250,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

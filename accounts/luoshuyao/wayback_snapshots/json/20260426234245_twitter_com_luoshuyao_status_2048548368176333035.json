@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048388802314744086",
+    "created_at": "2026-04-26T23:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048548368176333035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1810874230533410816",
+          "start": 0,
+          "username": "kisyphut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048548368176333035",
+    "in_reply_to_user_id": "1810874230533410816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048432723539394708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kisyphut 有些钱我觉得值就想花，开这个是因为之前总是发长文然后有字数限制太影响体验了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048388802314744086",
+        "created_at": "2026-04-26T23:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048548368176333035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1810874230533410816",
+              "start": 0,
+              "username": "kisyphut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048548368176333035",
+        "in_reply_to_user_id": "1810874230533410816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048432723539394708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kisyphut 有些钱我觉得值就想花，开这个是因为之前总是发长文然后有字数限制太影响体验了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810874230533410816",
+        "conversation_id": "2048388802314744086",
+        "created_at": "2026-04-26T16:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048432723539394708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048432723539394708",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048388802314744086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 那你怎么舍得开蓝v😈，不过现在一个游戏动辄二三百也确实有些令人望而却步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 282,
+          "like_count": 11546,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:11:12.000Z",
+        "description": "喜欢骗自己读点书，妄想理解这荒诞的生活。\n喜欢骗AI写点代码，试图理清这混乱的屎山。",
+        "id": "1810874230533410816",
+        "name": "KT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972350380727226368/dBh3tEO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 165,
+          "like_count": 472,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 307
+        },
+        "username": "kisyphut",
+        "verified": true
+      }
+    ]
+  }
+}

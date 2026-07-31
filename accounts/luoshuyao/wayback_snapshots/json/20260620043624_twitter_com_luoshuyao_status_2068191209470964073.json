@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068191184053542912"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067628391050912175",
+    "created_at": "2026-06-20T04:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068191209470964073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824676724388347904",
+          "start": 0,
+          "username": "JiaoOu84375"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/chSoMqn6VC",
+          "end": 44,
+          "expanded_url": "https://x.com/luoshuyao/status/2068191209470964073/photo/1",
+          "media_key": "3_2068191184053542912",
+          "start": 21,
+          "url": "https://t.co/chSoMqn6VC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068191209470964073",
+    "in_reply_to_user_id": "1824676724388347904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068133579209805884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaoOu84375 这是啥子干员。 https://t.co/chSoMqn6VC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2068191184053542912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOw7JUbIAAVxYy.jpg",
+        "width": 2401
+      },
+      {
+        "height": 100,
+        "media_key": "3_2068133227328659456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLN8NnsbYAA0DoY.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068191184053542912"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067628391050912175",
+        "created_at": "2026-06-20T04:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068191209470964073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824676724388347904",
+              "start": 0,
+              "username": "JiaoOu84375"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/chSoMqn6VC",
+              "end": 44,
+              "expanded_url": "https://x.com/luoshuyao/status/2068191209470964073/photo/1",
+              "media_key": "3_2068191184053542912",
+              "start": 21,
+              "url": "https://t.co/chSoMqn6VC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068191209470964073",
+        "in_reply_to_user_id": "1824676724388347904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068133579209805884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaoOu84375 这是啥子干员。 https://t.co/chSoMqn6VC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068133227328659456"
+          ]
+        },
+        "author_id": "1824676724388347904",
+        "conversation_id": "2067628391050912175",
+        "created_at": "2026-06-20T00:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068133579209805884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N03kpuKhiY",
+              "end": 66,
+              "expanded_url": "https://x.com/JiaoOu84375/status/2068133579209805884/photo/1",
+              "media_key": "3_2068133227328659456",
+              "start": 43,
+              "url": "https://t.co/N03kpuKhiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068133579209805884",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067629438796435830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 刷视频时偶然刷到了，好像是终末地里的干员（应该是称呼为干员？） https://t.co/N03kpuKhiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 286,
+          "like_count": 18443,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:16:52.000Z",
+        "description": "这里什么也没有哦",
+        "id": "1824676724388347904",
+        "location": "中国 ",
+        "name": "蓝莓拿铁三勺糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068142231610126336/FNg4zuTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 1884,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "JiaoOu84375",
+        "verified": false
+      }
+    ]
+  }
+}

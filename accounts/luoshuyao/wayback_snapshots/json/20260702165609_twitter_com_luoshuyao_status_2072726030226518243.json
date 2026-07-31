@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2072720085672685839",
+    "created_at": "2026-07-02T16:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072726030226518243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072726030226518243",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072720085672685839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 感觉要给我听出走马灯来了😭😵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25780,
+        "height": 1168,
+        "media_key": "13_2072719998766747648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072719998766747648/img/C_ynlqh0mPiJKlW6.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072719998766747648/pl/iP59QQ16zpNMgwV4.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072719998766747648/vid/avc1/720x946/iJ0UW6yGjJsyA2QL.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072719998766747648/vid/avc1/320x420/Zc0j9NQAwS2D2_bt.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072719998766747648/vid/avc1/888x1168/n7PSdo7-VtK0eljM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072719998766747648/vid/avc1/480x630/9aqpqCkr2UKob7RA.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2072720085672685839",
+        "created_at": "2026-07-02T16:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072726030226518243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072726030226518243",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072720085672685839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 感觉要给我听出走马灯来了😭😵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072719998766747648"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2072720085672685839",
+        "created_at": "2026-07-02T16:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072720085672685839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCddAPPjFD",
+              "end": 26,
+              "expanded_url": "https://x.com/liujiayi1111/status/2072720085672685839/video/1",
+              "media_key": "13_2072719998766747648",
+              "start": 3,
+              "url": "https://t.co/NCddAPPjFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072720085672685839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原谅 https://t.co/NCddAPPjFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 272,
+          "like_count": 18853,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 4287
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9178,
+          "following_count": 92,
+          "like_count": 11154,
+          "listed_count": 27,
+          "media_count": 267,
+          "tweet_count": 2534
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

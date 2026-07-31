@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2078050712966332481",
+    "created_at": "2026-07-17T13:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078109559332516035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703676499247915008",
+          "start": 0,
+          "username": "feixuedieying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078109559332516035",
+    "in_reply_to_user_id": "1703676499247915008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078075347363623113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feixuedieying 没钱，待在家里不开心，不待在家里又要花钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2078050712966332481",
+        "created_at": "2026-07-17T13:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078109559332516035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703676499247915008",
+              "start": 0,
+              "username": "feixuedieying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078109559332516035",
+        "in_reply_to_user_id": "1703676499247915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078075347363623113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feixuedieying 没钱，待在家里不开心，不待在家里又要花钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703676499247915008",
+        "conversation_id": "2078050712966332481",
+        "created_at": "2026-07-17T11:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078075347363623113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078075347363623113",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078050712966332481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 工资不高就离职吧，现在活下去开心最重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 281,
+          "like_count": 19685,
+          "listed_count": 2,
+          "media_count": 477,
+          "tweet_count": 4597
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-18T07:45:21.000Z",
+        "description": "与自己和解的最好方式就是承认自己是个废物。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/spindriftpapil…",
+                "end": 23,
+                "expanded_url": "https://github.com/spindriftpapilio",
+                "start": 0,
+                "url": "https://t.co/PBNCdAEb9v"
+              }
+            ]
+          }
+        },
+        "id": "1703676499247915008",
+        "location": "127.0.0.1",
+        "name": "SpindriftPapilio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077013177976651776/sKC4u7WP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 248,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/PBNCdAEb9v",
+        "username": "feixuedieying",
+        "verified": true
+      }
+    ]
+  }
+}

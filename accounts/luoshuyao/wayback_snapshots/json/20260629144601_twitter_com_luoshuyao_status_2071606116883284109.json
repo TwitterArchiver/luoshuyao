@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2071606116883284109",
+    "created_at": "2026-06-29T14:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071606116883284109"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071606116883284109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "那个念头其实从来都没有消失过，只是跟自己谈判了好几年，给了自己一个继续下去的理由。这一切都糟透了，一次又一次的，压得人喘不过气来。一次又一次的，靠自己撑过去。生活并没有多少快乐，反而总是会感到痛苦。你说，痛苦也是人生的一部分，但是这一切都是我应该承受的吗？这一切都像是生来就在为什么而赎罪，但是你知道的，没有人生来就有罪孽。所以为什么会这样，我不知道，大概命运就是如此。\n只靠着自己一个人，已经很努力了，只是为了活着，为了能稍微自由一点，别无它求。为什么还是要反复折磨我。\n真的很想结束这一切，但是，我做的还远远不够，就这样结束是对生命的浪费。如果能有一个机会，让我能一命换一命，不是杀人而是救人，这是自己六年前最想要的死法，现在也是。如果真的有这样一个机会，我会有勇气去做吗？至少现在我还活着，还能做很多事情，虽然也没有什么能力。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那个念头其实从来都没有消失过，只是跟自己谈判了好几年，给了自己一个继续下去的理由。这一切都糟透了，一次又一次的，压得人喘不过气来。一次又一次的，靠自己撑过去。生活并没有多少快乐，反而总是会感到痛苦。你说，痛苦也是人生的一部分，但是这一切都是我应该承受的吗？这一切都像是生来就在为什"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2071606116883284109",
+        "created_at": "2026-06-29T14:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071606116883284109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071606116883284109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那个念头其实从来都没有消失过，只是跟自己谈判了好几年，给了自己一个继续下去的理由。这一切都糟透了，一次又一次的，压得人喘不过气来。一次又一次的，靠自己撑过去。生活并没有多少快乐，反而总是会感到痛苦。你说，痛苦也是人生的一部分，但是这一切都是我应该承受的吗？这一切都像是生来就在为什么而赎罪，但是你知道的，没有人生来就有罪孽。所以为什么会这样，我不知道，大概命运就是如此。\n只靠着自己一个人，已经很努力了，只是为了活着，为了能稍微自由一点，别无它求。为什么还是要反复折磨我。\n真的很想结束这一切，但是，我做的还远远不够，就这样结束是对生命的浪费。如果能有一个机会，让我能一命换一命，不是杀人而是救人，这是自己六年前最想要的死法，现在也是。如果真的有这样一个机会，我会有勇气去做吗？至少现在我还活着，还能做很多事情，虽然也没有什么能力。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个念头其实从来都没有消失过，只是跟自己谈判了好几年，给了自己一个继续下去的理由。这一切都糟透了，一次又一次的，压得人喘不过气来。一次又一次的，靠自己撑过去。生活并没有多少快乐，反而总是会感到痛苦。你说，痛苦也是人生的一部分，但是这一切都是我应该承受的吗？这一切都像是生来就在为什"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 272,
+          "like_count": 19095,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 4265
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

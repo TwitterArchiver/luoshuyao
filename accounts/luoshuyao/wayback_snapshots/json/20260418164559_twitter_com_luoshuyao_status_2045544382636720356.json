@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045543796872785920"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045544382636720356",
+    "created_at": "2026-04-18T16:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045544382636720356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S9hktVU3HN",
+          "end": 162,
+          "expanded_url": "https://x.com/luoshuyao/status/2045544382636720356/photo/1",
+          "media_key": "3_2045543796872785920",
+          "start": 139,
+          "url": "https://t.co/S9hktVU3HN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045544382636720356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "没有经历过，不过应该会有这样的事情。\n但是在我看来爱情不应该成为亲情。从最开始的如胶似漆，直到激情慢慢消退，只剩下生活中的柴米油盐，就好像一家人在一起生活那样。不对不对，爱人是家人，但是那份独特的感情，永远都是不可取代的。失去爱情转变为亲情的情侣关系，大概只会让人索然无味吧。\n\n如果彼此真心相爱的话，当新鲜感褪去之后，那份激情其实从未消退，只是融进了生活里。下班回家的第一眼就是你，还是会很开心，望着你温柔的眼眸，嘴角的笑意，还是会很心动。相拥在一起的时候，闻到熟悉的味道还是会很安心。那份激情成为了彼此的依赖，信任和默契，这是不同于亲情的。\n你们成为了恋人，也成为了亲人。但其实是你们之间的爱情变得像亲情一样密不可分，坚不可摧，本质上还是爱情。\n在熬过漫长岁月之后，我还是很喜欢你。永远浪漫，永远心动。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有经历过，不过应该会有这样的事情。\n但是在我看来爱情不应该成为亲情。从最开始的如胶似漆，直到激情慢慢消退，只剩下生活中的柴米油盐，就好像一家人在一起生活那样。不对不对，爱人是家人，但是那份独特的感情，永远都是不可取代的。失去爱情转变为亲情的情侣关系，大概只会让人索然无味吧。 https://t.co/S9hktVU3HN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2045543796872785920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM7PtkbMAAmZZJ.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045543796872785920"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045544382636720356",
+        "created_at": "2026-04-18T16:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045544382636720356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9hktVU3HN",
+              "end": 162,
+              "expanded_url": "https://x.com/luoshuyao/status/2045544382636720356/photo/1",
+              "media_key": "3_2045543796872785920",
+              "start": 139,
+              "url": "https://t.co/S9hktVU3HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045544382636720356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没有经历过，不过应该会有这样的事情。\n但是在我看来爱情不应该成为亲情。从最开始的如胶似漆，直到激情慢慢消退，只剩下生活中的柴米油盐，就好像一家人在一起生活那样。不对不对，爱人是家人，但是那份独特的感情，永远都是不可取代的。失去爱情转变为亲情的情侣关系，大概只会让人索然无味吧。\n\n如果彼此真心相爱的话，当新鲜感褪去之后，那份激情其实从未消退，只是融进了生活里。下班回家的第一眼就是你，还是会很开心，望着你温柔的眼眸，嘴角的笑意，还是会很心动。相拥在一起的时候，闻到熟悉的味道还是会很安心。那份激情成为了彼此的依赖，信任和默契，这是不同于亲情的。\n你们成为了恋人，也成为了亲人。但其实是你们之间的爱情变得像亲情一样密不可分，坚不可摧，本质上还是爱情。\n在熬过漫长岁月之后，我还是很喜欢你。永远浪漫，永远心动。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有经历过，不过应该会有这样的事情。\n但是在我看来爱情不应该成为亲情。从最开始的如胶似漆，直到激情慢慢消退，只剩下生活中的柴米油盐，就好像一家人在一起生活那样。不对不对，爱人是家人，但是那份独特的感情，永远都是不可取代的。失去爱情转变为亲情的情侣关系，大概只会让人索然无味吧。 https://t.co/S9hktVU3HN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 276,
+          "like_count": 10139,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

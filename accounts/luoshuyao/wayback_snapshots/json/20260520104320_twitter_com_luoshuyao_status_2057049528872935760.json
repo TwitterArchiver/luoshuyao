@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2057033920622026943",
+    "created_at": "2026-05-20T10:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057049528872935760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1900168705847500800",
+          "start": 0,
+          "username": "wxb_NB"
+        },
+        {
+          "end": 21,
+          "id": "2057032385871638528",
+          "start": 8,
+          "username": "Chinatasu033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057049528872935760",
+    "in_reply_to_user_id": "1900168705847500800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057033920622026943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb_NB @Chinatasu033 手好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2267,
+        "media_key": "3_2057033917962858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwNcyMbMAABguw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2057033920622026943",
+        "created_at": "2026-05-20T10:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057049528872935760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1900168705847500800",
+              "start": 0,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 21,
+              "id": "2057032385871638528",
+              "start": 8,
+              "username": "Chinatasu033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057049528872935760",
+        "in_reply_to_user_id": "1900168705847500800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057033920622026943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb_NB @Chinatasu033 手好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057033917962858496"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "conversation_id": "2057033920622026943",
+        "created_at": "2026-05-20T09:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057033920622026943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "2057032385871638528",
+              "start": 12,
+              "username": "Chinatasu033"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IqNwDdhX3c",
+              "end": 60,
+              "expanded_url": "https://x.com/wxb_NB/status/2057033920622026943/photo/1",
+              "media_key": "3_2057033917962858496",
+              "start": 37,
+              "url": "https://t.co/IqNwDdhX3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057033920622026943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一个 520 礼物喵\n@Chinatasu033 送的手链喵，好喜欢喵 https://t.co/IqNwDdhX3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 290,
+          "like_count": 16469,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 3535
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 /  我的世界里才是家 / 梗图爱好者 / 编程全靠AI /  作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 551,
+          "like_count": 10773,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T09:35:46.000Z",
+        "description": "",
+        "id": "2057032385871638528",
+        "name": "陳ちなつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057032566407049216/hepGuCgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Chinatasu033",
+        "verified": false
+      }
+    ]
+  }
+}

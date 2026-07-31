@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074823444794138624"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2074823483415306343",
+    "created_at": "2026-07-08T11:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074823483415306343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7NEbE8mzz",
+          "end": 114,
+          "expanded_url": "https://x.com/luoshuyao/status/2074823483415306343/photo/1",
+          "media_key": "16_2074823444794138624",
+          "start": 91,
+          "url": "https://t.co/z7NEbE8mzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074823483415306343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还要我们自己的工作做完了去别的组帮忙，我们才5个人，他们组十几个人还要我们帮。我们经常下晚上11点12点的时候也没人来帮我们，凌晨一点下班都没人帮忙，凭什么帮他们。直接打卡跑路了。 https://t.co/z7NEbE8mzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 154,
+        "media_key": "16_2074823444794138624",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMtA7h6bYAAQg6B.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMtA7h6bYAAQg6B.mp4"
+          }
+        ],
+        "width": 154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074823444794138624"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2074823483415306343",
+        "created_at": "2026-07-08T11:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074823483415306343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7NEbE8mzz",
+              "end": 114,
+              "expanded_url": "https://x.com/luoshuyao/status/2074823483415306343/photo/1",
+              "media_key": "16_2074823444794138624",
+              "start": 91,
+              "url": "https://t.co/z7NEbE8mzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823483415306343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还要我们自己的工作做完了去别的组帮忙，我们才5个人，他们组十几个人还要我们帮。我们经常下晚上11点12点的时候也没人来帮我们，凌晨一点下班都没人帮忙，凭什么帮他们。直接打卡跑路了。 https://t.co/z7NEbE8mzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 275,
+          "like_count": 19281,
+          "listed_count": 2,
+          "media_count": 443,
+          "tweet_count": 4434
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

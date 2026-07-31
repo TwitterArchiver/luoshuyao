@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2027433318661427368",
+    "created_at": "2026-04-11T16:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042996567934931401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847653051718672384",
+          "start": 0,
+          "username": "NicolettaS61812"
+        },
+        {
+          "end": 29,
+          "id": "2000880188650143744",
+          "start": 17,
+          "username": "huanjunling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042996567934931401",
+    "in_reply_to_user_id": "1847653051718672384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042994240129765810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NicolettaS61812 @huanjunling 我还是建议你不要过多的了解这些内容。你关注了我的话，接下来很有可能会刷到很多负面情绪的内容，如果影响到你的心情，直接屏蔽掉就好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2027433318661427368",
+        "created_at": "2026-04-11T16:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042996567934931401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847653051718672384",
+              "start": 0,
+              "username": "NicolettaS61812"
+            },
+            {
+              "end": 29,
+              "id": "2000880188650143744",
+              "start": 17,
+              "username": "huanjunling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042996567934931401",
+        "in_reply_to_user_id": "1847653051718672384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042994240129765810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NicolettaS61812 @huanjunling 我还是建议你不要过多的了解这些内容。你关注了我的话，接下来很有可能会刷到很多负面情绪的内容，如果影响到你的心情，直接屏蔽掉就好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847653051718672384",
+        "conversation_id": "2027433318661427368",
+        "created_at": "2026-04-11T15:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042994240129765810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000880188650143744",
+              "start": 0,
+              "username": "huanjunling"
+            },
+            {
+              "end": 23,
+              "id": "1476546742577504265",
+              "start": 13,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042994240129765810",
+        "in_reply_to_user_id": "2000880188650143744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031374033485549859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanjunling @luoshuyao 躯体化是什么东西啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 277,
+          "like_count": 8969,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1947
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T14:56:41.000Z",
+        "description": "A young man who wants to broaden his horizons",
+        "id": "1847653051718672384",
+        "location": "maybe China",
+        "name": "Nicoletta Sagel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859994743251288064/FqylObFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 218,
+          "like_count": 2370,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 692
+        },
+        "username": "NicolettaS61812",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T10:46:44.000Z",
+        "description": "是天上星辰落人间\n星の天より人に落ちぬ。\nA star from sky to earth descends",
+        "id": "2000880188650143744",
+        "location": "九界",
+        "name": "星之星幻",
+        "pinned_tweet_id": "2003477318455689450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001240161833906176/2uCigY22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 67,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 530
+        },
+        "username": "huanjunling",
+        "verified": false
+      }
+    ]
+  }
+}

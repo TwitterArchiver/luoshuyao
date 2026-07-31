@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2076267341235851492",
+    "created_at": "2026-07-12T12:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076287107082211379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1668917712851181568",
+          "start": 0,
+          "username": "Astdeitee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076287107082211379",
+    "in_reply_to_user_id": "1668917712851181568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076281048615522465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astdeitee 你说的这种情况我支持你歧视，我帖子说的是游戏玩家之间的歧视。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2076267341235851492",
+        "created_at": "2026-07-12T12:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076287107082211379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076287107082211379",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076281048615522465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee 你说的这种情况我支持你歧视，我帖子说的是游戏玩家之间的歧视。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668917712851181568",
+        "conversation_id": "2076267341235851492",
+        "created_at": "2026-07-12T12:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076281048615522465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076281048615522465",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076267341235851492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我必须要歧视游戏，有三类行为是我必须要歧视的：\n1，网络游戏厂商骗氪骗玩家在线时长无所不用其极；2，网络游戏账号不属于玩家，游戏厂商随便停止服务和封号；3，网络游戏厂商借反作弊之名义对玩家的计算机植入病毒盗取玩家的文件，美其名曰反作弊软件。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 280,
+          "like_count": 19561,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 4534
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "sepimax zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 496,
+          "like_count": 46628,
+          "listed_count": 0,
+          "media_count": 1045,
+          "tweet_count": 29679
+        },
+        "url": "",
+        "username": "Astdeitee",
+        "verified": false
+      }
+    ]
+  }
+}

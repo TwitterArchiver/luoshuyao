@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069794765634420736",
+        "3_2069794765630038016",
+        "3_2069794765663571968",
+        "3_2069794765655154688"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069795488845774865",
+    "created_at": "2026-06-24T14:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069795488845774865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ndtIglmTr",
+          "end": 95,
+          "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+          "media_key": "3_2069794765634420736",
+          "start": 72,
+          "url": "https://t.co/7ndtIglmTr"
+        },
+        {
+          "display_url": "pic.x.com/7ndtIglmTr",
+          "end": 95,
+          "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+          "media_key": "3_2069794765630038016",
+          "start": 72,
+          "url": "https://t.co/7ndtIglmTr"
+        },
+        {
+          "display_url": "pic.x.com/7ndtIglmTr",
+          "end": 95,
+          "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+          "media_key": "3_2069794765663571968",
+          "start": 72,
+          "url": "https://t.co/7ndtIglmTr"
+        },
+        {
+          "display_url": "pic.x.com/7ndtIglmTr",
+          "end": 95,
+          "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+          "media_key": "3_2069794765655154688",
+          "start": 72,
+          "url": "https://t.co/7ndtIglmTr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069795488845774865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1、爱，AI只能模仿有感情，并不是真的有感情。\n2、应该也会玩吧，古人也有古人的娱乐方式。实在不行回头我问问他们。\n3、没有\n4、祝你天天开心 https://t.co/7ndtIglmTr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2069794765634420736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLljX4OaQAAxEdn.jpg",
+        "width": 934
+      },
+      {
+        "height": 624,
+        "media_key": "3_2069794765630038016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLljX4NXYAAIa_e.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2069794765663571968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLljX4VXEAAL3KE.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2069794765655154688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLljX4TWoAA7kFI.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069794765634420736",
+            "3_2069794765630038016",
+            "3_2069794765663571968",
+            "3_2069794765655154688"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069795488845774865",
+        "created_at": "2026-06-24T14:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069795488845774865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ndtIglmTr",
+              "end": 95,
+              "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+              "media_key": "3_2069794765634420736",
+              "start": 72,
+              "url": "https://t.co/7ndtIglmTr"
+            },
+            {
+              "display_url": "pic.x.com/7ndtIglmTr",
+              "end": 95,
+              "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+              "media_key": "3_2069794765630038016",
+              "start": 72,
+              "url": "https://t.co/7ndtIglmTr"
+            },
+            {
+              "display_url": "pic.x.com/7ndtIglmTr",
+              "end": 95,
+              "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+              "media_key": "3_2069794765663571968",
+              "start": 72,
+              "url": "https://t.co/7ndtIglmTr"
+            },
+            {
+              "display_url": "pic.x.com/7ndtIglmTr",
+              "end": 95,
+              "expanded_url": "https://x.com/luoshuyao/status/2069795488845774865/photo/1",
+              "media_key": "3_2069794765655154688",
+              "start": 72,
+              "url": "https://t.co/7ndtIglmTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069795488845774865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1、爱，AI只能模仿有感情，并不是真的有感情。\n2、应该也会玩吧，古人也有古人的娱乐方式。实在不行回头我问问他们。\n3、没有\n4、祝你天天开心 https://t.co/7ndtIglmTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 272,
+          "like_count": 18897,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 4191
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

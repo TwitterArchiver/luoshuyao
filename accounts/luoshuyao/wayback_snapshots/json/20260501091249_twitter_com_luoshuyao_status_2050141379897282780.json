@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2050127406284038291",
+    "created_at": "2026-05-01T09:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050141379897282780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        },
+        {
+          "end": 18,
+          "id": "1821304109451931648",
+          "start": 10,
+          "username": "Fisa_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050141379897282780",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050127406284038291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo @Fisa_wo 怎么会这样，抱抱你😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2050127402727333888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOEAr_bYAA8gB2.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050127403478114304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOEAuybYAAM_A5.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2050127406284038291",
+        "created_at": "2026-05-01T09:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050141379897282780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            },
+            {
+              "end": 18,
+              "id": "1821304109451931648",
+              "start": 10,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050141379897282780",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050127406284038291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo @Fisa_wo 怎么会这样，抱抱你😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050127402727333888",
+            "3_2050127403478114304"
+          ]
+        },
+        "author_id": "1688101533198475264",
+        "conversation_id": "2050127406284038291",
+        "created_at": "2026-05-01T08:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050127406284038291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821304109451931648",
+              "start": 4,
+              "username": "Fisa_wo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DOpFNmlerI",
+              "end": 36,
+              "expanded_url": "https://x.com/Chise_wo/status/2050127406284038291/photo/1",
+              "media_key": "3_2050127402727333888",
+              "start": 13,
+              "url": "https://t.co/DOpFNmlerI"
+            },
+            {
+              "display_url": "pic.x.com/DOpFNmlerI",
+              "end": 36,
+              "expanded_url": "https://x.com/Chise_wo/status/2050127406284038291/photo/1",
+              "media_key": "3_2050127403478114304",
+              "start": 13,
+              "url": "https://t.co/DOpFNmlerI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050127406284038291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 968,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了 @Fisa_wo https://t.co/DOpFNmlerI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 285,
+          "like_count": 12434,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2755
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "",
+        "id": "1688101533198475264",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 1273,
+          "like_count": 25973,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 6251
+        },
+        "username": "Chise_wo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T21:55:18.000Z",
+        "description": "一片虚无～",
+        "id": "1821304109451931648",
+        "location": "翎窝",
+        "name": "翎",
+        "pinned_tweet_id": "2035389791513309440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050125787693776896/-YEFkiHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 1504,
+          "like_count": 17823,
+          "listed_count": 5,
+          "media_count": 503,
+          "tweet_count": 3645
+        },
+        "username": "Fisa_wo",
+        "verified": false
+      }
+    ]
+  }
+}

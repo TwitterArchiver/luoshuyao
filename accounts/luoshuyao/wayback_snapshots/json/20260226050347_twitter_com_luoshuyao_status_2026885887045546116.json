@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2026863521410248776",
+    "created_at": "2026-02-26T05:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026885887045546116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "pleazdontleavme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026885887045546116",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026863521410248776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleazdontleavme 放轻松一点，孩子，不要把自己逼得太紧了呀\n利用这个词确实充斥着大人的生活，但这种关系绝对不是你的宿命。这只是你成长的环境有问题，绝对不是你不够好。\n你会讲到纯粹的友情，说明你也是一个内心纯粹的孩子，温柔善良的你也值得被温柔以待呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2026863521410248776",
+        "created_at": "2026-02-26T05:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026885887045546116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026885887045546116",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026863521410248776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleazdontleavme 放轻松一点，孩子，不要把自己逼得太紧了呀\n利用这个词确实充斥着大人的生活，但这种关系绝对不是你的宿命。这只是你成长的环境有问题，绝对不是你不够好。\n你会讲到纯粹的友情，说明你也是一个内心纯粹的孩子，温柔善良的你也值得被温柔以待呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2026863521410248776",
+        "created_at": "2026-02-26T03:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026863521410248776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026863521410248776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爱情不会降临在我这种人身上，纯粹的友情也不会，亲情也不会 可利用不是爸爸妈妈从小就在教你的事吗 不奢求幸福就好了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n手游基本什么都玩过，王者吃鸡原神鸣潮崩铁三角洲明日方舟BanG Dream……（此处省略一万字）\n端游比较手残，星露谷那种种田休闲玩的比较多，欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476662676856061956/nt9mtDyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 78,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 71
+        },
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/查成分互fo/低质废话推/我叫下水道/可以扩列/温良不骂人/自残穿孔od/cptsd/bpd/dpd/极度依赖缺爱的蠢货/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2025383531409719423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026691750954414084/iLViaBiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 510,
+          "like_count": 2922,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "pleazdontleavme",
+        "verified": false
+      }
+    ]
+  }
+}

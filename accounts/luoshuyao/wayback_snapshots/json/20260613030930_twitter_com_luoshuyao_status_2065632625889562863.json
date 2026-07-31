@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2065615257264177216",
+    "created_at": "2026-06-13T03:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065632625889562863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1937834260154777600",
+          "start": 0,
+          "username": "IDLFish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065632625889562863",
+    "in_reply_to_user_id": "1937834260154777600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065623701647946169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IDLFish 我不想得糖尿病😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2065615257264177216",
+        "created_at": "2026-06-13T03:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065632625889562863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1937834260154777600",
+              "start": 0,
+              "username": "IDLFish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065632625889562863",
+        "in_reply_to_user_id": "1937834260154777600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065623701647946169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IDLFish 我不想得糖尿病😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937834260154777600",
+        "conversation_id": "2065615257264177216",
+        "created_at": "2026-06-13T02:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065623701647946169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065623701647946169",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065623319148392601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 简单而言就是容易得糖尿病了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 287,
+          "like_count": 17859,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 3876
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T11:24:36.000Z",
+        "description": "985 计算机｜前 ByteDance等公司的PM｜连续经历 4 次裁员｜ADHD&双向情感障碍(确诊)｜ENFP｜目前灵活就业(bushi) ｜折腾remote work、AI 小项目｜来吐点脏口水、分享“求生过程”",
+        "id": "1937834260154777600",
+        "name": "SaltedFissssh",
+        "pinned_tweet_id": "2065367523139408333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065355057256972288/FWqXUUim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 35,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "IDLFish",
+        "verified": true
+      }
+    ]
+  }
+}

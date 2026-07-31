@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043707166675394888",
+    "created_at": "2026-04-13T15:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043713344662802646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043713344662802646",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我的同桌就是大家口中常说的很经典的健全b，家庭条件很好，也很开朗，一看就是没经历过什么不幸的人。同时也是一个很自以为是的人。\n所以不要把你的苦难讲给这种没有同理心的健全b听，我什么都没做都会被攻击，要是跟这种人诉说心事的话，大概只会说“有什么好难过的”“你就是太脆弱了”“你就是闲的”诸如此类的话，这完全就是霸凌。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043707166675394888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的同桌就是大家口中常说的很经典的健全b，家庭条件很好，也很开朗，一看就是没经历过什么不幸的人。同时也是一个很自以为是的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043707166675394888",
+        "created_at": "2026-04-13T15:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043713344662802646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043713344662802646",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的同桌就是大家口中常说的很经典的健全b，家庭条件很好，也很开朗，一看就是没经历过什么不幸的人。同时也是一个很自以为是的人。\n所以不要把你的苦难讲给这种没有同理心的健全b听，我什么都没做都会被攻击，要是跟这种人诉说心事的话，大概只会说“有什么好难过的”“你就是太脆弱了”“你就是闲的”诸如此类的话，这完全就是霸凌。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043707166675394888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的同桌就是大家口中常说的很经典的健全b，家庭条件很好，也很开朗，一看就是没经历过什么不幸的人。同时也是一个很自以为是的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043707166675394888",
+        "created_at": "2026-04-13T15:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043707166675394888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043707166675394888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是2020年的秋天，那个时候我的抑郁已经很严重了，脸上写满了忧郁，一眼就能看出来的那种。当时同桌就看出来了，但是随之而来的不是关切的问候，而是满脸嫌弃：“你在装什么忧郁，是想要博取同情吗？”\n。我看过那么多影视作品，也从未在哪个反派口中听过这么恶毒的话，自那以后我就变得更加沉默了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 276,
+          "like_count": 9340,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2026
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2075569456739487947",
+    "created_at": "2026-07-10T13:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075569456739487947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2075442130722619800",
+          "start": 72,
+          "url": "https://t.co/JTzksbb0NM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075569456739487947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075442130722619800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "估计得太保守了，下午预计的是9点半，结果9点就下班了。可能是上午状态不太好按昨天的效率来估计了。下午咖啡因起效了越干越有劲，所以才没有拖进度。 https://t.co/JTzksbb0NM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2075569456739487947",
+        "created_at": "2026-07-10T13:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075569456739487947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2075442130722619800",
+              "start": 72,
+              "url": "https://t.co/JTzksbb0NM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075569456739487947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075442130722619800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "估计得太保守了，下午预计的是9点半，结果9点就下班了。可能是上午状态不太好按昨天的效率来估计了。下午咖啡因起效了越干越有劲，所以才没有拖进度。 https://t.co/JTzksbb0NM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2075442130722619800",
+        "created_at": "2026-07-10T04:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075442130722619800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075442130722619800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天这个进度估计晚上11点下班。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 275,
+          "like_count": 19400,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 4468
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

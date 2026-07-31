@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053298226766488053",
+    "created_at": "2026-05-10T04:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053336119115489782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705855853231005696",
+          "start": 0,
+          "username": "real_clover_yan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053336119115489782",
+    "in_reply_to_user_id": "1705855853231005696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053335487725887904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_clover_yan 至少可以确定的是，肯定是不认识的人，而且也不是什么重要的事，我想看看他有多少耐心，能坚持打多久。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053298226766488053",
+        "created_at": "2026-05-10T04:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053336119115489782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705855853231005696",
+              "start": 0,
+              "username": "real_clover_yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053336119115489782",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053335487725887904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_clover_yan 至少可以确定的是，肯定是不认识的人，而且也不是什么重要的事，我想看看他有多少耐心，能坚持打多久。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705855853231005696",
+        "conversation_id": "2053298226766488053",
+        "created_at": "2026-05-10T04:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053335487725887904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053335487725887904",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053298226766488053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 这个人是不是一接起来就说「喂您好您电话总算接通了，您医社保新农合不是已经交过了吗，但是你怎么还是最低档的报销比例，是不是还没有确认」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 287,
+          "like_count": 13451,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T08:05:19.000Z",
+        "description": "烦死了烦死了烦死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 23,
+                "expanded_url": "https://www.khyan.top",
+                "start": 0,
+                "url": "https://t.co/xt0HrKTz0b"
+              }
+            ]
+          }
+        },
+        "id": "1705855853231005696",
+        "location": "424.2 m",
+        "name": "𝓒𝓵𝓸𝓿𝓮𝓻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041333761942708224/wX2SkKfi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 900,
+          "like_count": 25550,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 5695
+        },
+        "url": "https://t.co/xt0HrKTz0b",
+        "username": "real_clover_yan",
+        "verified": false
+      }
+    ]
+  }
+}

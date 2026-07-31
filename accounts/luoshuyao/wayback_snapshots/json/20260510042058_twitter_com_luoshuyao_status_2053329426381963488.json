@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053326959233712575",
+    "created_at": "2026-05-10T04:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053329426381963488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1918219099064463360",
+          "start": 0,
+          "username": "likchus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053329426381963488",
+    "in_reply_to_user_id": "1918219099064463360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053327322208707019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@likchus 不借了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053326959233712575",
+        "created_at": "2026-05-10T04:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053329426381963488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1918219099064463360",
+              "start": 0,
+              "username": "likchus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053329426381963488",
+        "in_reply_to_user_id": "1918219099064463360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053327322208707019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@likchus 不借了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918219099064463360",
+        "conversation_id": "2053326959233712575",
+        "created_at": "2026-05-10T04:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053327322208707019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053327322208707019",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053326959233712575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 好节俭，但为什么要借这么多钱，不能拒绝吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 287,
+          "like_count": 13441,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3029
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T08:20:57.000Z",
+        "description": "中文和英文爲主，日本語 | 韓國語 | 越南語 學習中\n分享歷史與文學、計算機科學及讀書工作生活心得\n事出於沈思，義歸乎翰藻。🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aineer.github.io",
+                "end": 23,
+                "expanded_url": "https://aineer.github.io/",
+                "start": 0,
+                "url": "https://t.co/KJE6xHmb6J"
+              }
+            ]
+          }
+        },
+        "id": "1918219099064463360",
+        "name": "Li Kching",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051526910438731776/kdaI2MER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 68,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/KJE6xHmb6J",
+        "username": "likchus",
+        "verified": false
+      }
+    ]
+  }
+}

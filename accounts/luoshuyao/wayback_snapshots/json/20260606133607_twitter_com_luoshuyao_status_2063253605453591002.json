@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2063056341800042752",
+    "created_at": "2026-06-06T13:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063253605453591002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974155774021836800",
+          "start": 0,
+          "username": "melody06owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063253605453591002",
+    "in_reply_to_user_id": "1974155774021836800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063056341800042752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@melody06owo 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2063056341800042752",
+        "created_at": "2026-06-06T13:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063253605453591002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974155774021836800",
+              "start": 0,
+              "username": "melody06owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063253605453591002",
+        "in_reply_to_user_id": "1974155774021836800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063056341800042752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@melody06owo 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974155774021836800",
+        "conversation_id": "2063056341800042752",
+        "created_at": "2026-06-06T00:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063056341800042752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063056341800042752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1042,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 288,
+          "like_count": 17301,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T16:53:28.000Z",
+        "description": "已通过丑哥 验证重生了三次前世4000粉 重度抑郁 地雷系 打瓦打第五人格 我很温良 喜欢我请投喂我 我需要很多钱，欢迎小女孩互转互fo @naom1x0x0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "naom1x0x0"
+              }
+            ]
+          }
+        },
+        "id": "1974155774021836800",
+        "name": "天真痛",
+        "pinned_tweet_id": "2061172133875822645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035342891032391680/whjgAFLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 49,
+          "like_count": 69,
+          "listed_count": 6,
+          "media_count": 108,
+          "tweet_count": 586
+        },
+        "username": "melody06owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2068994186247033079",
+    "created_at": "2026-06-22T09:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068995633722298679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068995633722298679",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068994186247033079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这两年玩游戏的时间越来越少了所以这段时间新出的游戏很多没玩过，以前有时间玩的时候什么游戏都会试一试。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2068993596502732802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaKtsoacAIfTck.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2068994186247033079",
+        "created_at": "2026-06-22T09:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068995633722298679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068995633722298679",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068994186247033079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这两年玩游戏的时间越来越少了所以这段时间新出的游戏很多没玩过，以前有时间玩的时候什么游戏都会试一试。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068993596502732802"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2068994186247033079",
+        "created_at": "2026-06-22T09:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068994186247033079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glRVP3POiP",
+              "end": 124,
+              "expanded_url": "https://x.com/luoshuyao/status/2068994186247033079/photo/1",
+              "media_key": "3_2068993596502732802",
+              "start": 101,
+              "url": "https://t.co/glRVP3POiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068994186247033079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大概就这些吧，可能漏了一些，这些大部分都玩过一段时间，至少都有号。去年年底才买的电脑所以端游玩的很少。\n王者荣耀，和平精英，三角洲行动，原神，崩坏：星穹铁道，绝区零，明日方舟，鸣潮，洛克王国，BanG Dream!开心消消乐，明日方舟：终末地，我的世界，金铲铲，碧蓝航线，英雄联盟手游，蛋仔派对，第五人格，阴阳师，决战平安京，光遇，逆水寒，燕云十六声，哈利波特：魔法觉醒，崩坏三，桃源深处有人家，猫和老鼠，植物大战僵尸，战双帕弥什，幻塔，蔚蓝档案，赛马娘，部落冲突，皇室战争，无限暖暖，火影忍者，万国觉醒，无尽冬日，巅峰极速，暗区突围，荒野乱斗，元气骑士，QQ飞车，天天酷跑，球球大作战\n荒野大镖客：救赎2，GTA5，星露谷物语，火山的女儿，幻兽帕鲁，求生之路2，杀戮尖塔"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概就这些吧，可能漏了一些，这些大部分都玩过一段时间，至少都有号。去年年底才买的电脑所以端游玩的很少。\n王者荣耀，和平精英，三角洲行动，原神，崩坏：星穹铁道，绝区零，明日方舟，鸣潮，洛克王国，BanG https://t.co/glRVP3POiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 286,
+          "like_count": 18677,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 4112
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

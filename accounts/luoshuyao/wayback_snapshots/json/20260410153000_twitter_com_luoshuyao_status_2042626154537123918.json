@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042623808356634624",
+        "3_2042623808356651009",
+        "3_2042623808356687872",
+        "3_2042623808348282880"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2042626154537123918",
+    "created_at": "2026-04-10T15:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042626154537123918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lITyQSnItq",
+          "end": 154,
+          "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+          "media_key": "3_2042623808356634624",
+          "start": 131,
+          "url": "https://t.co/lITyQSnItq"
+        },
+        {
+          "display_url": "pic.x.com/lITyQSnItq",
+          "end": 154,
+          "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+          "media_key": "3_2042623808356651009",
+          "start": 131,
+          "url": "https://t.co/lITyQSnItq"
+        },
+        {
+          "display_url": "pic.x.com/lITyQSnItq",
+          "end": 154,
+          "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+          "media_key": "3_2042623808356687872",
+          "start": 131,
+          "url": "https://t.co/lITyQSnItq"
+        },
+        {
+          "display_url": "pic.x.com/lITyQSnItq",
+          "end": 154,
+          "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+          "media_key": "3_2042623808348282880",
+          "start": 131,
+          "url": "https://t.co/lITyQSnItq"
+        },
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2026732205565968390",
+          "start": 155,
+          "url": "https://t.co/xzfSznrTt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042626154537123918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026732205565968390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分享一个好消息呀，这个孩子在今天和她的对象分手了。真的是好消息，因为对方根本不爱她，这段感情一直让她处在焦虑之中，给她带来的痛苦远大于快乐。\n所以说遇到不值得或者不适合的人，不管是友情还是爱情，都应该断绝关系及时止损呀。明明没可能还苦苦挣扎，只会折磨自己罢了。 https://t.co/lITyQSnItq https://t.co/xzfSznrTt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1846,
+        "media_key": "3_2042623808356634624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjbiAraUAAe-05.jpg",
+        "width": 919
+      },
+      {
+        "height": 1488,
+        "media_key": "3_2042623808356651009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjbiArakAEvm3s.jpg",
+        "width": 926
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2042623808356687872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjbiArbIAA8Lfq.jpg",
+        "width": 923
+      },
+      {
+        "height": 1002,
+        "media_key": "3_2042623808348282880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjbiApa4AAIhoe.jpg",
+        "width": 924
+      },
+      {
+        "height": 1929,
+        "media_key": "3_2026730691233460225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBk01paMAEFfCT.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042623808356634624",
+            "3_2042623808356651009",
+            "3_2042623808356687872",
+            "3_2042623808348282880"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2042626154537123918",
+        "created_at": "2026-04-10T15:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042626154537123918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lITyQSnItq",
+              "end": 154,
+              "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+              "media_key": "3_2042623808356634624",
+              "start": 131,
+              "url": "https://t.co/lITyQSnItq"
+            },
+            {
+              "display_url": "pic.x.com/lITyQSnItq",
+              "end": 154,
+              "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+              "media_key": "3_2042623808356651009",
+              "start": 131,
+              "url": "https://t.co/lITyQSnItq"
+            },
+            {
+              "display_url": "pic.x.com/lITyQSnItq",
+              "end": 154,
+              "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+              "media_key": "3_2042623808356687872",
+              "start": 131,
+              "url": "https://t.co/lITyQSnItq"
+            },
+            {
+              "display_url": "pic.x.com/lITyQSnItq",
+              "end": 154,
+              "expanded_url": "https://x.com/luoshuyao/status/2042626154537123918/photo/1",
+              "media_key": "3_2042623808348282880",
+              "start": 131,
+              "url": "https://t.co/lITyQSnItq"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2026732205565968390",
+              "start": 155,
+              "url": "https://t.co/xzfSznrTt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042626154537123918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026732205565968390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享一个好消息呀，这个孩子在今天和她的对象分手了。真的是好消息，因为对方根本不爱她，这段感情一直让她处在焦虑之中，给她带来的痛苦远大于快乐。\n所以说遇到不值得或者不适合的人，不管是友情还是爱情，都应该断绝关系及时止损呀。明明没可能还苦苦挣扎，只会折磨自己罢了。 https://t.co/lITyQSnItq https://t.co/xzfSznrTt6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026730691233460225"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2026732205565968390",
+        "created_at": "2026-02-25T18:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026732205565968390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1N5HHr37y",
+              "end": 141,
+              "expanded_url": "https://x.com/luoshuyao/status/2026732205565968390/photo/1",
+              "media_key": "3_2026730691233460225",
+              "start": 118,
+              "url": "https://t.co/Q1N5HHr37y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026732205565968390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于聊完了，早在三年前的某个晚上我也跟这个孩子聊过很多，她所处的环境太压抑了但是又一直勉强自己，而且还有一个根本不爱她的对象。我是真想劝她分手但是又不想过多干涉别人的感情，好在她还有选择的余地，可以摆脱现在的环境，希望她能想明白吧…… https://t.co/Q1N5HHr37y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 281,
+          "like_count": 8763,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

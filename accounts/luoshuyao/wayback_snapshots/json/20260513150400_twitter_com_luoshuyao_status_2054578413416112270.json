@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2054565105518710791",
+    "created_at": "2026-05-13T15:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054578413416112270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883722185417916416",
+          "start": 0,
+          "username": "A_Shoulderurb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054578413416112270",
+    "in_reply_to_user_id": "1883722185417916416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054578140207550632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_Shoulderurb 没关系，反正不是我写的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2054565105518710791",
+        "created_at": "2026-05-13T15:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054578413416112270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883722185417916416",
+              "start": 0,
+              "username": "A_Shoulderurb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054578413416112270",
+        "in_reply_to_user_id": "1883722185417916416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054578140207550632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Shoulderurb 没关系，反正不是我写的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883722185417916416",
+        "conversation_id": "2054565105518710791",
+        "created_at": "2026-05-13T15:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054578140207550632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054578140207550632",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054565105518710791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 这种文字  有本书叫做毛选 语言风格和这个大不相同 道理清晰 明白 让人知道自己懂了什么 这种文字读来其实没有觉得自己懂什么 只是觉得华美有深度 其实形式大于内容 叠甲 个人意见 不喜欢勿喷 本人没有精神病史"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 288,
+          "like_count": 14620,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 3241
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-27T03:42:33.000Z",
+        "description": "缓缓摊开的日记本",
+        "id": "1883722185417916416",
+        "name": "阿多斯的肩膀",
+        "pinned_tweet_id": "2040634734443929748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032375103997063168/1AR71KHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 16,
+          "like_count": 1697,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 395
+        },
+        "username": "A_Shoulderurb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2067389698469978461",
+    "created_at": "2026-06-17T23:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T00:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067392236300726296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067392236300726296",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067389698469978461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太多了😵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2067389677175476224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDX9ThakAAAZcx.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2067389698469978461",
+        "created_at": "2026-06-17T23:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067392236300726296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067392236300726296",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067389698469978461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太多了😵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067389677175476224"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067389698469978461",
+        "created_at": "2026-06-17T23:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067389698469978461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qCQ9e2Olz",
+              "end": 39,
+              "expanded_url": "https://x.com/luoshuyao/status/2067389698469978461/photo/1",
+              "media_key": "3_2067389677175476224",
+              "start": 16,
+              "url": "https://t.co/3qCQ9e2Olz"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2067028911196914156",
+              "start": 40,
+              "url": "https://t.co/UKqyia0wF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067389698469978461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067028911196914156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第四天，肠粉+豆浆+皮蛋瘦肉粥 https://t.co/3qCQ9e2Olz https://t.co/UKqyia0wF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 287,
+          "like_count": 18272,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 3987
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

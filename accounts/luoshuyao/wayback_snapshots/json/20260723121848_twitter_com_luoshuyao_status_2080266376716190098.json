@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2080237278874808674",
+    "created_at": "2026-07-23T12:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080266376716190098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2080208153837449216",
+          "start": 0,
+          "username": "Chu_Echooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080266376716190098",
+    "in_reply_to_user_id": "2080208153837449216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080249605950976350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooooo 你吓死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2080237278874808674",
+        "created_at": "2026-07-23T12:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080266376716190098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2080208153837449216",
+              "start": 0,
+              "username": "Chu_Echooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080266376716190098",
+        "in_reply_to_user_id": "2080208153837449216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080249605950976350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooooo 你吓死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080208153837449216",
+        "conversation_id": "2080237278874808674",
+        "created_at": "2026-07-23T11:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080249605950976350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080249605950976350",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080237278874808674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我在这里！（超大声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 282,
+          "like_count": 19902,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4681
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-23T08:29:22.000Z",
+        "description": "猫叫楚点点/爱每一个女孩",
+        "id": "2080208153837449216",
+        "location": "电饭煲",
+        "name": "阿楚菇凉",
+        "pinned_tweet_id": "2080227803837116509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080210988859789312/VnncFyyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Chu_Echooooo",
+        "verified": false
+      }
+    ]
+  }
+}

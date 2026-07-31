@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048040565791703255",
+    "created_at": "2026-04-25T14:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048045729206432236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1122766825387745280",
+          "start": 0,
+          "username": "Cartknight1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048045729206432236",
+    "in_reply_to_user_id": "1122766825387745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048040565791703255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cartknight1 不说现在，好几年前就有很多低质短视频和动画片充斥着各种视频软件的儿童频道，里面有各种烂梗和不良价值观导向的内容，平台也不加以管制。像你孩子这样年纪看到了就很容易乱学。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048040565791703255",
+        "created_at": "2026-04-25T14:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048045729206432236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1122766825387745280",
+              "start": 0,
+              "username": "Cartknight1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048045729206432236",
+        "in_reply_to_user_id": "1122766825387745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048040565791703255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cartknight1 不说现在，好几年前就有很多低质短视频和动画片充斥着各种视频软件的儿童频道，里面有各种烂梗和不良价值观导向的内容，平台也不加以管制。像你孩子这样年纪看到了就很容易乱学。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122766825387745280",
+        "conversation_id": "2048040565791703255",
+        "created_at": "2026-04-25T14:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048040565791703255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048040565791703255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "读幼儿园的儿子和我说：“不要就是要”，说是动画片里学来的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 279,
+          "like_count": 11270,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-29T07:37:25.000Z",
+        "description": "收集日落后的蓝，和没说出口的心事。",
+        "id": "1122766825387745280",
+        "name": "蓝调小时｜Blue hour",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048021985037570048/YgnEOMEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 891,
+          "like_count": 7279,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 3280
+        },
+        "username": "Cartknight1",
+        "verified": true
+      }
+    ]
+  }
+}

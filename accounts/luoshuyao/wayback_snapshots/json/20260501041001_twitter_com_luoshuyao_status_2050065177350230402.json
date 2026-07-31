@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2049842235395756510",
+    "created_at": "2026-05-01T04:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050065177350230402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "KashabaiSilver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050065177350230402",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049842235395756510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KashabaiSilver 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2049842235395756510",
+        "created_at": "2026-05-01T04:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050065177350230402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "KashabaiSilver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050065177350230402",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049842235395756510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KashabaiSilver 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2049842235395756510",
+        "created_at": "2026-04-30T13:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049842235395756510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KashabaiSilver…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/KashabaiSilver/status/2049840034841522578",
+              "start": 68,
+              "url": "https://t.co/Om6HxYq9qV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049842235395756510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049840034841522578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后有一个很重要的原因是我重要的互关心理健康都很差、这种情绪传染给我导致很累\n\n然后因为感到无能为力而内疚，进一步让我不知道该怎么互动 https://t.co/Om6HxYq9qV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 285,
+          "like_count": 12388,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 2745
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintaureliaev…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintaureliaevergarden",
+                "start": 0,
+                "url": "https://t.co/G1S4F934aJ"
+              }
+            ]
+          }
+        },
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurelia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980793192005632/ygaC_zoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 137,
+          "like_count": 139122,
+          "listed_count": 4,
+          "media_count": 5917,
+          "tweet_count": 76787
+        },
+        "url": "https://t.co/G1S4F934aJ",
+        "username": "KashabaiSilver",
+        "verified": false
+      }
+    ]
+  }
+}

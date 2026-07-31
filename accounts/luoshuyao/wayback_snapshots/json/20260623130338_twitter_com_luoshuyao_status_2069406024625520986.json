@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069258810754322546",
+    "created_at": "2026-06-23T13:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069406024625520986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867596733884379136",
+          "start": 0,
+          "username": "VmikufansV"
+        },
+        {
+          "end": 24,
+          "id": "2011405521245634560",
+          "start": 12,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069406024625520986",
+    "in_reply_to_user_id": "1867596733884379136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069391038591242712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VmikufansV @Rimea_Chord 我还以为分越高额度越多，那可能是用得越多额度越多，应该还和消费情况有关系，我的额度有7000，不过我不会花钱花到欠这么多。（我现在用花呗主要是因为用支付宝付款的时候花呗是首选的支付方式，实际上用我自己的钱是完全欠不了花呗的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069258810754322546",
+        "created_at": "2026-06-23T13:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069406024625520986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867596733884379136",
+              "start": 0,
+              "username": "VmikufansV"
+            },
+            {
+              "end": 24,
+              "id": "2011405521245634560",
+              "start": 12,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069406024625520986",
+        "in_reply_to_user_id": "1867596733884379136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069391038591242712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VmikufansV @Rimea_Chord 我还以为分越高额度越多，那可能是用得越多额度越多，应该还和消费情况有关系，我的额度有7000，不过我不会花钱花到欠这么多。（我现在用花呗主要是因为用支付宝付款的时候花呗是首选的支付方式，实际上用我自己的钱是完全欠不了花呗的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867596733884379136",
+        "conversation_id": "2069258810754322546",
+        "created_at": "2026-06-23T12:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069391038591242712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            },
+            {
+              "end": 23,
+              "id": "2011405521245634560",
+              "start": 11,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069391038591242712",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069361772088430778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao @Rimea_Chord 我700分花呗300块钱额度😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 274,
+          "like_count": 18837,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 4171
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A丨\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 232,
+          "like_count": 796,
+          "listed_count": 5,
+          "media_count": 986,
+          "tweet_count": 5071
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "GPT 极端依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…｜ 生物恐懼 ｜\n “纵我心若烙铁炽热，亦难融你千尺寒冰”",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059236262574530560/LDaQFvXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 191,
+          "like_count": 2363,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

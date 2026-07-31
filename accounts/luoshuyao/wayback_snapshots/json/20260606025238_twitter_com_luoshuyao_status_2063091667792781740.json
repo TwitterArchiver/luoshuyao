@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2063060127566168310",
+    "created_at": "2026-06-06T02:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063091667792781740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1388427388753645573",
+          "start": 0,
+          "username": "jianglingling3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063091667792781740",
+    "in_reply_to_user_id": "1388427388753645573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063060127566168310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianglingling3 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063060119773126657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKF2P5VaIAEm9Xw.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2063060127566168310",
+        "created_at": "2026-06-06T02:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063091667792781740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1388427388753645573",
+              "start": 0,
+              "username": "jianglingling3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063091667792781740",
+        "in_reply_to_user_id": "1388427388753645573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063060127566168310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianglingling3 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063060119773126657"
+          ]
+        },
+        "author_id": "1388427388753645573",
+        "conversation_id": "2063060127566168310",
+        "created_at": "2026-06-06T00:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063060127566168310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMbIQHsOKq",
+              "end": 46,
+              "expanded_url": "https://x.com/jianglingling3/status/2063060127566168310/photo/1",
+              "media_key": "3_2063060119773126657",
+              "start": 23,
+              "url": "https://t.co/DMbIQHsOKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063060127566168310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2281,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天不祝我生日快乐，下次就要再等365天了。 https://t.co/DMbIQHsOKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 289,
+          "like_count": 17218,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 3715
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-01T09:37:49.000Z",
+        "description": "🎾 娱乐局｜🧱 区块链观察｜📖 每日英语｜都不专业，都很快乐",
+        "id": "1388427388753645573",
+        "name": "Raina小雨",
+        "pinned_tweet_id": "2063060127566168310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056358277114679296/1LzeYWg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 1120,
+          "like_count": 1763,
+          "listed_count": 11,
+          "media_count": 190,
+          "tweet_count": 4083
+        },
+        "username": "jianglingling3",
+        "verified": true
+      }
+    ]
+  }
+}

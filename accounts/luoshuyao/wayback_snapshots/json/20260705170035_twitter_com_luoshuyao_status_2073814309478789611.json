@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2073814309478789611",
+    "created_at": "2026-07-05T17:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073814309478789611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073814309478789611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "每个人的经历都不一样，看到的世界也不一样，有着不同的认知，对同一件事有不同的看法都不是很正常的吗？每次当我表达了自己的观点之后，我很理解会有不同的声音。如果是理性发言的话我会很乐意去交流，但也不会为了争对错的而去和对方争论不休。如果上来就骂人或者给人扣帽子，和这种人沟通完全是浪费时间，他们根本听不进你任何一句话，只会否定你，反驳你，只会觉得自己才是完全正确的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每个人的经历都不一样，看到的世界也不一样，有着不同的认知，对同一件事有不同的看法都不是很正常的吗？每次当我表达了自己的观点之后，我很理解会有不同的声音。如果是理性发言的话我会很乐意去交流，但也不会为了争对错的而去和对方争论不休。如果上来就骂人或者给人扣帽子，和这种人沟通完全是浪费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2073814309478789611",
+        "created_at": "2026-07-05T17:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073814309478789611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073814309478789611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每个人的经历都不一样，看到的世界也不一样，有着不同的认知，对同一件事有不同的看法都不是很正常的吗？每次当我表达了自己的观点之后，我很理解会有不同的声音。如果是理性发言的话我会很乐意去交流，但也不会为了争对错的而去和对方争论不休。如果上来就骂人或者给人扣帽子，和这种人沟通完全是浪费时间，他们根本听不进你任何一句话，只会否定你，反驳你，只会觉得自己才是完全正确的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个人的经历都不一样，看到的世界也不一样，有着不同的认知，对同一件事有不同的看法都不是很正常的吗？每次当我表达了自己的观点之后，我很理解会有不同的声音。如果是理性发言的话我会很乐意去交流，但也不会为了争对错的而去和对方争论不休。如果上来就骂人或者给人扣帽子，和这种人沟通完全是浪费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 271,
+          "like_count": 19031,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 4359
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

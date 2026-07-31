@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2074823483415306343",
+    "created_at": "2026-07-09T00:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075014059121119521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1442900362373959681",
+          "start": 0,
+          "username": "ClarkOAO"
+        },
+        {
+          "end": 23,
+          "id": "1876613242887282688",
+          "start": 10,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075014059121119521",
+    "in_reply_to_user_id": "1442900362373959681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075012051869831541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClarkOAO @liujiayi1111 她没有恶意的，而且这句话对我也没有什么杀伤力。我的能力只能让我做这样的工作，领这样的工资。我觉得这没什么不好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2074823483415306343",
+        "created_at": "2026-07-09T00:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075014059121119521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1442900362373959681",
+              "start": 0,
+              "username": "ClarkOAO"
+            },
+            {
+              "end": 23,
+              "id": "1876613242887282688",
+              "start": 10,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075014059121119521",
+        "in_reply_to_user_id": "1442900362373959681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075012051869831541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClarkOAO @liujiayi1111 她没有恶意的，而且这句话对我也没有什么杀伤力。我的能力只能让我做这样的工作，领这样的工资。我觉得这没什么不好的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442900362373959681",
+        "conversation_id": "2074823483415306343",
+        "created_at": "2026-07-09T00:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075012051869831541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 24,
+              "id": "1476546742577504265",
+              "start": 14,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075012051869831541",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074830207760863654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 @luoshuyao 好强的杀伤力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 274,
+          "like_count": 19313,
+          "listed_count": 2,
+          "media_count": 443,
+          "tweet_count": 4440
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-28T17:13:59.000Z",
+        "description": "我叫 Clark, 大概是写代码的, 其他嘛...嗯...让我想想...开发者? 黑客? 投机者? 卑微打工人?\n不不, 其实我只是个 freeman, 做自己喜欢的事情最重要! ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "njump.me/npub1clarklr7c…",
+                "end": 23,
+                "expanded_url": "https://njump.me/npub1clarklr7c43nklyhrr0f6h6j358pc4wfk92r2vjedjj2qk95el5ssm0w8h",
+                "start": 0,
+                "url": "https://t.co/jbXg47mmnK"
+              }
+            ]
+          }
+        },
+        "id": "1442900362373959681",
+        "name": "Clark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043706696460345344/oi_dIyCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 17,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/jbXg47mmnK",
+        "username": "ClarkOAO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9302,
+          "following_count": 100,
+          "like_count": 11834,
+          "listed_count": 27,
+          "media_count": 273,
+          "tweet_count": 2694
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

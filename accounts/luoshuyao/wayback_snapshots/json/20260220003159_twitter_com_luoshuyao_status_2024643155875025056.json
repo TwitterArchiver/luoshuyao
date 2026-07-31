@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024643015055462400",
+        "3_2024643015277760513",
+        "3_2024643015059611648",
+        "3_2024643015281954817"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024643155875025056",
+    "created_at": "2026-02-20T00:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T01:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024643155875025056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRa7zGeFrF",
+          "end": 38,
+          "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+          "media_key": "3_2024643015055462400",
+          "start": 15,
+          "url": "https://t.co/pRa7zGeFrF"
+        },
+        {
+          "display_url": "pic.x.com/pRa7zGeFrF",
+          "end": 38,
+          "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+          "media_key": "3_2024643015277760513",
+          "start": 15,
+          "url": "https://t.co/pRa7zGeFrF"
+        },
+        {
+          "display_url": "pic.x.com/pRa7zGeFrF",
+          "end": 38,
+          "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+          "media_key": "3_2024643015059611648",
+          "start": 15,
+          "url": "https://t.co/pRa7zGeFrF"
+        },
+        {
+          "display_url": "pic.x.com/pRa7zGeFrF",
+          "end": 38,
+          "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+          "media_key": "3_2024643015281954817",
+          "start": 15,
+          "url": "https://t.co/pRa7zGeFrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024643155875025056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这算是我精神还算正常的时候了 https://t.co/pRa7zGeFrF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2024643015055462400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBj6GF1bUAAxqUb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2024643015277760513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBj6GGqbUAEwxyc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2024643015059611648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBj6GF2aoAAPnL1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2024643015281954817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBj6GGrbUAE9HTU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024643015055462400",
+            "3_2024643015277760513",
+            "3_2024643015059611648",
+            "3_2024643015281954817"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024643155875025056",
+        "created_at": "2026-02-20T00:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024643155875025056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRa7zGeFrF",
+              "end": 38,
+              "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+              "media_key": "3_2024643015055462400",
+              "start": 15,
+              "url": "https://t.co/pRa7zGeFrF"
+            },
+            {
+              "display_url": "pic.x.com/pRa7zGeFrF",
+              "end": 38,
+              "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+              "media_key": "3_2024643015277760513",
+              "start": 15,
+              "url": "https://t.co/pRa7zGeFrF"
+            },
+            {
+              "display_url": "pic.x.com/pRa7zGeFrF",
+              "end": 38,
+              "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+              "media_key": "3_2024643015059611648",
+              "start": 15,
+              "url": "https://t.co/pRa7zGeFrF"
+            },
+            {
+              "display_url": "pic.x.com/pRa7zGeFrF",
+              "end": 38,
+              "expanded_url": "https://x.com/luoshuyao/status/2024643155875025056/photo/1",
+              "media_key": "3_2024643015281954817",
+              "start": 15,
+              "url": "https://t.co/pRa7zGeFrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024643155875025056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这算是我精神还算正常的时候了 https://t.co/pRa7zGeFrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "这个人很懒，除了美貌与智慧什么都没留下(★≧▽^))★☆",
+        "id": "1476546742577504265",
+        "name": "luoshuyao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476662676856061956/nt9mtDyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 54,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

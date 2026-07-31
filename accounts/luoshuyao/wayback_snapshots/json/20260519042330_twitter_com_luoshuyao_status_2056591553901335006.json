@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2056590611223134442",
+    "created_at": "2026-05-19T04:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056591553901335006"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056591553901335006",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056590611223134442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这段话我想了半个月，让我直接写的话很难表达得这么清楚，而且会停顿很多次。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2056590611223134442",
+        "created_at": "2026-05-19T04:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056591553901335006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056591553901335006",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056590611223134442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这段话我想了半个月，让我直接写的话很难表达得这么清楚，而且会停顿很多次。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2056590611223134442",
+        "created_at": "2026-05-19T04:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056590611223134442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056590611223134442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好像从这两个月开始，思考和表达对我来说变成了一件很困难的事情。我的大脑就好像生锈了一样，大脑总是一片空白，表达的时候也很难完整准确的说出自己内心的想法。\n熟悉我的朋友可能知道，刚来的时候我经常会安慰人，有时候还会发表很长的评论。但是后来这件事对我来说越来越困难，更多的情况是我一句话都想不出来。而且很多时候几句话都要花费我十几分钟的时间去思考，长评论甚至需要二十几分钟甚至半个小时的时间。三月份的时候还好，能五点多下班，那段时间每次下班第一件事就是趴在床上刷推，刷到一些有感触的内容就会反复思考要说些什么去安慰开导别人，一直到深夜。后来总是加班到晚上九点十点，一回去大脑就是完全放空的状态，什么都想不出来。所以不得不借助AI，然后再结合自己的想法变成一段话。\n为何现在休假了还是这种状态呢。好吧，我不写疑问句了，就是因为我看到的太多，心里装的事情太多，反而让自己的大脑一团乱。\n不是我什么都不想了，是我想得太多，无法停止思考。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像从这两个月开始，思考和表达对我来说变成了一件很困难的事情。我的大脑就好像生锈了一样，大脑总是一片空白，表达的时候也很难完整准确的说出自己内心的想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 289,
+          "like_count": 16211,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 3493
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

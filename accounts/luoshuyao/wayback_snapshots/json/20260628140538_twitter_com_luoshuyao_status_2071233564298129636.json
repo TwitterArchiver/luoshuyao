@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069795488845774865",
+    "created_at": "2026-06-28T14:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071233564298129636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824676724388347904",
+          "start": 0,
+          "username": "JiaoOu84375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071233564298129636",
+    "in_reply_to_user_id": "1824676724388347904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071190932305870876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaoOu84375 什么叫我那一代人(ᗜ ˰ ᗜ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069795488845774865",
+        "created_at": "2026-06-28T14:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071233564298129636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824676724388347904",
+              "start": 0,
+              "username": "JiaoOu84375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071233564298129636",
+        "in_reply_to_user_id": "1824676724388347904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071190932305870876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaoOu84375 什么叫我那一代人(ᗜ ˰ ᗜ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824676724388347904",
+        "conversation_id": "2069795488845774865",
+        "created_at": "2026-06-28T11:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071190932305870876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071190932305870876",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795488845774865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 问2其实是想问姐姐那一代人在以前的娱乐方式（除了手机）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 273,
+          "like_count": 19042,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 4254
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:16:52.000Z",
+        "description": "良知 责任 底线",
+        "id": "1824676724388347904",
+        "location": "中国 ",
+        "name": "蓝莓拿铁三勺糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068142231610126336/FNg4zuTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 26,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "JiaoOu84375",
+        "verified": false
+      }
+    ]
+  }
+}

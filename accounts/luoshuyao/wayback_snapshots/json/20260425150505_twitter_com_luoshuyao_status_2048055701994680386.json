@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048054895673331761",
+    "created_at": "2026-04-25T15:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048055701994680386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048055701994680386",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048054895673331761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 有点像那个嘉豪？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2048054856741761024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwnCoibMAAwm1u.jpg",
+        "width": 909
+      },
+      {
+        "height": 2173,
+        "media_key": "3_2048054856502607872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwnCnpaAAAPSht.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048054895673331761",
+        "created_at": "2026-04-25T15:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048055701994680386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048055701994680386",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048054895673331761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 有点像那个嘉豪？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048054856741761024",
+            "3_2048054856502607872"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048054895673331761",
+        "created_at": "2026-04-25T15:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048054895673331761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt432pEuLo",
+              "end": 78,
+              "expanded_url": "https://x.com/wmy072011/status/2048054895673331761/photo/1",
+              "media_key": "3_2048054856741761024",
+              "start": 55,
+              "url": "https://t.co/Tt432pEuLo"
+            },
+            {
+              "display_url": "pic.x.com/Tt432pEuLo",
+              "end": 78,
+              "expanded_url": "https://x.com/wmy072011/status/2048054895673331761/photo/1",
+              "media_key": "3_2048054856502607872",
+              "start": 55,
+              "url": "https://t.co/Tt432pEuLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048054895673331761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不行了。我要绷不住了 这人和疯了一样在朋友圈连续发了一堆这种歌 然后突然毫无征兆的问我打不打瓦 好诡异。 https://t.co/Tt432pEuLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 279,
+          "like_count": 11288,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 330,
+          "like_count": 39439,
+          "listed_count": 1,
+          "media_count": 1376,
+          "tweet_count": 13082
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2063252447695352048",
+    "created_at": "2026-06-06T13:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063253492060520477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952044125454475264",
+          "start": 0,
+          "username": "Neflibata0626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063253492060520477",
+    "in_reply_to_user_id": "1952044125454475264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063252447695352048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neflibata0626 犹抱琵琶半遮面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063252433900339200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIlKDSXAAAm6ll.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2063252447695352048",
+        "created_at": "2026-06-06T13:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063253492060520477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952044125454475264",
+              "start": 0,
+              "username": "Neflibata0626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063253492060520477",
+        "in_reply_to_user_id": "1952044125454475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063252447695352048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neflibata0626 犹抱琵琶半遮面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063252433900339200"
+          ]
+        },
+        "author_id": "1952044125454475264",
+        "conversation_id": "2063252447695352048",
+        "created_at": "2026-06-06T13:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063252447695352048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gpei2uAi5c",
+              "end": 30,
+              "expanded_url": "https://x.com/Neflibata0626/status/2063252447695352048/photo/1",
+              "media_key": "3_2063252433900339200",
+              "start": 7,
+              "url": "https://t.co/Gpei2uAi5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063252447695352048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素质再创新低 https://t.co/Gpei2uAi5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 288,
+          "like_count": 17299,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 3733
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "日子总是时坏时好好好好好好好好(๑-ㅅ-๑)...zZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8B%9C%E8%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8B%9C%E8%A7%81%E5%8E%A8%E5%B8%88%E9%95%BF%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/qioAo4tmJ1"
+              }
+            ]
+          }
+        },
+        "id": "1952044125454475264",
+        "location": "距离你钱包的-1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2032375733717528673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057096784305094657/FSIKXdtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 114,
+          "like_count": 11745,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 5697
+        },
+        "url": "https://t.co/qioAo4tmJ1",
+        "username": "Neflibata0626",
+        "verified": false
+      }
+    ]
+  }
+}

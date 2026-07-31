@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053335253121704268",
+    "created_at": "2026-05-10T09:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053410193116168664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029403000293474307",
+          "start": 0,
+          "username": "AcaneYu10309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053410193116168664",
+    "in_reply_to_user_id": "2029403000293474307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053408515667247416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcaneYu10309 如果是面对刺激的话我的反应一直会很大。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053335253121704268",
+        "created_at": "2026-05-10T09:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053410193116168664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029403000293474307",
+              "start": 0,
+              "username": "AcaneYu10309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053410193116168664",
+        "in_reply_to_user_id": "2029403000293474307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053408515667247416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcaneYu10309 如果是面对刺激的话我的反应一直会很大。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029403000293474307",
+        "conversation_id": "2053335253121704268",
+        "created_at": "2026-05-10T09:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053408515667247416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053408515667247416",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053335253121704268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 熬夜熬太多了 注意力不足以让你面对很多刺激所以会下意识地躲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 287,
+          "like_count": 13543,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T03:47:01.000Z",
+        "description": "19 请不要在意我的性别\n如果我的发言造成了困扰请告知\n我有过抑郁症 目前正在尽自己所能爱生活 会发画会发日常\n会回fo 感谢捧场\n中/En 可以无障碍沟通 簡単な日本語なら分かる",
+        "id": "2029403000293474307",
+        "name": "拾叁叁",
+        "pinned_tweet_id": "2052070176292827158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690113592946688/D_BUFdYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 208,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 295
+        },
+        "username": "AcaneYu10309",
+        "verified": false
+      }
+    ]
+  }
+}

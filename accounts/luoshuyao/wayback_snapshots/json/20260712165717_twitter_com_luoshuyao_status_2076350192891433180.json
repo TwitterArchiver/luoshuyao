@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2076340944094601620",
+    "created_at": "2026-07-12T16:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076350192891433180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076350192891433180",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076347531660026330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcfqdtfqz 感性……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2076340944094601620",
+        "created_at": "2026-07-12T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076350192891433180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076350192891433180",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076347531660026330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 感性……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2076340944094601620",
+        "created_at": "2026-07-12T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076347531660026330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076347531660026330",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076340944094601620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 性感还要看时间吗……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 280,
+          "like_count": 19597,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 4558
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1420,
+          "like_count": 410,
+          "listed_count": 2,
+          "media_count": 799,
+          "tweet_count": 2916
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

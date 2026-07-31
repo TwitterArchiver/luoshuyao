@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2035709280628994424",
+    "created_at": "2026-03-22T13:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035709280628994424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2035706841775391096",
+          "start": 100,
+          "url": "https://t.co/a6BydD1N5X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035709280628994424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "小学时在农村读书，里面有一些学生的父母和我的父亲在同一个地方工作，他们知道我父亲不在了，就理所当然的欺负我，嘲笑我是个没爹的孩子，再加上我瘦小的身材，自然成为了被霸凌的一方。小孩子的恶意是最纯粹的。\n其实我是有一个继父的，只是在我童年的很长一段时间里，心里从未承认过这位父亲。可笑的是在我很小的时候，那时的我什么都不懂，还一口一个爸爸亲切的叫着，以为那些说我父亲不在了的人都是骗我的。他在我年幼时是一个脾气很暴躁的人，有暴力倾向，还爱大吼大叫，我的童年并不快乐。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035706841775391096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小学时在农村读书，里面有一些学生的父母和我的父亲在同一个地方工作，他们知道我父亲不在了，就理所当然的欺负我，嘲笑我是个没爹的孩子，再加上我瘦小的身材，自然成为了被霸凌的一方。小孩子的恶意是最纯粹的。 https://t.co/a6BydD1N5X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2035709280628994424",
+        "created_at": "2026-03-22T13:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035709280628994424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2035706841775391096",
+              "start": 100,
+              "url": "https://t.co/a6BydD1N5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035709280628994424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小学时在农村读书，里面有一些学生的父母和我的父亲在同一个地方工作，他们知道我父亲不在了，就理所当然的欺负我，嘲笑我是个没爹的孩子，再加上我瘦小的身材，自然成为了被霸凌的一方。小孩子的恶意是最纯粹的。\n其实我是有一个继父的，只是在我童年的很长一段时间里，心里从未承认过这位父亲。可笑的是在我很小的时候，那时的我什么都不懂，还一口一个爸爸亲切的叫着，以为那些说我父亲不在了的人都是骗我的。他在我年幼时是一个脾气很暴躁的人，有暴力倾向，还爱大吼大叫，我的童年并不快乐。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035706841775391096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小学时在农村读书，里面有一些学生的父母和我的父亲在同一个地方工作，他们知道我父亲不在了，就理所当然的欺负我，嘲笑我是个没爹的孩子，再加上我瘦小的身材，自然成为了被霸凌的一方。小孩子的恶意是最纯粹的。 https://t.co/a6BydD1N5X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2035706841775391096",
+        "created_at": "2026-03-22T13:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035706841775391096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2035679584700755973",
+              "start": 124,
+              "url": "https://t.co/xKZcmyjtv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035706841775391096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我尽量用平静的文字来表达，不然感觉自己像在卖惨\n我生来遭遇的一切不幸似乎都与父亲的离世有着千丝万缕的联系。但是我无法怪罪一个已经死去的人，所有的事情也不是他造成的。\n他是先于我出生二十几天去世的，死于下矿时的塌方，我只有在照片上才能看到他的容貌。\n我从出生起就是不被祝福的孩子，没有人因为我的出生而喜悦。甚至在父亲去世之后的几天里，很多人都劝我妈不要把我生下来了，养不起（我还有一个哥哥），但是我妈执意要把我生下来，然后我长达十八年的不幸人生就此开启。（不过都已经过去了）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035679584700755973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我尽量用平静的文字来表达，不然感觉自己像在卖惨\n我生来遭遇的一切不幸似乎都与父亲的离世有着千丝万缕的联系。但是我无法怪罪一个已经死去的人，所有的事情也不是他造成的。\n他是先于我出生二十几天去世的，死于下矿时的塌方，我只有在照片上才能看到他的容貌。 https://t.co/xKZcmyjtv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 269,
+          "like_count": 5425,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1000
+        },
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

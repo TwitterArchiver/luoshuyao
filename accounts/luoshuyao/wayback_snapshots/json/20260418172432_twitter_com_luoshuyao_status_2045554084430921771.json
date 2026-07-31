@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045544382636720356",
+    "created_at": "2026-04-18T17:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045554084430921771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1528929667540869123",
+          "start": 0,
+          "username": "EleventhCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045554084430921771",
+    "in_reply_to_user_id": "1528929667540869123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045552839255306710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleventhCY 这是久处不厌所必须的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045544382636720356",
+        "created_at": "2026-04-18T17:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045554084430921771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1528929667540869123",
+              "start": 0,
+              "username": "EleventhCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045554084430921771",
+        "in_reply_to_user_id": "1528929667540869123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045552839255306710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleventhCY 这是久处不厌所必须的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528929667540869123",
+        "conversation_id": "2045544382636720356",
+        "created_at": "2026-04-18T17:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045552839255306710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045552839255306710",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045544382636720356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 很浪漫的想法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 276,
+          "like_count": 10143,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-24T02:43:45.000Z",
+        "description": "INTJ/ACG/AI       会发点主观想法。偶尔中二",
+        "id": "1528929667540869123",
+        "name": "江庭落雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970349964409937920/rxzf5hD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 988,
+          "like_count": 928,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1354
+        },
+        "username": "EleventhCY",
+        "verified": true
+      }
+    ]
+  }
+}

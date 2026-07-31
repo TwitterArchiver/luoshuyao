@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073997996396855296"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073998501843959934",
+    "created_at": "2026-07-06T05:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073998501843959934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2nHVFMXTM",
+          "end": 81,
+          "expanded_url": "https://x.com/luoshuyao/status/2073998501843959934/photo/1",
+          "media_key": "3_2073997996396855296",
+          "start": 58,
+          "url": "https://t.co/U2nHVFMXTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073998501843959934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凭什么我票数是永雏塔菲的两倍啊？我只是偶尔装一下糖罢了，都没有使出我全部的糖力，肯定有黑幕，是不是有人在偷偷拉票😠 https://t.co/U2nHVFMXTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2073997996396855296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhSMHAbQAA5r3g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073997996396855296"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073998501843959934",
+        "created_at": "2026-07-06T05:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073998501843959934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2nHVFMXTM",
+              "end": 81,
+              "expanded_url": "https://x.com/luoshuyao/status/2073998501843959934/photo/1",
+              "media_key": "3_2073997996396855296",
+              "start": 58,
+              "url": "https://t.co/U2nHVFMXTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073998501843959934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么我票数是永雏塔菲的两倍啊？我只是偶尔装一下糖罢了，都没有使出我全部的糖力，肯定有黑幕，是不是有人在偷偷拉票😠 https://t.co/U2nHVFMXTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 272,
+          "like_count": 19056,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 4368
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2076300132484616675",
+    "created_at": "2026-07-12T13:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076300132484616675"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076300132484616675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我发现每一个b我的人我都是在互关的评论区里面找到的，而且在这之前每一个人我都从来没见过，这让我感到很奇怪。有人跟我说要在热门的帖子里找这些人，我反而从来没找到过。你觉得我有哪里说得不对可以好好讨论呀，我不是什么不讲道理的人。而且我已经很少在评论区发表自己的观点了，天天上班太累了都没有精力思考了。只是正常互动看到了b我到底是什么心理？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现每一个b我的人我都是在互关的评论区里面找到的，而且在这之前每一个人我都从来没见过，这让我感到很奇怪。有人跟我说要在热门的帖子里找这些人，我反而从来没找到过。你觉得我有哪里说得不对可以好好讨论呀，我不是什么不讲道理的人。而且我已经很少在评论区发表自己的观点了，天天上班太累了都"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2076300132484616675",
+        "created_at": "2026-07-12T13:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076300132484616675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076300132484616675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现每一个b我的人我都是在互关的评论区里面找到的，而且在这之前每一个人我都从来没见过，这让我感到很奇怪。有人跟我说要在热门的帖子里找这些人，我反而从来没找到过。你觉得我有哪里说得不对可以好好讨论呀，我不是什么不讲道理的人。而且我已经很少在评论区发表自己的观点了，天天上班太累了都没有精力思考了。只是正常互动看到了b我到底是什么心理？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现每一个b我的人我都是在互关的评论区里面找到的，而且在这之前每一个人我都从来没见过，这让我感到很奇怪。有人跟我说要在热门的帖子里找这些人，我反而从来没找到过。你觉得我有哪里说得不对可以好好讨论呀，我不是什么不讲道理的人。而且我已经很少在评论区发表自己的观点了，天天上班太累了都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 280,
+          "like_count": 19571,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 4539
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

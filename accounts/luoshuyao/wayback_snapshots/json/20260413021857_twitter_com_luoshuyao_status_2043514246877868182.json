@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043480695683903661",
+    "created_at": "2026-04-13T02:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T03:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043514246877868182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1525433973111140353",
+          "start": 0,
+          "username": "10CFreeze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043514246877868182",
+    "in_reply_to_user_id": "1525433973111140353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043507280159863024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10CFreeze 收到🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043480695683903661",
+        "created_at": "2026-04-13T02:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043514246877868182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1525433973111140353",
+              "start": 0,
+              "username": "10CFreeze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043514246877868182",
+        "in_reply_to_user_id": "1525433973111140353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043507280159863024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10CFreeze 收到🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525433973111140353",
+        "conversation_id": "2043480695683903661",
+        "created_at": "2026-04-13T01:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043507280159863024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043507280159863024",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043480695683903661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 已严肃拉史"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 276,
+          "like_count": 9181,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-14T11:13:35.000Z",
+        "description": "舟批 澄厨\nArknights player，Goldenglow lover\n\n——————以上为原版简介——————\n\n把推特当推推空间用 / 不爱鉴证 / 想到什么会随便说说/想骂我就是你赢了 / 每天活在焦虑抑郁之中 / 屈服于无药的苦痛而重拾od/ 被bpd搞砸一切 / 不害怕bpd欢迎互关 / 已打工失败",
+        "id": "1525433973111140353",
+        "name": "10CFREEZE/テンフリーズ",
+        "pinned_tweet_id": "2038534772578975862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645932489544957952/d7Aovv6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 217,
+          "like_count": 3024,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2068
+        },
+        "username": "10CFreeze",
+        "verified": false
+      }
+    ]
+  }
+}

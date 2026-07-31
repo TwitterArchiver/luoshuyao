@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2065102125420736815",
+    "created_at": "2026-06-12T12:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065418840302137503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1373647054879084555",
+          "start": 0,
+          "username": "GemstoneNicole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065418840302137503",
+    "in_reply_to_user_id": "1373647054879084555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065102125420736815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GemstoneNicole 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065102112934232064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi3bipagAAhYcf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2065102125420736815",
+        "created_at": "2026-06-12T12:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065418840302137503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373647054879084555",
+              "start": 0,
+              "username": "GemstoneNicole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065418840302137503",
+        "in_reply_to_user_id": "1373647054879084555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065102125420736815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GemstoneNicole 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065102112934232064"
+          ]
+        },
+        "author_id": "1373647054879084555",
+        "conversation_id": "2065102125420736815",
+        "created_at": "2026-06-11T16:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065102125420736815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Favzn5Lval",
+              "end": 33,
+              "expanded_url": "https://x.com/GemstoneNicole/status/2065102125420736815/photo/1",
+              "media_key": "3_2065102112934232064",
+              "start": 10,
+              "url": "https://t.co/Favzn5Lval"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065102125420736815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2002,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界再多爱我一点吧 https://t.co/Favzn5Lval"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 286,
+          "like_count": 17838,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 3867
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T14:46:03.000Z",
+        "description": "你好，我是魔法中女🌸闪耀妮可 / 流浪诗人🎻倪珂姗姚 / 程式作家💾G·N。这是我的名片，请惠存👩🏻‍⚖️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uncle-lu.org",
+                "end": 23,
+                "expanded_url": "http://uncle-lu.org",
+                "start": 0,
+                "url": "https://t.co/YLbpPHYY5P"
+              }
+            ]
+          }
+        },
+        "id": "1373647054879084555",
+        "location": "月球",
+        "name": "uncle-lu",
+        "pinned_tweet_id": "2063082220588503195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053094728837836800/RWyCx1dU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 715,
+          "like_count": 99761,
+          "listed_count": 7,
+          "media_count": 1931,
+          "tweet_count": 6423
+        },
+        "url": "https://t.co/YLbpPHYY5P",
+        "username": "GemstoneNicole",
+        "verified": false
+      }
+    ]
+  }
+}

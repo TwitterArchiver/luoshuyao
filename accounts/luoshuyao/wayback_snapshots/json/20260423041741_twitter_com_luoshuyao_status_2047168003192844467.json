@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2047167911505362944"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2046895308098199652",
+    "created_at": "2026-04-23T04:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047168003192844467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wBye0AhENl",
+          "end": 53,
+          "expanded_url": "https://x.com/luoshuyao/status/2047168003192844467/photo/1",
+          "media_key": "16_2047167911505362944",
+          "start": 30,
+          "url": "https://t.co/wBye0AhENl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047168003192844467",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047127000897523809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo 算我又发现一对情侣，有没有恋爱日常看呢 https://t.co/wBye0AhENl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2047167911505362944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGkAXoDbAAATA55.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGkAXoDbAAATA55.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2047167911505362944"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2046895308098199652",
+        "created_at": "2026-04-23T04:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047168003192844467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBye0AhENl",
+              "end": 53,
+              "expanded_url": "https://x.com/luoshuyao/status/2047168003192844467/photo/1",
+              "media_key": "16_2047167911505362944",
+              "start": 30,
+              "url": "https://t.co/wBye0AhENl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047168003192844467",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047127000897523809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo 算我又发现一对情侣，有没有恋爱日常看呢 https://t.co/wBye0AhENl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "2046895308098199652",
+        "created_at": "2026-04-23T01:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047127000897523809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047127000897523809",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046895308098199652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 那我一会用这个号发 一会用我对象的算什么（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 280,
+          "like_count": 10896,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "喵喵喵喵喵喵～",
+        "id": "1688101533198475264",
+        "location": "心里",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038302125953069056/iZDaoCqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1234,
+          "like_count": 25341,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 6106
+        },
+        "username": "Chise_wo",
+        "verified": false
+      }
+    ]
+  }
+}

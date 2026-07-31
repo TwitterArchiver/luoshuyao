@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2054797731835838796",
+    "created_at": "2026-05-14T10:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054878355695267949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1122766825387745280",
+          "start": 0,
+          "username": "Cartknight1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054878355695267949",
+    "in_reply_to_user_id": "1122766825387745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054878002358706351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cartknight1 应该没什么问题，不浪费这个钱了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2054797731835838796",
+        "created_at": "2026-05-14T10:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054878355695267949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1122766825387745280",
+              "start": 0,
+              "username": "Cartknight1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054878355695267949",
+        "in_reply_to_user_id": "1122766825387745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054878002358706351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cartknight1 应该没什么问题，不浪费这个钱了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122766825387745280",
+        "conversation_id": "2054797731835838796",
+        "created_at": "2026-05-14T10:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054878002358706351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054878002358706351",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054797731835838796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 是需要注意有没有神经卡压，可以做一下肌电图检查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 288,
+          "like_count": 14835,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-29T07:37:25.000Z",
+        "description": "收集日落后的蓝，和没说出口的心事。",
+        "id": "1122766825387745280",
+        "name": "蓝调小时｜Blue hour",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048021985037570048/YgnEOMEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 962,
+          "like_count": 7623,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 3576
+        },
+        "username": "Cartknight1",
+        "verified": false
+      }
+    ]
+  }
+}

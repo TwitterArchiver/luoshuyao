@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2068341235421753358",
+    "created_at": "2026-06-21T12:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068672481234505828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1486975640628723718",
+          "start": 0,
+          "username": "keai58752488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068672481234505828",
+    "in_reply_to_user_id": "1486975640628723718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068383875647299737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keai58752488 神本无相"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2068341235421753358",
+        "created_at": "2026-06-21T12:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068672481234505828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1486975640628723718",
+              "start": 0,
+              "username": "keai58752488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068672481234505828",
+        "in_reply_to_user_id": "1486975640628723718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068383875647299737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keai58752488 神本无相"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486975640628723718",
+        "conversation_id": "2068341235421753358",
+        "created_at": "2026-06-20T17:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068383875647299737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068383875647299737",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068341235421753358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 111我要看反向视角😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 286,
+          "like_count": 18588,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T08:13:24.000Z",
+        "description": "某不知名大学学生，天蝎座♏ENTP，请叫我小红（我最喜欢的称呼！😘）常驻北京，喜欢且擅长烹饪🍲！喜欢发点奇怪日常，欢迎和我一起玩🥹！竞技类游戏也玩不过打的很烂……😥，动漫一般看轻百日常，希望和很多人成为朋友！欢迎互fo🥳！看到我都会回的喵！😘",
+        "id": "1486975640628723718",
+        "location": "我的小棺材",
+        "name": "店员🍵",
+        "pinned_tweet_id": "2034236766991859879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039660133039620096/uQy2fFRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 541,
+          "like_count": 8435,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1770
+        },
+        "url": "",
+        "username": "keai58752488",
+        "verified": false
+      }
+    ]
+  }
+}

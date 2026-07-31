@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2043641227896410394",
+    "created_at": "2026-04-13T14:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043700890516021590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988096689119653896",
+          "start": 0,
+          "username": "CEleventh62174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043700890516021590",
+    "in_reply_to_user_id": "1988096689119653896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043661381720039624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CEleventh62174 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2043641227896410394",
+        "created_at": "2026-04-13T14:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043700890516021590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1988096689119653896",
+              "start": 0,
+              "username": "CEleventh62174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043700890516021590",
+        "in_reply_to_user_id": "1988096689119653896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043661381720039624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CEleventh62174 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988096689119653896",
+        "conversation_id": "2043641227896410394",
+        "created_at": "2026-04-13T12:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043661381720039624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043661381720039624",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043641227896410394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 世界也包括我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/HXPioux6VI"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 276,
+          "like_count": 9300,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2018
+        },
+        "url": "https://t.co/HXPioux6VI",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-11T04:09:32.000Z",
+        "description": "INTJ/ACG/AI",
+        "id": "1988096689119653896",
+        "name": "CY Eleventh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021469072081420292/gJzXEwvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 69,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "CEleventh62174",
+        "verified": false
+      }
+    ]
+  }
+}

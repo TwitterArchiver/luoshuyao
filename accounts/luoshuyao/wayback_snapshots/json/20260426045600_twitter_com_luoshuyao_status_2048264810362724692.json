@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2047901294107709581",
+    "created_at": "2026-04-26T04:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048264810362724692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "898344170128986112",
+          "start": 0,
+          "username": "Leewei60269181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048264810362724692",
+    "in_reply_to_user_id": "898344170128986112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048225625652301963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leewei60269181 看开了就好，你的路还很长，总有一天会遇到自己的真爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2047901294107709581",
+        "created_at": "2026-04-26T04:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048264810362724692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "898344170128986112",
+              "start": 0,
+              "username": "Leewei60269181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048264810362724692",
+        "in_reply_to_user_id": "898344170128986112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048225625652301963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leewei60269181 看开了就好，你的路还很长，总有一天会遇到自己的真爱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898344170128986112",
+        "conversation_id": "2047901294107709581",
+        "created_at": "2026-04-26T02:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048225625652301963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048225625652301963",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047901294107709581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我喜欢的人喜欢她初恋对象8年了，前几天刚和自己和解了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 279,
+          "like_count": 11313,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-18T00:41:55.000Z",
+        "description": "一个痴情的男子罢了！没谈过恋爱，却深情的“喜欢”过两个人。目前有一个喜欢的人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leewei0923.com",
+                "end": 23,
+                "expanded_url": "http://leewei0923.com",
+                "start": 0,
+                "url": "https://t.co/avAqhez0IS"
+              }
+            ]
+          }
+        },
+        "id": "898344170128986112",
+        "name": "满河星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1447236990655676416/AjzcwzXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 370,
+          "like_count": 2945,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/avAqhez0IS",
+        "username": "Leewei60269181",
+        "verified": false
+      }
+    ]
+  }
+}

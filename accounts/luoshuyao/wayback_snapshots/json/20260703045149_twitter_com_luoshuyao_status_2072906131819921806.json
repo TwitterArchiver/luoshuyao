@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2072613263188328511",
+    "created_at": "2026-07-03T04:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072906131819921806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824676724388347904",
+          "start": 0,
+          "username": "JiaoOu84375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072906131819921806",
+    "in_reply_to_user_id": "1824676724388347904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072854193615085852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaoOu84375 三年前的事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2072613263188328511",
+        "created_at": "2026-07-03T04:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072906131819921806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824676724388347904",
+              "start": 0,
+              "username": "JiaoOu84375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072906131819921806",
+        "in_reply_to_user_id": "1824676724388347904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072854193615085852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaoOu84375 三年前的事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824676724388347904",
+        "conversation_id": "2072613263188328511",
+        "created_at": "2026-07-03T01:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072854193615085852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072854193615085852",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072614235306332662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 贷款买房了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 272,
+          "like_count": 18862,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 4294
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:16:52.000Z",
+        "description": "良知 责任 底线",
+        "id": "1824676724388347904",
+        "location": "中国 ",
+        "name": "蓝莓拿铁三勺糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068142231610126336/FNg4zuTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 27,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1167
+        },
+        "url": "",
+        "username": "JiaoOu84375",
+        "verified": false
+      }
+    ]
+  }
+}

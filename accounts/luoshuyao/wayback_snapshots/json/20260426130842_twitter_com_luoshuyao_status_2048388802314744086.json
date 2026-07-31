@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048387399626244096",
+        "3_2048387399617802240",
+        "3_2048387399630360576",
+        "3_2048387406433492992"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048388802314744086",
+    "created_at": "2026-04-26T13:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048388802314744086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q9Y2TEG9uY",
+          "end": 125,
+          "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+          "media_key": "3_2048387399626244096",
+          "start": 102,
+          "url": "https://t.co/q9Y2TEG9uY"
+        },
+        {
+          "display_url": "pic.x.com/q9Y2TEG9uY",
+          "end": 125,
+          "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+          "media_key": "3_2048387399617802240",
+          "start": 102,
+          "url": "https://t.co/q9Y2TEG9uY"
+        },
+        {
+          "display_url": "pic.x.com/q9Y2TEG9uY",
+          "end": 125,
+          "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+          "media_key": "3_2048387399630360576",
+          "start": 102,
+          "url": "https://t.co/q9Y2TEG9uY"
+        },
+        {
+          "display_url": "pic.x.com/q9Y2TEG9uY",
+          "end": 125,
+          "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+          "media_key": "3_2048387406433492992",
+          "start": 102,
+          "url": "https://t.co/q9Y2TEG9uY"
+        },
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2048346411021054293",
+          "start": 126,
+          "url": "https://t.co/9kvg2p9vlL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048388802314744086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048346411021054293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们怎么敢推这么贵的游戏😭\n我只是一个牛马打工人，家里很穷，甚至负债。只是我没有负债，给自己花钱很少而已。我自己玩都不敢买超一百块钱的，买的最贵的也就是荒野大镖客2，打折70块钱，犹豫了很久咬咬牙买的😭 https://t.co/q9Y2TEG9uY https://t.co/9kvg2p9vlL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1485,
+        "media_key": "3_2048387399626244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfLUbwAARPTZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1481,
+        "media_key": "3_2048387399617802240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfLSa8AAttBz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1583,
+        "media_key": "3_2048387399630360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfLVakAAqhmN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1558,
+        "media_key": "3_2048387406433492992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfkraIAAeGZ9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1408,
+        "media_key": "3_2048344499185987584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0ueCubMAAioyg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048387399626244096",
+            "3_2048387399617802240",
+            "3_2048387399630360576",
+            "3_2048387406433492992"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048388802314744086",
+        "created_at": "2026-04-26T13:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048388802314744086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387399626244096",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387399617802240",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387399630360576",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387406433492992",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2048346411021054293",
+              "start": 126,
+              "url": "https://t.co/9kvg2p9vlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048388802314744086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048346411021054293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们怎么敢推这么贵的游戏😭\n我只是一个牛马打工人，家里很穷，甚至负债。只是我没有负债，给自己花钱很少而已。我自己玩都不敢买超一百块钱的，买的最贵的也就是荒野大镖客2，打折70块钱，犹豫了很久咬咬牙买的😭 https://t.co/q9Y2TEG9uY https://t.co/9kvg2p9vlL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048344499185987584"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048346411021054293",
+        "created_at": "2026-04-26T10:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048346411021054293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3cxohsPk2L",
+              "end": 143,
+              "expanded_url": "https://x.com/luoshuyao/status/2048346411021054293/photo/1",
+              "media_key": "3_2048344499185987584",
+              "start": 120,
+              "url": "https://t.co/3cxohsPk2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048346411021054293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哇重回月初的关注量。因为双取了很多不感兴趣的（比如币圈）和纯搬运的账号，这个月还有很多账号被封禁，不然应该能到1000😌\n好像现在被关注总是没有消息通知，我都不知道什么时候被谁关注了，突然就到900了。\n打算送游戏，各位有没有什么推荐的？ https://t.co/3cxohsPk2L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 279,
+          "like_count": 11439,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

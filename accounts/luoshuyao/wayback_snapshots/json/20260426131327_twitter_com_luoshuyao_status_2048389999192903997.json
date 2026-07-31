@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048362011999047862",
+    "created_at": "2026-04-26T13:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048389999192903997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952044125454475264",
+          "start": 0,
+          "username": "Neflibata0626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048389999192903997",
+    "in_reply_to_user_id": "1952044125454475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048362011999047862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neflibata0626 劳逸结合是对的，放假了可要好好休息呀厨师长大王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048362011999047862",
+        "created_at": "2026-04-26T13:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048389999192903997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952044125454475264",
+              "start": 0,
+              "username": "Neflibata0626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048389999192903997",
+        "in_reply_to_user_id": "1952044125454475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048362011999047862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neflibata0626 劳逸结合是对的，放假了可要好好休息呀厨师长大王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952044125454475264",
+        "conversation_id": "2048362011999047862",
+        "created_at": "2026-04-26T11:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048362011999047862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048362011999047862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一之前我绝对不会再接课了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 279,
+          "like_count": 11446,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "一个人鹅已｜07 istj ｜大一 商科在学中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8B%9C%E8%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8B%9C%E8%A7%81%E5%8E%A8%E5%B8%88%E9%95%BF%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/qioAo4sOTt"
+              }
+            ]
+          }
+        },
+        "id": "1952044125454475264",
+        "location": "距离你钱包的-1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2032375733717528673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042199778004811776/BGHy2wc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 116,
+          "like_count": 9085,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 4722
+        },
+        "url": "https://t.co/qioAo4sOTt",
+        "username": "Neflibata0626",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2074652279412859018",
+    "created_at": "2026-07-08T03:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074700346451198069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643637070760407040",
+          "start": 0,
+          "username": "qw730914po"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074700346451198069",
+    "in_reply_to_user_id": "1643637070760407040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074669040556196310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qw730914po 诶，云朵😲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074669037150490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq0f0nbUAAQoqX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2074652279412859018",
+        "created_at": "2026-07-08T03:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074700346451198069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643637070760407040",
+              "start": 0,
+              "username": "qw730914po"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074700346451198069",
+        "in_reply_to_user_id": "1643637070760407040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074669040556196310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qw730914po 诶，云朵😲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074669037150490624"
+          ]
+        },
+        "author_id": "1643637070760407040",
+        "conversation_id": "2074652279412859018",
+        "created_at": "2026-07-08T01:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074669040556196310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZvjCNS97Dz",
+              "end": 34,
+              "expanded_url": "https://x.com/qw730914po/status/2074669040556196310/photo/1",
+              "media_key": "3_2074669037150490624",
+              "start": 11,
+              "url": "https://t.co/ZvjCNS97Dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074669040556196310",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074652279412859018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao https://t.co/ZvjCNS97Dz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 274,
+          "like_count": 19231,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 4420
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-05T15:29:58.000Z",
+        "description": "",
+        "id": "1643637070760407040",
+        "name": "三角洲经济学教父",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965448098924343296/YE9EKkk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 126,
+          "like_count": 3101,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1411
+        },
+        "url": "",
+        "username": "qw730914po",
+        "verified": false
+      }
+    ]
+  }
+}

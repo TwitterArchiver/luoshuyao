@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052394756056256512",
+        "3_2052394756056252417"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2052414382018285609",
+    "created_at": "2026-05-07T15:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052414382018285609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dk80mjwB6i",
+          "end": 136,
+          "expanded_url": "https://x.com/luoshuyao/status/2052414382018285609/photo/1",
+          "media_key": "3_2052394756056256512",
+          "start": 113,
+          "url": "https://t.co/dk80mjwB6i"
+        },
+        {
+          "display_url": "pic.x.com/dk80mjwB6i",
+          "end": 136,
+          "expanded_url": "https://x.com/luoshuyao/status/2052414382018285609/photo/1",
+          "media_key": "3_2052394756056252417",
+          "start": 113,
+          "url": "https://t.co/dk80mjwB6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052414382018285609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我还是很想来一些问题的？因为我很久不怎么思考大脑已经生锈了，自己想问题的话也不知道要想些什么。\n1、仔细想想其实我也不太清楚什么是温柔，我只是按自己心中所想去说去做而已。\n2、听到这些夸赞我想我是否可以诉说一下我的内心。\n从小到大，几乎所有人对我的评价都很好，包括家人，朋友还有老师同学。在所有对我有所了解的人眼里，我一直都是一个很好的人。（注意这不是自夸，是称述事实）\n我出生在一个很贫困的农村家庭，虽然从小到大我在物质上很贫穷，但是年幼时我妈就跟我讲过不少做人的道理，我从她那里学到了农村人最纯粹的淳朴和善良。还有小时候读过的书，看过的电视，都为我树立了良好的三观。我所遇到过的人，大多数也同样善良。正是有这些人存在，不管我经历过多少苦难，我依旧坚守着自己的本心，不会觉得这个世界糟糕透顶。\n当好人很难，特别是一个很无私的好人。没有被善意对待过的人会质疑你的好心，自私的人会觉得你伪善。因为他们做不到你做的事情。虽然这么多年我从未被人质疑过，更多的是被利用，被欺骗。我看过很多童话，同样的我活在现实。我从来没有相信过善有善报，恶有恶报，我去做仅仅是因为我想做而已。\n不管多难，我会永远坚持去做自己认为对的事情。\n雷锋是我的偶像，以前是现在是以后也是。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我还是很想来一些问题的？因为我很久不怎么思考大脑已经生锈了，自己想问题的话也不知道要想些什么。\n1、仔细想想其实我也不太清楚什么是温柔，我只是按自己心中所想去说去做而已。\n2、听到这些夸赞我想我是否可以诉说一下我的内心。 https://t.co/dk80mjwB6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2052394756056256512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuSKBWbkAA578l.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2052394756056252417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuSKBWbgAE9_pj.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052394756056256512",
+            "3_2052394756056252417"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2052414382018285609",
+        "created_at": "2026-05-07T15:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052414382018285609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dk80mjwB6i",
+              "end": 136,
+              "expanded_url": "https://x.com/luoshuyao/status/2052414382018285609/photo/1",
+              "media_key": "3_2052394756056256512",
+              "start": 113,
+              "url": "https://t.co/dk80mjwB6i"
+            },
+            {
+              "display_url": "pic.x.com/dk80mjwB6i",
+              "end": 136,
+              "expanded_url": "https://x.com/luoshuyao/status/2052414382018285609/photo/1",
+              "media_key": "3_2052394756056252417",
+              "start": 113,
+              "url": "https://t.co/dk80mjwB6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052414382018285609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我还是很想来一些问题的？因为我很久不怎么思考大脑已经生锈了，自己想问题的话也不知道要想些什么。\n1、仔细想想其实我也不太清楚什么是温柔，我只是按自己心中所想去说去做而已。\n2、听到这些夸赞我想我是否可以诉说一下我的内心。\n从小到大，几乎所有人对我的评价都很好，包括家人，朋友还有老师同学。在所有对我有所了解的人眼里，我一直都是一个很好的人。（注意这不是自夸，是称述事实）\n我出生在一个很贫困的农村家庭，虽然从小到大我在物质上很贫穷，但是年幼时我妈就跟我讲过不少做人的道理，我从她那里学到了农村人最纯粹的淳朴和善良。还有小时候读过的书，看过的电视，都为我树立了良好的三观。我所遇到过的人，大多数也同样善良。正是有这些人存在，不管我经历过多少苦难，我依旧坚守着自己的本心，不会觉得这个世界糟糕透顶。\n当好人很难，特别是一个很无私的好人。没有被善意对待过的人会质疑你的好心，自私的人会觉得你伪善。因为他们做不到你做的事情。虽然这么多年我从未被人质疑过，更多的是被利用，被欺骗。我看过很多童话，同样的我活在现实。我从来没有相信过善有善报，恶有恶报，我去做仅仅是因为我想做而已。\n不管多难，我会永远坚持去做自己认为对的事情。\n雷锋是我的偶像，以前是现在是以后也是。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我还是很想来一些问题的？因为我很久不怎么思考大脑已经生锈了，自己想问题的话也不知道要想些什么。\n1、仔细想想其实我也不太清楚什么是温柔，我只是按自己心中所想去说去做而已。\n2、听到这些夸赞我想我是否可以诉说一下我的内心。 https://t.co/dk80mjwB6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 284,
+          "like_count": 13182,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

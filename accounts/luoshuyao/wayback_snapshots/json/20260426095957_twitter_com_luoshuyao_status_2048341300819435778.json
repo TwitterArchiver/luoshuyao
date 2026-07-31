@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2048276179573150068",
+    "created_at": "2026-04-26T09:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048341300819435778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "KashabaiSilver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048341300819435778",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048292236262248489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KashabaiSilver 这么贪心( ⩌⤚⩌)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2048292233120759808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGz-7wdawAAFreo.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2048276179573150068",
+        "created_at": "2026-04-26T09:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048341300819435778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "KashabaiSilver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048341300819435778",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048292236262248489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KashabaiSilver 这么贪心( ⩌⤚⩌)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048292233120759808"
+          ]
+        },
+        "author_id": "1781207661922701313",
+        "conversation_id": "2048276179573150068",
+        "created_at": "2026-04-26T06:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048292236262248489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdlOY63BeU",
+              "end": 55,
+              "expanded_url": "https://x.com/KashabaiSilver/status/2048292236262248489/photo/1",
+              "media_key": "3_2048292233120759808",
+              "start": 32,
+              "url": "https://t.co/CdlOY63BeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048292236262248489",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048290945289056760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我的抱抱可是很贵的，要加10倍！！！！！ https://t.co/CdlOY63BeU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 279,
+          "like_count": 11389,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintaureliaev…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintaureliaevergarden",
+                "start": 0,
+                "url": "https://t.co/G1S4F934aJ"
+              }
+            ]
+          }
+        },
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurelia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980793192005632/ygaC_zoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 137,
+          "like_count": 138483,
+          "listed_count": 4,
+          "media_count": 5839,
+          "tweet_count": 76467
+        },
+        "url": "https://t.co/G1S4F934aJ",
+        "username": "KashabaiSilver",
+        "verified": false
+      }
+    ]
+  }
+}

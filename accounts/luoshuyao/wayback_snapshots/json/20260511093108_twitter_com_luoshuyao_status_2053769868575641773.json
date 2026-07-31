@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053769820831883264"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2053766585224212797",
+    "created_at": "2026-05-11T09:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053769868575641773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsJ5HHbW8s",
+          "end": 48,
+          "expanded_url": "https://x.com/luoshuyao/status/2053769868575641773/photo/1",
+          "media_key": "3_2053769820831883264",
+          "start": 25,
+          "url": "https://t.co/TsJ5HHbW8s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053769868575641773",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053766585224212797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 我的私信请求基本全是人机 https://t.co/TsJ5HHbW8s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1845,
+        "media_key": "3_2053769820831883264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB0xU0aIAAyBg3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2257,
+        "media_key": "3_2053766578005778432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBx0kWaoAArwvi.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053769820831883264"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2053766585224212797",
+        "created_at": "2026-05-11T09:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053769868575641773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsJ5HHbW8s",
+              "end": 48,
+              "expanded_url": "https://x.com/luoshuyao/status/2053769868575641773/photo/1",
+              "media_key": "3_2053769820831883264",
+              "start": 25,
+              "url": "https://t.co/TsJ5HHbW8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053769868575641773",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053766585224212797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我的私信请求基本全是人机 https://t.co/TsJ5HHbW8s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053766578005778432"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2053766585224212797",
+        "created_at": "2026-05-11T09:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053766585224212797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMRWfDdrpW",
+              "end": 53,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2053766585224212797/photo/1",
+              "media_key": "3_2053766578005778432",
+              "start": 30,
+              "url": "https://t.co/oMRWfDdrpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053766585224212797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想挑几个骂回去但是我又不怎么会骂人我还怕别人骂回来怎么办 https://t.co/oMRWfDdrpW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 288,
+          "like_count": 13932,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 79,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 977
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

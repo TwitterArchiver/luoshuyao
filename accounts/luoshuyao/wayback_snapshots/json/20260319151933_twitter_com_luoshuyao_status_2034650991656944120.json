@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2034640391396614458",
+    "created_at": "2026-03-19T15:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034650991656944120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034650991656944120",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看来他们对抑郁症患者的偏见都很大。所以不管你做什么他们都会讨厌，就算什么都不做也会这样。这种人都很卑劣，素质低下。\n你只是一个生了病的孩子，什么都没有错。只是运气不好遇到了这种人，能远离就尽量远离吧，这个生活老师也完全没有联系的必要，在他的认知里你就是一个精神病，完全不会听你一句话的。只需要和那些包容你的人联系就好了，其他人都无关紧要。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034640391396614458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 看来他们对抑郁症患者的偏见都很大。所以不管你做什么他们都会讨厌，就算什么都不做也会这样。这种人都很卑劣，素质低下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2034640391396614458",
+        "created_at": "2026-03-19T15:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034650991656944120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034650991656944120",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看来他们对抑郁症患者的偏见都很大。所以不管你做什么他们都会讨厌，就算什么都不做也会这样。这种人都很卑劣，素质低下。\n你只是一个生了病的孩子，什么都没有错。只是运气不好遇到了这种人，能远离就尽量远离吧，这个生活老师也完全没有联系的必要，在他的认知里你就是一个精神病，完全不会听你一句话的。只需要和那些包容你的人联系就好了，其他人都无关紧要。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034640391396614458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 看来他们对抑郁症患者的偏见都很大。所以不管你做什么他们都会讨厌，就算什么都不做也会这样。这种人都很卑劣，素质低下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2034640391396614458",
+        "created_at": "2026-03-19T14:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034640391396614458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moremoreagain/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/moremoreagain/status/2034585014453883280",
+              "start": 143,
+              "url": "https://t.co/qmzhlWIWo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034640391396614458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034585014453883280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全程就是\n我原来是因为玉玉症休学的\n然后复学\n生活老师偷偷对我舍友说我有精神病，让他们看着我点，有什么异常给她打报告\n然后一个舍友好像不欢迎我，过分夸大我的所作所为\n然后生活老师还真信，认定我有问题，我跟她发什么她都已读不回\n不过她在跟我妈妈打小报告的时候被制裁了\n恶人还需恶人磨说是 https://t.co/qmzhlWIWo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 263,
+          "like_count": 5157,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 931
+        },
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "恣狂情 薄欢谑 谁与砭",
+        "id": "1862933126466666496",
+        "name": "窥梦",
+        "pinned_tweet_id": "2024788136023429154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1045,
+          "like_count": 70751,
+          "listed_count": 5,
+          "media_count": 1476,
+          "tweet_count": 32711
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

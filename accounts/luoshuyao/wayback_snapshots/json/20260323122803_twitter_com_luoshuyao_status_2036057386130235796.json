@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2036057386130235796",
+    "created_at": "2026-03-23T12:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036057386130235796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2036052916075913251",
+          "start": 129,
+          "url": "https://t.co/7VcLwJdJzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036057386130235796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最后我还是放弃了。\n平静下来之后，我想起了家里年迈的奶奶，她的心脏不好，我怕她受不了刺激。还有给过我帮助的家人，我还没有给过他们什么回报。（好吧愧疚式教育你又赢了）我也不想没有意义的死去。（我是那种死了会自愿捐赠器官的人）我好像忘记了自己受过的委屈和伤害。\n我被接回家里休学了，班主任在电话里叮嘱我妈不要骂我，让我好好休息。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036052916075913251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后我还是放弃了。\n平静下来之后，我想起了家里年迈的奶奶，她的心脏不好，我怕她受不了刺激。还有给过我帮助的家人，我还没有给过他们什么回报。（好吧愧疚式教育你又赢了）我也不想没有意义的死去。（我是那种死了会自愿捐赠器官的人）我好像忘记了自己受过的委屈和伤害。 https://t.co/7VcLwJdJzA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2036050362323574785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGBBF8aIAEGXt0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2036057386130235796",
+        "created_at": "2026-03-23T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036057386130235796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2036052916075913251",
+              "start": 129,
+              "url": "https://t.co/7VcLwJdJzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036057386130235796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最后我还是放弃了。\n平静下来之后，我想起了家里年迈的奶奶，她的心脏不好，我怕她受不了刺激。还有给过我帮助的家人，我还没有给过他们什么回报。（好吧愧疚式教育你又赢了）我也不想没有意义的死去。（我是那种死了会自愿捐赠器官的人）我好像忘记了自己受过的委屈和伤害。\n我被接回家里休学了，班主任在电话里叮嘱我妈不要骂我，让我好好休息。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036052916075913251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后我还是放弃了。\n平静下来之后，我想起了家里年迈的奶奶，她的心脏不好，我怕她受不了刺激。还有给过我帮助的家人，我还没有给过他们什么回报。（好吧愧疚式教育你又赢了）我也不想没有意义的死去。（我是那种死了会自愿捐赠器官的人）我好像忘记了自己受过的委屈和伤害。 https://t.co/7VcLwJdJzA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036050362323574785"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2036052916075913251",
+        "created_at": "2026-03-23T12:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036052916075913251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5Vg7qXIJH",
+              "end": 142,
+              "expanded_url": "https://x.com/luoshuyao/status/2036052916075913251/photo/1",
+              "media_key": "3_2036050362323574785",
+              "start": 119,
+              "url": "https://t.co/I5Vg7qXIJH"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2036049712399405149",
+              "start": 143,
+              "url": "https://t.co/Px8WqBp9JY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036052916075913251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为我下不去手自杀，我只能一直走。\n我的心已经死了，或者说我从来都没有活过，我从出生开始就没有一刻为自己而活。\n我从早上六点一直走到晚上七点多，我当时是想要死在爸爸的坟前，肯定没有人能找到我。但是太远了，走到走不动了还有20多公里的路。\n当时多么希望能来一辆车撞死我，可惜没有。我想就这样死在路边算了，当时还是冬天只有几度，就这样冻死我吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036049712399405149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我下不去手自杀，我只能一直走。\n我的心已经死了，或者说我从来都没有活过，我从出生开始就没有一刻为自己而活。\n我从早上六点一直走到晚上七点多，我当时是想要死在爸爸的坟前，肯定没有人能找到我。但是太远了，走到走不动了还有20多公里的路。 https://t.co/I5Vg7qXIJH https://t.co/Px8WqBp9JY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 268,
+          "like_count": 5496,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1045
+        },
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

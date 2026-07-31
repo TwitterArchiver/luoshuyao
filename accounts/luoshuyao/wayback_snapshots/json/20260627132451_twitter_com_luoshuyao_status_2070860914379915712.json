@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070859445798916096",
+        "3_2070859445429772288",
+        "3_2070859445442330624",
+        "3_2070859445442424833"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2070860914379915712",
+    "created_at": "2026-06-27T13:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070860914379915712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wdtdHSmkGV",
+          "end": 124,
+          "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+          "media_key": "3_2070859445798916096",
+          "start": 101,
+          "url": "https://t.co/wdtdHSmkGV"
+        },
+        {
+          "display_url": "pic.x.com/wdtdHSmkGV",
+          "end": 124,
+          "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+          "media_key": "3_2070859445429772288",
+          "start": 101,
+          "url": "https://t.co/wdtdHSmkGV"
+        },
+        {
+          "display_url": "pic.x.com/wdtdHSmkGV",
+          "end": 124,
+          "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+          "media_key": "3_2070859445442330624",
+          "start": 101,
+          "url": "https://t.co/wdtdHSmkGV"
+        },
+        {
+          "display_url": "pic.x.com/wdtdHSmkGV",
+          "end": 124,
+          "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+          "media_key": "3_2070859445442424833",
+          "start": 101,
+          "url": "https://t.co/wdtdHSmkGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070860914379915712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1、乖孩子( ^_^)/(T_T )\n2、实在惶恐，承蒙你的喜欢，我也没多好，就是运气好能被你当成重要的人，这是我的幸运。\n3、那我就祝自己天天开心₍ᵔ•ᴗ•ᵔ₎\n4、可能在某个平行宇宙里是一对姐妹吧 https://t.co/wdtdHSmkGV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2070859445798916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0rsa6bUAAkAcJ.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2070859445429772288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0rsZiaoAANL_P.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2070859445442330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0rsZlaQAAzmYp.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2070859445442424833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0rsZlbsAE6839.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070859445798916096",
+            "3_2070859445429772288",
+            "3_2070859445442330624",
+            "3_2070859445442424833"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2070860914379915712",
+        "created_at": "2026-06-27T13:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070860914379915712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdtdHSmkGV",
+              "end": 124,
+              "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+              "media_key": "3_2070859445798916096",
+              "start": 101,
+              "url": "https://t.co/wdtdHSmkGV"
+            },
+            {
+              "display_url": "pic.x.com/wdtdHSmkGV",
+              "end": 124,
+              "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+              "media_key": "3_2070859445429772288",
+              "start": 101,
+              "url": "https://t.co/wdtdHSmkGV"
+            },
+            {
+              "display_url": "pic.x.com/wdtdHSmkGV",
+              "end": 124,
+              "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+              "media_key": "3_2070859445442330624",
+              "start": 101,
+              "url": "https://t.co/wdtdHSmkGV"
+            },
+            {
+              "display_url": "pic.x.com/wdtdHSmkGV",
+              "end": 124,
+              "expanded_url": "https://x.com/luoshuyao/status/2070860914379915712/photo/1",
+              "media_key": "3_2070859445442424833",
+              "start": 101,
+              "url": "https://t.co/wdtdHSmkGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860914379915712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1、乖孩子( ^_^)/(T_T )\n2、实在惶恐，承蒙你的喜欢，我也没多好，就是运气好能被你当成重要的人，这是我的幸运。\n3、那我就祝自己天天开心₍ᵔ•ᴗ•ᵔ₎\n4、可能在某个平行宇宙里是一对姐妹吧 https://t.co/wdtdHSmkGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 273,
+          "like_count": 19030,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

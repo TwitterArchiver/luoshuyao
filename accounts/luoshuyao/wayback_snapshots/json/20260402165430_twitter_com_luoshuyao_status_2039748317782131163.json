@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039741084381917186",
+        "3_2039741083173961728",
+        "3_2039741083140403202",
+        "3_2039741084235116547"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2039748317782131163",
+    "created_at": "2026-04-02T16:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039748317782131163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFZ42KLa2j",
+          "end": 44,
+          "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+          "media_key": "3_2039741084381917186",
+          "start": 21,
+          "url": "https://t.co/oFZ42KLa2j"
+        },
+        {
+          "display_url": "pic.x.com/oFZ42KLa2j",
+          "end": 44,
+          "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+          "media_key": "3_2039741083173961728",
+          "start": 21,
+          "url": "https://t.co/oFZ42KLa2j"
+        },
+        {
+          "display_url": "pic.x.com/oFZ42KLa2j",
+          "end": 44,
+          "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+          "media_key": "3_2039741083140403202",
+          "start": 21,
+          "url": "https://t.co/oFZ42KLa2j"
+        },
+        {
+          "display_url": "pic.x.com/oFZ42KLa2j",
+          "end": 44,
+          "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+          "media_key": "3_2039741084235116547",
+          "start": 21,
+          "url": "https://t.co/oFZ42KLa2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039748317782131163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一次只能发四张，这点内容实在太少太少了。\n她是我在2022年底在一个游戏群里认识的孩子，那个时候她已经高三了。刚认识的时候她和我几乎都是正常聊游戏，聊的也不算很多。直到23年3月初找到我，和我说了很多。可以说那一个月的时间，什么都跟我说了，包括在学校，在家里不好的经历，包括友情亲情爱情上的不幸。我很想帮她什么，但是我只能听，我什么都做不到。那个时候的我比现在共情能力还要强太多了，不知道流了多少眼泪。每天晚上至少熬到两点多，等确认她睡了我才敢睡。那种每天高强度的负面情绪输出，到最后我垮掉了，我很痛苦，所以离开。那个时候我自己都还没有完全从抑郁里走出来。\n曾经很多时候我都在想，我真的有帮到她什么吗？我只能听着，我什么都做不到，我好没用。现在我也知道并不是我没用，因为我能做的只有这么多了。\n但是我还是会因为我的离开而愧疚。那个时候几乎没有一个人能理解她，甚至很多人都在伤害她。在认识的人里面她只能跟我说了。而且是我主动提出可以和我倾诉的。\n要怪只能怪我太贪心了，只有那么多的能力却一直想着怎么去救赎，相隔千里又身无分文，而且还体弱无力，为什么老是想着自己能力之外的事情呢？能好好倾听别人的心事，让别人舒缓一下心情不是已经够了吗？\n不知道她现在怎么样了。她的家庭环境很复杂，不过她家很有钱，至少物质上不会有什么问题。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一次只能发四张，这点内容实在太少太少了。 https://t.co/oFZ42KLa2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_2039741084381917186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6dtZBasAIqEhT.jpg",
+        "width": 904
+      },
+      {
+        "height": 2521,
+        "media_key": "3_2039741083173961728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6dtUhawAAsPni.jpg",
+        "width": 1226
+      },
+      {
+        "height": 2577,
+        "media_key": "3_2039741083140403202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6dtUZasAIsr14.jpg",
+        "width": 1236
+      },
+      {
+        "height": 2500,
+        "media_key": "3_2039741084235116547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6dtYeasAMS5Ug.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039741084381917186",
+            "3_2039741083173961728",
+            "3_2039741083140403202",
+            "3_2039741084235116547"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2039748317782131163",
+        "created_at": "2026-04-02T16:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039748317782131163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFZ42KLa2j",
+              "end": 44,
+              "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+              "media_key": "3_2039741084381917186",
+              "start": 21,
+              "url": "https://t.co/oFZ42KLa2j"
+            },
+            {
+              "display_url": "pic.x.com/oFZ42KLa2j",
+              "end": 44,
+              "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+              "media_key": "3_2039741083173961728",
+              "start": 21,
+              "url": "https://t.co/oFZ42KLa2j"
+            },
+            {
+              "display_url": "pic.x.com/oFZ42KLa2j",
+              "end": 44,
+              "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+              "media_key": "3_2039741083140403202",
+              "start": 21,
+              "url": "https://t.co/oFZ42KLa2j"
+            },
+            {
+              "display_url": "pic.x.com/oFZ42KLa2j",
+              "end": 44,
+              "expanded_url": "https://x.com/luoshuyao/status/2039748317782131163/photo/1",
+              "media_key": "3_2039741084235116547",
+              "start": 21,
+              "url": "https://t.co/oFZ42KLa2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039748317782131163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一次只能发四张，这点内容实在太少太少了。\n她是我在2022年底在一个游戏群里认识的孩子，那个时候她已经高三了。刚认识的时候她和我几乎都是正常聊游戏，聊的也不算很多。直到23年3月初找到我，和我说了很多。可以说那一个月的时间，什么都跟我说了，包括在学校，在家里不好的经历，包括友情亲情爱情上的不幸。我很想帮她什么，但是我只能听，我什么都做不到。那个时候的我比现在共情能力还要强太多了，不知道流了多少眼泪。每天晚上至少熬到两点多，等确认她睡了我才敢睡。那种每天高强度的负面情绪输出，到最后我垮掉了，我很痛苦，所以离开。那个时候我自己都还没有完全从抑郁里走出来。\n曾经很多时候我都在想，我真的有帮到她什么吗？我只能听着，我什么都做不到，我好没用。现在我也知道并不是我没用，因为我能做的只有这么多了。\n但是我还是会因为我的离开而愧疚。那个时候几乎没有一个人能理解她，甚至很多人都在伤害她。在认识的人里面她只能跟我说了。而且是我主动提出可以和我倾诉的。\n要怪只能怪我太贪心了，只有那么多的能力却一直想着怎么去救赎，相隔千里又身无分文，而且还体弱无力，为什么老是想着自己能力之外的事情呢？能好好倾听别人的心事，让别人舒缓一下心情不是已经够了吗？\n不知道她现在怎么样了。她的家庭环境很复杂，不过她家很有钱，至少物质上不会有什么问题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一次只能发四张，这点内容实在太少太少了。 https://t.co/oFZ42KLa2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "INFP‖究极社恐‖什么都发，偶尔会平静的发疯。欢迎和所有人类交朋友，反社会反人类的物种除外。不键政，不聊H。目前已经是步入社会的苦命打工人。（但其实我一直感觉自己还是个孩子）\n欢迎互fo",
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027060681129009153/S2K_RWOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 296,
+          "like_count": 7294,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1558
+        },
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

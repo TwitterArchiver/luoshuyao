@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2066460069865414657"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2066376989729292799",
+    "created_at": "2026-06-15T09:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066460137431416846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        },
+        {
+          "end": 25,
+          "id": "1824676724388347904",
+          "start": 13,
+          "username": "JiaoOu84375"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aGbiPXUddo",
+          "end": 59,
+          "expanded_url": "https://x.com/luoshuyao/status/2066460137431416846/photo/1",
+          "media_key": "16_2066460069865414657",
+          "start": 36,
+          "url": "https://t.co/aGbiPXUddo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066460137431416846",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066399011305820630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord @JiaoOu84375 你要的奶龙捧腹大笑 https://t.co/aGbiPXUddo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "16_2066460069865414657",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HK2KfCbbYAEBoL6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HK2KfCbbYAEBoL6.mp4"
+          }
+        ],
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066460069865414657"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2066376989729292799",
+        "created_at": "2026-06-15T09:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066460137431416846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            },
+            {
+              "end": 25,
+              "id": "1824676724388347904",
+              "start": 13,
+              "username": "JiaoOu84375"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGbiPXUddo",
+              "end": 59,
+              "expanded_url": "https://x.com/luoshuyao/status/2066460137431416846/photo/1",
+              "media_key": "16_2066460069865414657",
+              "start": 36,
+              "url": "https://t.co/aGbiPXUddo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066460137431416846",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066399011305820630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord @JiaoOu84375 你要的奶龙捧腹大笑 https://t.co/aGbiPXUddo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011405521245634560",
+        "conversation_id": "2066376989729292799",
+        "created_at": "2026-06-15T05:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066399011305820630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824676724388347904",
+              "start": 0,
+              "username": "JiaoOu84375"
+            },
+            {
+              "end": 23,
+              "id": "1476546742577504265",
+              "start": 13,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066399011305820630",
+        "in_reply_to_user_id": "1824676724388347904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066384772008640987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaoOu84375 @luoshuyao 哎呀，我操，我小想奶龙狂笑，啥阴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 287,
+          "like_count": 17957,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 3921
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "GPT @neyu_kaori 重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…｜ 生物恐懼 ｜ 轻 亮 薄 灵 空 高 透 清 仙 飘 音声控 ｜ 破碎可爱又大女主的我…\n\n “纵我心若烙铁炽热，亦难融你千尺寒冰”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "neyu_kaori"
+              }
+            ]
+          }
+        },
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味 ——【浮生“十三”梦】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059236262574530560/LDaQFvXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 182,
+          "like_count": 2256,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1729
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:16:52.000Z",
+        "description": "这里什么也没有哦",
+        "id": "1824676724388347904",
+        "location": "中国 ",
+        "name": "蓝莓拿铁三勺糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042937433583718400/INgItlnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 35,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 810
+        },
+        "username": "JiaoOu84375",
+        "verified": false
+      }
+    ]
+  }
+}

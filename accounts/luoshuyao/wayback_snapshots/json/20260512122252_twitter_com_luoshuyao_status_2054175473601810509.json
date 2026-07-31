@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2054166422121824729",
+    "created_at": "2026-05-12T12:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054175473601810509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030455725374550016",
+          "start": 0,
+          "username": "AAcfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054175473601810509",
+    "in_reply_to_user_id": "2030455725374550016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054174143290212718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcfun （收到友好评论，思考如何回复中……已深度思考三分钟）\n泥嚎ヽ(￣▽￣)ノ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2054166422121824729",
+        "created_at": "2026-05-12T12:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054175473601810509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054175473601810509",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054174143290212718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun （收到友好评论，思考如何回复中……已深度思考三分钟）\n泥嚎ヽ(￣▽￣)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030455725374550016",
+        "conversation_id": "2054166422121824729",
+        "created_at": "2026-05-12T12:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054174143290212718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054174143290212718",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054166422121824729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 泥...泥嚎🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 289,
+          "like_count": 14272,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 3200
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "超级社恐、胆小 | 不建政 不聊H |\n精神状态不稳定 | 没情商（回复不好请原谅...） |\n回fo私信我喵...",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "AAcfun🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052950670878404608/-ahKaRcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 142,
+          "like_count": 8220,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1522
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

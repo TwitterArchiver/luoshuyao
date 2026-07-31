@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2072977440654447083",
+    "created_at": "2026-07-04T09:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073336294269452459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723047974677479424",
+          "start": 0,
+          "username": "ReedPascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073336294269452459",
+    "in_reply_to_user_id": "1723047974677479424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073332904344879157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReedPascal 我只是想用一个稳重一点的头像(ᗜ ˰ ᗜ)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2073332896686018560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX1SNgaEAAMs1V.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2072977440654447083",
+        "created_at": "2026-07-04T09:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073336294269452459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723047974677479424",
+              "start": 0,
+              "username": "ReedPascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073336294269452459",
+        "in_reply_to_user_id": "1723047974677479424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073332904344879157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReedPascal 我只是想用一个稳重一点的头像(ᗜ ˰ ᗜ)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073332896686018560"
+          ]
+        },
+        "author_id": "1723047974677479424",
+        "conversation_id": "2072977440654447083",
+        "created_at": "2026-07-04T09:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073332904344879157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jefDue91S",
+              "end": 44,
+              "expanded_url": "https://x.com/ReedPascal/status/2073332904344879157/photo/1",
+              "media_key": "3_2073332896686018560",
+              "start": 21,
+              "url": "https://t.co/8jefDue91S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073332904344879157",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072977440654447083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 这头像确实妈妈了（ https://t.co/8jefDue91S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 271,
+          "like_count": 18903,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 4318
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed🕊️",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064403527422906368/4lVKqeOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 99,
+          "like_count": 102786,
+          "listed_count": 2,
+          "media_count": 2954,
+          "tweet_count": 9461
+        },
+        "url": "",
+        "username": "ReedPascal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069258810754322546",
+    "created_at": "2026-06-23T10:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069361919593705653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1122766825387745280",
+          "start": 0,
+          "username": "Cartknight1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069361919593705653",
+    "in_reply_to_user_id": "1122766825387745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069360997454717393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cartknight1 还是有用的，可以去搜一下看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069258810754322546",
+        "created_at": "2026-06-23T10:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069361919593705653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1122766825387745280",
+              "start": 0,
+              "username": "Cartknight1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069361919593705653",
+        "in_reply_to_user_id": "1122766825387745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069360997454717393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cartknight1 还是有用的，可以去搜一下看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122766825387745280",
+        "conversation_id": "2069258810754322546",
+        "created_at": "2026-06-23T10:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069360997454717393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069360997454717393",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069360650670002413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我不知道这个分数有啥用？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 274,
+          "like_count": 18812,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 4164
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-29T07:37:25.000Z",
+        "description": "收集日落后的蓝，和没说出口的心事。",
+        "id": "1122766825387745280",
+        "name": "蓝调小时｜Blue hour",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048021985037570048/YgnEOMEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 995,
+          "like_count": 7881,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3867
+        },
+        "url": "",
+        "username": "Cartknight1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2066140614144782622",
+    "created_at": "2026-06-14T12:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066140614144782622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2066136815942410491",
+          "start": 118,
+          "url": "https://t.co/ZrcKJ5ok3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066140614144782622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066136815942410491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想今年我也不会回家过年，闲着也是闲着，今年过年还是会一直工作，不休息。所谓的家早就没有家的感觉了，过年也没有年的味道了。\n我讨厌热闹，别人怎么热闹都无所谓，但如果我自己在热闹的环境里只会让我感到恶心，窒息。让我一个人静静地待着就好。 https://t.co/ZrcKJ5ok3C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2066140614144782622",
+        "created_at": "2026-06-14T12:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066140614144782622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2066136815942410491",
+              "start": 118,
+              "url": "https://t.co/ZrcKJ5ok3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066140614144782622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066136815942410491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想今年我也不会回家过年，闲着也是闲着，今年过年还是会一直工作，不休息。所谓的家早就没有家的感觉了，过年也没有年的味道了。\n我讨厌热闹，别人怎么热闹都无所谓，但如果我自己在热闹的环境里只会让我感到恶心，窒息。让我一个人静静地待着就好。 https://t.co/ZrcKJ5ok3C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2066136815942410491",
+        "created_at": "2026-06-14T12:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066136815942410491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ooobsess/statu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/ooobsess/status/2065791484205433067",
+              "start": 138,
+              "url": "https://t.co/h5csxsIBXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066136815942410491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065791484205433067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经连着两年没有回家过年了，一个人在外面。除夕那天工作到下午6点，晚上回去一个人坐在床上，手机里放着春晚，然后在电脑上玩单机游戏。其实有朋友提前联系了我说一起玩游戏一起跨年，最后我还是选择一个人。春晚的氛围很热闹，但我并没有感到厌烦，也没有感到孤单，因为这些热闹与我无关。 https://t.co/h5csxsIBXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 288,
+          "like_count": 17905,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 3902
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

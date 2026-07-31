@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055119676095795200"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2054904779776966867",
+    "created_at": "2026-05-15T02:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055119843154915550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abNnc2V2Wd",
+          "end": 55,
+          "expanded_url": "https://x.com/luoshuyao/status/2055119843154915550/photo/1",
+          "media_key": "3_2055119676095795200",
+          "start": 32,
+          "url": "https://t.co/abNnc2V2Wd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055119843154915550",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054904779776966867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 感觉没什么影响（我算创作者吗？） https://t.co/abNnc2V2Wd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055119676095795200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVAdPibEAAe3-T.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054904773670047744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR9ARnbkAAbgDg.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055119676095795200"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2054904779776966867",
+        "created_at": "2026-05-15T02:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055119843154915550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abNnc2V2Wd",
+              "end": 55,
+              "expanded_url": "https://x.com/luoshuyao/status/2055119843154915550/photo/1",
+              "media_key": "3_2055119676095795200",
+              "start": 32,
+              "url": "https://t.co/abNnc2V2Wd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055119843154915550",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054904779776966867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 感觉没什么影响（我算创作者吗？） https://t.co/abNnc2V2Wd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054904773670047744"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2054904779776966867",
+        "created_at": "2026-05-14T12:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054904779776966867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ltdZPl7ls",
+              "end": 54,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2054904779776966867/photo/1",
+              "media_key": "3_2054904773670047744",
+              "start": 31,
+              "url": "https://t.co/2ltdZPl7ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054904779776966867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1479,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈创作者们，我想知道这两天流量下降是不是普遍情况🫪😩😢🤔 https://t.co/2ltdZPl7ls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 291,
+          "like_count": 15017,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 3321
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5060,
+          "following_count": 681,
+          "like_count": 16769,
+          "listed_count": 10,
+          "media_count": 1449,
+          "tweet_count": 4530
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

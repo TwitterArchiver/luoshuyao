@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055215967895175168"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2055216193066467446",
+    "created_at": "2026-05-15T09:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055216193066467446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sGFXAFdvpS",
+          "end": 77,
+          "expanded_url": "https://x.com/luoshuyao/status/2055216193066467446/photo/1",
+          "media_key": "3_2055215967895175168",
+          "start": 54,
+          "url": "https://t.co/sGFXAFdvpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055216193066467446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次回家的必备项目：给奶奶捶背，还要上药，揉背。只不过这次换成了刮痧，拿这个东西刮的，好像把我手给染黄了😧 https://t.co/sGFXAFdvpS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055216193066467446].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055216193066467446",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055216193066467446"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3358,
+        "media_key": "3_2055215967895175168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWYCKcaQAADsXn.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 290,
+          "like_count": 15079,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 3332
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

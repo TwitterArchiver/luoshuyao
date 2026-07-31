@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069317335194972160"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2069318060557914155",
+    "created_at": "2026-06-23T07:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069318060557914155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aqdGjsXpWD",
+          "end": 64,
+          "expanded_url": "https://x.com/luoshuyao/status/2069318060557914155/photo/1",
+          "media_key": "3_2069317335194972160",
+          "start": 41,
+          "url": "https://t.co/aqdGjsXpWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069318060557914155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你觉得我急急如律令就是为了妈咪贝贝哄的话，那么万事万物他又怎能皆为我所用呢🤔 https://t.co/aqdGjsXpWD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069317335194972160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLexJxPasAA0Sdx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069317335194972160"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2069318060557914155",
+        "created_at": "2026-06-23T07:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069318060557914155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqdGjsXpWD",
+              "end": 64,
+              "expanded_url": "https://x.com/luoshuyao/status/2069318060557914155/photo/1",
+              "media_key": "3_2069317335194972160",
+              "start": 41,
+              "url": "https://t.co/aqdGjsXpWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069318060557914155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你觉得我急急如律令就是为了妈咪贝贝哄的话，那么万事万物他又怎能皆为我所用呢🤔 https://t.co/aqdGjsXpWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 274,
+          "like_count": 18800,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 4154
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

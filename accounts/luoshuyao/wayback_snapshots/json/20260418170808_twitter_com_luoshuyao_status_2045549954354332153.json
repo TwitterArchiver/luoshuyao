@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2045547194099605879",
+    "created_at": "2026-04-18T17:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045549954354332153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858393719080366080",
+          "start": 0,
+          "username": "xiaomonuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045549954354332153",
+    "in_reply_to_user_id": "1858393719080366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045548572335313337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomonuya 哪有这种逆向思维的。如果你让自己更惨的话，别人的惨还是一样不会消失，反而会让在乎你的人变得痛苦。\n不是说好了惨是不能比较的吗，改变不了别人，只能改变自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2045547194099605879",
+        "created_at": "2026-04-18T17:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045549954354332153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045549954354332153",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045548572335313337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomonuya 哪有这种逆向思维的。如果你让自己更惨的话，别人的惨还是一样不会消失，反而会让在乎你的人变得痛苦。\n不是说好了惨是不能比较的吗，改变不了别人，只能改变自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2045547194099605879",
+        "created_at": "2026-04-18T17:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045548572335313337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045548572335313337",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045548101755445658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 因為不想別人比我慘……我知道這沒什麼意義但我就是有這種想法……而讓別人變得沒那麼慘太難了，而且這個（別人）有很多很多，但（我）只有一個……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 276,
+          "like_count": 10142,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n🚪52喵\n我是跨性別喵",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2043253761955819941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 154,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 3573
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

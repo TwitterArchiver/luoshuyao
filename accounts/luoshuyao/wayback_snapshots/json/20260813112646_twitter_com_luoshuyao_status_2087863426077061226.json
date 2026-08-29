@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2087763493118521851",
+    "created_at": "2026-08-13T11:26:46.000Z",
+    "display_text_range": [
+      16,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087863426077061226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087863426077061226",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087773267109269963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 按理说我的关注数和关注者的数量差不多是1：4，也不像那种会搞互关的账号呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2087763493118521851",
+        "created_at": "2026-08-13T11:26:46.000Z",
+        "display_text_range": [
+          16,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087863426077061226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087863426077061226",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087773267109269963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 按理说我的关注数和关注者的数量差不多是1：4，也不像那种会搞互关的账号呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2087763493118521851",
+        "created_at": "2026-08-13T05:28:30.000Z",
+        "display_text_range": [
+          11,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087773267109269963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087773267109269963",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087763493118521851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 目前鲜有营销号自动关注環状線，因为環状線的关注者与正在关注数之比已经超过了 17 倍，营销号从这个比例得出「環状線回 fo」意愿极低的结论，从而不再关注環状線。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087863426077061226",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 284,
+          "like_count": 20620,
+          "listed_count": 3,
+          "media_count": 524,
+          "tweet_count": 5038
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087860563603034143",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15099,
+          "following_count": 879,
+          "like_count": 33420,
+          "listed_count": 25,
+          "media_count": 2613,
+          "tweet_count": 12128
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

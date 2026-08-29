@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2084621161845911588",
+    "created_at": "2026-08-04T14:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084649698330390776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979068278673981440",
+          "start": 0,
+          "username": "orange219695619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084649698330390776",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084646372238823836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange219695619 自取其辱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2084621161845911588",
+        "created_at": "2026-08-04T14:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084649698330390776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084649698330390776",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084646372238823836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 自取其辱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084621161845911588",
+        "created_at": "2026-08-04T14:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084646372238823836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084646372238823836",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084645369057546353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 292,
+          "like_count": 19955,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 4813
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 186,
+          "like_count": 22175,
+          "listed_count": 3,
+          "media_count": 573,
+          "tweet_count": 10273
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

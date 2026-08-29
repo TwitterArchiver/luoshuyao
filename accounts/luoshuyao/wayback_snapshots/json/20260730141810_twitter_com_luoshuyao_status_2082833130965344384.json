@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2082828854050390195",
+    "created_at": "2026-07-30T14:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082833130965344384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "898344170128986112",
+          "start": 0,
+          "username": "Leewei60269181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082833130965344384",
+    "in_reply_to_user_id": "898344170128986112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082830426343985599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leewei60269181 喝不了啤酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2082828854050390195",
+        "created_at": "2026-07-30T14:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082833130965344384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "898344170128986112",
+              "start": 0,
+              "username": "Leewei60269181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082833130965344384",
+        "in_reply_to_user_id": "898344170128986112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082830426343985599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leewei60269181 喝不了啤酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898344170128986112",
+        "conversation_id": "2082828854050390195",
+        "created_at": "2026-07-30T14:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082830426343985599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082830426343985599",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082828854050390195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 可以试试啤酒。我喜欢的那个女生喜欢喝百威"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 285,
+          "like_count": 19814,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 4750
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-18T00:41:55.000Z",
+        "description": "全干工程师\n把 AI 工具做得更简单，也更好看\n功能之外，也在意体验和风格",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leewei0923.com",
+                "end": 23,
+                "expanded_url": "https://leewei0923.com",
+                "start": 0,
+                "url": "https://t.co/NtRZ6xFkbA"
+              }
+            ]
+          }
+        },
+        "id": "898344170128986112",
+        "location": "杭州",
+        "name": "林深见鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051179017823567872/lp_v4eVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 393,
+          "like_count": 3210,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 3031
+        },
+        "url": "https://t.co/NtRZ6xFkbA",
+        "username": "Leewei60269181",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084984196079202304",
+        "3_2084984196066611202",
+        "3_2084984196074975232"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2084984982112776272",
+    "created_at": "2026-08-05T12:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084984982112776272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IHJPkKsBzh",
+          "end": 79,
+          "expanded_url": "https://x.com/luoshuyao/status/2084984982112776272/photo/1",
+          "media_key": "3_2084984196079202304",
+          "start": 56,
+          "url": "https://t.co/IHJPkKsBzh"
+        },
+        {
+          "display_url": "pic.x.com/IHJPkKsBzh",
+          "end": 79,
+          "expanded_url": "https://x.com/luoshuyao/status/2084984982112776272/photo/1",
+          "media_key": "3_2084984196066611202",
+          "start": 56,
+          "url": "https://t.co/IHJPkKsBzh"
+        },
+        {
+          "display_url": "pic.x.com/IHJPkKsBzh",
+          "end": 79,
+          "expanded_url": "https://x.com/luoshuyao/status/2084984982112776272/photo/1",
+          "media_key": "3_2084984196074975232",
+          "start": 56,
+          "url": "https://t.co/IHJPkKsBzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084984982112776272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是你吗？如果是的话可不可以登QQ通过一下我的好友申请。你是不是登不上你的推特账号了，天天给你发消息都不回我…… https://t.co/IHJPkKsBzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2084984196079202304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9aFGGasAAGDt5.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2084984196066611202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9aFGDakAIlmI0.jpg",
+        "width": 934
+      },
+      {
+        "height": 610,
+        "media_key": "3_2084984196074975232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9aFGFaMAAOS6a.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084984196079202304",
+            "3_2084984196066611202",
+            "3_2084984196074975232"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2084984982112776272",
+        "created_at": "2026-08-05T12:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084984982112776272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHJPkKsBzh",
+              "end": 79,
+              "expanded_url": "https://x.com/luoshuyao/status/2084984982112776272/photo/1",
+              "media_key": "3_2084984196079202304",
+              "start": 56,
+              "url": "https://t.co/IHJPkKsBzh"
+            },
+            {
+              "display_url": "pic.x.com/IHJPkKsBzh",
+              "end": 79,
+              "expanded_url": "https://x.com/luoshuyao/status/2084984982112776272/photo/1",
+              "media_key": "3_2084984196066611202",
+              "start": 56,
+              "url": "https://t.co/IHJPkKsBzh"
+            },
+            {
+              "display_url": "pic.x.com/IHJPkKsBzh",
+              "end": 79,
+              "expanded_url": "https://x.com/luoshuyao/status/2084984982112776272/photo/1",
+              "media_key": "3_2084984196074975232",
+              "start": 56,
+              "url": "https://t.co/IHJPkKsBzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084984982112776272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是你吗？如果是的话可不可以登QQ通过一下我的好友申请。你是不是登不上你的推特账号了，天天给你发消息都不回我…… https://t.co/IHJPkKsBzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 291,
+          "like_count": 19963,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

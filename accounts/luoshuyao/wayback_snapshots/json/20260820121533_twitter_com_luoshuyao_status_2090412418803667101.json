@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2090385697727521203",
+    "created_at": "2026-08-20T12:15:33.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090412418803667101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1565881978062118913",
+          "start": 0,
+          "username": "Espania_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090412418803667101",
+    "in_reply_to_user_id": "1565881978062118913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090385697727521203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Espania_CN 马斯克每天都在随机封号吗？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090385697727521203].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090385697727521203",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090385697727521203"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2090385697727521203",
+        "created_at": "2026-08-20T12:15:33.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090412418803667101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1565881978062118913",
+              "start": 0,
+              "username": "Espania_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090412418803667101",
+        "in_reply_to_user_id": "1565881978062118913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090385697727521203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Espania_CN 马斯克每天都在随机封号吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090412418803667101",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 283,
+          "like_count": 21190,
+          "listed_count": 3,
+          "media_count": 540,
+          "tweet_count": 5218
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-03T01:59:20.000Z",
+        "description": "中国大陸のクズ男子大学生🇨🇳\n🔰雑多垢：アニメ/マンガ/ゲーム/ライベ/政治歴史と人文地理/欧州と亚州の言語と文化が大好きですよ(英語、日本語、韓国語、ベトナム語勉強中)\n【日本が好きです/한국을 좋아해요 /Thích Việt Nam/香港•マカオ•台湾友好】",
+        "id": "1565881978062118913",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2090091689851662519",
+        "name": "Espania",
+        "pinned_tweet_id": "1946929246875840944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565881978062118913/1736601324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007398324769595393/jS71Fby2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 6336,
+          "like_count": 125089,
+          "listed_count": 14,
+          "media_count": 133,
+          "tweet_count": 36416
+        },
+        "url": "",
+        "username": "Espania_CN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

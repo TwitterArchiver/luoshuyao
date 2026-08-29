@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2083208977501102328",
+    "created_at": "2026-07-31T16:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083230443596636483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843350227245510656",
+          "start": 0,
+          "username": "houhuilema"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083230443596636483",
+    "in_reply_to_user_id": "1843350227245510656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083218449300619298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@houhuilema 并非，这是规定，因为我这里的工作是需要花时间去熟悉的，没办法马上交接。一个月的时间是让人事去招新人，然后入职熟悉工作。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2083208977501102328",
+        "created_at": "2026-07-31T16:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083230443596636483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843350227245510656",
+              "start": 0,
+              "username": "houhuilema"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083230443596636483",
+        "in_reply_to_user_id": "1843350227245510656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083218449300619298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houhuilema 并非，这是规定，因为我这里的工作是需要花时间去熟悉的，没办法马上交接。一个月的时间是让人事去招新人，然后入职熟悉工作。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843350227245510656",
+        "conversation_id": "2083208977501102328",
+        "created_at": "2026-07-31T15:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083218449300619298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083218449300619298",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083208977501102328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 这是不想让你走吧，在拖着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 289,
+          "like_count": 19872,
+          "listed_count": 2,
+          "media_count": 499,
+          "tweet_count": 4771
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T17:58:52.000Z",
+        "description": "想去月球",
+        "id": "1843350227245510656",
+        "location": "人间",
+        "name": "Player",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079265758195122176/Bf6IKd6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 142,
+          "like_count": 9693,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 3203
+        },
+        "url": "",
+        "username": "houhuilema",
+        "verified": false
+      }
+    ]
+  }
+}

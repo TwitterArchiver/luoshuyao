@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2083170874157625820",
+    "created_at": "2026-07-31T14:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083204698748948929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083204698748948929",
+    "in_reply_to_user_id": "1527114974841012225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083170874157625820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2083170874157625820",
+        "created_at": "2026-07-31T14:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083204698748948929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083204698748948929",
+        "in_reply_to_user_id": "1527114974841012225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083170874157625820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527114974841012225",
+        "conversation_id": "2083170874157625820",
+        "created_at": "2026-07-31T12:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083170874157625820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083170874157625820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有卖惨的意思，但是以我的身体状况，接下来这整个七月最多只能再活三个多小时了\n所以我很珍惜和大家聊天的机会，还有和大家认识的日子，如果你们要着这段最后的时光给我送游戏送吃喝的，要尽快了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 288,
+          "like_count": 19855,
+          "listed_count": 2,
+          "media_count": 499,
+          "tweet_count": 4763
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨可约后勤/拍摄丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨记得带卡丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "卡兹屯口垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074502462749507584/u9v96f39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 820,
+          "like_count": 7241,
+          "listed_count": 16,
+          "media_count": 348,
+          "tweet_count": 7018
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true
+      }
+    ]
+  }
+}

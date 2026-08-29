@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082826447459422209"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2082727099803242822",
+    "created_at": "2026-07-30T13:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082826667798728949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "hoshinofuji___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UW21T4YAcr",
+          "end": 297,
+          "expanded_url": "https://x.com/luoshuyao/status/2082826667798728949/photo/1",
+          "media_key": "3_2082826447459422209",
+          "start": 274,
+          "url": "https://t.co/UW21T4YAcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082826667798728949",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在小黑盒上看到的一个申诉模板，不知道有没有用。\nHello, thank you very much for reading and replying to me. I want to say that it was wrong for my account to be suspended. I have been following the rules of Twitter these days when I have been using the account and have not violated the rules. I think maybe you blocked me by mistake, so I sent you the unfreezing application. I hope to apply for unfreezing my account. Of course, this is the best. Thank you."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082727099803242822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofuji___ 在小黑盒上看到的一个申诉模板，不知道有没有用。\nHello, thank you very much for reading and replying to me. I want to say that it was wrong for my account to be suspended. I have been following the rules of Twitter these days when I have been using the account and have not violated https://t.co/UW21T4YAcr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2082826447459422209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOevnmGbkAEBidE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1416,
+        "media_key": "3_2082727093528616960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdVQb3a4AAiVgR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082826447459422209"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2082727099803242822",
+        "created_at": "2026-07-30T13:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082826667798728949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "hoshinofuji___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UW21T4YAcr",
+              "end": 297,
+              "expanded_url": "https://x.com/luoshuyao/status/2082826667798728949/photo/1",
+              "media_key": "3_2082826447459422209",
+              "start": 274,
+              "url": "https://t.co/UW21T4YAcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082826667798728949",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在小黑盒上看到的一个申诉模板，不知道有没有用。\nHello, thank you very much for reading and replying to me. I want to say that it was wrong for my account to be suspended. I have been following the rules of Twitter these days when I have been using the account and have not violated the rules. I think maybe you blocked me by mistake, so I sent you the unfreezing application. I hope to apply for unfreezing my account. Of course, this is the best. Thank you."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082727099803242822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofuji___ 在小黑盒上看到的一个申诉模板，不知道有没有用。\nHello, thank you very much for reading and replying to me. I want to say that it was wrong for my account to be suspended. I have been following the rules of Twitter these days when I have been using the account and have not violated https://t.co/UW21T4YAcr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082727093528616960"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2082727099803242822",
+        "created_at": "2026-07-30T07:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082727099803242822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6LvbfKoXJ",
+              "end": 39,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2082727099803242822/photo/1",
+              "media_key": "3_2082727093528616960",
+              "start": 16,
+              "url": "https://t.co/o6LvbfKoXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082727099803242822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 927,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "申诉第三次的结果：\n真的好崩溃 https://t.co/o6LvbfKoXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 285,
+          "like_count": 19775,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 4742
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜pixiv illustrator | AIart |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 461,
+          "like_count": 624,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

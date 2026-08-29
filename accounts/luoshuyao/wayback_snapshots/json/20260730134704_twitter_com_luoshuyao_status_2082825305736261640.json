@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2082743230689681799",
+    "created_at": "2026-07-30T13:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082825305736261640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082825305736261640",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082743230689681799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Magpieneko 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2082743230689681799",
+        "created_at": "2026-07-30T13:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082825305736261640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082825305736261640",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082743230689681799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Magpieneko 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2082743230689681799",
+        "created_at": "2026-07-30T08:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082743230689681799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082743230689681799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我喜欢你！\n你喜欢我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 283,
+          "like_count": 19770,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 4740
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "小鸟/该死的小东西\n\n「请在我的坟前放上一支白百合」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Jingque233",
+                "end": 23,
+                "expanded_url": "https://t.me/Jingque233",
+                "start": 0,
+                "url": "https://t.co/oLMK0VsYRb"
+              }
+            ]
+          }
+        },
+        "id": "1520285442737770496",
+        "location": "距你2.1km 欢迎来找我聊天➡️",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082495064127991808/Qc17970w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 80,
+          "like_count": 3190,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/oLMK0VsYRb",
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

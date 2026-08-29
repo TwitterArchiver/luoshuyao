@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2083853446231519513",
+    "created_at": "2026-08-02T09:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083853446231519513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2083847273726046402",
+          "start": 123,
+          "url": "https://t.co/4yRdp9rfJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083853446231519513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083847273726046402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且我用的那台机器关系到了十几个产品的质量，有很多数据需要记，用起来也需要花时间去熟悉。我不是在担心这个公司，而是在担心我们组剩下的同事，如果半个月之内招不到三个人，工作是很难顺利进行的。当然，现在招一个人都很困难，这就不是我应该烦恼的问题了。 https://t.co/4yRdp9rfJg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2083853446231519513",
+        "created_at": "2026-08-02T09:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083853446231519513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2083847273726046402",
+              "start": 123,
+              "url": "https://t.co/4yRdp9rfJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083853446231519513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083847273726046402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且我用的那台机器关系到了十几个产品的质量，有很多数据需要记，用起来也需要花时间去熟悉。我不是在担心这个公司，而是在担心我们组剩下的同事，如果半个月之内招不到三个人，工作是很难顺利进行的。当然，现在招一个人都很困难，这就不是我应该烦恼的问题了。 https://t.co/4yRdp9rfJg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2083847273726046402",
+        "created_at": "2026-08-02T09:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083847273726046402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlphaScorpiiCr…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/AlphaScorpiiCry/status/2083845534482374853",
+              "start": 127,
+              "url": "https://t.co/TTRGsbsCql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847273726046402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083845534482374853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的工资和我的付出是完全不成正比的。从去年五月份我一个人把两个人的活全包了之后，每天工作几乎有一半的时间就像电子厂里的流水线一样手脚一刻不停的在运作，而且是站班。我上班时间几乎不喝水，上厕所都需要有人来替我接一下班。\n等我离职以后是找不到人来代替我的。 https://t.co/TTRGsbsCql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 292,
+          "like_count": 19925,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 4793
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

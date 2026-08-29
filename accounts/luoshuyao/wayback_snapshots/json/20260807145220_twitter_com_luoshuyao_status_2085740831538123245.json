@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085740766392147968"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2085725901434585384",
+    "created_at": "2026-08-07T14:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085740831538123245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Os4mEjp9e",
+          "end": 76,
+          "expanded_url": "https://x.com/luoshuyao/status/2085740831538123245/photo/1",
+          "media_key": "3_2085740766392147968",
+          "start": 53,
+          "url": "https://t.co/7Os4mEjp9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085740831538123245",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085725901434585384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 这个游戏我刚玩感觉挺简单的，感觉是人机局，后来第一次玩真人局就被调戏到红温了。 https://t.co/7Os4mEjp9e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2085740766392147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIKLSJa4AAKu5e.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085740766392147968"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2085725901434585384",
+        "created_at": "2026-08-07T14:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085740831538123245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Os4mEjp9e",
+              "end": 76,
+              "expanded_url": "https://x.com/luoshuyao/status/2085740831538123245/photo/1",
+              "media_key": "3_2085740766392147968",
+              "start": 53,
+              "url": "https://t.co/7Os4mEjp9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085740831538123245",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085725901434585384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 这个游戏我刚玩感觉挺简单的，感觉是人机局，后来第一次玩真人局就被调戏到红温了。 https://t.co/7Os4mEjp9e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870313420807163904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2085725901434585384",
+        "created_at": "2026-08-07T13:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085725901434585384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085725901434585384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要带着我的新手朋友打第五人格了，希望血压安全"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 290,
+          "like_count": 20065,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 4832
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高三纯女🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  251： @umodamo | 互fo评论区留言 | 碎碎念 |  恋爱脑｜厌蠢症｜JPOPアニメ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 59,
+                "username": "aoim33"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "username": "umodamo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野まりん",
+        "pinned_tweet_id": "2083752440441041156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076574568773197824/WCbkByx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 2155,
+          "like_count": 53895,
+          "listed_count": 9,
+          "media_count": 2803,
+          "tweet_count": 24645
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": true
+      }
+    ]
+  }
+}

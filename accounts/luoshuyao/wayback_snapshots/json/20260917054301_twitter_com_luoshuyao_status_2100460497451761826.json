@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2100460497451761826",
+    "created_at": "2026-09-17T05:43:01.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100460497451761826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tianzige4/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/tianzige4/status/2100166259929498043",
+          "start": 37,
+          "url": "https://t.co/lMprh5q96H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100460497451761826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100166259929498043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是互联网的意义啊，我上网就是来看这些的，而不是互相争吵，贬低，谩骂。 https://t.co/lMprh5q96H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3020,
+        "media_key": "3_2100166164941004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVJ__aaYAAflKe.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2760,
+        "media_key": "3_2100166187594502144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVKBTzbUAAsx6S.jpg",
+        "width": 1148
+      },
+      {
+        "height": 2725,
+        "media_key": "3_2100166215675310080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVKC8aacAAeTJF.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2439,
+        "media_key": "3_2100166240308461569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVKEYLagAEk-C0.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2100460497451761826",
+        "created_at": "2026-09-17T05:43:01.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100460497451761826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tianzige4/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tianzige4/status/2100166259929498043",
+              "start": 37,
+              "url": "https://t.co/lMprh5q96H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100460497451761826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100166259929498043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是互联网的意义啊，我上网就是来看这些的，而不是互相争吵，贬低，谩骂。 https://t.co/lMprh5q96H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100166164941004800",
+            "3_2100166187594502144",
+            "3_2100166215675310080",
+            "3_2100166240308461569"
+          ]
+        },
+        "author_id": "1521308732805849089",
+        "conversation_id": "2100166259929498043",
+        "created_at": "2026-09-16T10:13:50.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:09:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100165263425503432",
+          "2100166259929498043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTuw1K04up",
+              "end": 129,
+              "expanded_url": "https://x.com/tianzige4/status/2100166259929498043/photo/1",
+              "media_key": "3_2100166164941004800",
+              "start": 106,
+              "url": "https://t.co/lTuw1K04up"
+            },
+            {
+              "display_url": "pic.x.com/lTuw1K04up",
+              "end": 129,
+              "expanded_url": "https://x.com/tianzige4/status/2100166259929498043/photo/1",
+              "media_key": "3_2100166187594502144",
+              "start": 106,
+              "url": "https://t.co/lTuw1K04up"
+            },
+            {
+              "display_url": "pic.x.com/lTuw1K04up",
+              "end": 129,
+              "expanded_url": "https://x.com/tianzige4/status/2100166259929498043/photo/1",
+              "media_key": "3_2100166215675310080",
+              "start": 106,
+              "url": "https://t.co/lTuw1K04up"
+            },
+            {
+              "display_url": "pic.x.com/lTuw1K04up",
+              "end": 129,
+              "expanded_url": "https://x.com/tianzige4/status/2100166259929498043/photo/1",
+              "media_key": "3_2100166240308461569",
+              "start": 106,
+              "url": "https://t.co/lTuw1K04up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100166259929498043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100166164941004800"
+          },
+          {
+            "media_key": "3_2100166187594502144"
+          },
+          {
+            "media_key": "3_2100166215675310080"
+          },
+          {
+            "media_key": "3_2100166240308461569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今天无意中浏览到一位日本女孩的贴文，居然看到了一个无比温暖的故事。\n\n这位网名“稍后再看”的日本网友，在吞下过量药片自杀前，写下的最后一句遗言是：\"我想学中文\"。没想到，正是这句话救了她，让她重新生活在阳光中。\n \n“稍后再看”发布的帖子说，今年5月，她建了这个号。那时的她反复尝试自杀——过量服药、上吊。\n她想临走前想若无其事地留下几句遗言。于是写下了一句话：\"对了，我一直想学中文啊。\"\n \n这条推文被中国网友看到了。评论区没有说教，全是最朴素的热气——\n \n\"加油学中文！\"\"来中国吧！\"\"在中国等你哦。\"\n\"求你别死，我请你吃四川寿司！\"\n\"来广东，我请你吃白切鸡寿司。\"\n\"答应我，一定要来中国看大熊猫。\"\n\"小姑娘，你要先爱自己，然后再去爱中国。\"\n\"世界那么大，还有那么多美景没看、那么多美食没吃，为什么要走呢？\"\n \n她说自己开心得不得了，第一次感觉\"归属不只在这里（日本）\"。她对自己说：去中国之前，不能死。\n \n于是她开始学中文。奇迹般地，她被一个个社区温柔接住，如今一边做着中日友好的活动，一边重新体会活着的意义。\n \n9月16日凌晨，她把这段经历写了出来，30万人看过，9千人点赞。\n \n站在悬崖边的这位日本女孩，最后抓住的不是身边朋友、亲友的手，而是素不相识的、千里之外中国网友的一句\"我在这儿等你\"。中国网友的善意跨过国界，给了这位日本女孩撑下去的理由。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 41018,
+          "like_count": 499,
+          "quote_count": 10,
+          "reply_count": 58,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "今天无意中浏览到一位日本女孩的贴文，居然看到了一个无比温暖的故事。\n\n这位网名“稍后再看”的日本网友，在吞下过量药片自杀前，写下的最后一句遗言是：\"我想学中文\"。没想到，正是这句话救了她，让她重新生活在阳光中。 https://t.co/lTuw1K04up"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100460497451761826",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 274,
+          "like_count": 22800,
+          "listed_count": 3,
+          "media_count": 688,
+          "tweet_count": 5998
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-03T02:01:00.000Z",
+        "description": "野生时评人\n我的优兔频道：https://t.co/ZdSthFa6rJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-dezhou?s…",
+                "end": 36,
+                "expanded_url": "https://youtube.com/@user-dezhou?si=B0XX2E-_OGkQZt0o",
+                "start": 13,
+                "url": "https://t.co/ZdSthFa6rJ"
+              }
+            ]
+          }
+        },
+        "id": "1521308732805849089",
+        "is_identity_verified": false,
+        "location": "山东",
+        "most_recent_tweet_id": "2100454398015258889",
+        "name": "田字格",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521308732805849089/1660900833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760517663045124096/HXQW4WQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86802,
+          "following_count": 11089,
+          "like_count": 116268,
+          "listed_count": 219,
+          "media_count": 18990,
+          "tweet_count": 35501
+        },
+        "url": "",
+        "username": "tianzige4",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

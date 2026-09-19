@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2094742980460777899",
+    "created_at": "2026-09-02T04:13:02.000Z",
+    "display_text_range": [
+      16,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095002032495350249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911038164661403648",
+          "start": 0,
+          "username": "quiet_corner26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095002032495350249",
+    "in_reply_to_user_id": "1911038164661403648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094742980460777899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quiet_corner26 中国会踢足球的都在教室里考试做题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094742980460777899",
+        "created_at": "2026-09-02T04:13:02.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095002032495350249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911038164661403648",
+              "start": 0,
+              "username": "quiet_corner26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095002032495350249",
+        "in_reply_to_user_id": "1911038164661403648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094742980460777899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quiet_corner26 中国会踢足球的都在教室里考试做题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911038164661403648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          }
+        ],
+        "conversation_id": "2094742980460777899",
+        "created_at": "2026-09-01T11:03:39.000Z",
+        "display_text_range": [
+          0,
+          168
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094742980460777899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094742980460777899",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "나라별 풀리지 않는 의문\n\n🇨🇳 중국\n→ 인구가 그렇게 많은데 왜 축구 잘하는 11명은 못 찾을까?\n\n🇯🇵 일본\n→ 로봇 강국인데 왜 아직도 팩스와 도장을 못 버릴까?\n\n🇩🇪 독일\n→ 자동차는 그렇게 빠른데 왜 기차는 제시간에 못 올까?\n\n🇬🇧 영국\n→ 향신료 찾으러 세계를 정복했는데 왜 정작 자기들 음식에는 안 넣을까?\n\n🇺🇸 미국\n→ 사람을 달까지 보냈는데 왜 아직도 미터법을 안 쓸까?"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1688,
+          "impression_count": 1919255,
+          "like_count": 20526,
+          "quote_count": 255,
+          "reply_count": 325,
+          "retweet_count": 2413
+        },
+        "reply_settings": "everyone",
+        "text": "나라별 풀리지 않는 의문\n\n🇨🇳 중국\n→ 인구가 그렇게 많은데 왜 축구 잘하는 11명은 못 찾을까?\n\n🇯🇵 일본\n→ 로봇 강국인데 왜 아직도 팩스와 도장을 못 버릴까?\n\n🇩🇪 독일\n→ 자동차는 그렇게 빠른데 왜 기차는 제시간에 못 올까?\n\n🇬🇧 영국\n→ 향신료 찾으러 세계를 정복했는데 왜 정작 자기들"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095002032495350249",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 285,
+          "like_count": 21421,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 5336
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T12:46:33.000Z",
+        "description": "친구야, 싸우지말자 욕하지말자",
+        "id": "1911038164661403648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094984993588265276",
+        "name": "방구석",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911038164661403648/1772251808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027597150667128832/meOjEvfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 3497,
+          "like_count": 40697,
+          "listed_count": 12,
+          "media_count": 1538,
+          "tweet_count": 32141
+        },
+        "url": "",
+        "username": "quiet_corner26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

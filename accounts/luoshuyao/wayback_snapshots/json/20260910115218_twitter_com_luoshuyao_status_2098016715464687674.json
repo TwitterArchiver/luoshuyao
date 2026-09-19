@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2097912273159299537",
+    "created_at": "2026-09-10T11:52:18.000Z",
+    "display_text_range": [
+      26,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098016715464687674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        },
+        {
+          "end": 25,
+          "id": "1891887081997336577",
+          "start": 14,
+          "username": "Payne24427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098016715464687674",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098015237043552274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 @Payne24427 完全友好正常的交流，不带目的性的，就像朋友一样。这样不会有太多距离感，这也是“活人感”的一种体现，这样大家都会乐意和你互动。\n举个反例就是评论发“互关一下”的这种互动。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2097912273159299537",
+        "created_at": "2026-09-10T11:52:18.000Z",
+        "display_text_range": [
+          26,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098016715464687674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 25,
+              "id": "1891887081997336577",
+              "start": 14,
+              "username": "Payne24427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098016715464687674",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098015237043552274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 @Payne24427 完全友好正常的交流，不带目的性的，就像朋友一样。这样不会有太多距离感，这也是“活人感”的一种体现，这样大家都会乐意和你互动。\n举个反例就是评论发“互关一下”的这种互动。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2097912273159299537",
+        "created_at": "2026-09-10T11:46:26.000Z",
+        "display_text_range": [
+          23,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098015237043552274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891887081997336577",
+              "start": 0,
+              "username": "Payne24427"
+            },
+            {
+              "end": 22,
+              "id": "1476546742577504265",
+              "start": 12,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098015237043552274",
+        "in_reply_to_user_id": "1891887081997336577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097988318898147617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Payne24427 @luoshuyao 就正常和别人相处聊天交朋友一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098016715464687674",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 273,
+          "like_count": 22072,
+          "listed_count": 3,
+          "media_count": 608,
+          "tweet_count": 5593
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098015604460376179",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11917,
+          "following_count": 145,
+          "like_count": 17880,
+          "listed_count": 31,
+          "media_count": 411,
+          "tweet_count": 5260
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T16:26:52.000Z",
+        "description": "长期价值投资者，分享我的思考，研究与逻辑。\n专注低估值，高质量的资产，持续输出。\nLife & business are driven by the seven deadly sins.",
+        "id": "1891887081997336577",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098000418399793622",
+        "name": "Payne Research",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891887081997336577/1775842893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093460872895070208/4FyANzC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 52,
+          "like_count": 332,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "Payne24427",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

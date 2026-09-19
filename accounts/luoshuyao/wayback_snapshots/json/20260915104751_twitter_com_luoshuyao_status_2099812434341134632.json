@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099755331534680249",
+    "created_at": "2026-09-15T10:47:51.000Z",
+    "display_text_range": [
+      16,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099812434341134632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaBasupisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099812434341134632",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099755331534680249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaBasupisu 自己拿两个号再演一遍就是原创了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2099755319765479424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPUVp3bsAAStx5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2116,
+        "media_key": "3_2099755325415108608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPUV-6aMAAK_on.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099755331534680249",
+        "created_at": "2026-09-15T10:47:51.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099812434341134632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaBasupisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099812434341134632",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099755331534680249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaBasupisu 自己拿两个号再演一遍就是原创了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099755319765479424",
+            "3_2099755325415108608"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "2099755331534680249",
+        "created_at": "2026-09-15T07:00:57.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099755331534680249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdMmNLRIpY",
+              "end": 50,
+              "expanded_url": "https://x.com/KawawaBasupisu/status/2099755331534680249/photo/1",
+              "media_key": "3_2099755319765479424",
+              "start": 27,
+              "url": "https://t.co/NdMmNLRIpY"
+            },
+            {
+              "display_url": "pic.x.com/NdMmNLRIpY",
+              "end": 50,
+              "expanded_url": "https://x.com/KawawaBasupisu/status/2099755331534680249/photo/1",
+              "media_key": "3_2099755325415108608",
+              "start": 27,
+              "url": "https://t.co/NdMmNLRIpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099755331534680249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099755319765479424"
+          },
+          {
+            "media_key": "3_2099755325415108608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 880,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "问:一组QQ聊天记录够X上的蓝标梗图号偷来炒作几天😁 https://t.co/NdMmNLRIpY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099812434341134632",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 275,
+          "like_count": 22618,
+          "listed_count": 3,
+          "media_count": 668,
+          "tweet_count": 5898
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "Minecraft船大工& Flight enthusiast👨‍✈️& 僵毁老司机& 资深洛批& AC7 & 洛圣都佐巴扬\n日本語⭕、English⭕、蜀语⭕\n⭐本人拒绝“搬屎”和为流量传播、捏造未经证实的虚假降智信息及盗窃他人创作成果等行为，此类蓝标“创作者”会直接踹进垃圾桶恕不另行通知\n粉蛆来卖妈必插",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6LaCqX"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "is_identity_verified": false,
+        "location": "卡洛西亚大陸",
+        "most_recent_tweet_id": "2099755331534680249",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1903109740160335943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397924779219292167/1771863465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093998716764200960/Yv0JxXOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12658,
+          "following_count": 1948,
+          "like_count": 53582,
+          "listed_count": 58,
+          "media_count": 1085,
+          "tweet_count": 6851
+        },
+        "url": "https://t.co/hLiv6LaCqX",
+        "username": "KawawaBasupisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

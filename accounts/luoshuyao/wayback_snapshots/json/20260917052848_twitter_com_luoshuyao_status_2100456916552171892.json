@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2100156049408110951",
+    "created_at": "2026-09-17T05:28:48.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100456916552171892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "91974874",
+          "start": 0,
+          "username": "woshiok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100456916552171892",
+    "in_reply_to_user_id": "91974874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100156049408110951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiok 鬼图打码😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2100154480121810944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU_X2EbEAA9hch.png",
+        "width": 649
+      },
+      {
+        "height": 796,
+        "media_key": "3_2100154814575620096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU_rUAbMAArXvj.png",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2100156049408110951",
+        "created_at": "2026-09-17T05:28:48.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100456916552171892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "91974874",
+              "start": 0,
+              "username": "woshiok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100456916552171892",
+        "in_reply_to_user_id": "91974874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100156049408110951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiok 鬼图打码😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100154480121810944",
+            "3_2100154814575620096"
+          ]
+        },
+        "author_id": "91974874",
+        "conversation_id": "2100156049408110951",
+        "created_at": "2026-09-16T09:33:15.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100156049408110951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3JeWcsRjK",
+              "end": 87,
+              "expanded_url": "https://x.com/woshiok/status/2100156049408110951/photo/1",
+              "media_key": "3_2100154480121810944",
+              "start": 64,
+              "url": "https://t.co/K3JeWcsRjK"
+            },
+            {
+              "display_url": "pic.x.com/K3JeWcsRjK",
+              "end": 87,
+              "expanded_url": "https://x.com/woshiok/status/2100156049408110951/photo/1",
+              "media_key": "3_2100154814575620096",
+              "start": 64,
+              "url": "https://t.co/K3JeWcsRjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100156049408110951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100154480121810944"
+          },
+          {
+            "media_key": "3_2100154814575620096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 123743,
+          "like_count": 773,
+          "quote_count": 4,
+          "reply_count": 72,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "不妙！腚姐轻松熊陈锦婷据说被马来西亚大学拒收了！小仙女要继续留在国内霍霍人了。不过，4岁孩父亲委托律师全权代理向陈锦婷反诉了。 https://t.co/K3JeWcsRjK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100456916552171892",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 274,
+          "like_count": 22796,
+          "listed_count": 3,
+          "media_count": 688,
+          "tweet_count": 5996
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-23T09:57:08.000Z",
+        "description": "唠嗑，玩梗，炒币",
+        "id": "91974874",
+        "is_identity_verified": false,
+        "location": "usa",
+        "most_recent_tweet_id": "2100456857513140346",
+        "name": "btcfox",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/91974874/1785291198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082318898062651392/chekuJDr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4299,
+          "following_count": 3807,
+          "like_count": 835,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2456
+        },
+        "url": "",
+        "username": "woshiok",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

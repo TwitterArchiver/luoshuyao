@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100188101704601601"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2099985646614147528",
+    "created_at": "2026-09-16T11:41:17.000Z",
+    "display_text_range": [
+      12,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100188268004601919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2099831754215530496",
+          "start": 0,
+          "username": "violet3784"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "xhslink.cn/o/6KtoYgU8Uzz",
+          "end": 48,
+          "expanded_url": "https://xhslink.cn/o/6KtoYgU8Uzz",
+          "start": 25,
+          "unwound_url": "https://www.xiaohongshu.com/discovery/item/6a670681000000001003e5f9?app_platform=android&ignoreEngage=true&app_version=9.34.4&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBGLsfCQ7J0QUcyezIi7t-nTwBJXpC5Q1sjWLGWNHZy7k%3D&author_share=1&source=noteDetail_Screenshot&shareRedId=OD40QkVJPTs2NzUyOTgwNjZIOThJPjo8&apptime=1789558802&share_id=00e0950a630a4adcb91a718bcd6e9aa3&share_channel=copy_link&appuid=682bbd92000000000e01e943&xhsshare=CopyLink",
+          "url": "https://t.co/mzKkD9Y0i5"
+        },
+        {
+          "display_url": "pic.x.com/3EwvWJAM5c",
+          "end": 88,
+          "expanded_url": "https://x.com/luoshuyao/status/2100188268004601919/photo/1",
+          "media_key": "3_2100188101704601601",
+          "start": 65,
+          "url": "https://t.co/3EwvWJAM5c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100188268004601919",
+    "in_reply_to_user_id": "2099831754215530496",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100188101704601601"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099985646614147528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@violet3784 她知道她注册了推特吗🤣😋\nhttps://t.co/mzKkD9Y0i5 \n戳进【小红书】发现精彩内容！ https://t.co/3EwvWJAM5c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2100188101704601601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVd84Oa0AEYAxN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2099985632835833856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSlzo6akAACtWQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2099985639597080576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSl0CGbAAA-H0G.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100188101704601601"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099985646614147528",
+        "created_at": "2026-09-16T11:41:17.000Z",
+        "display_text_range": [
+          12,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100188268004601919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2099831754215530496",
+              "start": 0,
+              "username": "violet3784"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "xhslink.cn/o/6KtoYgU8Uzz",
+              "end": 48,
+              "expanded_url": "https://xhslink.cn/o/6KtoYgU8Uzz",
+              "start": 25,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/6a670681000000001003e5f9?app_platform=android&ignoreEngage=true&app_version=9.34.4&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBGLsfCQ7J0QUcyezIi7t-nTwBJXpC5Q1sjWLGWNHZy7k%3D&author_share=1&source=noteDetail_Screenshot&shareRedId=OD40QkVJPTs2NzUyOTgwNjZIOThJPjo8&apptime=1789558802&share_id=00e0950a630a4adcb91a718bcd6e9aa3&share_channel=copy_link&appuid=682bbd92000000000e01e943&xhsshare=CopyLink",
+              "url": "https://t.co/mzKkD9Y0i5"
+            },
+            {
+              "display_url": "pic.x.com/3EwvWJAM5c",
+              "end": 88,
+              "expanded_url": "https://x.com/luoshuyao/status/2100188268004601919/photo/1",
+              "media_key": "3_2100188101704601601",
+              "start": 65,
+              "url": "https://t.co/3EwvWJAM5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100188268004601919",
+        "in_reply_to_user_id": "2099831754215530496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100188101704601601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099985646614147528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@violet3784 她知道她注册了推特吗🤣😋\nhttps://t.co/mzKkD9Y0i5 \n戳进【小红书】发现精彩内容！ https://t.co/3EwvWJAM5c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099985632835833856",
+            "3_2099985639597080576"
+          ]
+        },
+        "author_id": "2099831754215530496",
+        "conversation_id": "2099985646614147528",
+        "created_at": "2026-09-15T22:16:08.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099985646614147528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkCPvTeduN",
+              "end": 34,
+              "expanded_url": "https://x.com/violet3784/status/2099985646614147528/photo/1",
+              "media_key": "3_2099985632835833856",
+              "start": 11,
+              "url": "https://t.co/WkCPvTeduN"
+            },
+            {
+              "display_url": "pic.x.com/WkCPvTeduN",
+              "end": 34,
+              "expanded_url": "https://x.com/violet3784/status/2099985646614147528/photo/1",
+              "media_key": "3_2099985639597080576",
+              "start": 11,
+              "url": "https://t.co/WkCPvTeduN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099985646614147528",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099985632835833856"
+          },
+          {
+            "media_key": "3_2099985639597080576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 34497,
+          "like_count": 437,
+          "quote_count": 0,
+          "reply_count": 319,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "早八也要打扮的美美哒 https://t.co/WkCPvTeduN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100188268004601919",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 274,
+          "like_count": 22756,
+          "listed_count": 3,
+          "media_count": 680,
+          "tweet_count": 5962
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-15T12:08:30.000Z",
+        "description": "07女大学生一只  第一次听舍友说这个平台 费了好长时间才注册了一个新账号 欢迎大家交朋友～",
+        "id": "2099831754215530496",
+        "is_identity_verified": false,
+        "location": "河南",
+        "most_recent_tweet_id": "2099994610429010272",
+        "name": "萌萌爱吃螺蛳粉",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099832976972607488/tm5tr9X__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "violet3784",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

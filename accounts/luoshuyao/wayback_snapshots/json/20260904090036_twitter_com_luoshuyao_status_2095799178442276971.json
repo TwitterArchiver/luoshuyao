@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2095778767633568254",
+    "created_at": "2026-09-04T09:00:36.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T10:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095799178442276971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082756076987129856",
+          "start": 0,
+          "username": "Kismethelios"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095799178442276971",
+    "in_reply_to_user_id": "2082756076987129856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095778767633568254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kismethelios 被人机盯上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2095778767633568254",
+        "created_at": "2026-09-04T09:00:36.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095799178442276971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082756076987129856",
+              "start": 0,
+              "username": "Kismethelios"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095799178442276971",
+        "in_reply_to_user_id": "2082756076987129856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095778767633568254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kismethelios 被人机盯上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082756076987129856",
+        "conversation_id": "2095778767633568254",
+        "created_at": "2026-09-04T07:39:30.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095778767633568254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095778767633568254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再评论打飞机了我好无助啊 我打开饭团的评论区以为大家说卷什么好吃来着 一刷全是打飞机 我笑的好崩溃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095799178442276971",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 270,
+          "like_count": 21694,
+          "listed_count": 3,
+          "media_count": 586,
+          "tweet_count": 5445
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T09:18:12.000Z",
+        "description": "日子总是时坏时好好好好好好好好(๑-ㅅ-๑)...zZ\n07｜istj（非典型性j人）｜不玩sm不约\n📮我的匿名信箱 欢迎来玩https://t.co/pKOW8xJPIw\n我宝宝@Antarcticafrcp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Antarcticafrcp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akfcook",
+                "end": 86,
+                "expanded_url": "https://ngl.link/akfcook",
+                "start": 63,
+                "url": "https://t.co/pKOW8xJPIw"
+              }
+            ]
+          }
+        },
+        "id": "2082756076987129856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095795880049905672",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2094115396051927448",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082756076987129856/1786351649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094620232426082304/TTdx2Qle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 36,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "Kismethelios",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

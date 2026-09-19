@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099490370317156352"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099400728502780246",
+    "created_at": "2026-09-14T13:29:18.000Z",
+    "display_text_range": [
+      17,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099490675389866051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "584624945",
+          "start": 0,
+          "username": "mahmoud69104228"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "v.douyin.com/OFtLWSA2QSo/",
+          "end": 119,
+          "expanded_url": "https://v.douyin.com/OFtLWSA2QSo/",
+          "start": 96,
+          "url": "https://t.co/HW0s1NGe2b"
+        },
+        {
+          "display_url": "pic.x.com/S3M9ShmT9R",
+          "end": 167,
+          "expanded_url": "https://x.com/luoshuyao/status/2099490675389866051/photo/1",
+          "media_key": "3_2099490370317156352",
+          "start": 144,
+          "url": "https://t.co/S3M9ShmT9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099490675389866051",
+    "in_reply_to_user_id": "584624945",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099490370317156352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099400728502780246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mahmoud69104228 唉，还是忍不住想发。\n原图发布于抖音，8月26日。真不要脸，这跟造别人黄谣有什么区别。\n1.56 复制打开抖音，看看【英雄之旅的图文作品】收到投喂，开心😄  https://t.co/HW0s1NGe2b yTy:/ 09/27 g@B.Gv :0pm https://t.co/S3M9ShmT9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1863,
+        "media_key": "3_2099490370317156352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLjXkQbgAArya-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2099400290688704512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKRcPfaIAAPtOT.jpg",
+        "width": 1036
+      },
+      {
+        "height": 652,
+        "media_key": "3_2099400292827807745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKRcXdaQAE1zPb.png",
+        "width": 494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099490370317156352"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099400728502780246",
+        "created_at": "2026-09-14T13:29:18.000Z",
+        "display_text_range": [
+          17,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099490675389866051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "584624945",
+              "start": 0,
+              "username": "mahmoud69104228"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "v.douyin.com/OFtLWSA2QSo/",
+              "end": 119,
+              "expanded_url": "https://v.douyin.com/OFtLWSA2QSo/",
+              "start": 96,
+              "url": "https://t.co/HW0s1NGe2b"
+            },
+            {
+              "display_url": "pic.x.com/S3M9ShmT9R",
+              "end": 167,
+              "expanded_url": "https://x.com/luoshuyao/status/2099490675389866051/photo/1",
+              "media_key": "3_2099490370317156352",
+              "start": 144,
+              "url": "https://t.co/S3M9ShmT9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099490675389866051",
+        "in_reply_to_user_id": "584624945",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099490370317156352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099400728502780246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mahmoud69104228 唉，还是忍不住想发。\n原图发布于抖音，8月26日。真不要脸，这跟造别人黄谣有什么区别。\n1.56 复制打开抖音，看看【英雄之旅的图文作品】收到投喂，开心😄  https://t.co/HW0s1NGe2b yTy:/ 09/27 g@B.Gv :0pm https://t.co/S3M9ShmT9R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099400290688704512",
+            "3_2099400292827807745"
+          ]
+        },
+        "author_id": "584624945",
+        "conversation_id": "2099400728502780246",
+        "created_at": "2026-09-14T07:31:53.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099400728502780246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCUoXVqGBj",
+              "end": 66,
+              "expanded_url": "https://x.com/mahmoud69104228/status/2099400728502780246/photo/1",
+              "media_key": "3_2099400290688704512",
+              "start": 43,
+              "url": "https://t.co/NCUoXVqGBj"
+            },
+            {
+              "display_url": "pic.x.com/NCUoXVqGBj",
+              "end": 66,
+              "expanded_url": "https://x.com/mahmoud69104228/status/2099400728502780246/photo/1",
+              "media_key": "3_2099400292827807745",
+              "start": 43,
+              "url": "https://t.co/NCUoXVqGBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099400728502780246",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099400290688704512"
+          },
+          {
+            "media_key": "3_2099400292827807745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9989,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "希望我学生家长永远不会翻墙，永远不会在深夜点开某软件......永远不会发现推上的我 https://t.co/NCUoXVqGBj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099490675389866051",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 280,
+          "like_count": 22508,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 5838
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-05-19T10:11:08.000Z",
+        "description": "只想一心一意做一名有教育情怀的老师，已婚微寡的生活久陷平淡，慢慢心向墙外鲜活。不谈工作，不晒俗事，寻同频知己",
+        "id": "584624945",
+        "is_identity_verified": false,
+        "location": "9.8km",
+        "most_recent_tweet_id": "2099488073386201572",
+        "name": "清欢老师",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584624945/1789073686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098153216538238977/nS_RV3jt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 100,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "mahmoud69104228",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

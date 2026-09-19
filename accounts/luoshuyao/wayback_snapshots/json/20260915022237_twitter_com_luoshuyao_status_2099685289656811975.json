@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099684848155914240"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099680202200842560",
+    "created_at": "2026-09-15T02:22:37.000Z",
+    "display_text_range": [
+      9,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T03:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099685289656811975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2098416259696390144",
+          "start": 0,
+          "username": "juju0qo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H0iFSrAx5x",
+          "end": 59,
+          "expanded_url": "https://x.com/luoshuyao/status/2099685289656811975/photo/1",
+          "media_key": "3_2099684848155914240",
+          "start": 36,
+          "url": "https://t.co/H0iFSrAx5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099685289656811975",
+    "in_reply_to_user_id": "2098416259696390144",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099684848155914240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099680202200842560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juju0qo 用AI和跨来炒作流量吗？0秒猜出私信会给别人发什么。 https://t.co/H0iFSrAx5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2264,
+        "media_key": "3_2099684848155914240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOUPqqacAAQYl_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1432,
+        "media_key": "3_2099680196152762368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOQA4mboAAqZbD.jpg",
+        "width": 983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099684848155914240"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099680202200842560",
+        "created_at": "2026-09-15T02:22:37.000Z",
+        "display_text_range": [
+          9,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099685289656811975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2098416259696390144",
+              "start": 0,
+              "username": "juju0qo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0iFSrAx5x",
+              "end": 59,
+              "expanded_url": "https://x.com/luoshuyao/status/2099685289656811975/photo/1",
+              "media_key": "3_2099684848155914240",
+              "start": 36,
+              "url": "https://t.co/H0iFSrAx5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099685289656811975",
+        "in_reply_to_user_id": "2098416259696390144",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099684848155914240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099680202200842560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juju0qo 用AI和跨来炒作流量吗？0秒猜出私信会给别人发什么。 https://t.co/H0iFSrAx5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099680196152762368"
+          ]
+        },
+        "author_id": "2098416259696390144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2099680202200842560",
+        "created_at": "2026-09-15T02:02:25.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099680202200842560"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "偽娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "三性"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "跨性別"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "男跨女"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "jk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LM7thWgGwD",
+              "end": 60,
+              "expanded_url": "https://x.com/juju0qo/status/2099680202200842560/photo/1",
+              "media_key": "3_2099680196152762368",
+              "start": 37,
+              "url": "https://t.co/LM7thWgGwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099680202200842560",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099680196152762368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這樣穿，會不會太乖了？👀🖤\n#偽娘  #三性 #跨性別 #男跨女 #jk https://t.co/LM7thWgGwD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099685289656811975",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 280,
+          "like_count": 22564,
+          "listed_count": 3,
+          "media_count": 663,
+          "tweet_count": 5879
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-11T14:21:35.000Z",
+        "description": "TPE | Transgender women\n三性\n私訊請附照片",
+        "id": "2098416259696390144",
+        "is_identity_verified": false,
+        "location": "台北",
+        "most_recent_tweet_id": "2099680202200842560",
+        "name": "juju",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098416259696390144/1789136992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098418470048428032/mUPQe1q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 45,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "juju0qo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

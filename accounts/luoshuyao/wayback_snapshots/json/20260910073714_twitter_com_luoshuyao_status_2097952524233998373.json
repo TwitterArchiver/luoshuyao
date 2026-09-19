@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2097939435354718291",
+    "created_at": "2026-09-10T07:37:14.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097952524233998373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736013613922729984",
+          "start": 0,
+          "username": "LING_bdnit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097952524233998373",
+    "in_reply_to_user_id": "1736013613922729984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097939435354718291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LING_bdnit 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2097939435354718291",
+        "created_at": "2026-09-10T07:37:14.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097952524233998373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736013613922729984",
+              "start": 0,
+              "username": "LING_bdnit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097952524233998373",
+        "in_reply_to_user_id": "1736013613922729984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097939435354718291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LING_bdnit 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736013613922729984",
+        "conversation_id": "2097939435354718291",
+        "created_at": "2026-09-10T06:45:13.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097939435354718291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097939435354718291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "报告同志们一个好消息！！！今天本人十九岁生日！居然是19年一回的农历阳历二合一生日！\n现已支持微信、Visa、银联支付，作为我买生日礼物的资金。没有的话，给我买一张岭南通也行\n🎉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097952524233998373",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 273,
+          "like_count": 22026,
+          "listed_count": 3,
+          "media_count": 606,
+          "tweet_count": 5576
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-16T13:21:22.000Z",
+        "description": "｜这是人类的落日。｜\n\n🇨🇳潮汕人｜精神深圳人｜🏳️‍🌈bi｜超超超喜欢叶文洁｜会发日常和各种奇奇怪怪的东西｜野路子宗教学和精神病学",
+        "id": "1736013613922729984",
+        "is_identity_verified": false,
+        "location": "已然遥远的理想乡 Lost Camelot",
+        "most_recent_tweet_id": "2097939435354718291",
+        "name": "泠栀子终于被放出小黑屋了但是他妈的新学年怎么开始了啊酷锁亚路",
+        "pinned_tweet_id": "1997663355054498273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736013613922729984/1780561812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062451570105888768/VmuHrpNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1250,
+          "like_count": 334129,
+          "listed_count": 4,
+          "media_count": 659,
+          "tweet_count": 9228
+        },
+        "url": "",
+        "username": "LING_bdnit",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

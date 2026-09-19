@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2094636813638160683",
+    "created_at": "2026-09-01T04:42:21.000Z",
+    "display_text_range": [
+      15,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094647021009592459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094647021009592459",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094636813638160683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 昨天在微信偶然瞥到一个文章，是说抖音出问题了，算法机制全乱了，不过我没点进去看，现在看来确实如此。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18468,
+        "height": 2512,
+        "media_key": "13_2094636730779590656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094636730779590656/img/Jhxr1IRVKYQd-22F.jpg",
+        "public_metrics": {
+          "view_count": 57
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094636730779590656/pl/8bjM3-bx14L93Rg-.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094636730779590656/vid/avc1/1282x2512/WhK5bF5HQyJoTAiN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094636730779590656/vid/avc1/720x1410/D0rG9-zIQVfls1rQ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094636730779590656/vid/avc1/320x626/j-SmlOm3GcEl2FGM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094636730779590656/vid/avc1/480x940/iAERGnVoSHgcmfp-.mp4"
+          }
+        ],
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094636813638160683",
+        "created_at": "2026-09-01T04:42:21.000Z",
+        "display_text_range": [
+          15,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094647021009592459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094647021009592459",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094636813638160683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 昨天在微信偶然瞥到一个文章，是说抖音出问题了，算法机制全乱了，不过我没点进去看，现在看来确实如此。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094636730779590656"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2094636813638160683",
+        "created_at": "2026-09-01T04:01:47.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094636813638160683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBSjOcGQ6F",
+              "end": 177,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2094636813638160683/video/1",
+              "media_key": "13_2094636730779590656",
+              "start": 154,
+              "url": "https://t.co/eBSjOcGQ6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094636813638160683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094636730779590656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的在流泪了...天啦噜，我的抖音发生什么故障，全部都是我从来没有刷到过的中老年视频...\n真的超级超级奇怪的说，为什么会这样呢。\n我再也不想打开我的抖音了... (｡í _ ì｡) \n我觉得好可怕...无论我怎么给我之前喜欢的内容点赞也回不去曾经的主页。\n我真的哭了...我的抖音被困在秘密的结界里了。 https://t.co/eBSjOcGQ6F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094647021009592459",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 285,
+          "like_count": 21372,
+          "listed_count": 3,
+          "media_count": 563,
+          "tweet_count": 5311
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094639102092280320",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 770,
+          "like_count": 38911,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1648
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

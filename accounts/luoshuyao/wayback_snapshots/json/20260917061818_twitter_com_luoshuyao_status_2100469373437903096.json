@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100469127341322240",
+        "3_2100469127353896960"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100392135287869772",
+    "created_at": "2026-09-17T06:18:18.000Z",
+    "display_text_range": [
+      17,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100469373437903096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576102262581080065",
+          "start": 0,
+          "username": "Amelia181672271"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EgBUxj5t9n",
+          "end": 80,
+          "expanded_url": "https://x.com/luoshuyao/status/2100469373437903096/photo/1",
+          "media_key": "3_2100469127341322240",
+          "start": 57,
+          "url": "https://t.co/EgBUxj5t9n"
+        },
+        {
+          "display_url": "pic.x.com/EgBUxj5t9n",
+          "end": 80,
+          "expanded_url": "https://x.com/luoshuyao/status/2100469373437903096/photo/1",
+          "media_key": "3_2100469127353896960",
+          "start": 57,
+          "url": "https://t.co/EgBUxj5t9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100469373437903096",
+    "in_reply_to_user_id": "1576102262581080065",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100469127341322240"
+      },
+      {
+        "media_key": "3_2100469127353896960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100392135287869772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amelia181672271 可以理性表达自己的观点，但为何要使用AI生成的图片来编造这种无中生有的内容呢？ https://t.co/EgBUxj5t9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_2100469127341322240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZdiuTasAA9kcz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1603,
+        "media_key": "3_2100469127353896960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZdiuWakAAI_Jm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 890,
+        "media_key": "3_2100391774103785472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYXMLCb0AA2ZgF.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100469127341322240",
+            "3_2100469127353896960"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100392135287869772",
+        "created_at": "2026-09-17T06:18:18.000Z",
+        "display_text_range": [
+          17,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100469373437903096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576102262581080065",
+              "start": 0,
+              "username": "Amelia181672271"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgBUxj5t9n",
+              "end": 80,
+              "expanded_url": "https://x.com/luoshuyao/status/2100469373437903096/photo/1",
+              "media_key": "3_2100469127341322240",
+              "start": 57,
+              "url": "https://t.co/EgBUxj5t9n"
+            },
+            {
+              "display_url": "pic.x.com/EgBUxj5t9n",
+              "end": 80,
+              "expanded_url": "https://x.com/luoshuyao/status/2100469373437903096/photo/1",
+              "media_key": "3_2100469127353896960",
+              "start": 57,
+              "url": "https://t.co/EgBUxj5t9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100469373437903096",
+        "in_reply_to_user_id": "1576102262581080065",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100469127341322240"
+          },
+          {
+            "media_key": "3_2100469127353896960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100392135287869772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amelia181672271 可以理性表达自己的观点，但为何要使用AI生成的图片来编造这种无中生有的内容呢？ https://t.co/EgBUxj5t9n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100391774103785472"
+          ]
+        },
+        "author_id": "1576102262581080065",
+        "conversation_id": "2100392135287869772",
+        "created_at": "2026-09-17T01:11:23.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100392135287869772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STacyE7kLt",
+              "end": 63,
+              "expanded_url": "https://x.com/Amelia181672271/status/2100392135287869772/photo/1",
+              "media_key": "3_2100391774103785472",
+              "start": 40,
+              "url": "https://t.co/STacyE7kLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100392135287869772",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100391774103785472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3797,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "這些是支持民進黨，要搞台獨的GAY鳥，大家知道民進黨的支持者都是些什麼人了嗎？ https://t.co/STacyE7kLt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100469373437903096",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 274,
+          "like_count": 22804,
+          "listed_count": 3,
+          "media_count": 690,
+          "tweet_count": 6005
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-01T06:51:12.000Z",
+        "description": "Taiwanese journalist, this is a commentary account.\n\n追蹤我，每天了解台灣新資訊。",
+        "id": "1576102262581080065",
+        "is_identity_verified": false,
+        "location": "台灣台北市大安區仁愛路",
+        "most_recent_tweet_id": "2100450586802131253",
+        "name": "Amelia",
+        "pinned_tweet_id": "1894658424778232081",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576102262581080065/1664705854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087507042651279360/dW2P3pJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36930,
+          "following_count": 114,
+          "like_count": 18001,
+          "listed_count": 167,
+          "media_count": 6412,
+          "tweet_count": 17038
+        },
+        "url": "",
+        "username": "Amelia181672271",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

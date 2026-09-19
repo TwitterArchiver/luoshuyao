@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2100145585894600784",
+    "created_at": "2026-09-16T09:20:28.000Z",
+    "display_text_range": [
+      10,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100152832313921882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100152832313921882",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100145585894600784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 很简单你看那个签子的位置，这么厚做好了拿都拿不起来。更何况糖画本来就做不成这样。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100145576260378624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU3RkmboAAU9CY.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100145576251973633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU3RkkbYAETokC.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2100145585894600784",
+        "created_at": "2026-09-16T09:20:28.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100152832313921882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100152832313921882",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100145585894600784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 很简单你看那个签子的位置，这么厚做好了拿都拿不起来。更何况糖画本来就做不成这样。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100145576260378624",
+            "3_2100145576251973633"
+          ]
+        },
+        "author_id": "1989517742127652866",
+        "conversation_id": "2100145585894600784",
+        "created_at": "2026-09-16T08:51:41.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100145585894600784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZEx7tYDAG",
+              "end": 25,
+              "expanded_url": "https://x.com/AGNK_553/status/2100145585894600784/photo/1",
+              "media_key": "3_2100145576260378624",
+              "start": 2,
+              "url": "https://t.co/gZEx7tYDAG"
+            },
+            {
+              "display_url": "pic.x.com/gZEx7tYDAG",
+              "end": 25,
+              "expanded_url": "https://x.com/AGNK_553/status/2100145585894600784/photo/1",
+              "media_key": "3_2100145576251973633",
+              "start": 2,
+              "url": "https://t.co/gZEx7tYDAG"
+            },
+            {
+              "display_url": "x.com/dcbae7777777/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/dcbae7777777/status/2099854855414423641",
+              "start": 26,
+              "url": "https://t.co/iq8Oa5Sg8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100145585894600784",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100145576260378624"
+          },
+          {
+            "media_key": "3_2100145576251973633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099854855414423641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蛤 https://t.co/gZEx7tYDAG https://t.co/iq8Oa5Sg8Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100152832313921882",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 274,
+          "like_count": 22736,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 5953
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "求回fo喵wwww\n2025.11 重生喵~\n一般路过 553/Ag/any\n09.12\n音ゲー/Minecraft/VRC/DTM(初心者)/FPV(痛苦禁飞中）\n（负能量预警）\n喵就是心情好\nCN/EN 欢迎私信www\n查成分通过/回fo 没回可私信\n粉红/卖的/看黄男勿扰\n备用@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/uQ1odbyt5k"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "is_identity_verified": false,
+        "location": "✝️昇天✝️",
+        "most_recent_tweet_id": "2100146841526632868",
+        "name": "AG553",
+        "pinned_tweet_id": "2090464501372211394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989517742127652866/1781934414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074846041879511040/MyFS7zss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1681,
+          "like_count": 46058,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 4197
+        },
+        "url": "https://t.co/uQ1odbyt5k",
+        "username": "AGNK_553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

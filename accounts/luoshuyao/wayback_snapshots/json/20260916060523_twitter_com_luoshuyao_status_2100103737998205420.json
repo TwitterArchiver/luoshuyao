@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099854855414423641",
+    "created_at": "2026-09-16T06:05:23.000Z",
+    "display_text_range": [
+      14,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100103737998205420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "891543574873026560",
+          "start": 0,
+          "username": "dcbae7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100103737998205420",
+    "in_reply_to_user_id": "891543574873026560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099854855414423641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dcbae7777777 不要侮辱非遗了现实糖画根本做不出这种效果😓这种低质蓝V除了搬运还有拿这种AI图编故事还能创作出什么内容。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2099854562312208384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQumVKaQAAV_Ij.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099854855414423641",
+        "created_at": "2026-09-16T06:05:23.000Z",
+        "display_text_range": [
+          14,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100103737998205420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "891543574873026560",
+              "start": 0,
+              "username": "dcbae7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100103737998205420",
+        "in_reply_to_user_id": "891543574873026560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099854855414423641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dcbae7777777 不要侮辱非遗了现实糖画根本做不出这种效果😓这种低质蓝V除了搬运还有拿这种AI图编故事还能创作出什么内容。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099854562312208384"
+          ]
+        },
+        "author_id": "891543574873026560",
+        "conversation_id": "2099854855414423641",
+        "created_at": "2026-09-15T13:36:25.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099854855414423641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AENsLAnBfU",
+              "end": 68,
+              "expanded_url": "https://x.com/dcbae7777777/status/2099854855414423641/photo/1",
+              "media_key": "3_2099854562312208384",
+              "start": 45,
+              "url": "https://t.co/AENsLAnBfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099854855414423641",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099854562312208384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1027,
+          "impression_count": 174686,
+          "like_count": 6485,
+          "quote_count": 34,
+          "reply_count": 132,
+          "retweet_count": 622
+        },
+        "reply_settings": "everyone",
+        "text": "这是非物质文化遗产“糖画”的传承人小王的作品\n\n传他手艺的爷爷在看到这副作品后进了ICU https://t.co/AENsLAnBfU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100103737998205420",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 274,
+          "like_count": 22730,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 5945
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-30T06:18:47.000Z",
+        "description": "奔向喜马拉雅",
+        "id": "891543574873026560",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2100091218231488886",
+        "name": "歪歪✝️",
+        "pinned_tweet_id": "2075786661410357570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/891543574873026560/1734606042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018665882780901377/7LKXxFqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6397,
+          "following_count": 3680,
+          "like_count": 13338,
+          "listed_count": 13,
+          "media_count": 1832,
+          "tweet_count": 16434
+        },
+        "url": "",
+        "username": "dcbae7777777",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

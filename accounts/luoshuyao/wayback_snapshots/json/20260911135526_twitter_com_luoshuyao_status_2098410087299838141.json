@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098409625272135680",
+        "3_2098409625284657152",
+        "3_2098409625276325888",
+        "3_2098409625267908608"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2098410087299838141",
+    "created_at": "2026-09-11T13:55:26.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098410087299838141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKYPRWkyyp",
+          "end": 118,
+          "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+          "media_key": "3_2098409625272135680",
+          "start": 95,
+          "url": "https://t.co/OKYPRWkyyp"
+        },
+        {
+          "display_url": "pic.x.com/OKYPRWkyyp",
+          "end": 118,
+          "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+          "media_key": "3_2098409625284657152",
+          "start": 95,
+          "url": "https://t.co/OKYPRWkyyp"
+        },
+        {
+          "display_url": "pic.x.com/OKYPRWkyyp",
+          "end": 118,
+          "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+          "media_key": "3_2098409625276325888",
+          "start": 95,
+          "url": "https://t.co/OKYPRWkyyp"
+        },
+        {
+          "display_url": "pic.x.com/OKYPRWkyyp",
+          "end": 118,
+          "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+          "media_key": "3_2098409625267908608",
+          "start": 95,
+          "url": "https://t.co/OKYPRWkyyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098410087299838141",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098409625272135680"
+      },
+      {
+        "media_key": "3_2098409625284657152"
+      },
+      {
+        "media_key": "3_2098409625276325888"
+      },
+      {
+        "media_key": "3_2098409625267908608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "紺色に憧れて (憧憬深蓝之色)——『ユイカ』\n抄日语歌空一行是因为想随便写翻译来着，但是写的话工作量太大了就放弃了，刚刚试了一下直接花了我一个小时(ー△ー；)不过一口气抄完的心态还算可以。 https://t.co/OKYPRWkyyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098409625272135680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8Mb7ObMAA_Irl.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098409625284657152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8Mb7RaQAAxoC_.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098409625276325888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8Mb7PbIAAOC1P.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098409625267908608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8Mb7NasAAV_H2.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098409625272135680",
+            "3_2098409625284657152",
+            "3_2098409625276325888",
+            "3_2098409625267908608"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2098410087299838141",
+        "created_at": "2026-09-11T13:55:26.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098410087299838141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKYPRWkyyp",
+              "end": 118,
+              "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+              "media_key": "3_2098409625272135680",
+              "start": 95,
+              "url": "https://t.co/OKYPRWkyyp"
+            },
+            {
+              "display_url": "pic.x.com/OKYPRWkyyp",
+              "end": 118,
+              "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+              "media_key": "3_2098409625284657152",
+              "start": 95,
+              "url": "https://t.co/OKYPRWkyyp"
+            },
+            {
+              "display_url": "pic.x.com/OKYPRWkyyp",
+              "end": 118,
+              "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+              "media_key": "3_2098409625276325888",
+              "start": 95,
+              "url": "https://t.co/OKYPRWkyyp"
+            },
+            {
+              "display_url": "pic.x.com/OKYPRWkyyp",
+              "end": 118,
+              "expanded_url": "https://x.com/luoshuyao/status/2098410087299838141/photo/1",
+              "media_key": "3_2098409625267908608",
+              "start": 95,
+              "url": "https://t.co/OKYPRWkyyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098410087299838141",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098409625272135680"
+          },
+          {
+            "media_key": "3_2098409625284657152"
+          },
+          {
+            "media_key": "3_2098409625276325888"
+          },
+          {
+            "media_key": "3_2098409625267908608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紺色に憧れて (憧憬深蓝之色)——『ユイカ』\n抄日语歌空一行是因为想随便写翻译来着，但是写的话工作量太大了就放弃了，刚刚试了一下直接花了我一个小时(ー△ー；)不过一口气抄完的心态还算可以。 https://t.co/OKYPRWkyyp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098410087299838141",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 275,
+          "like_count": 22151,
+          "listed_count": 3,
+          "media_count": 618,
+          "tweet_count": 5628
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

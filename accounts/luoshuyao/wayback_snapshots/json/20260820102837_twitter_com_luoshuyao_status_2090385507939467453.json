@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090384756257284096",
+        "3_2090384756294975488",
+        "3_2090384756307595264"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090385507939467453",
+    "created_at": "2026-08-20T10:28:37.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T11:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090385507939467453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryyHQrgGQz",
+          "end": 57,
+          "expanded_url": "https://x.com/luoshuyao/status/2090385507939467453/photo/1",
+          "media_key": "3_2090384756257284096",
+          "start": 34,
+          "url": "https://t.co/ryyHQrgGQz"
+        },
+        {
+          "display_url": "pic.x.com/ryyHQrgGQz",
+          "end": 57,
+          "expanded_url": "https://x.com/luoshuyao/status/2090385507939467453/photo/1",
+          "media_key": "3_2090384756294975488",
+          "start": 34,
+          "url": "https://t.co/ryyHQrgGQz"
+        },
+        {
+          "display_url": "pic.x.com/ryyHQrgGQz",
+          "end": 57,
+          "expanded_url": "https://x.com/luoshuyao/status/2090385507939467453/photo/1",
+          "media_key": "3_2090384756307595264",
+          "start": 34,
+          "url": "https://t.co/ryyHQrgGQz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090385507939467453",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090384756257284096"
+      },
+      {
+        "media_key": "3_2090384756294975488"
+      },
+      {
+        "media_key": "3_2090384756307595264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃个小蛋糕🤤一般只有生日才吃得上（也不一定有），还有私信提醒服务😌 https://t.co/ryyHQrgGQz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2876,
+        "media_key": "3_2090384756257284096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKJ3EibYAAiNnh.jpg",
+        "width": 3526
+      },
+      {
+        "height": 408,
+        "media_key": "3_2090384756294975488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKJ3EragAAncyt.jpg",
+        "width": 946
+      },
+      {
+        "height": 881,
+        "media_key": "3_2090384756307595264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKJ3EubEAAxXkv.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090384756257284096",
+            "3_2090384756294975488",
+            "3_2090384756307595264"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090385507939467453",
+        "created_at": "2026-08-20T10:28:37.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090385507939467453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryyHQrgGQz",
+              "end": 57,
+              "expanded_url": "https://x.com/luoshuyao/status/2090385507939467453/photo/1",
+              "media_key": "3_2090384756257284096",
+              "start": 34,
+              "url": "https://t.co/ryyHQrgGQz"
+            },
+            {
+              "display_url": "pic.x.com/ryyHQrgGQz",
+              "end": 57,
+              "expanded_url": "https://x.com/luoshuyao/status/2090385507939467453/photo/1",
+              "media_key": "3_2090384756294975488",
+              "start": 34,
+              "url": "https://t.co/ryyHQrgGQz"
+            },
+            {
+              "display_url": "pic.x.com/ryyHQrgGQz",
+              "end": 57,
+              "expanded_url": "https://x.com/luoshuyao/status/2090385507939467453/photo/1",
+              "media_key": "3_2090384756307595264",
+              "start": 34,
+              "url": "https://t.co/ryyHQrgGQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090385507939467453",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090384756257284096"
+          },
+          {
+            "media_key": "3_2090384756294975488"
+          },
+          {
+            "media_key": "3_2090384756307595264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃个小蛋糕🤤一般只有生日才吃得上（也不一定有），还有私信提醒服务😌 https://t.co/ryyHQrgGQz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090385507939467453",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 283,
+          "like_count": 21171,
+          "listed_count": 3,
+          "media_count": 540,
+          "tweet_count": 5214
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

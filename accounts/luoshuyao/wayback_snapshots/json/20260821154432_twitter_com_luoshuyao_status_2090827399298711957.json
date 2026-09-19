@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090825589813088256"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2090827399298711957",
+    "created_at": "2026-08-21T15:44:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090827399298711957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gfj2TmvV8L",
+          "end": 164,
+          "expanded_url": "https://x.com/luoshuyao/status/2090827399298711957/photo/1",
+          "media_key": "3_2090825589813088256",
+          "start": 141,
+          "url": "https://t.co/gfj2TmvV8L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090827399298711957",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090825589813088256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "谢谢你呀，不用因你的善意而感到抱歉，我知道你是想要肯定我才这样说的，你的心意我收到了。其实我没有很怀疑自己，主要是因为我感觉自己现在很不会说话很不会表达了。感觉这几个月的心理状态变得越来越差了情绪也总是不好，说不出什么温柔的话来。其实我还是总会刷到很多负能量的帖子但是我想了很久都不知道该怎么去评论，以前刷到一部分还能安慰一下。感觉我已经没怎么做温柔的事情了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你呀，不用因你的善意而感到抱歉，我知道你是想要肯定我才这样说的，你的心意我收到了。其实我没有很怀疑自己，主要是因为我感觉自己现在很不会说话很不会表达了。感觉这几个月的心理状态变得越来越差了情绪也总是不好，说不出什么温柔的话来。其实我还是总会刷到很多负能量的帖子但是我想了很久都 https://t.co/gfj2TmvV8L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2090825589813088256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQay9gbEAArfXE.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090825589813088256"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2090827399298711957",
+        "created_at": "2026-08-21T15:44:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090827399298711957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfj2TmvV8L",
+              "end": 164,
+              "expanded_url": "https://x.com/luoshuyao/status/2090827399298711957/photo/1",
+              "media_key": "3_2090825589813088256",
+              "start": 141,
+              "url": "https://t.co/gfj2TmvV8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090827399298711957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090825589813088256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "谢谢你呀，不用因你的善意而感到抱歉，我知道你是想要肯定我才这样说的，你的心意我收到了。其实我没有很怀疑自己，主要是因为我感觉自己现在很不会说话很不会表达了。感觉这几个月的心理状态变得越来越差了情绪也总是不好，说不出什么温柔的话来。其实我还是总会刷到很多负能量的帖子但是我想了很久都不知道该怎么去评论，以前刷到一部分还能安慰一下。感觉我已经没怎么做温柔的事情了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你呀，不用因你的善意而感到抱歉，我知道你是想要肯定我才这样说的，你的心意我收到了。其实我没有很怀疑自己，主要是因为我感觉自己现在很不会说话很不会表达了。感觉这几个月的心理状态变得越来越差了情绪也总是不好，说不出什么温柔的话来。其实我还是总会刷到很多负能量的帖子但是我想了很久都 https://t.co/gfj2TmvV8L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090827399298711957",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 285,
+          "like_count": 21294,
+          "listed_count": 3,
+          "media_count": 546,
+          "tweet_count": 5249
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

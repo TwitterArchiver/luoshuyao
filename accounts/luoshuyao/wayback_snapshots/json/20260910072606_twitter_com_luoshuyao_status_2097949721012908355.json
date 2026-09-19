@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2097912273159299537",
+    "created_at": "2026-09-10T07:26:06.000Z",
+    "display_text_range": [
+      14,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097949721012908355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097949721012908355",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097912273159299537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 不止是自己写的内容，还有和别人的互动也是很重要的一环。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2097912273159299537",
+        "created_at": "2026-09-10T07:26:06.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097949721012908355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097949721012908355",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097912273159299537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 不止是自己写的内容，还有和别人的互动也是很重要的一环。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2097912273159299537",
+        "created_at": "2026-09-10T04:57:17.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097912273159299537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097912273159299537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经营自媒体（十六）活人感\n昨天发了个帖子调研了一下，发现大家关注我很大的一个原因是因为“活人感”，我之前一直没理解这个活人感到底是什么？我感觉我就和正常人一样，一双眼睛，一对耳朵，一个鼻子，一个嘴巴，吧啦吧啦吧啦，好像和一个正常人也没什么区别呀。\n\n今天在复盘反思的时候，我就在思考，人和机器人有什么区别？我觉得主要有三个方面：感受、情感和思考。\n\n感受\n感受是最底层的东西，来自身体的自然反应，就好比说饿了会想吃东西，熬夜了会感觉困，没精神，会因着好天气而感到开心，也会因着阴雨天而感到 emo，或者是被小猫挠了感叹一句，卧槽，真 tm 痛啊！(╯°Д°）╯🐱，这些都是很正常的身体的自然反应的感受。\n\n死气沉沉的内容往往缺少的就是这个东西，内容就比如说像什么万字长文，或者是干净利落的总结要点，再或者是去 AI 味 skill 等等，虽然是去掉了某些令人诟病的语法，措辞，看着内容好像也挺有道理的，但是没有人情味，也没有一个来自真实的人会表达出来的主观感受。\n\n情感\n情感我觉得是和别人产生的一种心理反应，我举个例子，下雨了，我感觉好冷，这是一种感受；下雨了，我想到我以前特别喜欢和他在一起在屋檐下躲雨，我好喜欢他，这就是情感。所以我觉得，情感和感受最大的区别是，感受更多的偏向于我现在是怎么样的，而情感更多的偏向于我怎么看待一个人，和另一个人发生了什么，有什么感觉。\n\n在写内容，写一些事情的时候，就会提到一个人或者一些人，就会从文字里面表达出对这个人的一种情感，也许是恋人的情感，也许是朋友的情感，在提到一个人的时候，可能会有对这个人的喜欢、讨厌、欣赏、羡慕、遗憾，或者是一种说不清的感觉，就会不由自主的在内容里面输出。\n\n有时候我也会觉得，表达这种情感的时候，会不会显得很矫情，会不会被别人说很做作？但是这种情感是真真实实经历过的，才会有这种体会。就像你听一个朋友给你讲关于她失恋的故事，她和他对象之间的经历，你会从她给你讲的故事中，听到细腻的情感的表达，然后会感同身受，共情。这就是为什么会有人说这样的内容有“灵魂”，这也是 AI 生成不出来的东西，可能 AI 生成的故事，从结构，措辞来看都写的很好很漂亮，但是提到的人和事情，也仅仅是充当了一个工具人，表达了一个观点，因为 AI 没有真实的情感和经历，所以这就是为什么 AI 写出来的东西没有人味。\n\n思考\n思考是经历了一些人和事或者东西之后，对一个事情有自己的理解和认知。每个人都有自己的思考方式，脑回路也不同，思考出来的结果也不一样，但是每个人都会有属于自己的一种风格。我现在说不上来这个风格具体是什么样的，它不是一种语法或者措辞，我感觉很难表达这个东西，就好比说，把我平时说过的话，匿名发给我的朋友们，让她们看完后猜这是谁，我估计她们看完后一下就能根据我说话的风格猜到是我说的，大概就是这个意思，不知道你们能不能 get 到。\n\nAI 写的东西，怎么说呢，有时候一眼就能看得出来是 AI 写的，整篇内容特别工整，特别顺，句子，标点符号都用得很恰当，逻辑也挑不出毛病，因为 AI 不需要思考，不会有什么瑕疵，就感觉有点太“完美”了。\n\n我自己在写东西的时候，一边思考，一边写，可能写着写着，就感觉前面写的不太好，删掉重新写，思考的时候可能想法会偏离主题，绕来绕去，就反复的修改，这种拧巴的感觉我觉得是正常人会有的很正常的情况，所以写出来的东西可能会磕磕绊绊的，有些字词用得不太好，有些修改的痕迹，这才是人思考出来，写出来的内容。\n\n而且经常看一个人写的东西后，就会发现表达的方式，思考的方式，是具有个人风格的，独属于个人的特色，这也是 AI 模仿不来的。AI 根据提示词随机生成不一样，今天生成一种风格，明天生成另一种风格，却很难能有属于自己个人独有的一种风格。\n\n一不小心又写了好多字∑(ﾟДﾟ)，不过好在今天算是把“活人感”这个东西想明白了，因为我不去追求那种，写得太“完美”的东西，万字长文，很浓缩的总结，或者是非常工整，润色后的语法什么的，所有内容都是随着我的心情，和想法，想到什么就输出什么，纯人工无添加，实实在在思考后写的，所以就具备这三个方面，所以看起来就会有活人感。\n\n我觉得这也是现在这个 AI 时代最稀缺的东西了，虽然现在 AI 很方便，大家都用AI 写东西，可能也都变得懒得思考了，但是我觉得这样就会慢慢的失去了，属于自己的个人风格和特色。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1202,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经营自媒体（十六）活人感\n昨天发了个帖子调研了一下，发现大家关注我很大的一个原因是因为“活人感”，我之前一直没理解这个活人感到底是什么？我感觉我就和正常人一样，一双眼睛，一对耳朵，一个鼻子，一个嘴巴，吧啦吧啦吧啦，好像和一个正常人也没什么区别呀。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097949721012908355",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 273,
+          "like_count": 22024,
+          "listed_count": 3,
+          "media_count": 605,
+          "tweet_count": 5573
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097921585764036906",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11907,
+          "following_count": 145,
+          "like_count": 17862,
+          "listed_count": 31,
+          "media_count": 411,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

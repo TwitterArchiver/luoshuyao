@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099415773106373093",
+    "created_at": "2026-09-15T01:41:06.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T02:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099674840122941460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908081958636171264",
+          "start": 0,
+          "username": "Kinbo_diary"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099674840122941460",
+    "in_reply_to_user_id": "1908081958636171264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099671114821877920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinbo_diary 🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099671114821877920].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099671114821877920",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099671114821877920"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099415773106373093",
+        "created_at": "2026-09-15T01:41:06.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099674840122941460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908081958636171264",
+              "start": 0,
+              "username": "Kinbo_diary"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099674840122941460",
+        "in_reply_to_user_id": "1908081958636171264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099671114821877920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinbo_diary 🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099674840122941460",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 280,
+          "like_count": 22561,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 5875
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-04T09:00:04.000Z",
+        "description": "Mo/Mu\n我并不认为我是个好人。\n破碎的灵魂而已\n🗝️@Momo_newlife\n🗝️@Momo_newlife2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "Momo_newlife"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "Momo_newlife2"
+              }
+            ]
+          }
+        },
+        "id": "1908081958636171264",
+        "is_identity_verified": false,
+        "location": "距你11.8KM",
+        "most_recent_tweet_id": "2092371904145535232",
+        "name": "暮",
+        "pinned_tweet_id": "2090545134085738719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908081958636171264/1787702147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092400074987094016/mzhDJ3zz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 31,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "Kinbo_diary",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

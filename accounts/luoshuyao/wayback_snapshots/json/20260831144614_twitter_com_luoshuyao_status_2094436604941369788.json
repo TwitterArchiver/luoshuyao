@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094432867984228352",
+        "3_2094432867980058624",
+        "3_2094432867980050432",
+        "3_2094432867980066818"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094429102912758254",
+    "created_at": "2026-08-31T14:46:14.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094436604941369788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZprIXCOozC",
+          "end": 109,
+          "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+          "media_key": "3_2094432867984228352",
+          "start": 86,
+          "url": "https://t.co/ZprIXCOozC"
+        },
+        {
+          "display_url": "pic.x.com/ZprIXCOozC",
+          "end": 109,
+          "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+          "media_key": "3_2094432867980058624",
+          "start": 86,
+          "url": "https://t.co/ZprIXCOozC"
+        },
+        {
+          "display_url": "pic.x.com/ZprIXCOozC",
+          "end": 109,
+          "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+          "media_key": "3_2094432867980050432",
+          "start": 86,
+          "url": "https://t.co/ZprIXCOozC"
+        },
+        {
+          "display_url": "pic.x.com/ZprIXCOozC",
+          "end": 109,
+          "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+          "media_key": "3_2094432867980066818",
+          "start": 86,
+          "url": "https://t.co/ZprIXCOozC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094436604941369788",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094432867984228352"
+      },
+      {
+        "media_key": "3_2094432867980058624"
+      },
+      {
+        "media_key": "3_2094432867980050432"
+      },
+      {
+        "media_key": "3_2094432867980066818"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "其实大部分人的相处模式都比较顺其自然\nP1是认识了8年的网友，她认为朋友之间有界限的，有来有往的相处模式是很不错的，关系不需要刻意维持，刻意去维持就说明这段关系不适合你。\nP2是我的初中+高一同学，她表示她和提问者是同样的相处模式。对她来说不敢主动联系是因为怕自己在对方心中的地位和自己想的不一样，但如果一直不主动，关系永远都不会有变化。而当你真正去联系起来说不定真的能找到亲密关系？\nP3是我的高一同学，他的想法就是随缘，他本人确实也很佛系，但是他的朋友又完全不主动，在这种情况下渐渐的大家就都不联系了。\nP4是认识了8年的网友，她的状况和大家都一样，毕业了就都不联系了，她会拒绝无用社交，如果对方会主动联系她，她就会试着去维护，其实我觉得她也不是主动的人。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094429102912758254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实大部分人的相处模式都比较顺其自然\nP1是认识了8年的网友，她认为朋友之间有界限的，有来有往的相处模式是很不错的，关系不需要刻意维持，刻意去维持就说明这段关系不适合你。 https://t.co/ZprIXCOozC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2094432867984228352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDrmL4aQAAObyV.jpg",
+        "width": 929
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2094432867980058624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDrmL3aoAA4_aH.jpg",
+        "width": 928
+      },
+      {
+        "height": 2946,
+        "media_key": "3_2094432867980050432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDrmL3agAAQ45T.jpg",
+        "width": 927
+      },
+      {
+        "height": 3227,
+        "media_key": "3_2094432867980066818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDrmL3awAIQ808.jpg",
+        "width": 934
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2094426123363090432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDldmNbAAAU9kZ.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094432867984228352",
+            "3_2094432867980058624",
+            "3_2094432867980050432",
+            "3_2094432867980066818"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094429102912758254",
+        "created_at": "2026-08-31T14:46:14.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094436604941369788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZprIXCOozC",
+              "end": 109,
+              "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+              "media_key": "3_2094432867984228352",
+              "start": 86,
+              "url": "https://t.co/ZprIXCOozC"
+            },
+            {
+              "display_url": "pic.x.com/ZprIXCOozC",
+              "end": 109,
+              "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+              "media_key": "3_2094432867980058624",
+              "start": 86,
+              "url": "https://t.co/ZprIXCOozC"
+            },
+            {
+              "display_url": "pic.x.com/ZprIXCOozC",
+              "end": 109,
+              "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+              "media_key": "3_2094432867980050432",
+              "start": 86,
+              "url": "https://t.co/ZprIXCOozC"
+            },
+            {
+              "display_url": "pic.x.com/ZprIXCOozC",
+              "end": 109,
+              "expanded_url": "https://x.com/luoshuyao/status/2094436604941369788/photo/1",
+              "media_key": "3_2094432867980066818",
+              "start": 86,
+              "url": "https://t.co/ZprIXCOozC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094436604941369788",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094432867984228352"
+          },
+          {
+            "media_key": "3_2094432867980058624"
+          },
+          {
+            "media_key": "3_2094432867980050432"
+          },
+          {
+            "media_key": "3_2094432867980066818"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "其实大部分人的相处模式都比较顺其自然\nP1是认识了8年的网友，她认为朋友之间有界限的，有来有往的相处模式是很不错的，关系不需要刻意维持，刻意去维持就说明这段关系不适合你。\nP2是我的初中+高一同学，她表示她和提问者是同样的相处模式。对她来说不敢主动联系是因为怕自己在对方心中的地位和自己想的不一样，但如果一直不主动，关系永远都不会有变化。而当你真正去联系起来说不定真的能找到亲密关系？\nP3是我的高一同学，他的想法就是随缘，他本人确实也很佛系，但是他的朋友又完全不主动，在这种情况下渐渐的大家就都不联系了。\nP4是认识了8年的网友，她的状况和大家都一样，毕业了就都不联系了，她会拒绝无用社交，如果对方会主动联系她，她就会试着去维护，其实我觉得她也不是主动的人。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094429102912758254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实大部分人的相处模式都比较顺其自然\nP1是认识了8年的网友，她认为朋友之间有界限的，有来有往的相处模式是很不错的，关系不需要刻意维持，刻意去维持就说明这段关系不适合你。 https://t.co/ZprIXCOozC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094426123363090432"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094429102912758254",
+        "created_at": "2026-08-31T14:16:25.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094429102912758254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gLdBaWNdu",
+              "end": 104,
+              "expanded_url": "https://x.com/luoshuyao/status/2094429102912758254/photo/1",
+              "media_key": "3_2094426123363090432",
+              "start": 81,
+              "url": "https://t.co/4gLdBaWNdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094429102912758254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094426123363090432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "关于这个问题，我问了十几个朋友，得到了十二个有效的回答，我会把这些回答放在评论区里。因为一开始我也不太清楚怎么回答这个问题，感觉自己好像和这个问题的情况差不多。\n我的话，其实我也不会处理人际关系，我现在绝大多数时间都是一个人待着，就算是关系还不错的朋友一年也就联系几次，这对我来说都算多了。\n我觉得你这样是不对的，既然你渴望亲密关系但是又避免别人的靠近，这样是永远得不到亲密关系的。还是需要改变一下自己才能得到你想要的。至于关系好的同学离开学校就再也没有交集，大部分人都是一样的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于这个问题，我问了十几个朋友，得到了十二个有效的回答，我会把这些回答放在评论区里。因为一开始我也不太清楚怎么回答这个问题，感觉自己好像和这个问题的情况差不多。 https://t.co/4gLdBaWNdu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094436604941369788",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 285,
+          "like_count": 21338,
+          "listed_count": 3,
+          "media_count": 558,
+          "tweet_count": 5290
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

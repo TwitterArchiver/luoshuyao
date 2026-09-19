@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095028328063459328",
+        "3_2095028328067702784"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2095026020323910117",
+    "created_at": "2026-09-02T05:59:32.000Z",
+    "display_text_range": [
+      15,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095028832759923082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568430640428875776",
+          "start": 0,
+          "username": "YesStrayPuppy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ja7Z40oV54",
+          "end": 102,
+          "expanded_url": "https://x.com/luoshuyao/status/2095028832759923082/photo/1",
+          "media_key": "3_2095028328063459328",
+          "start": 79,
+          "url": "https://t.co/Ja7Z40oV54"
+        },
+        {
+          "display_url": "pic.x.com/Ja7Z40oV54",
+          "end": 102,
+          "expanded_url": "https://x.com/luoshuyao/status/2095028832759923082/photo/1",
+          "media_key": "3_2095028328067702784",
+          "start": 79,
+          "url": "https://t.co/Ja7Z40oV54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095028832759923082",
+    "in_reply_to_user_id": "1568430640428875776",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095028328063459328"
+      },
+      {
+        "media_key": "3_2095028328067702784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095026020323910117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesStrayPuppy 我的一个朋友，身为英语老师的经验：记单词，做题。没有什么捷径，只能脚踏实地。当然也有高中英语成绩很好刚上大学直接裸考过四级的。 https://t.co/Ja7Z40oV54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_2095028328063459328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMJKhiaYAAJSG7.jpg",
+        "width": 927
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2095028328067702784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMJKhjbIAAVaAB.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095028328063459328",
+            "3_2095028328067702784"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2095026020323910117",
+        "created_at": "2026-09-02T05:59:32.000Z",
+        "display_text_range": [
+          15,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095028832759923082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568430640428875776",
+              "start": 0,
+              "username": "YesStrayPuppy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ja7Z40oV54",
+              "end": 102,
+              "expanded_url": "https://x.com/luoshuyao/status/2095028832759923082/photo/1",
+              "media_key": "3_2095028328063459328",
+              "start": 79,
+              "url": "https://t.co/Ja7Z40oV54"
+            },
+            {
+              "display_url": "pic.x.com/Ja7Z40oV54",
+              "end": 102,
+              "expanded_url": "https://x.com/luoshuyao/status/2095028832759923082/photo/1",
+              "media_key": "3_2095028328067702784",
+              "start": 79,
+              "url": "https://t.co/Ja7Z40oV54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095028832759923082",
+        "in_reply_to_user_id": "1568430640428875776",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095028328063459328"
+          },
+          {
+            "media_key": "3_2095028328067702784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095026020323910117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesStrayPuppy 我的一个朋友，身为英语老师的经验：记单词，做题。没有什么捷径，只能脚踏实地。当然也有高中英语成绩很好刚上大学直接裸考过四级的。 https://t.co/Ja7Z40oV54"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568430640428875776",
+        "conversation_id": "2095026020323910117",
+        "created_at": "2026-09-02T05:48:21.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095026020323910117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095026020323910117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求英语四级焚诀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095028832759923082",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 285,
+          "like_count": 21454,
+          "listed_count": 3,
+          "media_count": 569,
+          "tweet_count": 5341
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|取关随意一切随意！不用礼貌回关！！！💃🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "is_identity_verified": false,
+        "location": "💤",
+        "most_recent_tweet_id": "2095028026677575795",
+        "name": "小夜野耶椰也",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568430640428875776/1750778198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 516,
+          "like_count": 30574,
+          "listed_count": 2,
+          "media_count": 749,
+          "tweet_count": 8788
+        },
+        "url": "",
+        "username": "YesStrayPuppy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

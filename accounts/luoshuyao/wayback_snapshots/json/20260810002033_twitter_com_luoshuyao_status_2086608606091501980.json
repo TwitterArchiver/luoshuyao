@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086608094298349568"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2086270709131567571",
+    "created_at": "2026-08-10T00:20:33.000Z",
+    "display_text_range": [
+      14,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T01:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086608606091501980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8wLrKmgOD",
+          "end": 74,
+          "expanded_url": "https://x.com/luoshuyao/status/2086608606091501980/photo/1",
+          "media_key": "3_2086608094298349568",
+          "start": 51,
+          "url": "https://t.co/J8wLrKmgOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086608606091501980",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086608094298349568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086270709131567571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 我发现我的数据是反着来的，三个月的数据也是85：15，完全当朋友圈玩的。 https://t.co/J8wLrKmgOD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2086608094298349568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUfAaYboAA3GfZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086608094298349568"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2086270709131567571",
+        "created_at": "2026-08-10T00:20:33.000Z",
+        "display_text_range": [
+          14,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086608606091501980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8wLrKmgOD",
+              "end": 74,
+              "expanded_url": "https://x.com/luoshuyao/status/2086608606091501980/photo/1",
+              "media_key": "3_2086608094298349568",
+              "start": 51,
+              "url": "https://t.co/J8wLrKmgOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086608606091501980",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086608094298349568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086270709131567571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 我发现我的数据是反着来的，三个月的数据也是85：15，完全当朋友圈玩的。 https://t.co/J8wLrKmgOD"
+      },
+      {
+        "article": {
+          "cover_media": "3_2086262473737273344",
+          "media_entities": [
+            "3_2086262723868782592"
+          ],
+          "plain_text": "不讲复杂的，就讲几个最简单，能通用的，适合新手使用的思路，围绕这几个思路就可以轻松写出爆款内容。\n在讲写内容之前，我想先讨论一下这个话题，因为我经常看到有的人会有这样的观点“人家能发爆款文案是因为人家粉丝多”，“粉丝多发什么都有人看”，“像我们粉丝少的发什么都没人看”。这个观点并不完全正确，在经营自媒体第二期里面，我有讲到帖子推送的原理，感兴趣的可以去了解一下。\n先来说说我认为这个观点正确的部分\n粉丝基数越多，相对而言能够看到帖子的人就越多，互动量也会多一点，对于增加帖子权重和帖子推送会有些帮助，但是起不到非常绝对性的作用，除非量级差得特别大，比如500粉丝和50万粉丝的账号，这种肯定有区别。\n再来说说我认为不正确的部分\n根据我发的所有的帖子，根据后台的数据针对帖子进行分析，一个帖子一般只会推送给10%-20%左右的关注，剩下推送的就是非关注的用户了。\n \n而且这里面还会有很多变量。可能有的人会觉得，比如有1万粉丝的账号，发了帖子就会有1万的浏览量，但实际上并不是这样的。我举个例子，比如有一个1万粉丝的账号，他发了帖子，这1万个粉丝里面，如果受众很混乱，比如各个国家的人都有一些，那么推送给中文用户的就一部分，还有在发帖的这个时间段，在线的用户又少了一部分，然后在用户主页推荐里面，有很多信息流，在众多博主的帖子里面，刚好发的这个帖子排上号了，才会推送到别人的首页推荐里面。经过这么一层一层的条件过滤下来，其实能够推荐给自己粉丝比例并不高，更多数是推送给非关注的用户，所以粉丝越多，发什么都有人看，都会爆，这个观点不太正确，更多的都是靠首页推荐的用户。\n下面说说写爆款内容通用的几个要素\n别人现实生活中看不到的东西\n这个意思就是，我展现出来的东西，是你在生活中一般看不着的东西，让人有一种好奇、探索欲，就很容易吸引到别人来看。我举个例子，比如有一个人在路中间晕倒了，然后路过了一辆车停下来，把晕倒的这个人扶起来了。这样的事例可能还不算是一般人看不着的东西，比较普通，就不吸引人。那如果换一下剧本呢？有一个人在路中间晕倒了，有一个开着奥迪A6的车主在路边停了下来，然后掏出神光棒加特效，从素人变身成了奥特曼皮套， 然后把路人扶起来了，再说slogan，你相信光吗？这样一个剧本，一般人生活中就见不到，就让人感觉到好奇，加上奥特曼的ip，情怀打法，很容易吸引到别人来看。\n幸福美好的事物\n这个思路的底层逻辑就是，人天生会被正向的情绪吸引。只要不是特别阴暗，戾气特别重的人，大部分人都会对积极正面的，美好的事物感兴趣，会不由自主的停下来多看几秒。因为现实生活压力很大，负面信息又很多，大部分人的情绪差一个“美好”的缺口，所以很容易很容易被这些内容吸引。举个例子，流浪狗被好心人收养了，从瘦成皮包骨的样子，一点一点养到活蹦乱跳的样子。或者是甜蜜的恋爱关系，生活中有趣的事情等等这类的。但是这个主题最容易犯的错误就是用力过猛，可以摆拍演绎的痕迹太重，一旦别人看出是“表演”的，反而容易会造成反感，所以这类的主题最主要的就是真实。\n吐槽/同理心\n这两个点有点区别，但是基本上都类似，就放一起讲了。这个说白了就是嘴替，能够精准的说出大家的心里话，想表达的意思，让别人产生强烈的代入感，甚至愿意转发给身边有相同经历的人。比如讲诉生活艰辛，失业、家庭问题、工作辛苦，压力很大之类的，或者是吐槽评论机器人又骚福又黑之类，类似这样的意思。同理心类内容和吐槽类内容的区别是，吐槽偏向负面情绪的发泄，而同理心更偏向共情，但是这两类都可以引发情绪反应，但是情绪的导向不一样。\n批判类（新手谨用）\n这种类型比较有争议，要谨慎小心，不太建议新手去使用，因为把握不好度的话，有可能会引火上身，导致被网暴或者被人家组团攻击带节奏之类的后果，就当了解一下就好了。\n批判内容的逻辑就是，指出某个现象，某个群体，某个观点，引发大家的讨论和情绪共鸣，因为争议的内容本身就自带话题性，会吸引人站队，支持的人一边，反对的人一边，然后同时下场开始评论讨论，说轻了就是讨论，说重了就是吵起来了，然后互动数据就顶起来了，很容易把这类帖子推送出去。\n我举个例子，比如AOE大范围批判整个中文社区的骚扰评论乱象，再或者，某个人特别恶心，在大多数人的眼里，这个人的名声不太好，有点属于过街老鼠人人喊打的那种程度，然后他被封号了，就直接说他xxx怎么怎么不好，怎么怎么有问题，因为本身名声就不太好，所以发这种舆论的时候，大多数人就会站在你这边一起去批判他。这种打法属于比较恶心的那种，有点吃人血馒头的感觉。还有一种打法，就是找到对方内容里面三观或者道德有问题的内容，然后针对这个内容展开diss，因为这样的内容存在三观问题，而且对方是属于理亏的一方，所以就相当于你是站在道德的至高点去批判对方， 舆论的观点基本上也会一边倒的站在你这边，对方很难有什么观点可以反驳。\n这类内容更适合有一定经验的，账号有抗风险能力的，并且对舆论走向有基本判断的博主去尝试，即使要做，也建议只对事不对人，尽量用客观事实和数据说话，少表达个人情绪，使用极端措辞，要给自己留有余地。还是再强调一句，新手真的不建议尝试这个，因为你没有公关能力，也不知道对方有什么反制手段，对方还有没有底牌跟你玩到底，也不知道对方有没有资本撑腰，所以搞不好就会被带节奏被网暴，互联网没有想象的那么正义，不是谁的观点正面，谁有理就能站立得住的。\n最后祝大家都能写出自己原创的爆款文案！",
+          "preview_text": "不讲复杂的，就讲几个最简单，能通用的，适合新手使用的思路，围绕这几个思路就可以轻松写出爆款内容。",
+          "title": "经营自媒体（八）如何写爆款内容"
+        },
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2086270709131567571",
+        "created_at": "2026-08-09T01:57:52.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T02:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086270709131567571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2086…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2086261038526160897",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2086261038526160897",
+              "url": "https://t.co/umWM2dLKYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086270709131567571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2373,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/umWM2dLKYk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086608606091501980",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 290,
+          "like_count": 20259,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 4933
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/liujiayi1111/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/liujiayi1111/status/2058900883270758469",
+                "start": 0,
+                "url": "https://t.co/er9WmJIcnW"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086581036104692066",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10719,
+          "following_count": 116,
+          "like_count": 14819,
+          "listed_count": 30,
+          "media_count": 345,
+          "tweet_count": 3902
+        },
+        "url": "https://t.co/er9WmJIcnW",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

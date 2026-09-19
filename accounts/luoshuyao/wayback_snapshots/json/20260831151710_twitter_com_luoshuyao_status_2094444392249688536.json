@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094442716298186752"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2094444392249688536",
+    "created_at": "2026-08-31T15:17:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094444392249688536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4iag93aupu",
+          "end": 164,
+          "expanded_url": "https://x.com/luoshuyao/status/2094444392249688536/photo/1",
+          "media_key": "3_2094442716298186752",
+          "start": 141,
+          "url": "https://t.co/4iag93aupu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094444392249688536",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094442716298186752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得可能是你不适应一个人或者不喜欢一个人待着。一个人能做的事情真的太多了，我随便就能想出一堆事情。我曾经可以连着半个月在外面走一整天，也可以一个人玩一整天单机游戏，或是听听歌，随便写写东西。喜欢画画的人可以去画画，喜欢手工的人可以去做手工，喜欢看动漫的人可以去追番……实在不行你去找本书看吧。我实在想不到一个人的时候什么都不做是什么状态了，那对我来说已经是很久以前的事情了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得可能是你不适应一个人或者不喜欢一个人待着。一个人能做的事情真的太多了，我随便就能想出一堆事情。我曾经可以连着半个月在外面走一整天，也可以一个人玩一整天单机游戏，或是听听歌，随便写写东西。喜欢画画的人可以去画画，喜欢手工的人可以去做手工，喜欢看动漫的人可以去追番……实在不行你 https://t.co/4iag93aupu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2094442716298186752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD0jbtbkAA9Q8R.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094442716298186752"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094444392249688536",
+        "created_at": "2026-08-31T15:17:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094444392249688536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4iag93aupu",
+              "end": 164,
+              "expanded_url": "https://x.com/luoshuyao/status/2094444392249688536/photo/1",
+              "media_key": "3_2094442716298186752",
+              "start": 141,
+              "url": "https://t.co/4iag93aupu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094444392249688536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094442716298186752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得可能是你不适应一个人或者不喜欢一个人待着。一个人能做的事情真的太多了，我随便就能想出一堆事情。我曾经可以连着半个月在外面走一整天，也可以一个人玩一整天单机游戏，或是听听歌，随便写写东西。喜欢画画的人可以去画画，喜欢手工的人可以去做手工，喜欢看动漫的人可以去追番……实在不行你去找本书看吧。我实在想不到一个人的时候什么都不做是什么状态了，那对我来说已经是很久以前的事情了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得可能是你不适应一个人或者不喜欢一个人待着。一个人能做的事情真的太多了，我随便就能想出一堆事情。我曾经可以连着半个月在外面走一整天，也可以一个人玩一整天单机游戏，或是听听歌，随便写写东西。喜欢画画的人可以去画画，喜欢手工的人可以去做手工，喜欢看动漫的人可以去追番……实在不行你 https://t.co/4iag93aupu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094444392249688536",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 285,
+          "like_count": 21339,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 5296
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

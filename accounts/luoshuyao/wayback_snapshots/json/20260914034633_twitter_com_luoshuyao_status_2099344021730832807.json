@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099038628722954334",
+    "created_at": "2026-09-14T03:46:33.000Z",
+    "display_text_range": [
+      10,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T04:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099344021730832807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642454493836214272",
+          "start": 0,
+          "username": "Bactxria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099344021730832807",
+    "in_reply_to_user_id": "1642454493836214272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099038628722954334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bactxria 看得多了真的很明显，日推还有很多用AI生成女生照片骗人的，都是这种风格。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2099038622083383296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFIgW8bAAAwGH8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099038628722954334",
+        "created_at": "2026-09-14T03:46:33.000Z",
+        "display_text_range": [
+          10,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099344021730832807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642454493836214272",
+              "start": 0,
+              "username": "Bactxria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099344021730832807",
+        "in_reply_to_user_id": "1642454493836214272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099038628722954334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bactxria 看得多了真的很明显，日推还有很多用AI生成女生照片骗人的，都是这种风格。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099038622083383296"
+          ]
+        },
+        "author_id": "1642454493836214272",
+        "conversation_id": "2099038628722954334",
+        "created_at": "2026-09-13T07:33:01.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099038628722954334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzs2c3EgLa",
+              "end": 50,
+              "expanded_url": "https://x.com/Bactxria/status/2099038628722954334/photo/1",
+              "media_key": "3_2099038622083383296",
+              "start": 27,
+              "url": "https://t.co/yzs2c3EgLa"
+            },
+            {
+              "display_url": "x.com/kazukazudayo06…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/kazukazudayo06/status/2098681471041163446",
+              "start": 51,
+              "url": "https://t.co/s3MSkcsdel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099038628722954334",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099038622083383296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 24624,
+          "like_count": 233,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098681471041163446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥哥 你用飞鼠也是挡不住C2PA和SynthID 的 https://t.co/yzs2c3EgLa https://t.co/s3MSkcsdel"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099344021730832807",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 279,
+          "like_count": 22437,
+          "listed_count": 3,
+          "media_count": 650,
+          "tweet_count": 5805
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-02T09:10:48.000Z",
+        "description": "| he/him | 枕头控 |\n\n| 🎺 @Tetsu_RiA |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Tetsu_RiA"
+              }
+            ]
+          }
+        },
+        "id": "1642454493836214272",
+        "is_identity_verified": false,
+        "location": "湿度の高い^陰キャ'",
+        "most_recent_tweet_id": "2099246002553475109",
+        "name": "xRi'a",
+        "pinned_tweet_id": "2082779656605106351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642454493836214272/1789055403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098076543327383553/RkX6DYLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 892,
+          "like_count": 15639,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 8986
+        },
+        "url": "",
+        "username": "Bactxria",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

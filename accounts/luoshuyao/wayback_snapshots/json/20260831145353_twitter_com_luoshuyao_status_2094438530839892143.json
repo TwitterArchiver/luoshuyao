@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094436855689408512"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2094429102912758254",
+    "created_at": "2026-08-31T14:53:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094438530839892143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V93ycckkYw",
+          "end": 164,
+          "expanded_url": "https://x.com/luoshuyao/status/2094438530839892143/photo/1",
+          "media_key": "3_2094436855689408512",
+          "start": 141,
+          "url": "https://t.co/V93ycckkYw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094438530839892143",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094436855689408512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "这是初中同学。我是她的初中同学里唯一一个还有联系的。虽然她讲有经济条件就能交到很多朋友，说得很物质。但是呢，我们是好朋友，而且我们几乎没有任何物质上的来往，认识这么久了只有两次，一次是八年前她送了我一件礼物还有两年前和她见面请我吃了一碗馄饨。说来惭愧，上学的时候我的零花钱是0，也没有手机用，初中毕业之后就变得很难联系，我也没送过她什么，等她下次生日我打算送她一件生日礼物。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094429102912758254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是初中同学。我是她的初中同学里唯一一个还有联系的。虽然她讲有经济条件就能交到很多朋友，说得很物质。但是呢，我们是好朋友，而且我们几乎没有任何物质上的来往，认识这么久了只有两次，一次是八年前她送了我一件礼物还有两年前和她见面请我吃了一碗馄饨。说来惭愧，上学的时候我的零花钱是0，也 https://t.co/V93ycckkYw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094436855689408512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDvOTPacAA3bax.jpg",
+        "width": 1063
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2094426123363090432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDldmNbAAAU9kZ.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094436855689408512"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094429102912758254",
+        "created_at": "2026-08-31T14:53:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094438530839892143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V93ycckkYw",
+              "end": 164,
+              "expanded_url": "https://x.com/luoshuyao/status/2094438530839892143/photo/1",
+              "media_key": "3_2094436855689408512",
+              "start": 141,
+              "url": "https://t.co/V93ycckkYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094438530839892143",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094436855689408512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这是初中同学。我是她的初中同学里唯一一个还有联系的。虽然她讲有经济条件就能交到很多朋友，说得很物质。但是呢，我们是好朋友，而且我们几乎没有任何物质上的来往，认识这么久了只有两次，一次是八年前她送了我一件礼物还有两年前和她见面请我吃了一碗馄饨。说来惭愧，上学的时候我的零花钱是0，也没有手机用，初中毕业之后就变得很难联系，我也没送过她什么，等她下次生日我打算送她一件生日礼物。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094429102912758254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是初中同学。我是她的初中同学里唯一一个还有联系的。虽然她讲有经济条件就能交到很多朋友，说得很物质。但是呢，我们是好朋友，而且我们几乎没有任何物质上的来往，认识这么久了只有两次，一次是八年前她送了我一件礼物还有两年前和她见面请我吃了一碗馄饨。说来惭愧，上学的时候我的零花钱是0，也 https://t.co/V93ycckkYw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094426123363090432"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094429102912758254",
+        "created_at": "2026-08-31T14:16:25.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094429102912758254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gLdBaWNdu",
+              "end": 104,
+              "expanded_url": "https://x.com/luoshuyao/status/2094429102912758254/photo/1",
+              "media_key": "3_2094426123363090432",
+              "start": 81,
+              "url": "https://t.co/4gLdBaWNdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094429102912758254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094426123363090432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "关于这个问题，我问了十几个朋友，得到了十二个有效的回答，我会把这些回答放在评论区里。因为一开始我也不太清楚怎么回答这个问题，感觉自己好像和这个问题的情况差不多。\n我的话，其实我也不会处理人际关系，我现在绝大多数时间都是一个人待着，就算是关系还不错的朋友一年也就联系几次，这对我来说都算多了。\n我觉得你这样是不对的，既然你渴望亲密关系但是又避免别人的靠近，这样是永远得不到亲密关系的。还是需要改变一下自己才能得到你想要的。至于关系好的同学离开学校就再也没有交集，大部分人都是一样的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 148,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于这个问题，我问了十几个朋友，得到了十二个有效的回答，我会把这些回答放在评论区里。因为一开始我也不太清楚怎么回答这个问题，感觉自己好像和这个问题的情况差不多。 https://t.co/4gLdBaWNdu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094438530839892143",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 285,
+          "like_count": 21338,
+          "listed_count": 3,
+          "media_count": 559,
+          "tweet_count": 5291
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

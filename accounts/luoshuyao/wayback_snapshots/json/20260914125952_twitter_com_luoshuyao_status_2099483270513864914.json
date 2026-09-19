@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099337728332800096",
+    "created_at": "2026-09-14T12:59:52.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T13:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099483270513864914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099483270513864914",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099337728332800096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099337723899478016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJYiYCbAAAgEZk.jpg",
+        "width": 1345
+      },
+      {
+        "height": 2266,
+        "media_key": "3_2099335498074669057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJWg0MbwAEG6lQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1826,
+        "media_key": "3_2099335503950819328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJWhKFasAAWC3-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1826,
+        "media_key": "3_2099337725543608320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJYieKacAAZfCT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099337728332800096",
+        "created_at": "2026-09-14T12:59:52.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099483270513864914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099483270513864914",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099337728332800096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099337723899478016",
+            "3_2099335498074669057",
+            "3_2099335503950819328",
+            "3_2099337725543608320"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099337728332800096",
+        "created_at": "2026-09-14T03:21:32.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099337728332800096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1843618783937937408",
+              "start": 100,
+              "username": "IllusoryKyoka"
+            },
+            {
+              "end": 149,
+              "id": "2042108098203033600",
+              "start": 141,
+              "username": "YZ_Miku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGjqdCbJJL",
+              "end": 174,
+              "expanded_url": "https://x.com/NL8526/status/2099337728332800096/photo/1",
+              "media_key": "3_2099337723899478016",
+              "start": 151,
+              "url": "https://t.co/sGjqdCbJJL"
+            },
+            {
+              "display_url": "pic.x.com/sGjqdCbJJL",
+              "end": 174,
+              "expanded_url": "https://x.com/NL8526/status/2099337728332800096/photo/1",
+              "media_key": "3_2099335498074669057",
+              "start": 151,
+              "url": "https://t.co/sGjqdCbJJL"
+            },
+            {
+              "display_url": "pic.x.com/sGjqdCbJJL",
+              "end": 174,
+              "expanded_url": "https://x.com/NL8526/status/2099337728332800096/photo/1",
+              "media_key": "3_2099335503950819328",
+              "start": 151,
+              "url": "https://t.co/sGjqdCbJJL"
+            },
+            {
+              "display_url": "pic.x.com/sGjqdCbJJL",
+              "end": 174,
+              "expanded_url": "https://x.com/NL8526/status/2099337728332800096/photo/1",
+              "media_key": "3_2099337725543608320",
+              "start": 151,
+              "url": "https://t.co/sGjqdCbJJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099337728332800096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099337723899478016"
+          },
+          {
+            "media_key": "3_2099335498074669057"
+          },
+          {
+            "media_key": "3_2099335503950819328"
+          },
+          {
+            "media_key": "3_2099337725543608320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 114,
+                "id": "1843618783937937408",
+                "start": 100,
+                "username": "IllusoryKyoka"
+              },
+              {
+                "end": 149,
+                "id": "2042108098203033600",
+                "start": 141,
+                "username": "YZ_Miku"
+              },
+              {
+                "end": 189,
+                "id": "1765154815678779392",
+                "start": 173,
+                "username": "NFhLWuYaiP90228"
+              },
+              {
+                "end": 210,
+                "id": "1951698283040276481",
+                "start": 201,
+                "username": "TulikoOR"
+              }
+            ]
+          },
+          "text": "今天过生日啦 有好多小伙伴送了祝福和礼物呢\n你们的心意我都收到啦！！恩非常不知所措 但是真的很谢谢大家🥹🥹\n发一个提前庆祝吃的小蛋糕 是喜茶lab的蛋糕哦 芋泥夹心好吃😋 可惜没有抢到抹茶的。镜姐姐(@IllusoryKyoka) 送了窝一双蓝粉白鞋子，人生第一双正版鞋子… 云栀(@YZ_Miku) 送的礼物好用心包装 心灵手巧呀！！ 科瓦奇(@NFhLWuYaiP90228) 小鲨!MIKU!! @TulikoOR chikawa限定八達通\n\n能认识你们就是我最大最大的礼物🥰\n也是你们慢慢教会我什么是正确的处朋友，见识到正常的朋友关系应该是怎样对待的。我也须要慢慢放下对这个世界所有人都是怀有巨大恶意的成见 不需要自己一个人蜷缩在角落。我才知道，并不是所有人都对跨儿充满着恶意。跨儿也能有和正常人一样的生活 一样的友谊友情，我不再是一个人咽下所有委屈与不堪。以前那些创伤闪回，或者对伤心的痛之上瘾，远不及相册中那些所定格的美好。\n我真的好害怕忘记这一切，为什么我总是习惯把创伤记忆放在手边呢…… 也许在当下 我会因为感官过载而解离 但是我还是会本能的去用相机拍下这些画面，而后回翻这些照片我才知道 我的大脑在当场真的忽略了太多东西处理不过来……相机、照片 是我留住美好记忆的唯一办法……\n我真的很想亲口为你们道谢啊 为什么总是话到嘴边就是说不出口呢……呜呜..我爱大家……谢谢你们🤧"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2372,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天过生日啦 有好多小伙伴送了祝福和礼物呢\n你们的心意我都收到啦！！恩非常不知所措 但是真的很谢谢大家🥹🥹\n发一个提前庆祝吃的小蛋糕 是喜茶lab的蛋糕哦 芋泥夹心好吃😋 可惜没有抢到抹茶的。镜姐姐(@IllusoryKyoka) 送了窝一双蓝粉白鞋子，人生第一双正版鞋子… 云栀(@YZ_Miku) https://t.co/sGjqdCbJJL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099483270513864914",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 280,
+          "like_count": 22494,
+          "listed_count": 3,
+          "media_count": 655,
+          "tweet_count": 5831
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099479729359450234",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 1126,
+          "like_count": 30926,
+          "listed_count": 9,
+          "media_count": 373,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

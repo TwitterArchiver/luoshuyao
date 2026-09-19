@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2096182773941731485",
+    "created_at": "2026-09-05T23:00:51.000Z",
+    "display_text_range": [
+      12,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096373019941961834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056547558462480384",
+          "start": 0,
+          "username": "Eliserette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096373019941961834",
+    "in_reply_to_user_id": "2056547558462480384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096214826272035323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eliserette 有人说发网上很少有人认识的，发上去了就有人帮那些不认识的人认识了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2096182773941731485",
+        "created_at": "2026-09-05T23:00:51.000Z",
+        "display_text_range": [
+          12,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096373019941961834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056547558462480384",
+              "start": 0,
+              "username": "Eliserette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096373019941961834",
+        "in_reply_to_user_id": "2056547558462480384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096214826272035323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eliserette 有人说发网上很少有人认识的，发上去了就有人帮那些不认识的人认识了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2096182773941731485",
+        "created_at": "2026-09-05T12:32:15.000Z",
+        "display_text_range": [
+          8,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096214826272035323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096214826272035323",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1614,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096182773941731485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 不理解，这种行为既愚蠢又可笑。路人遇到最多只会鄙夷地瞅上两眼，达到的效果就是给跨性别招黑，事与愿违"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096373019941961834",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 270,
+          "like_count": 21804,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 5483
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "反跨跨女，顺性别药娘\n右翼保守派前现代人，旧约圣经精神践行者\n吃药是为了惩罚自己\n“地狱的烈焰不熄，因至高的审判从未止息”",
+        "id": "2056547558462480384",
+        "is_identity_verified": false,
+        "location": "炼狱山",
+        "most_recent_tweet_id": "2096292037884813428",
+        "name": "𝓐𝓵𝓲𝓮𝓼",
+        "pinned_tweet_id": "2094063202460197093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1787512800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091616501157826560/wMTCN7UW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 34,
+          "like_count": 185,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "Eliserette",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "mtf，粉红\n混合性焦虑抑郁障碍",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096326571141571030",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 68,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

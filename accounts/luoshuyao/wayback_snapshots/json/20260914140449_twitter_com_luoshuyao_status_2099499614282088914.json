@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099197804745040042",
+    "created_at": "2026-09-14T14:04:49.000Z",
+    "display_text_range": [
+      26,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099499614282088914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052898118996467712",
+          "start": 0,
+          "username": "definitelysmer"
+        },
+        {
+          "end": 25,
+          "id": "1642096180329938946",
+          "start": 16,
+          "username": "nomianju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099499614282088914",
+    "in_reply_to_user_id": "2052898118996467712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099489165532676130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@definitelysmer @nomianju 这种可能是立人设卖惨骗钱的，比那种盗图骗🚪的高级一点，但是也不排除可能是真的惨。不过这种态度确实不配被人帮。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099197804745040042",
+        "created_at": "2026-09-14T14:04:49.000Z",
+        "display_text_range": [
+          26,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099499614282088914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052898118996467712",
+              "start": 0,
+              "username": "definitelysmer"
+            },
+            {
+              "end": 25,
+              "id": "1642096180329938946",
+              "start": 16,
+              "username": "nomianju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099499614282088914",
+        "in_reply_to_user_id": "2052898118996467712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099489165532676130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@definitelysmer @nomianju 这种可能是立人设卖惨骗钱的，比那种盗图骗🚪的高级一点，但是也不排除可能是真的惨。不过这种态度确实不配被人帮。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052898118996467712",
+        "conversation_id": "2099197804745040042",
+        "created_at": "2026-09-14T13:23:18.000Z",
+        "display_text_range": [
+          10,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099489165532676130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642096180329938946",
+              "start": 0,
+              "username": "nomianju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099489165532676130",
+        "in_reply_to_user_id": "1642096180329938946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099197804745040042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomianju 我是女生，上次入了一个女生的🚪。（因为看她主页太抑郁了感觉她快死了想着不如入个门请她吃顿饭什么的方便）。结果这个sb群发消息催我定制她的私密视频，还群发骂人说我们不定视频她快饿死了。大姐我是直女我怎么定制，其次给你转账支付宝还有门槛加起来也不少了我从不打扰你你莫名其妙把我删了？惯的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099499614282088914",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 280,
+          "like_count": 22513,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 5842
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T23:48:12.000Z",
+        "description": "",
+        "id": "2052898118996467712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099491898109165765",
+        "name": "深夜小狗离奇事件",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305400211832832/23qix-Kn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 303,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "definitelysmer",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T09:27:01.000Z",
+        "description": "认错了，不是本人",
+        "id": "1642096180329938946",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099426919276237069",
+        "name": "别摘我面具啊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642096180329938946/1680341751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642097429158789120/aBE9jDHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 352,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "nomianju",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

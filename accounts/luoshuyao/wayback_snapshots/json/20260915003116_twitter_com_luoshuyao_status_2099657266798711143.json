@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099646729754997090",
+    "created_at": "2026-09-15T00:31:16.000Z",
+    "display_text_range": [
+      10,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T01:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099657266798711143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785197366200705024",
+          "start": 0,
+          "username": "masike1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099657266798711143",
+    "in_reply_to_user_id": "1785197366200705024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099655343202771390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masike1d 我还是觉得这不该当成小事啊，就算你说的以前很多，虽然我没看到过听到过，你真希望这是小事，希望这是中国的日常吗？那就不要谈什么生活了，全员自由搏击好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099646729754997090",
+        "created_at": "2026-09-15T00:31:16.000Z",
+        "display_text_range": [
+          10,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099657266798711143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785197366200705024",
+              "start": 0,
+              "username": "masike1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099657266798711143",
+        "in_reply_to_user_id": "1785197366200705024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099655343202771390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masike1d 我还是觉得这不该当成小事啊，就算你说的以前很多，虽然我没看到过听到过，你真希望这是小事，希望这是中国的日常吗？那就不要谈什么生活了，全员自由搏击好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785197366200705024",
+        "conversation_id": "2099646729754997090",
+        "created_at": "2026-09-15T00:23:38.000Z",
+        "display_text_range": [
+          11,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099655343202771390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099655343202771390",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果发生在我身上，\n我好像真的能接受……\n\n我从不认为我我具有所谓“安全”的权力。\n\n而广工的这次事件看起来是危险团体的组织事件。\n而在于概率的角度上，这是必然得事件，我无法决定它发生在哪，突发在哪，而这种小概率事件，我真的挺可以接受的。\n\n或许你看着觉得很严肃，对我而言其实这种生活距离过去不是太久，在我儿时，当时比较乱的时候，真见得比较多了，现在经济下行只是回到了那个时候都常态\n\n而我之所以对比，是吹美国的实在太多了\n是纯粹🌚建政一下。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099653818371932194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 如果发生在我身上，\n我好像真的能接受……\n\n我从不认为我我具有所谓“安全”的权力。\n\n而广工的这次事件看起来是危险团体的组织事件。\n而在于概率的角度上，这是必然得事件，我无法决定它发生在哪，突发在哪，而这种小概率事件，我真的挺可以接受的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099657266798711143",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 280,
+          "like_count": 22557,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 5871
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-30T06:40:09.000Z",
+        "description": "Welcome to my Twitter!\n\nTelegram ：https://t.co/98eC2EbFbw\n\nWhatsApp：https://t.co/mQLwVYuyjw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dangdaizhexue",
+                "end": 57,
+                "expanded_url": "https://t.me/dangdaizhexue",
+                "start": 34,
+                "url": "https://t.co/98eC2EbFbw"
+              },
+              {
+                "display_url": "chat.whatsapp.com/Io2RKIZ1uoAHIf…",
+                "end": 91,
+                "expanded_url": "https://chat.whatsapp.com/Io2RKIZ1uoAHIfCQ0rwsJb",
+                "start": 68,
+                "url": "https://t.co/mQLwVYuyjw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/chat/j/VQ-_weh…",
+                "end": 23,
+                "expanded_url": "https://threads.com/chat/j/VQ-_wehA8RO2xySM/",
+                "start": 0,
+                "url": "https://t.co/VvvrygHlpX"
+              }
+            ]
+          }
+        },
+        "id": "1785197366200705024",
+        "is_identity_verified": false,
+        "location": "距离你 1米",
+        "most_recent_tweet_id": "2099657174700220845",
+        "name": "小爱同学",
+        "pinned_tweet_id": "2094281076516773906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785197366200705024/1764481211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036235807409975296/1tL-yqUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1151,
+          "like_count": 4711,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/VvvrygHlpX",
+        "username": "masike1d",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

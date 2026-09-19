@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2094445897988161998",
+    "created_at": "2026-08-31T15:23:09.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094445897988161998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2094429102912758254",
+          "start": 130,
+          "url": "https://t.co/1VTePjJR6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094445897988161998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于这个提问的人，我刷到过一个文案，希望可以鼓励到你：\n\n我有一个很善良的女生朋友，很招人疼惜，却一直单着。\n\n最近有个挺阳光的男生对她表示好感，我们都觉得男生不错，建议她试试，她却很快拒绝了。\n\n男生很耐心，一直默默关心她，可男生越对她好，她越是躲着男生。\n\n男生因为得不到回馈，最终失望放弃。\n\n我后来问朋友：真的对那个男生没感觉吗？\n\n朋友表情哀伤，说或许是喜欢的。\n\n又说，但自己真的没有办法接受。因为她和那个男生在一起，所有的情绪都是害怕。\n\n我继续问才知道。\n\n原来朋友之前有一个长跑6年的初恋，曾以为两人可以一直跑进婚姻，却在两年前突然被分手。\n\n朋友说无法接受新恋情，倒不是没能忘记前任，而是没能忘记别离的痛苦。以至于一接触美好，就会自动联想到别离。\n\n我想到其实身边有很多这种女生，在感情中受过伤，面对一段新恋情的第一反应往往不是拥抱，而是逃离。\n\n被吓到的男生以为她们是拒绝爱情、拒绝自己。但其实，她们只是拒绝自己。\n\n她们和所有的女孩一样，渴望爱情，渴望温暖。只是因为受过伤，看到美好的条件反射却是害怕。\n\n她们知道这些可爱的男孩是一束光，但也知道自己没有办法去抓住这束光。甚至觉得自己就应该在黑暗和孤独中待着。\n\n我特别心疼这一类女孩。\n\n特别想告诉她们：傻瓜，你看不到自己的好吗？你身上也是有光的啊，你也很可爱，你也很棒啊。\n\n我曾听过一句话：人的心门，会在某个特殊的阶段处于关闭状态，被关闭在外的或许就有喜欢的人，但因为状态特殊，意识不到。\n\n往往错过美好的开始。\n\n我真心希望，所有的女孩在一生中能保持心门畅通。\n\n如果不能，至少在正确的人面前，别关得太紧。别害怕被灼伤。\n\n你要知道，如果你不是光，怎么可能吸引到另一束阳光。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094429102912758254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于这个提问的人，我刷到过一个文案，希望可以鼓励到你：\n\n我有一个很善良的女生朋友，很招人疼惜，却一直单着。\n\n最近有个挺阳光的男生对她表示好感，我们都觉得男生不错，建议她试试，她却很快拒绝了。\n\n男生很耐心，一直默默关心她，可男生越对她好，她越是躲着男生。 https://t.co/1VTePjJR6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2094426123363090432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDldmNbAAAU9kZ.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094445897988161998",
+        "created_at": "2026-08-31T15:23:09.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094445897988161998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2094429102912758254",
+              "start": 130,
+              "url": "https://t.co/1VTePjJR6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094445897988161998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于这个提问的人，我刷到过一个文案，希望可以鼓励到你：\n\n我有一个很善良的女生朋友，很招人疼惜，却一直单着。\n\n最近有个挺阳光的男生对她表示好感，我们都觉得男生不错，建议她试试，她却很快拒绝了。\n\n男生很耐心，一直默默关心她，可男生越对她好，她越是躲着男生。\n\n男生因为得不到回馈，最终失望放弃。\n\n我后来问朋友：真的对那个男生没感觉吗？\n\n朋友表情哀伤，说或许是喜欢的。\n\n又说，但自己真的没有办法接受。因为她和那个男生在一起，所有的情绪都是害怕。\n\n我继续问才知道。\n\n原来朋友之前有一个长跑6年的初恋，曾以为两人可以一直跑进婚姻，却在两年前突然被分手。\n\n朋友说无法接受新恋情，倒不是没能忘记前任，而是没能忘记别离的痛苦。以至于一接触美好，就会自动联想到别离。\n\n我想到其实身边有很多这种女生，在感情中受过伤，面对一段新恋情的第一反应往往不是拥抱，而是逃离。\n\n被吓到的男生以为她们是拒绝爱情、拒绝自己。但其实，她们只是拒绝自己。\n\n她们和所有的女孩一样，渴望爱情，渴望温暖。只是因为受过伤，看到美好的条件反射却是害怕。\n\n她们知道这些可爱的男孩是一束光，但也知道自己没有办法去抓住这束光。甚至觉得自己就应该在黑暗和孤独中待着。\n\n我特别心疼这一类女孩。\n\n特别想告诉她们：傻瓜，你看不到自己的好吗？你身上也是有光的啊，你也很可爱，你也很棒啊。\n\n我曾听过一句话：人的心门，会在某个特殊的阶段处于关闭状态，被关闭在外的或许就有喜欢的人，但因为状态特殊，意识不到。\n\n往往错过美好的开始。\n\n我真心希望，所有的女孩在一生中能保持心门畅通。\n\n如果不能，至少在正确的人面前，别关得太紧。别害怕被灼伤。\n\n你要知道，如果你不是光，怎么可能吸引到另一束阳光。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094429102912758254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于这个提问的人，我刷到过一个文案，希望可以鼓励到你：\n\n我有一个很善良的女生朋友，很招人疼惜，却一直单着。\n\n最近有个挺阳光的男生对她表示好感，我们都觉得男生不错，建议她试试，她却很快拒绝了。\n\n男生很耐心，一直默默关心她，可男生越对她好，她越是躲着男生。 https://t.co/1VTePjJR6n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094426123363090432"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2094429102912758254",
+        "created_at": "2026-08-31T14:16:25.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094429102912758254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gLdBaWNdu",
+              "end": 104,
+              "expanded_url": "https://x.com/luoshuyao/status/2094429102912758254/photo/1",
+              "media_key": "3_2094426123363090432",
+              "start": 81,
+              "url": "https://t.co/4gLdBaWNdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094429102912758254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094426123363090432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "关于这个问题，我问了十几个朋友，得到了十二个有效的回答，我会把这些回答放在评论区里。因为一开始我也不太清楚怎么回答这个问题，感觉自己好像和这个问题的情况差不多。\n我的话，其实我也不会处理人际关系，我现在绝大多数时间都是一个人待着，就算是关系还不错的朋友一年也就联系几次，这对我来说都算多了。\n我觉得你这样是不对的，既然你渴望亲密关系但是又避免别人的靠近，这样是永远得不到亲密关系的。还是需要改变一下自己才能得到你想要的。至于关系好的同学离开学校就再也没有交集，大部分人都是一样的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 225,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于这个问题，我问了十几个朋友，得到了十二个有效的回答，我会把这些回答放在评论区里。因为一开始我也不太清楚怎么回答这个问题，感觉自己好像和这个问题的情况差不多。 https://t.co/4gLdBaWNdu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094445897988161998",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 285,
+          "like_count": 21342,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 5300
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

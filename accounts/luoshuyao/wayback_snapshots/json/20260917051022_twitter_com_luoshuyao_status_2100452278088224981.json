@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100452134596829185"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2100028733675782425",
+    "created_at": "2026-09-17T05:10:22.000Z",
+    "display_text_range": [
+      10,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100452278088224981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904711716635893760",
+          "start": 0,
+          "username": "JMLLS888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7eMiQQiyY",
+          "end": 84,
+          "expanded_url": "https://x.com/luoshuyao/status/2100452278088224981/photo/1",
+          "media_key": "3_2100452134596829185",
+          "start": 61,
+          "url": "https://t.co/q7eMiQQiyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100452278088224981",
+    "in_reply_to_user_id": "1904711716635893760",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100452134596829185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100028733675782425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JMLLS888 骑行圈什么样我不知道，但是没东西发真没必要拿AI来讲故事吧。后面的截图那么糊，都不知道被传了几手了。 https://t.co/q7eMiQQiyY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2017,
+        "media_key": "3_2100452134596829185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZOFnZa4AEpt1C.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2100027191576977408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTLmrSbYAAcdjk.jpg",
+        "width": 875
+      },
+      {
+        "height": 1010,
+        "media_key": "3_2100027966726307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTMTy8bgAAcpK1.jpg",
+        "width": 580
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2100028313079287808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTMn9NakAA7eLS.jpg",
+        "width": 603
+      },
+      {
+        "height": 1065,
+        "media_key": "3_2100028382805446656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTMsA9bUAAFZJe.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100452134596829185"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2100028733675782425",
+        "created_at": "2026-09-17T05:10:22.000Z",
+        "display_text_range": [
+          10,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100452278088224981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904711716635893760",
+              "start": 0,
+              "username": "JMLLS888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7eMiQQiyY",
+              "end": 84,
+              "expanded_url": "https://x.com/luoshuyao/status/2100452278088224981/photo/1",
+              "media_key": "3_2100452134596829185",
+              "start": 61,
+              "url": "https://t.co/q7eMiQQiyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100452278088224981",
+        "in_reply_to_user_id": "1904711716635893760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100452134596829185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100028733675782425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JMLLS888 骑行圈什么样我不知道，但是没东西发真没必要拿AI来讲故事吧。后面的截图那么糊，都不知道被传了几手了。 https://t.co/q7eMiQQiyY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100027191576977408",
+            "3_2100027966726307840",
+            "3_2100028313079287808",
+            "3_2100028382805446656"
+          ]
+        },
+        "author_id": "1904711716635893760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100028733675782425",
+        "created_at": "2026-09-16T01:07:21.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100028733675782425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07Q0AEMISi",
+              "end": 132,
+              "expanded_url": "https://x.com/JMLLS888/status/2100028733675782425/photo/1",
+              "media_key": "3_2100027191576977408",
+              "start": 109,
+              "url": "https://t.co/07Q0AEMISi"
+            },
+            {
+              "display_url": "pic.x.com/07Q0AEMISi",
+              "end": 132,
+              "expanded_url": "https://x.com/JMLLS888/status/2100028733675782425/photo/1",
+              "media_key": "3_2100027966726307840",
+              "start": 109,
+              "url": "https://t.co/07Q0AEMISi"
+            },
+            {
+              "display_url": "pic.x.com/07Q0AEMISi",
+              "end": 132,
+              "expanded_url": "https://x.com/JMLLS888/status/2100028733675782425/photo/1",
+              "media_key": "3_2100028313079287808",
+              "start": 109,
+              "url": "https://t.co/07Q0AEMISi"
+            },
+            {
+              "display_url": "pic.x.com/07Q0AEMISi",
+              "end": 132,
+              "expanded_url": "https://x.com/JMLLS888/status/2100028733675782425/photo/1",
+              "media_key": "3_2100028382805446656",
+              "start": 109,
+              "url": "https://t.co/07Q0AEMISi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100028733675782425",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100027191576977408"
+          },
+          {
+            "media_key": "3_2100027966726307840"
+          },
+          {
+            "media_key": "3_2100028313079287808"
+          },
+          {
+            "media_key": "3_2100028382805446656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 222,
+                "start": 219,
+                "tag": "吃瓜"
+              }
+            ]
+          },
+          "text": "骑行圈到底乱不乱？\n\n一名女子在社交媒体上曝光了骑行圈内的一些“肮脏内幕”，闻之瞬间令人大惊失色：还能这么玩？！！\n\n博主加入了一个骑行圈，圈内在8月底将要举行一个骑友烧烤聚会，该名女子也参加了，不过随后她就后悔了！\n\n活动方安排了住宿地点，但令她震惊的是，住宿安排竟然是“男女随机分配”！骑行队中的男女各自随机抽签，但是男女双方不能相互打听，更不能私下透露自己抽到的房间号。晚上集体团建之后各自回房，看对眼的就可以双双“把手言欢”。\n\n#吃瓜"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 911,
+          "impression_count": 904007,
+          "like_count": 1667,
+          "quote_count": 8,
+          "reply_count": 630,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "骑行圈到底乱不乱？\n\n一名女子在社交媒体上曝光了骑行圈内的一些“肮脏内幕”，闻之瞬间令人大惊失色：还能这么玩？！！\n\n博主加入了一个骑行圈，圈内在8月底将要举行一个骑友烧烤聚会，该名女子也参加了，不过随后她就后悔了！ https://t.co/07Q0AEMISi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100452278088224981",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 274,
+          "like_count": 22786,
+          "listed_count": 3,
+          "media_count": 687,
+          "tweet_count": 5994
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T01:47:26.000Z",
+        "description": "🪂airdrop | #空投 | 撸毛教程 |  #Binance 丨 OKX手续费减免20%：https://t.co/4ttOSzzJY9",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 11,
+                "tag": "空投"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/F123456",
+                "end": 71,
+                "expanded_url": "http://web3.okx.com/join/F123456",
+                "start": 48,
+                "url": "https://t.co/4ttOSzzJY9"
+              }
+            ]
+          }
+        },
+        "id": "1904711716635893760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100449096809242824",
+        "name": "加密社 | 🪂",
+        "pinned_tweet_id": "2097862182361075880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904711716635893760/1762483667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904711969481109504/t-dm8lzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5344,
+          "following_count": 4067,
+          "like_count": 4439,
+          "listed_count": 12,
+          "media_count": 1621,
+          "tweet_count": 7901
+        },
+        "url": "",
+        "username": "JMLLS888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

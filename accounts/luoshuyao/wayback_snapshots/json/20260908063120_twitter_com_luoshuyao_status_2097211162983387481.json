@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097209129173688320",
+        "3_2097209129236602881"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2097192447394586862",
+    "created_at": "2026-09-08T06:31:20.000Z",
+    "display_text_range": [
+      14,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097211162983387481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCcHxxokQH",
+          "end": 147,
+          "expanded_url": "https://x.com/luoshuyao/status/2097211162983387481/photo/1",
+          "media_key": "3_2097209129173688320",
+          "start": 124,
+          "url": "https://t.co/pCcHxxokQH"
+        },
+        {
+          "display_url": "pic.x.com/pCcHxxokQH",
+          "end": 147,
+          "expanded_url": "https://x.com/luoshuyao/status/2097211162983387481/photo/1",
+          "media_key": "3_2097209129236602881",
+          "start": 124,
+          "url": "https://t.co/pCcHxxokQH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097211162983387481",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097209129173688320"
+      },
+      {
+        "media_key": "3_2097209129236602881"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097192447394586862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 温馨提示，挂ta不是因为ta偷文案，这里偷文案的一抓一大把。\n此人的帖子全是偷的文案还挂好友收费门槛，（我也不知道加这种好友有什么用）被人指出偷文案还嘴硬不承认。现在基本都删掉了，偷的文案删了ta还能写出什么东西来🤣👉 https://t.co/pCcHxxokQH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2097209129173688320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrIl2waoAAUS1R.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1355,
+        "media_key": "3_2097209129236602881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrIl2_aoAEixlD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097209129173688320",
+            "3_2097209129236602881"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2097192447394586862",
+        "created_at": "2026-09-08T06:31:20.000Z",
+        "display_text_range": [
+          14,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097211162983387481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCcHxxokQH",
+              "end": 147,
+              "expanded_url": "https://x.com/luoshuyao/status/2097211162983387481/photo/1",
+              "media_key": "3_2097209129173688320",
+              "start": 124,
+              "url": "https://t.co/pCcHxxokQH"
+            },
+            {
+              "display_url": "pic.x.com/pCcHxxokQH",
+              "end": 147,
+              "expanded_url": "https://x.com/luoshuyao/status/2097211162983387481/photo/1",
+              "media_key": "3_2097209129236602881",
+              "start": 124,
+              "url": "https://t.co/pCcHxxokQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097211162983387481",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097209129173688320"
+          },
+          {
+            "media_key": "3_2097209129236602881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097192447394586862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 温馨提示，挂ta不是因为ta偷文案，这里偷文案的一抓一大把。\n此人的帖子全是偷的文案还挂好友收费门槛，（我也不知道加这种好友有什么用）被人指出偷文案还嘴硬不承认。现在基本都删掉了，偷的文案删了ta还能写出什么东西来🤣👉 https://t.co/pCcHxxokQH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2097192447394586862",
+        "created_at": "2026-09-08T05:16:58.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097192447394586862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2090348740250906624",
+              "start": 10,
+              "username": "Uuucvea"
+            }
+          ],
+          "urls": [
+            {
+              "description": "收集了 Uuucvea 抄袭的帖子以及来源截图。",
+              "display_url": "liujiayi1111.github.io/uuu-dung-beetl…",
+              "end": 111,
+              "expanded_url": "https://liujiayi1111.github.io/uuu-dung-beetle/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2097192449537896448/AHQ41-_J?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097192449537896448/AHQ41-_J?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "Uuucvea 盗帖合集",
+              "unwound_url": "https://liujiayi1111.github.io/uuu-dung-beetle/",
+              "url": "https://t.co/YgyvkOMHK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097192447394586862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "2090348740250906624",
+                "start": 10,
+                "username": "Uuucvea"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "liujiayi1111.github.io/uuu-dung-beetl…",
+                "end": 111,
+                "expanded_url": "https://liujiayi1111.github.io/uuu-dung-beetle/",
+                "start": 88,
+                "url": "https://t.co/YRLBLGj93h"
+              }
+            ]
+          },
+          "text": "我做了个半自动收集 @Uuucvea 抄袭帖子来源的工具，然后自动找出 Uuu 盗贴的来源，目前收集了有百来个盗贴的来源，顺便 vide code 了一个简易的网页展示，链接：https://t.co/YRLBLGj93h\n\n它说盗了哪些列出来它就一一删掉，不知道还算不算话🤭\n\n我发现它盗的帖子多数都来自 Threads 这个平台，而且原作者刚发布不久就被 Uuu 盗走了。\n\n这说明什么呢？它是个老吃家啊！太会吃了！吃翔都趁热吃，要吃最热乎那一个，都恨不得贴着腚吃啊，生怕凉了就不好吃了，真是给我笑得不行了。😆😆"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2309,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我做了个半自动收集 @Uuucvea 抄袭帖子来源的工具，然后自动找出 Uuu 盗贴的来源，目前收集了有百来个盗贴的来源，顺便 vide code 了一个简易的网页展示，链接：https://t.co/YgyvkOMHK1\n\n它说盗了哪些列出来它就一一删掉，不知道还算不算话🤭\n\n我发现它盗的帖子多数都来自 Threads"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097211162983387481",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 273,
+          "like_count": 21885,
+          "listed_count": 3,
+          "media_count": 592,
+          "tweet_count": 5505
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097203412353843448",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11823,
+          "following_count": 145,
+          "like_count": 17666,
+          "listed_count": 31,
+          "media_count": 407,
+          "tweet_count": 5193
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

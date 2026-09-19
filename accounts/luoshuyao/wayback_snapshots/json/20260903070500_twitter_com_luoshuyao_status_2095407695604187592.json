@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2095330908706644362",
+    "created_at": "2026-09-03T07:05:00.000Z",
+    "display_text_range": [
+      12,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095407695604187592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022153081031733252",
+          "start": 0,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095407695604187592",
+    "in_reply_to_user_id": "2022153081031733252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "宝宝，你发这些东西，妈妈实在是太害怕了。我知道你喜欢探索新事物、学习新知识，这点我很欣赏和支持。但是有些时候，作为母亲，我会因为担心你受到不良影响而感到害怕。尤其是在网络世界里，存在着很多虚假信息和不良内容，我希望你能够更加谨慎和理性地对待它们，避免被误导或者受到伤害。当然，我也相信你有很好的判断力和自我保护意识，我们可以一起学习如何更好地应对这些挑战。请记住，无论何时，我都是你最坚实的后盾，永远陪伴着你。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095330908706644362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ax09s84751 宝宝，你发这些东西，妈妈实在是太害怕了。我知道你喜欢探索新事物、学习新知识，这点我很欣赏和支持。但是有些时候，作为母亲，我会因为担心你受到不良影响而感到害怕。尤其是在网络世界里，存在着很多虚假信息和不良内容，我希望你能够更加谨慎和理性地对待它们，避免被误导或者受到伤害。当然，我也"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2095329192468746242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQazIybEAI_s43.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2095329192481300480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQazI1aoAAeBQD.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2095330908706644362",
+        "created_at": "2026-09-03T07:05:00.000Z",
+        "display_text_range": [
+          12,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095407695604187592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095407695604187592",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "宝宝，你发这些东西，妈妈实在是太害怕了。我知道你喜欢探索新事物、学习新知识，这点我很欣赏和支持。但是有些时候，作为母亲，我会因为担心你受到不良影响而感到害怕。尤其是在网络世界里，存在着很多虚假信息和不良内容，我希望你能够更加谨慎和理性地对待它们，避免被误导或者受到伤害。当然，我也相信你有很好的判断力和自我保护意识，我们可以一起学习如何更好地应对这些挑战。请记住，无论何时，我都是你最坚实的后盾，永远陪伴着你。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095330908706644362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 宝宝，你发这些东西，妈妈实在是太害怕了。我知道你喜欢探索新事物、学习新知识，这点我很欣赏和支持。但是有些时候，作为母亲，我会因为担心你受到不良影响而感到害怕。尤其是在网络世界里，存在着很多虚假信息和不良内容，我希望你能够更加谨慎和理性地对待它们，避免被误导或者受到伤害。当然，我也"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095329192468746242",
+            "3_2095329192481300480"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2095330908706644362",
+        "created_at": "2026-09-03T01:59:52.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:55:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095329783421042813",
+          "2095330908706644362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WfYub8Yi5m",
+              "end": 114,
+              "expanded_url": "https://x.com/ax09s84751/status/2095330908706644362/photo/1",
+              "media_key": "3_2095329192468746242",
+              "start": 91,
+              "url": "https://t.co/WfYub8Yi5m"
+            },
+            {
+              "display_url": "pic.x.com/WfYub8Yi5m",
+              "end": 114,
+              "expanded_url": "https://x.com/ax09s84751/status/2095330908706644362/photo/1",
+              "media_key": "3_2095329192481300480",
+              "start": 91,
+              "url": "https://t.co/WfYub8Yi5m"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2095330908706644362",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095329192468746242"
+          },
+          {
+            "media_key": "3_2095329192481300480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "布瑞哌唑 阿立哌唑类似物 只有富公吃的起 机制差不多都是DA D2 部分激动 5-HT2A拮抗 5-HT1A 激动 \n相比于阿立哌唑EPS风险大幅下降，但是价格差了将近20倍都不止 https://t.co/WfYub8Yi5m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095407695604187592",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 285,
+          "like_count": 21627,
+          "listed_count": 3,
+          "media_count": 583,
+          "tweet_count": 5425
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "BD-II (Dep, Mixed, RC, AnxD, Mel)\n苏州/09/MTF🏳️‍⚧️\n关联主号@Echo42es @Echog6xf\n聚于共鸣，行于热爱，成于坚守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Echo42es"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2095401430991679523",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1775,
+          "like_count": 3648,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

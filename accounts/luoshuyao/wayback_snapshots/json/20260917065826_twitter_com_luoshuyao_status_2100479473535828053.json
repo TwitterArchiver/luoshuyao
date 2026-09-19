@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099956720172740738",
+    "created_at": "2026-09-17T06:58:26.000Z",
+    "display_text_range": [
+      7,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100479473535828053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1313647919908745220",
+          "start": 0,
+          "username": "7i__g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100479473535828053",
+    "in_reply_to_user_id": "1313647919908745220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099956720172740738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7i__g 忧郁蓝调"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2099956649070923777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSLcj-XkAEZqRe.jpg",
+        "width": 652
+      },
+      {
+        "height": 827,
+        "media_key": "3_2099956649066647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSLcj9WUAA9nog.jpg",
+        "width": 652
+      },
+      {
+        "height": 827,
+        "media_key": "3_2099956649075032064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSLcj_WQAAPkdc.jpg",
+        "width": 652
+      },
+      {
+        "height": 827,
+        "media_key": "3_2099956649087660032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSLckCW8AAcD4t.jpg",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099956720172740738",
+        "created_at": "2026-09-17T06:58:26.000Z",
+        "display_text_range": [
+          7,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100479473535828053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1313647919908745220",
+              "start": 0,
+              "username": "7i__g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100479473535828053",
+        "in_reply_to_user_id": "1313647919908745220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099956720172740738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7i__g 忧郁蓝调"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099956649070923777",
+            "3_2099956649066647552",
+            "3_2099956649075032064",
+            "3_2099956649087660032"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2099956720172740738",
+        "created_at": "2026-09-15T20:21:12.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099956720172740738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MM5Qvx8g0v",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2099956720172740738/photo/1",
+              "media_key": "3_2099956649070923777",
+              "start": 0,
+              "url": "https://t.co/MM5Qvx8g0v"
+            },
+            {
+              "display_url": "pic.x.com/MM5Qvx8g0v",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2099956720172740738/photo/1",
+              "media_key": "3_2099956649066647552",
+              "start": 0,
+              "url": "https://t.co/MM5Qvx8g0v"
+            },
+            {
+              "display_url": "pic.x.com/MM5Qvx8g0v",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2099956720172740738/photo/1",
+              "media_key": "3_2099956649075032064",
+              "start": 0,
+              "url": "https://t.co/MM5Qvx8g0v"
+            },
+            {
+              "display_url": "pic.x.com/MM5Qvx8g0v",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2099956720172740738/photo/1",
+              "media_key": "3_2099956649087660032",
+              "start": 0,
+              "url": "https://t.co/MM5Qvx8g0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099956720172740738",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099956649070923777"
+          },
+          {
+            "media_key": "3_2099956649066647552"
+          },
+          {
+            "media_key": "3_2099956649075032064"
+          },
+          {
+            "media_key": "3_2099956649087660032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14311,
+          "impression_count": 2081941,
+          "like_count": 102571,
+          "quote_count": 1388,
+          "reply_count": 308,
+          "retweet_count": 14458
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MM5Qvx8g0v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100479473535828053",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 274,
+          "like_count": 22808,
+          "listed_count": 3,
+          "media_count": 692,
+          "tweet_count": 6011
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100426611614990548",
+        "name": "ًً",
+        "pinned_tweet_id": "2058592279900586263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313647919908745220/1765188049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35277,
+          "following_count": 31,
+          "like_count": 354795,
+          "listed_count": 64,
+          "media_count": 1698,
+          "tweet_count": 5290
+        },
+        "url": "",
+        "username": "7i__g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

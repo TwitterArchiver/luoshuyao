@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2086845186353877008",
+    "created_at": "2026-08-11T10:32:26.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087124977195855881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1193168520042946560",
+          "start": 0,
+          "username": "wibus_wee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087124977195855881",
+    "in_reply_to_user_id": "1193168520042946560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086845186353877008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wibus_wee 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1762,
+        "media_key": "3_2086839393910980608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXxX0lbAAARRnB.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2086845186353877008",
+        "created_at": "2026-08-11T10:32:26.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087124977195855881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1193168520042946560",
+              "start": 0,
+              "username": "wibus_wee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087124977195855881",
+        "in_reply_to_user_id": "1193168520042946560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086845186353877008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wibus_wee 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086839393910980608"
+          ]
+        },
+        "author_id": "1193168520042946560",
+        "conversation_id": "2086845186353877008",
+        "created_at": "2026-08-10T16:00:38.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086845186353877008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PicivyrNnW",
+              "end": 83,
+              "expanded_url": "https://x.com/wibus_wee/status/2086845186353877008/photo/1",
+              "media_key": "3_2086839393910980608",
+              "start": 60,
+              "url": "https://t.co/PicivyrNnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086845186353877008",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086839393910980608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2780,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二十岁生日快乐！\n\n这一年感触颇深，也许留给我的 20 岁，是让我相信自己配留在这个世界上吧\n\n无限进步！来主页戳戳🎈 https://t.co/PicivyrNnW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087124977195855881",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 292,
+          "like_count": 20410,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 4977
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-09T14:08:52.000Z",
+        "description": "Agentic Supervisor. Creator of https://t.co/8EheQ46Zpk \n\nBuilding for agents. Designing for humans.\n\nAll views are my own.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cradle.wibus.ren",
+                "end": 54,
+                "expanded_url": "https://cradle.wibus.ren",
+                "start": 31,
+                "url": "https://t.co/8EheQ46Zpk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.wibus.ren",
+                "end": 23,
+                "expanded_url": "https://blog.wibus.ren",
+                "start": 0,
+                "url": "https://t.co/8IPpboeB1v"
+              }
+            ]
+          }
+        },
+        "id": "1193168520042946560",
+        "is_identity_verified": false,
+        "location": "Guangzhou, China",
+        "most_recent_tweet_id": "2087115147827642879",
+        "name": "wibus.松",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193168520042946560/1761629739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586715796369121283/7TuEIlmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 783,
+          "like_count": 10956,
+          "listed_count": 17,
+          "media_count": 314,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/8IPpboeB1v",
+        "username": "wibus_wee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

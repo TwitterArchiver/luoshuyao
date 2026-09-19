@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099165387481128960",
+        "3_2099165387493666816",
+        "3_2099165387464310784",
+        "3_2099165388227715072"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099166551220047976",
+    "created_at": "2026-09-13T16:01:21.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099166551220047976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/psxXAWRVlJ",
+          "end": 155,
+          "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+          "media_key": "3_2099165387481128960",
+          "start": 132,
+          "url": "https://t.co/psxXAWRVlJ"
+        },
+        {
+          "display_url": "pic.x.com/psxXAWRVlJ",
+          "end": 155,
+          "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+          "media_key": "3_2099165387493666816",
+          "start": 132,
+          "url": "https://t.co/psxXAWRVlJ"
+        },
+        {
+          "display_url": "pic.x.com/psxXAWRVlJ",
+          "end": 155,
+          "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+          "media_key": "3_2099165387464310784",
+          "start": 132,
+          "url": "https://t.co/psxXAWRVlJ"
+        },
+        {
+          "display_url": "pic.x.com/psxXAWRVlJ",
+          "end": 155,
+          "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+          "media_key": "3_2099165388227715072",
+          "start": 132,
+          "url": "https://t.co/psxXAWRVlJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099166551220047976",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099165387481128960"
+      },
+      {
+        "media_key": "3_2099165387493666816"
+      },
+      {
+        "media_key": "3_2099165387464310784"
+      },
+      {
+        "media_key": "3_2099165388227715072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是我今天说的不小心刷掉的那个帖子图片。\n警惕这种AI脸，今天刷到很多这样的克隆人了。\n看我圈出的台灯和床头柜，每一张都不一样，换家具换的挺勤快。还有一张，床的位置直接换成了沙发。\n你们看得出来吗？反正我一眼就感觉不对劲，这种账号流量还挺高，几千赞的帖子都有。 https://t.co/psxXAWRVlJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2099165387481128960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSG7zE2boAAKu8r.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2099165387493666816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSG7zE5a8AANhCw.jpg",
+        "width": 960
+      },
+      {
+        "height": 1705,
+        "media_key": "3_2099165387464310784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSG7zEybAAAchAC.jpg",
+        "width": 960
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2099165388227715072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSG7zHoboAAt8cq.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099165387481128960",
+            "3_2099165387493666816",
+            "3_2099165387464310784",
+            "3_2099165388227715072"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099166551220047976",
+        "created_at": "2026-09-13T16:01:21.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099166551220047976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/psxXAWRVlJ",
+              "end": 155,
+              "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+              "media_key": "3_2099165387481128960",
+              "start": 132,
+              "url": "https://t.co/psxXAWRVlJ"
+            },
+            {
+              "display_url": "pic.x.com/psxXAWRVlJ",
+              "end": 155,
+              "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+              "media_key": "3_2099165387493666816",
+              "start": 132,
+              "url": "https://t.co/psxXAWRVlJ"
+            },
+            {
+              "display_url": "pic.x.com/psxXAWRVlJ",
+              "end": 155,
+              "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+              "media_key": "3_2099165387464310784",
+              "start": 132,
+              "url": "https://t.co/psxXAWRVlJ"
+            },
+            {
+              "display_url": "pic.x.com/psxXAWRVlJ",
+              "end": 155,
+              "expanded_url": "https://x.com/luoshuyao/status/2099166551220047976/photo/1",
+              "media_key": "3_2099165388227715072",
+              "start": 132,
+              "url": "https://t.co/psxXAWRVlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099166551220047976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099165387481128960"
+          },
+          {
+            "media_key": "3_2099165387493666816"
+          },
+          {
+            "media_key": "3_2099165387464310784"
+          },
+          {
+            "media_key": "3_2099165388227715072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是我今天说的不小心刷掉的那个帖子图片。\n警惕这种AI脸，今天刷到很多这样的克隆人了。\n看我圈出的台灯和床头柜，每一张都不一样，换家具换的挺勤快。还有一张，床的位置直接换成了沙发。\n你们看得出来吗？反正我一眼就感觉不对劲，这种账号流量还挺高，几千赞的帖子都有。 https://t.co/psxXAWRVlJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099166551220047976",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 280,
+          "like_count": 22417,
+          "listed_count": 3,
+          "media_count": 643,
+          "tweet_count": 5786
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

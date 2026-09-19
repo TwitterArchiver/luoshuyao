@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099814214777102336"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099719859995091262",
+    "created_at": "2026-09-15T10:55:13.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099814287342784607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844296703282925568",
+          "start": 0,
+          "username": "xupaopaogm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lexbTRhcev",
+          "end": 39,
+          "expanded_url": "https://x.com/luoshuyao/status/2099814287342784607/photo/1",
+          "media_key": "3_2099814214777102336",
+          "start": 16,
+          "url": "https://t.co/lexbTRhcev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099814287342784607",
+    "in_reply_to_user_id": "1844296703282925568",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099814214777102336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099719859995091262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xupaopaogm 何意味 https://t.co/lexbTRhcev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2099814214777102336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQJ5y4a4AAm9oH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1520,
+        "media_key": "3_2099676196762226688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOMYFtbEAAW-zP.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099814214777102336"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099719859995091262",
+        "created_at": "2026-09-15T10:55:13.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099814287342784607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "xupaopaogm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lexbTRhcev",
+              "end": 39,
+              "expanded_url": "https://x.com/luoshuyao/status/2099814287342784607/photo/1",
+              "media_key": "3_2099814214777102336",
+              "start": 16,
+              "url": "https://t.co/lexbTRhcev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099814287342784607",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099814214777102336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099719859995091262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xupaopaogm 何意味 https://t.co/lexbTRhcev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099676196762226688"
+          ]
+        },
+        "author_id": "1844296703282925568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099719859995091262",
+        "created_at": "2026-09-15T04:40:00.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099719859995091262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UWWel2YyB",
+              "end": 36,
+              "expanded_url": "https://x.com/xupaopaogm/status/2099719859995091262/photo/1",
+              "media_key": "3_2099676196762226688",
+              "start": 13,
+              "url": "https://t.co/3UWWel2YyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099719859995091262",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099676196762226688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 105785,
+          "like_count": 871,
+          "quote_count": 1,
+          "reply_count": 408,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "网友见面了，这波亏不亏？ https://t.co/3UWWel2YyB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099814287342784607",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 275,
+          "like_count": 22620,
+          "listed_count": 3,
+          "media_count": 669,
+          "tweet_count": 5899
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1925123366492745729/NGDodCQg_bigger.jpg",
+          "description": "BiyaPay 中文",
+          "url": "https://twitter.com/BIYAPAYOFFICIAL",
+          "user_id": [
+            "1404674977866018816"
+          ]
+        },
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "AI 会员代充值：https://t.co/wwJBZlN21M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paocn.com",
+                "end": 32,
+                "expanded_url": "http://paocn.com/",
+                "start": 9,
+                "url": "https://t.co/wwJBZlN21M"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "is_identity_verified": false,
+        "location": "导航",
+        "most_recent_tweet_id": "2099813925361709101",
+        "name": "徐跑跑",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844296703282925568/1788329744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087195072202981376/a5vvH7bW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53754,
+          "following_count": 7920,
+          "like_count": 45071,
+          "listed_count": 125,
+          "media_count": 1236,
+          "tweet_count": 42675
+        },
+        "url": "",
+        "username": "xupaopaogm",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

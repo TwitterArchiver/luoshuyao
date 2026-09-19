@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2100017980507885681",
+    "created_at": "2026-09-16T01:31:39.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100034847356154016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797882215747158016",
+          "start": 0,
+          "username": "carpediemx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100034847356154016",
+    "in_reply_to_user_id": "1797882215747158016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100017980507885681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carpediemx01 互联网特色：复制粘贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2100017980507885681",
+        "created_at": "2026-09-16T01:31:39.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100034847356154016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797882215747158016",
+              "start": 0,
+              "username": "carpediemx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100034847356154016",
+        "in_reply_to_user_id": "1797882215747158016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100017980507885681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carpediemx01 互联网特色：复制粘贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797882215747158016",
+        "conversation_id": "2100017980507885681",
+        "created_at": "2026-09-16T00:24:37.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100017980507885681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aditsonp/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/aditsonp/status/2099532610724839884",
+              "start": 39,
+              "url": "https://t.co/ptsMMpwX9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100017980507885681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099532610724839884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我天天就看到这种n手傻逼文案被翻来覆去发 关键每次还都有流量 我的推特好难看 https://t.co/ptsMMpwX9v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100034847356154016",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 275,
+          "like_count": 22707,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 5938
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-04T06:45:17.000Z",
+        "description": "",
+        "id": "1797882215747158016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100017980507885681",
+        "name": "银杏微白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797882215747158016/1765785329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069788122909401088/UthAUuQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10141,
+          "following_count": 57,
+          "like_count": 3197,
+          "listed_count": 36,
+          "media_count": 595,
+          "tweet_count": 5181
+        },
+        "url": "",
+        "username": "carpediemx01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

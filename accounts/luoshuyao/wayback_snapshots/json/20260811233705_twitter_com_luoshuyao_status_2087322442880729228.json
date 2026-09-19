@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2087313329517973726",
+    "created_at": "2026-08-11T23:37:05.000Z",
+    "display_text_range": [
+      11,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087322442880729228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992703228291563520",
+          "start": 0,
+          "username": "Jerryxuj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087322442880729228",
+    "in_reply_to_user_id": "1992703228291563520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087321951773638912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerryxuj0 因为我只跟人事说了，车间主任和经理都不知道，不然早来劝我了😌不知道为什么他们消息流通这么差，明明公司一大半的人都知道了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2087313329517973726",
+        "created_at": "2026-08-11T23:37:05.000Z",
+        "display_text_range": [
+          11,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087322442880729228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992703228291563520",
+              "start": 0,
+              "username": "Jerryxuj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087322442880729228",
+        "in_reply_to_user_id": "1992703228291563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087321951773638912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerryxuj0 因为我只跟人事说了，车间主任和经理都不知道，不然早来劝我了😌不知道为什么他们消息流通这么差，明明公司一大半的人都知道了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992703228291563520",
+        "conversation_id": "2087313329517973726",
+        "created_at": "2026-08-11T23:35:08.000Z",
+        "display_text_range": [
+          11,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087321951773638912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087321951773638912",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087313329517973726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 你是这个新人的贵人，为什么要辞职？老板怎么舍得让你走的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087322442880729228",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 292,
+          "like_count": 20491,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 4996
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T21:15:19.000Z",
+        "description": "",
+        "id": "1992703228291563520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087321951773638912",
+        "name": "Jerry",
+        "pinned_tweet_id": "2035451367410516330",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992703875703345153/1rx0kJbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 449,
+          "like_count": 1695,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3545
+        },
+        "url": "",
+        "username": "Jerryxuj0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

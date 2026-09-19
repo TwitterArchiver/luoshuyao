@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099646729754997090",
+    "created_at": "2026-09-15T00:17:34.000Z",
+    "display_text_range": [
+      10,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T01:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099653818371932194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785197366200705024",
+          "start": 0,
+          "username": "masike1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099653818371932194",
+    "in_reply_to_user_id": "1785197366200705024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099646729754997090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masike1d 如果发生在你身上你能接受吗？跟自身安全息息相关的事情为什么不能骂？你都说了对美国而言是日常，中国发生这种事情跟美国相比较而言很多吗？在中国这种事情可不算小事，这里不是美国，不要拿别的国家来衡量这种事情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099646729754997090",
+        "created_at": "2026-09-15T00:17:34.000Z",
+        "display_text_range": [
+          10,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099653818371932194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785197366200705024",
+              "start": 0,
+              "username": "masike1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099653818371932194",
+        "in_reply_to_user_id": "1785197366200705024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099646729754997090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masike1d 如果发生在你身上你能接受吗？跟自身安全息息相关的事情为什么不能骂？你都说了对美国而言是日常，中国发生这种事情跟美国相比较而言很多吗？在中国这种事情可不算小事，这里不是美国，不要拿别的国家来衡量这种事情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785197366200705024",
+        "conversation_id": "2099646729754997090",
+        "created_at": "2026-09-14T23:49:24.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T00:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099646729754997090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099646729754997090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道网上这群人在骂骂啥，\n你们看再来震惊的广工学院事情，\n对美国而言就是日常。\n\n这点小事都接受不了还谈接受自由？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099653818371932194",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 280,
+          "like_count": 22554,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 5867
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-30T06:40:09.000Z",
+        "description": "Welcome to my Twitter!\n\nTelegram ：https://t.co/98eC2EbFbw\n\nWhatsApp：https://t.co/mQLwVYuyjw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dangdaizhexue",
+                "end": 57,
+                "expanded_url": "https://t.me/dangdaizhexue",
+                "start": 34,
+                "url": "https://t.co/98eC2EbFbw"
+              },
+              {
+                "display_url": "chat.whatsapp.com/Io2RKIZ1uoAHIf…",
+                "end": 91,
+                "expanded_url": "https://chat.whatsapp.com/Io2RKIZ1uoAHIfCQ0rwsJb",
+                "start": 68,
+                "url": "https://t.co/mQLwVYuyjw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/chat/j/VQ-_weh…",
+                "end": 23,
+                "expanded_url": "https://threads.com/chat/j/VQ-_wehA8RO2xySM/",
+                "start": 0,
+                "url": "https://t.co/VvvrygHlpX"
+              }
+            ]
+          }
+        },
+        "id": "1785197366200705024",
+        "is_identity_verified": false,
+        "location": "距离你 1米",
+        "most_recent_tweet_id": "2099653221908390032",
+        "name": "小爱同学",
+        "pinned_tweet_id": "2094281076516773906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785197366200705024/1764481211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036235807409975296/1tL-yqUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1151,
+          "like_count": 4711,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2578
+        },
+        "url": "https://t.co/VvvrygHlpX",
+        "username": "masike1d",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

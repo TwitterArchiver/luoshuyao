@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099485491209080832",
+        "3_2099485491192279040",
+        "3_2099485491225935872"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "conversation_id": "2099448101199401287",
+    "created_at": "2026-09-14T13:10:44.000Z",
+    "display_text_range": [
+      15,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099486003799130568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVWiHMTCgb",
+          "end": 115,
+          "expanded_url": "https://x.com/luoshuyao/status/2099486003799130568/photo/1",
+          "media_key": "3_2099485491209080832",
+          "start": 92,
+          "url": "https://t.co/NVWiHMTCgb"
+        },
+        {
+          "display_url": "pic.x.com/NVWiHMTCgb",
+          "end": 115,
+          "expanded_url": "https://x.com/luoshuyao/status/2099486003799130568/photo/1",
+          "media_key": "3_2099485491192279040",
+          "start": 92,
+          "url": "https://t.co/NVWiHMTCgb"
+        },
+        {
+          "display_url": "pic.x.com/NVWiHMTCgb",
+          "end": 115,
+          "expanded_url": "https://x.com/luoshuyao/status/2099486003799130568/photo/1",
+          "media_key": "3_2099485491225935872",
+          "start": 92,
+          "url": "https://t.co/NVWiHMTCgb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099486003799130568",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099485491209080832"
+      },
+      {
+        "media_key": "3_2099485491192279040"
+      },
+      {
+        "media_key": "3_2099485491225935872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099448101199401287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 我去验证了一下这个消息的真实性，大概率是假的。这个账号在24小时内把那个帖子删了，现在点进去空空如也一个帖子都没有。在这个事情的讨论上也有人说这是假号。 https://t.co/NVWiHMTCgb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2099485491209080832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLe7kKakAArmNR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1635,
+        "media_key": "3_2099485491192279040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLe7kGaMAAaELy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2840,
+        "media_key": "3_2099485491225935872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLe7kObwAAMnpQ.jpg",
+        "width": 2160
+      },
+      {
+        "height": 674,
+        "media_key": "3_2099447777181024256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSK8oUdbwAAZvvJ.png",
+        "width": 784
+      },
+      {
+        "height": 1035,
+        "media_key": "3_2099447777143160832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSK8oUUaAAA4CZH.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099485491209080832",
+            "3_2099485491192279040",
+            "3_2099485491225935872"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2099448101199401287",
+        "created_at": "2026-09-14T13:10:44.000Z",
+        "display_text_range": [
+          15,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099486003799130568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVWiHMTCgb",
+              "end": 115,
+              "expanded_url": "https://x.com/luoshuyao/status/2099486003799130568/photo/1",
+              "media_key": "3_2099485491209080832",
+              "start": 92,
+              "url": "https://t.co/NVWiHMTCgb"
+            },
+            {
+              "display_url": "pic.x.com/NVWiHMTCgb",
+              "end": 115,
+              "expanded_url": "https://x.com/luoshuyao/status/2099486003799130568/photo/1",
+              "media_key": "3_2099485491192279040",
+              "start": 92,
+              "url": "https://t.co/NVWiHMTCgb"
+            },
+            {
+              "display_url": "pic.x.com/NVWiHMTCgb",
+              "end": 115,
+              "expanded_url": "https://x.com/luoshuyao/status/2099486003799130568/photo/1",
+              "media_key": "3_2099485491225935872",
+              "start": 92,
+              "url": "https://t.co/NVWiHMTCgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099486003799130568",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099485491209080832"
+          },
+          {
+            "media_key": "3_2099485491192279040"
+          },
+          {
+            "media_key": "3_2099485491225935872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099448101199401287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我去验证了一下这个消息的真实性，大概率是假的。这个账号在24小时内把那个帖子删了，现在点进去空空如也一个帖子都没有。在这个事情的讨论上也有人说这是假号。 https://t.co/NVWiHMTCgb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099447777181024256",
+            "3_2099447777143160832"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099448101199401287",
+        "created_at": "2026-09-14T10:40:07.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099448101199401287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJZP02YNH4",
+              "end": 78,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2099448101199401287/photo/1",
+              "media_key": "3_2099447777181024256",
+              "start": 55,
+              "url": "https://t.co/KJZP02YNH4"
+            },
+            {
+              "display_url": "pic.x.com/KJZP02YNH4",
+              "end": 78,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2099448101199401287/photo/1",
+              "media_key": "3_2099447777143160832",
+              "start": 55,
+              "url": "https://t.co/KJZP02YNH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099448101199401287",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099447777181024256"
+          },
+          {
+            "media_key": "3_2099447777143160832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1559,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幽如默，真以为自己拍了什么旷世神作吗还出上续集了，烂大街画风又来了，最后刚赚的钱全亏完了，一点自知之明都没有 https://t.co/KJZP02YNH4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099486003799130568",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 280,
+          "like_count": 22495,
+          "listed_count": 3,
+          "media_count": 656,
+          "tweet_count": 5832
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @richelieu_ego 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "richelieu_ego"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacopJC"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "is_identity_verified": false,
+        "location": "提问箱回答发日常号👇",
+        "most_recent_tweet_id": "2099448101199401287",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1886123516204089430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390652924481527810/1759414168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15013,
+          "following_count": 1944,
+          "like_count": 26762,
+          "listed_count": 17,
+          "media_count": 6403,
+          "tweet_count": 30441
+        },
+        "url": "https://t.co/WeibacopJC",
+        "username": "zqtlovekris99",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100443659498123264",
+        "3_2100443659502227456",
+        "3_2100443659523268608",
+        "3_2100443659498029056"
+      ]
+    },
+    "author_id": "1476546742577504265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2100445612122738704",
+    "created_at": "2026-09-17T04:43:52.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100445612122738704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/trGtQlZW7z",
+          "end": 120,
+          "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+          "media_key": "3_2100443659498123264",
+          "start": 97,
+          "url": "https://t.co/trGtQlZW7z"
+        },
+        {
+          "display_url": "pic.x.com/trGtQlZW7z",
+          "end": 120,
+          "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+          "media_key": "3_2100443659502227456",
+          "start": 97,
+          "url": "https://t.co/trGtQlZW7z"
+        },
+        {
+          "display_url": "pic.x.com/trGtQlZW7z",
+          "end": 120,
+          "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+          "media_key": "3_2100443659523268608",
+          "start": 97,
+          "url": "https://t.co/trGtQlZW7z"
+        },
+        {
+          "display_url": "pic.x.com/trGtQlZW7z",
+          "end": 120,
+          "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+          "media_key": "3_2100443659498029056",
+          "start": 97,
+          "url": "https://t.co/trGtQlZW7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100445612122738704",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100443659498123264"
+      },
+      {
+        "media_key": "3_2100443659502227456"
+      },
+      {
+        "media_key": "3_2100443659523268608"
+      },
+      {
+        "media_key": "3_2100443659498029056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是手游绝密航天，野排。因为种种原因导致我们错过了最后的撤离时间。但是还剩一个丢包撤，我们没有争抢，都默认让威龙撤离了，毕竟他打的人最多。最后我和乌鲁鲁面面相觑的撤离失败了，但是比赢了还开心。 https://t.co/trGtQlZW7z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2100443659498123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZGYTMbcAAEqdz.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2100443659502227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZGYTNaEAAqBkj.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2100443659523268608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZGYTSbIAACXO5.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2100443659498029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZGYTMaAAA6s3Y.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100443659498123264",
+            "3_2100443659502227456",
+            "3_2100443659523268608",
+            "3_2100443659498029056"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2100445612122738704",
+        "created_at": "2026-09-17T04:43:52.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100445612122738704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/trGtQlZW7z",
+              "end": 120,
+              "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+              "media_key": "3_2100443659498123264",
+              "start": 97,
+              "url": "https://t.co/trGtQlZW7z"
+            },
+            {
+              "display_url": "pic.x.com/trGtQlZW7z",
+              "end": 120,
+              "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+              "media_key": "3_2100443659502227456",
+              "start": 97,
+              "url": "https://t.co/trGtQlZW7z"
+            },
+            {
+              "display_url": "pic.x.com/trGtQlZW7z",
+              "end": 120,
+              "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+              "media_key": "3_2100443659523268608",
+              "start": 97,
+              "url": "https://t.co/trGtQlZW7z"
+            },
+            {
+              "display_url": "pic.x.com/trGtQlZW7z",
+              "end": 120,
+              "expanded_url": "https://x.com/luoshuyao/status/2100445612122738704/photo/1",
+              "media_key": "3_2100443659498029056",
+              "start": 97,
+              "url": "https://t.co/trGtQlZW7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100445612122738704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100443659498123264"
+          },
+          {
+            "media_key": "3_2100443659502227456"
+          },
+          {
+            "media_key": "3_2100443659523268608"
+          },
+          {
+            "media_key": "3_2100443659498029056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是手游绝密航天，野排。因为种种原因导致我们错过了最后的撤离时间。但是还剩一个丢包撤，我们没有争抢，都默认让威龙撤离了，毕竟他打的人最多。最后我和乌鲁鲁面面相觑的撤离失败了，但是比赢了还开心。 https://t.co/trGtQlZW7z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100445612122738704",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 274,
+          "like_count": 22782,
+          "listed_count": 3,
+          "media_count": 686,
+          "tweet_count": 5993
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
